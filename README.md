@@ -1,4 +1,4 @@
-Documentation for Tool used in "Learning to Reweight Terms with Distributional Representations"
+# Code for "Learning to Reweight Terms with Distributional Representations"
 
   Guoqing Zheng, 2015
   ** Please report questions and bugs to gzheng@cs.cmu.edu **
