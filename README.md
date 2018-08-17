@@ -26,7 +26,7 @@
    *** Before running the tools, make sure to modify the variables for
    dependency tools and paths in Constants.py. ***
 
-   See detailed comments in Constnts.py for the switches;
+   See detailed comments in Constants.py for the switches;
 
    We provide info processed TREC queries from ROBUST04, WT10G, GOV2
    and CLUEWEB09B, distributed under the following directories:
