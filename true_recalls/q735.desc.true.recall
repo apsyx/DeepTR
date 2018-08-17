@@ -1,0 +1,19 @@
+1.17105 #condition	condition	735
+164 #afghanistan	Afghan	735
+164 #women	women	735
+1.26027 #better	better	735
+9.3125 #new	new	735
+10.7857 #govern	government	735
+4.89286 #taliban	Taliban	735
+0.03125 ##1(condition afghanistan)	#1(condition Afghan)	735
+4.5 ##1(afghanistan women)	#1(Afghan women)	735
+0.0122699 ##1(women better)	#1(women better)	735
+0.00609756 ##1(better new)	#1(better new)	735
+0.240601 ##1(new govern)	#1(new government)	735
+0.00609756 ##1(govern taliban)	#1(government Taliban)	735
+0.410256 ##uw8(condition afghanistan)	#uw8(condition Afghan)	735
+26.5 ##uw8(afghanistan women)	#uw8(Afghan women)	735
+0.122449 ##uw8(women better)	#uw8(women better)	735
+0.0377358 ##uw8(better new)	#uw8(better new)	735
+0.473214 ##uw8(new govern)	#uw8(new government)	735
+0.32 ##uw8(govern taliban)	#uw8(government Taliban)	735

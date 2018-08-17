@@ -1,0 +1,28 @@
+0.159664 #known	known	415
+6.26316 #drug	drug	415
+0.682927 #trafficking	trafficking	415
+0.623529 #golden	Golden	415
+0.623529 #triangle	Triangle	415
+1.60377 #area	area	415
+5 #burma	Burma	415
+2.53846 #thailand	Thailand	415
+0.550562 #laos	Laos	415
+0.586207 #meet	meet	415
+0.00729927 ##1(known drug)	#1(known drug)	415
+0.38 ##1(drug trafficking)	#1(drug trafficking)	415
+0.00729927 ##1(trafficking golden)	#1(trafficking Golden)	415
+0.623529 ##1(golden triangle)	#1(Golden Triangle)	415
+0.0222222 ##1(triangle area)	#1(Triangle area)	415
+0.00729927 ##1(area burma)	#1(area Burma)	415
+0.15 ##1(burma thailand)	#1(Burma Thailand)	415
+0.0697674 ##1(thailand laos)	#1(Thailand Laos)	415
+0.0222222 ##1(laos meet)	#1(Laos meet)	415
+0.0222222 ##uw8(known drug)	#uw8(known drug)	415
+0.550562 ##uw8(drug trafficking)	#uw8(drug trafficking)	415
+0.00729927 ##uw8(trafficking golden)	#uw8(trafficking Golden)	415
+0.623529 ##uw8(golden triangle)	#uw8(Golden Triangle)	415
+0.104 ##uw8(triangle area)	#uw8(Triangle area)	415
+0.159664 ##uw8(area burma)	#uw8(area Burma)	415
+1.02941 ##uw8(burma thailand)	#uw8(Burma Thailand)	415
+0.314286 ##uw8(thailand laos)	#uw8(Thailand Laos)	415
+0.0866142 ##uw8(laos meet)	#uw8(Laos meet)	415

@@ -1,0 +1,13 @@
+18 #hotel	hotels	2039
+2.8 #near	near	2039
+18 #disneyland	Disneyland	2039
+8.5 #anaheim	Anaheim	2039
+5.33333 #california	California	2039
+1.11111 ##1(hotel near)	#1(hotels near)	2039
+0.9 ##1(near disneyland)	#1(near Disneyland)	2039
+0.461538 ##1(disneyland anaheim)	#1(Disneyland Anaheim)	2039
+0.727273 ##1(anaheim california)	#1(Anaheim California)	2039
+1.71429 ##uw8(hotel near)	#uw8(hotels near)	2039
+1.375 ##uw8(near disneyland)	#uw8(near Disneyland)	2039
+8.5 ##uw8(disneyland anaheim)	#uw8(Disneyland Anaheim)	2039
+1.375 ##uw8(anaheim california)	#uw8(Anaheim California)	2039

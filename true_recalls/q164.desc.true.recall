@@ -1,0 +1,13 @@
+32.6667 #generic	Generic	164
+100 #drug	Drugs	164
+0.16092 #illegal	Illegal	164
+0.134831 #activity	Activities	164
+1.14894 #manufacture	Manufacturers	164
+5.3125 ##1(generic drug)	#1(Generic Drugs)	164
+0.01 ##1(drug illegal)	#1(Drugs Illegal)	164
+0.0306122 ##1(illegal activity)	#1(Illegal Activities)	164
+0.01 ##1(activity manufacture)	#1(Activities Manufacturers)	164
+10.2222 ##uw8(generic drug)	#uw8(Generic Drugs)	164
+0.0744681 ##uw8(drug illegal)	#uw8(Drugs Illegal)	164
+0.0306122 ##uw8(illegal activity)	#uw8(Illegal Activities)	164
+0.01 ##uw8(activity manufacture)	#uw8(Activities Manufacturers)	164

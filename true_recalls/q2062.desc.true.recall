@@ -1,0 +1,16 @@
+5.77778 #custom	Customs	2062
+60.0001 #border	Border	2062
+60.0001 #patrol	Patrol	2062
+14.25 #texas	Texas	2062
+60.0001 #border	border	2062
+14.25 #mexico	Mexico	2062
+0.0166667 ##1(custom border)	#1(Customs Border)	2062
+19.3333 ##1(border patrol)	#1(Border Patrol)	2062
+0.0166667 ##1(patrol texas)	#1(Patrol Texas)	2062
+0.150943 ##1(texas border)	#1(Texas border)	2062
+1.25926 ##1(border mexico)	#1(border Mexico)	2062
+3.35714 ##uw8(custom border)	#uw8(Customs Border)	2062
+60.0001 ##uw8(border patrol)	#uw8(Border Patrol)	2062
+0.418605 ##uw8(patrol texas)	#uw8(Patrol Texas)	2062
+7.71429 ##uw8(texas border)	#uw8(Texas border)	2062
+9.16667 ##uw8(border mexico)	#uw8(border Mexico)	2062

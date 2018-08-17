@@ -1,0 +1,16 @@
+0.5 #look	Looking	2120
+0.5 #information	information	2120
+2 #watch	watch	2120
+2 #television	television	2120
+0.5 #programming	programming	2120
+2 #compute	computer	2120
+0.5 ##1(look information)	#1(Looking information)	2120
+0.5 ##1(information watch)	#1(information watch)	2120
+2 ##1(watch television)	#1(watch television)	2120
+0.5 ##1(television programming)	#1(television programming)	2120
+0.5 ##1(programming compute)	#1(programming computer)	2120
+0.5 ##uw8(look information)	#uw8(Looking information)	2120
+0.5 ##uw8(information watch)	#uw8(information watch)	2120
+2 ##uw8(watch television)	#uw8(watch television)	2120
+0.5 ##uw8(television programming)	#uw8(television programming)	2120
+0.5 ##uw8(programming compute)	#uw8(programming computer)	2120

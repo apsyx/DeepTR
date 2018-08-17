@@ -1,0 +1,16 @@
+movies
+television
+programs
+Jennifer
+Aniston
+appeared
+#1(movies television)
+#1(television programs)
+#1(programs Jennifer)
+#1(Jennifer Aniston)
+#1(Aniston appeared)
+#uw8(movies television)
+#uw8(television programs)
+#uw8(programs Jennifer)
+#uw8(Jennifer Aniston)
+#uw8(Aniston appeared)

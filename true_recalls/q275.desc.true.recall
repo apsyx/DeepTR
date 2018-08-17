@@ -1,0 +1,28 @@
+0.5 #evidence	Evidence	275
+0.3125 #indicate	indicating	275
+0.235294 #herb	herbal	275
+2.5 #food	food	275
+4.25 #supplement	supplements	275
+0.105263 #nature	nature	275
+2 #product	products	275
+0.909091 #cause	caused	275
+0.235294 #harm	harm	275
+0.615385 #human	humans	275
+0.05 ##1(evidence indicate)	#1(Evidence indicating)	275
+0.05 ##1(indicate herb)	#1(indicating herbal)	275
+0.05 ##1(herb food)	#1(herbal food)	275
+0.166667 ##1(food supplement)	#1(food supplements)	275
+0.05 ##1(supplement nature)	#1(supplements nature)	275
+0.05 ##1(nature product)	#1(nature products)	275
+0.05 ##1(product cause)	#1(products caused)	275
+0.05 ##1(cause harm)	#1(caused harm)	275
+0.05 ##1(harm human)	#1(harm humans)	275
+0.05 ##uw8(evidence indicate)	#uw8(Evidence indicating)	275
+0.05 ##uw8(indicate herb)	#uw8(indicating herbal)	275
+0.05 ##uw8(herb food)	#uw8(herbal food)	275
+0.3125 ##uw8(food supplement)	#uw8(food supplements)	275
+0.05 ##uw8(supplement nature)	#uw8(supplements nature)	275
+0.05 ##uw8(nature product)	#uw8(nature products)	275
+0.166667 ##uw8(product cause)	#uw8(products caused)	275
+0.05 ##uw8(cause harm)	#uw8(caused harm)	275
+0.05 ##uw8(harm human)	#uw8(harm humans)	275

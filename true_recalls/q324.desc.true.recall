@@ -1,0 +1,13 @@
+0.0516129 #define	Define	324
+80.5002 #argentina	Argentine	324
+6.7619 #britain	British	324
+0.468468 #international	international	324
+0.646465 #relate	relations	324
+0.00617284 ##1(define argentina)	#1(Define Argentine)	324
+0.124138 ##1(argentina britain)	#1(Argentine British)	324
+0.00617284 ##1(britain international)	#1(British international)	324
+0.0251572 ##1(international relate)	#1(international relations)	324
+0.0124224 ##uw8(define argentina)	#uw8(Define Argentine)	324
+1.29577 ##uw8(argentina britain)	#uw8(Argentine British)	324
+0.01875 ##uw8(britain international)	#uw8(British international)	324
+0.0382166 ##uw8(international relate)	#uw8(international relations)	324

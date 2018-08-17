@@ -1,0 +1,10 @@
+38 #compute	computers	649
+1.29412 #infect	infected	649
+38 #compute	computer	649
+18.5 #virus	viruses	649
+0.0540541 ##1(compute infect)	#1(computers infected)	649
+0.258065 ##1(infect compute)	#1(infected computer)	649
+1.29412 ##1(compute virus)	#1(computer viruses)	649
+0.857143 ##uw8(compute infect)	#uw8(computers infected)	649
+0.857143 ##uw8(infect compute)	#uw8(infected computer)	649
+2.54545 ##uw8(compute virus)	#uw8(computer viruses)	649

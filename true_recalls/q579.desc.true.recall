@@ -1,0 +1,13 @@
+0.125 #extensive	extensive	579
+0.285714 #fresh	fresh	579
+1.25 #drink	drinking	579
+8 #water	water	579
+1.25 #resource	resources	579
+0.125 ##1(extensive fresh)	#1(extensive fresh)	579
+0.125 ##1(fresh drink)	#1(fresh drinking)	579
+1.25 ##1(drink water)	#1(drinking water)	579
+1.25 ##1(water resource)	#1(water resources)	579
+0.125 ##uw8(extensive fresh)	#uw8(extensive fresh)	579
+0.125 ##uw8(fresh drink)	#uw8(fresh drinking)	579
+1.25 ##uw8(drink water)	#uw8(drinking water)	579
+1.25 ##uw8(water resource)	#uw8(water resources)	579

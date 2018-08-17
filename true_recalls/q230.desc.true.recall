@@ -1,0 +1,28 @@
+0.26087 #automobile	automobile	230
+0.641509 #industry	industry	230
+1.28947 #make	making	230
+0.0235294 #honest	honest	230
+0.403226 #effort	effort	230
+2.625 #develop	develop	230
+0.77551 #produce	produce	230
+20.75 #electric	electric	230
+2.22222 #power	powered	230
+0.26087 #automobile	automobile	230
+0.0357143 ##1(automobile industry)	#1(automobile industry)	230
+0.0116279 ##1(industry make)	#1(industry making)	230
+0.0116279 ##1(make honest)	#1(making honest)	230
+0.0116279 ##1(honest effort)	#1(honest effort)	230
+0.0116279 ##1(effort develop)	#1(effort develop)	230
+0.0116279 ##1(develop produce)	#1(develop produce)	230
+0.0875 ##1(produce electric)	#1(produce electric)	230
+0.77551 ##1(electric power)	#1(electric powered)	230
+0.0357143 ##1(power automobile)	#1(powered automobile)	230
+0.0357143 ##uw8(automobile industry)	#uw8(automobile industry)	230
+0.0481928 ##uw8(industry make)	#uw8(industry making)	230
+0.0116279 ##uw8(make honest)	#uw8(making honest)	230
+0.0116279 ##uw8(honest effort)	#uw8(honest effort)	230
+0.115385 ##uw8(effort develop)	#uw8(effort develop)	230
+0.0235294 ##uw8(develop produce)	#uw8(develop produce)	230
+0.318182 ##uw8(produce electric)	#uw8(produce electric)	230
+1.23077 ##uw8(electric power)	#uw8(electric powered)	230
+0.0357143 ##uw8(power automobile)	#uw8(powered automobile)	230

@@ -1,0 +1,25 @@
+0.347368 #feature	features	823
+63 #service	services	823
+127 #provide	provided	823
+63 #continue	continuing	823
+127 #care	care	823
+31 #retire	retirement	823
+127 #commune	communities	823
+2.76471 #ccrc	CCRC	823
+1.24561 #s	s	823
+0.015873 ##1(feature service)	#1(features services)	823
+0.910448 ##1(service provide)	#1(services provided)	823
+0.0666667 ##1(provide continue)	#1(provided continuing)	823
+41.6667 ##1(continue care)	#1(continuing care)	823
+31 ##1(care retire)	#1(care retirement)	823
+31 ##1(retire commune)	#1(retirement communities)	823
+1.66667 ##1(commune ccrc)	#1(communities CCRC)	823
+0.015873 ##1(ccrc s)	#1(CCRC s)	823
+0.0666667 ##uw8(feature service)	#uw8(features services)	823
+6.52941 ##uw8(service provide)	#uw8(services provided)	823
+1.41509 ##uw8(provide continue)	#uw8(provided continuing)	823
+41.6667 ##uw8(continue care)	#uw8(continuing care)	823
+31 ##uw8(care retire)	#uw8(care retirement)	823
+31 ##uw8(retire commune)	#uw8(retirement communities)	823
+2.36842 ##uw8(commune ccrc)	#uw8(communities CCRC)	823
+0.103448 ##uw8(ccrc s)	#uw8(CCRC s)	823

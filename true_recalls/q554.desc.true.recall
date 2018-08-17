@@ -1,0 +1,13 @@
+2.6875 #find	find	554
+1.18519 #apply	apply	554
+2.6875 #mortgage	mortgages	554
+13.75 #buy	buy	554
+28.5 #home	home	554
+0.0172414 ##1(find apply)	#1(find apply)	554
+0.0172414 ##1(apply mortgage)	#1(apply mortgages)	554
+0.0172414 ##1(mortgage buy)	#1(mortgages buy)	554
+0.113208 ##1(buy home)	#1(buy home)	554
+0.0350877 ##uw8(find apply)	#uw8(find apply)	554
+0.156863 ##uw8(apply mortgage)	#uw8(apply mortgages)	554
+0.552632 ##uw8(mortgage buy)	#uw8(mortgages buy)	554
+7.42857 ##uw8(buy home)	#uw8(buy home)	554

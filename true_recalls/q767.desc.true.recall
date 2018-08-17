@@ -1,0 +1,10 @@
+21.4783 #require	requirements	767
+516.002 #pharmacist	pharmacist	767
+2.00581 #s	s	767
+102.4 #license	license	767
+0.126362 ##1(require pharmacist)	#1(requirements pharmacist)	767
+0.123913 ##1(pharmacist s)	#1(pharmacist s)	767
+0.116631 ##1(s license)	#1(s license)	767
+2.09581 ##uw8(require pharmacist)	#uw8(requirements pharmacist)	767
+0.342857 ##uw8(pharmacist s)	#uw8(pharmacist s)	767
+0.371353 ##uw8(s license)	#uw8(s license)	767

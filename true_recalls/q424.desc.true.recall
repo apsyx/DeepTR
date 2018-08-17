@@ -1,0 +1,25 @@
+0.291045 #give	Give	424
+0.145695 #example	examples	424
+0.184932 #allege	alleged	424
+18.2222 #suicide	suicides	424
+0.0236686 #arouse	aroused	424
+0.0880503 #suspicion	suspicion	424
+2.53061 #death	death	424
+0.116129 #actual	actually	424
+1.1625 #murder	murder	424
+0.00581395 ##1(give example)	#1(Give examples)	424
+0.00581395 ##1(example allege)	#1(examples alleged)	424
+0.00581395 ##1(allege suicide)	#1(alleged suicides)	424
+0.00581395 ##1(suicide arouse)	#1(suicides aroused)	424
+0.00581395 ##1(arouse suspicion)	#1(aroused suspicion)	424
+0.00581395 ##1(suspicion death)	#1(suspicion death)	424
+0.00581395 ##1(death actual)	#1(death actually)	424
+0.0116959 ##1(actual murder)	#1(actually murder)	424
+0.0176471 ##uw8(give example)	#uw8(Give examples)	424
+0.00581395 ##uw8(example allege)	#uw8(examples alleged)	424
+0.0116959 ##uw8(allege suicide)	#uw8(alleged suicides)	424
+0.00581395 ##uw8(suicide arouse)	#uw8(suicides aroused)	424
+0.00581395 ##uw8(arouse suspicion)	#uw8(aroused suspicion)	424
+0.0116959 ##uw8(suspicion death)	#uw8(suspicion death)	424
+0.0176471 ##uw8(death actual)	#uw8(death actually)	424
+0.0176471 ##uw8(actual murder)	#uw8(actually murder)	424

@@ -1,0 +1,25 @@
+4.33333 #patient	patients	487
+0.0666667 #undergone	undergone	487
+0.142857 #successful	successful	487
+15 #angioplasty	angioplasty	487
+3 #procedure	procedure	487
+1.66667 #require	require	487
+1.28571 #repeat	repeat	487
+0.6 #s	s	487
+15 #angioplasty	angioplasty	487
+0.0666667 ##1(patient undergone)	#1(patients undergone)	487
+0.0666667 ##1(undergone successful)	#1(undergone successful)	487
+0.0666667 ##1(successful angioplasty)	#1(successful angioplasty)	487
+0.142857 ##1(angioplasty procedure)	#1(angioplasty procedure)	487
+0.0666667 ##1(procedure require)	#1(procedure require)	487
+0.142857 ##1(require repeat)	#1(require repeat)	487
+0.0666667 ##1(repeat s)	#1(repeat s)	487
+0.0666667 ##1(s angioplasty)	#1(s angioplasty)	487
+0.0666667 ##uw8(patient undergone)	#uw8(patients undergone)	487
+0.0666667 ##uw8(undergone successful)	#uw8(undergone successful)	487
+0.0666667 ##uw8(successful angioplasty)	#uw8(successful angioplasty)	487
+0.6 ##uw8(angioplasty procedure)	#uw8(angioplasty procedure)	487
+0.230769 ##uw8(procedure require)	#uw8(procedure require)	487
+0.333333 ##uw8(require repeat)	#uw8(require repeat)	487
+0.0666667 ##uw8(repeat s)	#uw8(repeat s)	487
+0.142857 ##uw8(s angioplasty)	#uw8(s angioplasty)	487

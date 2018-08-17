@@ -1,0 +1,22 @@
+8 #attention	Attention	655
+3.5 #deficit	Deficit	655
+3.5 #disorder	Disorder	655
+0.8 #add	ADD	655
+1.25 #diagnose	diagnosed	655
+2 #treat	treated	655
+0.8 #young	young	655
+3.5 #children	children	655
+3.5 ##1(attention deficit)	#1(Attention Deficit)	655
+0.8 ##1(deficit disorder)	#1(Deficit Disorder)	655
+0.285714 ##1(disorder add)	#1(Disorder ADD)	655
+0.125 ##1(add diagnose)	#1(ADD diagnosed)	655
+0.125 ##1(diagnose treat)	#1(diagnosed treated)	655
+0.125 ##1(treat young)	#1(treated young)	655
+0.285714 ##1(young children)	#1(young children)	655
+3.5 ##uw8(attention deficit)	#uw8(Attention Deficit)	655
+3.5 ##uw8(deficit disorder)	#uw8(Deficit Disorder)	655
+0.285714 ##uw8(disorder add)	#uw8(Disorder ADD)	655
+0.285714 ##uw8(add diagnose)	#uw8(ADD diagnosed)	655
+0.285714 ##uw8(diagnose treat)	#uw8(diagnosed treated)	655
+0.125 ##uw8(treat young)	#uw8(treated young)	655
+0.285714 ##uw8(young children)	#uw8(young children)	655

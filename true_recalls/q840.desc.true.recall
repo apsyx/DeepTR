@@ -1,0 +1,13 @@
+0.179487 #give	Give	840
+0.0823529 #definition	definition	840
+0.957447 #locate	locations	840
+0.226667 #characteristic	characteristics	840
+91 #geyser	geysers	840
+0.010989 ##1(give definition)	#1(Give definition)	840
+0.010989 ##1(definition locate)	#1(definition locations)	840
+0.010989 ##1(locate characteristic)	#1(locations characteristics)	840
+0.0222222 ##1(characteristic geyser)	#1(characteristics geysers)	840
+0.0222222 ##uw8(give definition)	#uw8(Give definition)	840
+0.010989 ##uw8(definition locate)	#uw8(definition locations)	840
+0.010989 ##uw8(locate characteristic)	#uw8(locations characteristics)	840
+0.0454545 ##uw8(characteristic geyser)	#uw8(characteristics geysers)	840

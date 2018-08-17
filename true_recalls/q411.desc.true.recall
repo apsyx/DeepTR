@@ -1,0 +1,22 @@
+0.8125 #shipwreck	shipwreck	411
+0.526316 #salvage	salvaging	411
+0.115385 #recovery	recovery	411
+0.16 #attempt	attempted	411
+0.115385 #recovery	recovery	411
+0.45 #treasure	treasure	411
+0.26087 #sunken	sunken	411
+1.9 #ship	ships	411
+0.0357143 ##1(shipwreck salvage)	#1(shipwreck salvaging)	411
+0.0357143 ##1(salvage recovery)	#1(salvaging recovery)	411
+0.0357143 ##1(recovery attempt)	#1(recovery attempted)	411
+0.0357143 ##1(attempt recovery)	#1(attempted recovery)	411
+0.0357143 ##1(recovery treasure)	#1(recovery treasure)	411
+0.0357143 ##1(treasure sunken)	#1(treasure sunken)	411
+0.115385 ##1(sunken ship)	#1(sunken ships)	411
+0.0357143 ##uw8(shipwreck salvage)	#uw8(shipwreck salvaging)	411
+0.0357143 ##uw8(salvage recovery)	#uw8(salvaging recovery)	411
+0.0357143 ##uw8(recovery attempt)	#uw8(recovery attempted)	411
+0.0357143 ##uw8(attempt recovery)	#uw8(attempted recovery)	411
+0.0740741 ##uw8(recovery treasure)	#uw8(recovery treasure)	411
+0.0740741 ##uw8(treasure sunken)	#uw8(treasure sunken)	411
+0.16 ##uw8(sunken ship)	#uw8(sunken ships)	411

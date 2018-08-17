@@ -1,0 +1,16 @@
+0.606061 #build	building	384
+25.5 #space	space	384
+5.625 #station	station	384
+0.0392157 #intent	intent	384
+0.06 #colonize	colonizing	384
+0.709677 #moon	moon	384
+0.0192308 ##1(build space)	#1(building space)	384
+2.78571 ##1(space station)	#1(space station)	384
+0.0192308 ##1(station intent)	#1(station intent)	384
+0.0192308 ##1(intent colonize)	#1(intent colonizing)	384
+0.0192308 ##1(colonize moon)	#1(colonizing moon)	384
+0.177778 ##uw8(build space)	#uw8(building space)	384
+3.07692 ##uw8(space station)	#uw8(space station)	384
+0.0192308 ##uw8(station intent)	#uw8(station intent)	384
+0.0192308 ##uw8(intent colonize)	#uw8(intent colonizing)	384
+0.0392157 ##uw8(colonize moon)	#uw8(colonizing moon)	384

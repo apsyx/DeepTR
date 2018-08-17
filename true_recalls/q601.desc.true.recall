@@ -1,0 +1,22 @@
+0.4 #effect	effect	601
+6 #turkey	Turkish	601
+6 #river	river	601
+1.33333 #control	control	601
+2.5 #project	projects	601
+6 #iraq	Iraqi	601
+6 #water	water	601
+1.33333 #resource	resources	601
+0.166667 ##1(effect turkey)	#1(effect Turkish)	601
+0.166667 ##1(turkey river)	#1(Turkish river)	601
+0.166667 ##1(river control)	#1(river control)	601
+0.166667 ##1(control project)	#1(control projects)	601
+0.4 ##1(project iraq)	#1(projects Iraqi)	601
+0.75 ##1(iraq water)	#1(Iraqi water)	601
+0.75 ##1(water resource)	#1(water resources)	601
+0.4 ##uw8(effect turkey)	#uw8(effect Turkish)	601
+0.4 ##uw8(turkey river)	#uw8(Turkish river)	601
+0.4 ##uw8(river control)	#uw8(river control)	601
+0.166667 ##uw8(control project)	#uw8(control projects)	601
+0.75 ##uw8(project iraq)	#uw8(projects Iraqi)	601
+2.5 ##uw8(iraq water)	#uw8(Iraqi water)	601
+1.33333 ##uw8(water resource)	#uw8(water resources)	601

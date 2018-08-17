@@ -1,0 +1,16 @@
+5.5 #ritz	Ritz	2101
+5.5 #carlton	Carlton	2101
+5.5 #resort	resort	2101
+12 #lake	Lake	2101
+5.5 #las	Las	2101
+5.5 #vega	Vegas	2101
+5.5 ##1(ritz carlton)	#1(Ritz Carlton)	2101
+0.0833333 ##1(carlton resort)	#1(Carlton resort)	2101
+0.3 ##1(resort lake)	#1(resort Lake)	2101
+5.5 ##1(lake las)	#1(Lake Las)	2101
+5.5 ##1(las vega)	#1(Las Vegas)	2101
+5.5 ##uw8(ritz carlton)	#uw8(Ritz Carlton)	2101
+2.25 ##uw8(carlton resort)	#uw8(Carlton resort)	2101
+5.5 ##uw8(resort lake)	#uw8(resort Lake)	2101
+5.5 ##uw8(lake las)	#uw8(Lake Las)	2101
+5.5 ##uw8(las vega)	#uw8(Las Vegas)	2101

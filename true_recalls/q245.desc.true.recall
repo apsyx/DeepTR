@@ -1,0 +1,10 @@
+0.153846 #trend	trends	245
+2 #develop	developments	245
+3.09091 #retire	retirement	245
+2.21429 #commune	communities	245
+0.0227273 ##1(trend develop)	#1(trends developments)	245
+0.0227273 ##1(develop retire)	#1(developments retirement)	245
+0.666667 ##1(retire commune)	#1(retirement communities)	245
+0.0465116 ##uw8(trend develop)	#uw8(trends developments)	245
+0.285714 ##uw8(develop retire)	#uw8(developments retirement)	245
+0.956522 ##uw8(retire commune)	#uw8(retirement communities)	245

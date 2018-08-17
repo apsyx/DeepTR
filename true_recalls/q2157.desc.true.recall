@@ -1,0 +1,7 @@
+7.5 #list	listing	2157
+50 #beatle	Beatles	2157
+16 #song	songs	2157
+0.02 ##1(list beatle)	#1(listing Beatles)	2157
+7.5 ##1(beatle song)	#1(Beatles songs)	2157
+6.28571 ##uw8(list beatle)	#uw8(listing Beatles)	2157
+7.5 ##uw8(beatle song)	#uw8(Beatles songs)	2157

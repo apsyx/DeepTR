@@ -1,0 +1,22 @@
+1.28571 #regulate	regulations	317
+0.6 #pass	passed	317
+0.230769 #fcc	FCC	317
+0.777778 #ban	banning	317
+3 #junk	junk	317
+2.2 #facsimile	facsimile	317
+4.33333 #fax	fax	317
+0.777778 #effect	effective	317
+0.0666667 ##1(regulate pass)	#1(regulations passed)	317
+0.0666667 ##1(pass fcc)	#1(passed FCC)	317
+0.0666667 ##1(fcc ban)	#1(FCC banning)	317
+0.142857 ##1(ban junk)	#1(banning junk)	317
+0.142857 ##1(junk facsimile)	#1(junk facsimile)	317
+0.0666667 ##1(facsimile fax)	#1(facsimile fax)	317
+0.0666667 ##1(fax effect)	#1(fax effective)	317
+0.0666667 ##uw8(regulate pass)	#uw8(regulations passed)	317
+0.0666667 ##uw8(pass fcc)	#uw8(passed FCC)	317
+0.0666667 ##uw8(fcc ban)	#uw8(FCC banning)	317
+0.230769 ##uw8(ban junk)	#uw8(banning junk)	317
+0.230769 ##uw8(junk facsimile)	#uw8(junk facsimile)	317
+0.230769 ##uw8(facsimile fax)	#uw8(facsimile fax)	317
+0.142857 ##uw8(fax effect)	#uw8(fax effective)	317

@@ -1,0 +1,31 @@
+1.39362 #organize	organizations	301
+0.147959 #participate	participate	301
+1.26131 #international	international	301
+1.05479 #criminal	criminal	301
+0.704545 #activity	activity	301
+0.704545 #activity	activity	301
+0.300578 #possible	possible	301
+0.0948905 #collaborate	collaborating	301
+1.39362 #organize	organizations	301
+1.57143 #country	countries	301
+0.737452 #involve	involved	301
+0.00222717 ##1(organize participate)	#1(organizations participate)	301
+0.00222717 ##1(participate international)	#1(participate international)	301
+0.0465116 ##1(international criminal)	#1(international criminal)	301
+0.139241 ##1(criminal activity)	#1(criminal activity)	301
+0.00222717 ##1(activity activity)	#1(activity activity)	301
+0.00222717 ##1(activity possible)	#1(activity possible)	301
+0.00222717 ##1(possible collaborate)	#1(possible collaborating)	301
+0.00222717 ##1(collaborate organize)	#1(collaborating organizations)	301
+0.00222717 ##1(organize country)	#1(organizations countries)	301
+0.00671141 ##1(country involve)	#1(countries involved)	301
+0.00671141 ##uw8(organize participate)	#uw8(organizations participate)	301
+0.0227273 ##uw8(participate international)	#uw8(participate international)	301
+0.0791367 ##uw8(international criminal)	#uw8(international criminal)	301
+0.190476 ##uw8(criminal activity)	#uw8(criminal activity)	301
+0.704545 ##uw8(activity activity)	#uw8(activity activity)	301
+0.0204082 ##uw8(activity possible)	#uw8(activity possible)	301
+0.00446429 ##uw8(possible collaborate)	#uw8(possible collaborating)	301
+0.00671141 ##uw8(collaborate organize)	#uw8(collaborating organizations)	301
+0.0843374 ##uw8(organize country)	#uw8(organizations countries)	301
+0.0204082 ##uw8(country involve)	#uw8(countries involved)	301

@@ -1,0 +1,13 @@
+0.159091 #growth	growth	372
+0.133333 #native	Native	372
+0.545455 #america	American	372
+2.64286 #casino	casino	372
+2 #gamble	gambling	372
+0.02 ##1(growth native)	#1(growth Native)	372
+0.108696 ##1(native america)	#1(Native American)	372
+0.02 ##1(america casino)	#1(American casino)	372
+0.378378 ##1(casino gamble)	#1(casino gambling)	372
+0.02 ##uw8(growth native)	#uw8(growth Native)	372
+0.108696 ##uw8(native america)	#uw8(Native American)	372
+0.0625 ##uw8(america casino)	#uw8(American casino)	372
+0.59375 ##uw8(casino gamble)	#uw8(casino gambling)	372

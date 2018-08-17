@@ -1,0 +1,25 @@
+0.060241 #extent	extent	271
+28.3333 #solar	solar	271
+1.93333 #power	power	271
+0.375 #alternate	alternative	271
+0.128205 #fossil	fossil	271
+0.396825 #fuel	fuels	271
+0.113924 #various	various	271
+0.375 #country	countries	271
+0.047619 #worldwide	worldwide	271
+0.0114943 ##1(extent solar)	#1(extent solar)	271
+0.833333 ##1(solar power)	#1(solar power)	271
+0.0232558 ##1(power alternate)	#1(power alternative)	271
+0.0114943 ##1(alternate fossil)	#1(alternative fossil)	271
+0.113924 ##1(fossil fuel)	#1(fossil fuels)	271
+0.0114943 ##1(fuel various)	#1(fuels various)	271
+0.0114943 ##1(various country)	#1(various countries)	271
+0.0114943 ##1(country worldwide)	#1(countries worldwide)	271
+0.0114943 ##uw8(extent solar)	#uw8(extent solar)	271
+1.09524 ##uw8(solar power)	#uw8(solar power)	271
+0.060241 ##uw8(power alternate)	#uw8(power alternative)	271
+0.0114943 ##uw8(alternate fossil)	#uw8(alternative fossil)	271
+0.113924 ##uw8(fossil fuel)	#uw8(fossil fuels)	271
+0.0114943 ##uw8(fuel various)	#uw8(fuels various)	271
+0.0114943 ##uw8(various country)	#uw8(various countries)	271
+0.0114943 ##uw8(country worldwide)	#uw8(countries worldwide)	271

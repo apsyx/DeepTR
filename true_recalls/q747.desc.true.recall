@@ -1,0 +1,13 @@
+1.58108 #control	control	747
+0.458015 #oversight	oversight	747
+94.4998 #compute	computer	747
+12.6429 #public	public	747
+190 #library	libraries	747
+0.00526316 ##1(control oversight)	#1(control oversight)	747
+0.00526316 ##1(oversight compute)	#1(oversight computer)	747
+0.0213904 ##1(compute public)	#1(computer public)	747
+1.93846 ##1(public library)	#1(public libraries)	747
+0.00526316 ##uw8(control oversight)	#uw8(control oversight)	747
+0.0268817 ##uw8(oversight compute)	#uw8(oversight computer)	747
+1.3875 ##uw8(compute public)	#uw8(computer public)	747
+4.96875 ##uw8(public library)	#uw8(public libraries)	747

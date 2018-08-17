@@ -1,0 +1,19 @@
+0.04 #extent	extent	443
+1.81081 #govern	government	443
+0.762712 #private	private	443
+2.71429 #invest	investment	443
+0.507246 #sub	sub	443
+0.350649 #saharan	Saharan	443
+10.5556 #africa	Africa	443
+0.00970874 ##1(extent govern)	#1(extent government)	443
+0.00970874 ##1(govern private)	#1(government private)	443
+0.168539 ##1(private invest)	#1(private investment)	443
+0.00970874 ##1(invest sub)	#1(investment sub)	443
+0.350649 ##1(sub saharan)	#1(sub Saharan)	443
+0.3 ##1(saharan africa)	#1(Saharan Africa)	443
+0.0196078 ##uw8(extent govern)	#uw8(extent government)	443
+0.072165 ##uw8(govern private)	#uw8(government private)	443
+0.3 ##uw8(private invest)	#uw8(private investment)	443
+0.0612245 ##uw8(invest sub)	#uw8(investment sub)	443
+0.350649 ##uw8(sub saharan)	#uw8(sub Saharan)	443
+0.316456 ##uw8(saharan africa)	#uw8(Saharan Africa)	443

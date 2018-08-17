@@ -1,0 +1,10 @@
+17 #cause	causes	2168
+17 #lipoma	lipoma	2168
+5 #tum	tumors	2168
+0.8 #human	humans	2168
+0.2 ##1(cause lipoma)	#1(causes lipoma)	2168
+0.2 ##1(lipoma tum)	#1(lipoma tumors)	2168
+0.0588235 ##1(tum human)	#1(tumors humans)	2168
+3.5 ##uw8(cause lipoma)	#uw8(causes lipoma)	2168
+5 ##uw8(lipoma tum)	#uw8(lipoma tumors)	2168
+0.0588235 ##uw8(tum human)	#uw8(tumors humans)	2168

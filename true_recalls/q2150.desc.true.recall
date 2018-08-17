@@ -1,0 +1,16 @@
+2 #require	requirements	2150
+2 #tennessee	Tennessee	2150
+2 #highway	Highway	2150
+2 #patrol	Patrol	2150
+2 #state	State	2150
+2 #troop	Trooper	2150
+0.5 ##1(require tennessee)	#1(requirements Tennessee)	2150
+2 ##1(tennessee highway)	#1(Tennessee Highway)	2150
+2 ##1(highway patrol)	#1(Highway Patrol)	2150
+0.5 ##1(patrol state)	#1(Patrol State)	2150
+2 ##1(state troop)	#1(State Trooper)	2150
+0.5 ##uw8(require tennessee)	#uw8(requirements Tennessee)	2150
+2 ##uw8(tennessee highway)	#uw8(Tennessee Highway)	2150
+2 ##uw8(highway patrol)	#uw8(Highway Patrol)	2150
+2 ##uw8(patrol state)	#uw8(Patrol State)	2150
+2 ##uw8(state troop)	#uw8(State Trooper)	2150

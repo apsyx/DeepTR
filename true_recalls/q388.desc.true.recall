@@ -1,0 +1,28 @@
+1.03846 #organic	organic	388
+1.20833 #fertile	fertilizers	388
+2.3125 #compost	composted	388
+0.472222 #sludge	sludge	388
+0.06 #ash	ash	388
+0.709677 #vegetable	vegetable	388
+1.03846 #waste	waste	388
+0.06 #microorganism	microorganisms	388
+3.07692 #soil	soil	388
+0.06 #enhance	enhancers	388
+0.0816327 ##1(organic fertile)	#1(organic fertilizers)	388
+0.0192308 ##1(fertile compost)	#1(fertilizers composted)	388
+0.0192308 ##1(compost sludge)	#1(composted sludge)	388
+0.0192308 ##1(sludge ash)	#1(sludge ash)	388
+0.0392157 ##1(ash vegetable)	#1(ash vegetable)	388
+0.0392157 ##1(vegetable waste)	#1(vegetable waste)	388
+0.0192308 ##1(waste microorganism)	#1(waste microorganisms)	388
+0.0192308 ##1(microorganism soil)	#1(microorganisms soil)	388
+0.0192308 ##1(soil enhance)	#1(soil enhancers)	388
+0.152174 ##uw8(organic fertile)	#uw8(organic fertilizers)	388
+0.104167 ##uw8(fertile compost)	#uw8(fertilizers composted)	388
+0.12766 ##uw8(compost sludge)	#uw8(composted sludge)	388
+0.0192308 ##uw8(sludge ash)	#uw8(sludge ash)	388
+0.0392157 ##uw8(ash vegetable)	#uw8(ash vegetable)	388
+0.0816327 ##uw8(vegetable waste)	#uw8(vegetable waste)	388
+0.0392157 ##uw8(waste microorganism)	#uw8(waste microorganisms)	388
+0.0192308 ##uw8(microorganism soil)	#uw8(microorganisms soil)	388
+0.0192308 ##uw8(soil enhance)	#uw8(soil enhancers)	388

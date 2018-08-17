@@ -1,0 +1,13 @@
+10.5 #air	air	2007
+22 #travel	travel	2007
+1.09091 #airport	airports	2007
+6.66667 #airline	airline	2007
+0.642857 #company	companies	2007
+3.6 ##1(air travel)	#1(air travel)	2007
+0.0454545 ##1(travel airport)	#1(travel airports)	2007
+0.15 ##1(airport airline)	#1(airports airline)	2007
+0.0454545 ##1(airline company)	#1(airline companies)	2007
+10.5 ##uw8(air travel)	#uw8(air travel)	2007
+0.533333 ##uw8(travel airport)	#uw8(travel airports)	2007
+0.533333 ##uw8(airport airline)	#uw8(airports airline)	2007
+0.15 ##uw8(airline company)	#uw8(airline companies)	2007

@@ -1,0 +1,13 @@
+0.551724 #circumstance	circumstances	459
+3.09091 #lend	lender	459
+2.46154 #legal	legally	459
+1.25 #foreclose	foreclose	459
+14 #property	property	459
+0.0227273 ##1(circumstance lend)	#1(circumstances lender)	459
+0.0465116 ##1(lend legal)	#1(lender legally)	459
+0.0227273 ##1(legal foreclose)	#1(legally foreclose)	459
+0.0465116 ##1(foreclose property)	#1(foreclose property)	459
+0.097561 ##uw8(circumstance lend)	#uw8(circumstances lender)	459
+0.184211 ##uw8(lend legal)	#uw8(lender legally)	459
+0.0714286 ##uw8(legal foreclose)	#uw8(legally foreclose)	459
+0.5 ##uw8(foreclose property)	#uw8(foreclose property)	459

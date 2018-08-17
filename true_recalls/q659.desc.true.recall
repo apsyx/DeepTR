@@ -1,0 +1,16 @@
+2 #standard	standards	659
+8 #cruise	cruise	659
+17 #ship	ships	659
+0.636364 #health	health	659
+1 #safety	safety	659
+0.125 #maintenance	maintenance	659
+0.0588235 ##1(standard cruise)	#1(standards cruise)	659
+2.6 ##1(cruise ship)	#1(cruise ships)	659
+0.0588235 ##1(ship health)	#1(ships health)	659
+0.0588235 ##1(health safety)	#1(health safety)	659
+0.0588235 ##1(safety maintenance)	#1(safety maintenance)	659
+0.125 ##uw8(standard cruise)	#uw8(standards cruise)	659
+3.5 ##uw8(cruise ship)	#uw8(cruise ships)	659
+0.285714 ##uw8(ship health)	#uw8(ships health)	659
+0.0588235 ##uw8(health safety)	#uw8(health safety)	659
+0.0588235 ##uw8(safety maintenance)	#uw8(safety maintenance)	659

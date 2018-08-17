@@ -1,0 +1,16 @@
+11 #nuclear	nuclear	575
+7 #waste	waste	575
+3.36364 #store	stored	575
+1.08696 #transport	transported	575
+5.85714 #storage	storage	575
+11 #site	site	575
+0.454545 ##1(nuclear waste)	#1(nuclear waste)	575
+0.0434783 ##1(waste store)	#1(waste stored)	575
+0.0212766 ##1(store transport)	#1(stored transported)	575
+0.116279 ##1(transport storage)	#1(transported storage)	575
+0.297297 ##1(storage site)	#1(storage site)	575
+1.52632 ##uw8(nuclear waste)	#uw8(nuclear waste)	575
+0.655172 ##uw8(waste store)	#uw8(waste stored)	575
+0.2 ##uw8(store transport)	#uw8(stored transported)	575
+0.263158 ##uw8(transport storage)	#uw8(transported storage)	575
+0.777778 ##uw8(storage site)	#uw8(storage site)	575

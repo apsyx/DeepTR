@@ -1,0 +1,25 @@
+0.715847 #name	Name	748
+6.65854 #type	types	748
+312.998 #nuclear	nuclear	748
+312.998 #reactor	reactor	748
+33.8889 #power	power	748
+3.30137 #plant	plants	748
+15.5263 #operate	operation	748
+0.836257 #unite	United	748
+6.47619 #state	States	748
+0.00641026 ##1(name type)	#1(Name types)	748
+0.0129032 ##1(type nuclear)	#1(types nuclear)	748
+17.4706 ##1(nuclear reactor)	#1(nuclear reactor)	748
+0.129496 ##1(reactor power)	#1(reactor power)	748
+1.30882 ##1(power plant)	#1(power plants)	748
+0.302905 ##1(plant operate)	#1(plants operation)	748
+0.00319489 ##1(operate unite)	#1(operation United)	748
+0.744444 ##1(unite state)	#1(United States)	748
+0.0295082 ##uw8(name type)	#uw8(Name types)	748
+0.75419 ##uw8(type nuclear)	#uw8(types nuclear)	748
+77.5002 ##uw8(nuclear reactor)	#uw8(nuclear reactor)	748
+2.45055 ##uw8(reactor power)	#uw8(reactor power)	748
+1.47244 ##uw8(power plant)	#uw8(power plants)	748
+0.857988 ##uw8(plant operate)	#uw8(plants operation)	748
+0.129496 ##uw8(operate unite)	#uw8(operation United)	748
+0.744444 ##uw8(unite state)	#uw8(United States)	748

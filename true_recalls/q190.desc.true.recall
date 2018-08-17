@@ -1,0 +1,10 @@
+0.0785714 #instance	Instances	190
+1.32308 #fraud	Fraud	190
+0.755814 #involve	Involving	190
+20.5714 #compute	Computer	190
+0.00666667 ##1(instance fraud)	#1(Instances Fraud)	190
+0.0863309 ##1(fraud involve)	#1(Fraud Involving)	190
+0.0272109 ##1(involve compute)	#1(Involving Computer)	190
+0.0134228 ##uw8(instance fraud)	#uw8(Instances Fraud)	190
+0.126866 ##uw8(fraud involve)	#uw8(Fraud Involving)	190
+0.118519 ##uw8(involve compute)	#uw8(Involving Computer)	190

@@ -1,0 +1,19 @@
+16 #atypical	atypical	2128
+7.5 #squamous	squamous	2128
+16 #cell	cells	2128
+4.66667 #mean	mean	2128
+16 #pap	pap	2128
+7.5 #smear	smear	2128
+7.5 #test	test	2128
+7.5 ##1(atypical squamous)	#1(atypical squamous)	2128
+7.5 ##1(squamous cell)	#1(squamous cells)	2128
+0.307692 ##1(cell mean)	#1(cells mean)	2128
+0.0625 ##1(mean pap)	#1(mean pap)	2128
+4.66667 ##1(pap smear)	#1(pap smear)	2128
+0.214286 ##1(smear test)	#1(smear test)	2128
+7.5 ##uw8(atypical squamous)	#uw8(atypical squamous)	2128
+7.5 ##uw8(squamous cell)	#uw8(squamous cells)	2128
+2.4 ##uw8(cell mean)	#uw8(cells mean)	2128
+3.25 ##uw8(mean pap)	#uw8(mean pap)	2128
+4.66667 ##uw8(pap smear)	#uw8(pap smear)	2128
+3.25 ##uw8(smear test)	#uw8(smear test)	2128

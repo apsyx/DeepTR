@@ -1,0 +1,13 @@
+47 #france	French	2002
+47 #lick	Lick	2002
+11 #resort	Resort	2002
+3 #casino	Casino	2002
+15 #indiana	Indiana	2002
+47 ##1(france lick)	#1(French Lick)	2002
+11 ##1(lick resort)	#1(Lick Resort)	2002
+1.18182 ##1(resort casino)	#1(Resort Casino)	2002
+0.116279 ##1(casino indiana)	#1(Casino Indiana)	2002
+47 ##uw8(france lick)	#uw8(French Lick)	2002
+11 ##uw8(lick resort)	#uw8(Lick Resort)	2002
+2.2 ##uw8(resort casino)	#uw8(Resort Casino)	2002
+0.777778 ##uw8(casino indiana)	#uw8(Casino Indiana)	2002

@@ -1,0 +1,19 @@
+0.5 #general	general	2102
+0.5 #information	information	2102
+2 #fickle	Fickle	2102
+2 #creek	Creek	2102
+2 #farm	Farm	2102
+2 #north	North	2102
+2 #carolina	Carolina	2102
+0.5 ##1(general information)	#1(general information)	2102
+0.5 ##1(information fickle)	#1(information Fickle)	2102
+2 ##1(fickle creek)	#1(Fickle Creek)	2102
+2 ##1(creek farm)	#1(Creek Farm)	2102
+0.5 ##1(farm north)	#1(Farm North)	2102
+2 ##1(north carolina)	#1(North Carolina)	2102
+0.5 ##uw8(general information)	#uw8(general information)	2102
+0.5 ##uw8(information fickle)	#uw8(information Fickle)	2102
+2 ##uw8(fickle creek)	#uw8(Fickle Creek)	2102
+2 ##uw8(creek farm)	#uw8(Creek Farm)	2102
+0.5 ##uw8(farm north)	#uw8(Farm North)	2102
+2 ##uw8(north carolina)	#uw8(North Carolina)	2102

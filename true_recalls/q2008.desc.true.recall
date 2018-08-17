@@ -1,0 +1,19 @@
+4.8 #home	home	2008
+28 #value	values	2008
+13.5 #appraise	appraised	2008
+0.526316 #know	know	2008
+4.8 #home	home	2008
+28 #appraisal	appraisals	2008
+1.23077 #done	done	2008
+0.0740741 ##1(home value)	#1(home values)	2008
+0.0740741 ##1(value appraise)	#1(values appraised)	2008
+0.0740741 ##1(appraise know)	#1(appraised know)	2008
+0.0357143 ##1(know home)	#1(know home)	2008
+0.115385 ##1(home appraisal)	#1(home appraisals)	2008
+0.0357143 ##1(appraisal done)	#1(appraisals done)	2008
+0.208333 ##uw8(home value)	#uw8(home values)	2008
+8.66667 ##uw8(value appraise)	#uw8(values appraised)	2008
+0.208333 ##uw8(appraise know)	#uw8(appraised know)	2008
+0.0357143 ##uw8(know home)	#uw8(know home)	2008
+0.611111 ##uw8(home appraisal)	#uw8(home appraisals)	2008
+0.0740741 ##uw8(appraisal done)	#uw8(appraisals done)	2008

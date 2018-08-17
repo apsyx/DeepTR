@@ -1,0 +1,16 @@
+23 #afghanistan	Afghanistan	2081
+5 #s	s	2081
+7 #history	history	2081
+23 #govern	government	2081
+5 #religion	religion	2081
+2.42857 #culture	culture	2081
+1.18182 ##1(afghanistan s)	#1(Afghanistan s)	2081
+0.0909091 ##1(s history)	#1(s history)	2081
+0.0909091 ##1(history govern)	#1(history government)	2081
+0.0434783 ##1(govern religion)	#1(government religion)	2081
+0.0434783 ##1(religion culture)	#1(religion culture)	2081
+2.42857 ##uw8(afghanistan s)	#uw8(Afghanistan s)	2081
+0.0909091 ##uw8(s history)	#uw8(s history)	2081
+1.18182 ##uw8(history govern)	#uw8(history government)	2081
+0.0909091 ##uw8(govern religion)	#uw8(government religion)	2081
+0.411765 ##uw8(religion culture)	#uw8(religion culture)	2081

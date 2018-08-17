@@ -1,0 +1,19 @@
+9.8125 #global	global	834
+9.17647 #position	positioning	834
+16.3 #system	system	834
+37.4444 #gps	GPS	834
+3.55263 #research	research	834
+1.79032 #monitor	monitoring	834
+345 #earthquake	earthquakes	834
+6.06122 ##1(global position)	#1(global positioning)	834
+5.29091 ##1(position system)	#1(positioning system)	834
+1.62121 ##1(system gps)	#1(system GPS)	834
+0.00581395 ##1(gps research)	#1(GPS research)	834
+0.00874636 ##1(research monitor)	#1(research monitoring)	834
+0.0880503 ##1(monitor earthquake)	#1(monitoring earthquakes)	834
+6.20833 ##uw8(global position)	#uw8(global positioning)	834
+5.92 ##uw8(position system)	#uw8(positioning system)	834
+2.76087 ##uw8(system gps)	#uw8(system GPS)	834
+0.330769 ##uw8(gps research)	#uw8(GPS research)	834
+0.180887 ##uw8(research monitor)	#uw8(research monitoring)	834
+0.406504 ##uw8(monitor earthquake)	#uw8(monitoring earthquakes)	834

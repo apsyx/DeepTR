@@ -1,0 +1,16 @@
+0.202532 #biography	biographical	527
+0.0795455 #data	data	527
+0.338028 #available	available	527
+94.0001 #book	Booker	527
+94.0001 #t	T	527
+94.0001 #washington	Washington	527
+0.0106383 ##1(biography data)	#1(biographical data)	527
+0.0106383 ##1(data available)	#1(data available)	527
+0.0106383 ##1(available book)	#1(available Booker)	527
+94.0001 ##1(book t)	#1(Booker T)	527
+18 ##1(t washington)	#1(T Washington)	527
+0.0106383 ##uw8(biography data)	#uw8(biographical data)	527
+0.0106383 ##uw8(data available)	#uw8(data available)	527
+0.043956 ##uw8(available book)	#uw8(available Booker)	527
+94.0001 ##uw8(book t)	#uw8(Booker T)	527
+46.4999 ##uw8(t washington)	#uw8(T Washington)	527

@@ -1,0 +1,7 @@
+617.994 #cheese	cheese	732
+55.2728 #product	production	732
+0.319829 #carry	carried	732
+2.32796 ##1(cheese product)	#1(cheese production)	732
+0.00487013 ##1(product carry)	#1(production carried)	732
+6.19767 ##uw8(cheese product)	#uw8(cheese production)	732
+0.033389 ##uw8(product carry)	#uw8(production carried)	732

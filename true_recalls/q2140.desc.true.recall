@@ -1,0 +1,22 @@
+0.5 #demography	demographics	2140
+2 #east	East	2140
+2 #ridge	Ridge	2140
+2 #high	High	2140
+2 #school	School	2140
+2 #lick	Lick	2140
+2 #creek	Creek	2140
+2 #kentucky	Kentucky	2140
+0.5 ##1(demography east)	#1(demographics East)	2140
+2 ##1(east ridge)	#1(East Ridge)	2140
+2 ##1(ridge high)	#1(Ridge High)	2140
+2 ##1(high school)	#1(High School)	2140
+0.5 ##1(school lick)	#1(School Lick)	2140
+2 ##1(lick creek)	#1(Lick Creek)	2140
+2 ##1(creek kentucky)	#1(Creek Kentucky)	2140
+0.5 ##uw8(demography east)	#uw8(demographics East)	2140
+2 ##uw8(east ridge)	#uw8(East Ridge)	2140
+2 ##uw8(ridge high)	#uw8(Ridge High)	2140
+2 ##uw8(high school)	#uw8(High School)	2140
+2 ##uw8(school lick)	#uw8(School Lick)	2140
+2 ##uw8(lick creek)	#uw8(Lick Creek)	2140
+2 ##uw8(creek kentucky)	#uw8(Creek Kentucky)	2140

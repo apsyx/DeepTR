@@ -1,0 +1,46 @@
+0.0526316 #relevant	relevant	341
+0.142857 #document	document	341
+0.111111 #discuss	discuss	341
+0.37931 #effect	effective	341
+0.818182 #govern	government	341
+0.290323 #order	orders	341
+0.111111 #better	better	341
+0.0126582 #scrutinize	scrutinize	341
+1.58065 #passenger	passengers	341
+0.509434 #luggage	luggage	341
+0.904762 #international	international	341
+2.07692 #flight	flights	341
+0.19403 #step	step	341
+0.73913 #screen	screening	341
+0.95122 #carry	carry	341
+0.632653 #baggage	baggage	341
+0.0126582 ##1(relevant document)	#1(relevant document)	341
+0.0126582 ##1(document discuss)	#1(document discuss)	341
+0.0126582 ##1(discuss effect)	#1(discuss effective)	341
+0.0126582 ##1(effect govern)	#1(effective government)	341
+0.025641 ##1(govern order)	#1(government orders)	341
+0.0126582 ##1(order better)	#1(orders better)	341
+0.0126582 ##1(better scrutinize)	#1(better scrutinize)	341
+0.0126582 ##1(scrutinize passenger)	#1(scrutinize passengers)	341
+0.0126582 ##1(passenger luggage)	#1(passengers luggage)	341
+0.0126582 ##1(luggage international)	#1(luggage international)	341
+0.142857 ##1(international flight)	#1(international flights)	341
+0.0126582 ##1(flight step)	#1(flights step)	341
+0.0126582 ##1(step screen)	#1(step screening)	341
+0.0126582 ##1(screen carry)	#1(screening carry)	341
+0.0126582 ##1(carry baggage)	#1(carry baggage)	341
+0.0126582 ##uw8(relevant document)	#uw8(relevant document)	341
+0.0126582 ##uw8(document discuss)	#uw8(document discuss)	341
+0.0126582 ##uw8(discuss effect)	#uw8(discuss effective)	341
+0.0526316 ##uw8(effect govern)	#uw8(effective government)	341
+0.038961 ##uw8(govern order)	#uw8(government orders)	341
+0.0126582 ##uw8(order better)	#uw8(orders better)	341
+0.0126582 ##uw8(better scrutinize)	#uw8(better scrutinize)	341
+0.0126582 ##uw8(scrutinize passenger)	#uw8(scrutinize passengers)	341
+0.15942 ##uw8(passenger luggage)	#uw8(passengers luggage)	341
+0.0126582 ##uw8(luggage international)	#uw8(luggage international)	341
+0.15942 ##uw8(international flight)	#uw8(international flights)	341
+0.0126582 ##uw8(flight step)	#uw8(flights step)	341
+0.0126582 ##uw8(step screen)	#uw8(step screening)	341
+0.0526316 ##uw8(screen carry)	#uw8(screening carry)	341
+0.0526316 ##uw8(carry baggage)	#uw8(carry baggage)	341

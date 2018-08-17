@@ -1,0 +1,19 @@
+0.5 #m	m	2011
+0.25 #look	looking	2011
+1.72727 #information	information	2011
+1.30769 #help	help	2011
+0.5 #prepare	prepare	2011
+29 #gmat	GMAT	2011
+1.72727 #exam	exam	2011
+0.0344828 ##1(m look)	#1(m looking)	2011
+0.0344828 ##1(look information)	#1(looking information)	2011
+0.0344828 ##1(information help)	#1(information help)	2011
+0.0344828 ##1(help prepare)	#1(help prepare)	2011
+0.0344828 ##1(prepare gmat)	#1(prepare GMAT)	2011
+1 ##1(gmat exam)	#1(GMAT exam)	2011
+0.0344828 ##uw8(m look)	#uw8(m looking)	2011
+0.0714286 ##uw8(look information)	#uw8(looking information)	2011
+0.0344828 ##uw8(information help)	#uw8(information help)	2011
+0.25 ##uw8(help prepare)	#uw8(help prepare)	2011
+0.5 ##uw8(prepare gmat)	#uw8(prepare GMAT)	2011
+1.5 ##uw8(gmat exam)	#uw8(GMAT exam)	2011

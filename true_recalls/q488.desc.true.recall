@@ -1,0 +1,16 @@
+0.275862 #form	forms	488
+0.608696 #entertain	entertainment	488
+1.3125 #available	available	488
+36 #newport	Newport	488
+36 #beach	Beach	488
+3.11111 #california	California	488
+0.0277778 ##1(form entertain)	#1(forms entertainment)	488
+0.0277778 ##1(entertain available)	#1(entertainment available)	488
+0.0277778 ##1(available newport)	#1(available Newport)	488
+11.3333 ##1(newport beach)	#1(Newport Beach)	488
+0.423077 ##1(beach california)	#1(Beach California)	488
+0.0277778 ##uw8(form entertain)	#uw8(forms entertainment)	488
+0.0277778 ##uw8(entertain available)	#uw8(entertainment available)	488
+0.0571429 ##uw8(available newport)	#uw8(available Newport)	488
+11.3333 ##uw8(newport beach)	#uw8(Newport Beach)	488
+0.681818 ##uw8(beach california)	#uw8(Beach California)	488

@@ -1,0 +1,7 @@
+11 #resuscitate	resuscitate	2162
+5 #order	orders	2162
+0.2 #place	place	2162
+3 ##1(resuscitate order)	#1(resuscitate orders)	2162
+0.0909091 ##1(order place)	#1(orders place)	2162
+3 ##uw8(resuscitate order)	#uw8(resuscitate orders)	2162
+0.2 ##uw8(order place)	#uw8(orders place)	2162

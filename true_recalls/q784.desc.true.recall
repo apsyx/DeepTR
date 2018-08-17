@@ -1,0 +1,16 @@
+0.5 #give	Give	784
+0.5 #definition	definition	784
+0.5 #description	description	784
+5 #mersenne	Mersenne	784
+5 #prime	prime	784
+5 #number	numbers	784
+0.2 ##1(give definition)	#1(Give definition)	784
+0.2 ##1(definition description)	#1(definition description)	784
+0.2 ##1(description mersenne)	#1(description Mersenne)	784
+5 ##1(mersenne prime)	#1(Mersenne prime)	784
+1 ##1(prime number)	#1(prime numbers)	784
+0.2 ##uw8(give definition)	#uw8(Give definition)	784
+0.2 ##uw8(definition description)	#uw8(definition description)	784
+0.2 ##uw8(description mersenne)	#uw8(description Mersenne)	784
+5 ##uw8(mersenne prime)	#uw8(Mersenne prime)	784
+2 ##uw8(prime number)	#uw8(prime numbers)	784

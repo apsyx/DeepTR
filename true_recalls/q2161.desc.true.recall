@@ -1,0 +1,16 @@
+4 #small	small	2161
+4 #space	space	2161
+1.5 #decorate	decorating	2161
+0.666667 #dos	dos	2161
+0.666667 #don	don	2161
+0.25 #ts	ts	2161
+4 ##1(small space)	#1(small space)	2161
+0.25 ##1(space decorate)	#1(space decorating)	2161
+0.25 ##1(decorate dos)	#1(decorating dos)	2161
+0.25 ##1(dos don)	#1(dos don)	2161
+0.25 ##1(don ts)	#1(don ts)	2161
+4 ##uw8(small space)	#uw8(small space)	2161
+0.25 ##uw8(space decorate)	#uw8(space decorating)	2161
+0.666667 ##uw8(decorate dos)	#uw8(decorating dos)	2161
+0.25 ##uw8(dos don)	#uw8(dos don)	2161
+0.25 ##uw8(don ts)	#uw8(don ts)	2161

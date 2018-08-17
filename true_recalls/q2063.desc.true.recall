@@ -1,0 +1,13 @@
+47 #flush	Flushing	2063
+0.92 #neighborhood	neighborhood	2063
+15 #new	New	2063
+11 #york	York	2063
+8.6 #city	City	2063
+0.170732 ##1(flush neighborhood)	#1(Flushing neighborhood)	2063
+0.0212766 ##1(neighborhood new)	#1(neighborhood New)	2063
+11 ##1(new york)	#1(New York)	2063
+4.33333 ##1(york city)	#1(York City)	2063
+0.655172 ##uw8(flush neighborhood)	#uw8(Flushing neighborhood)	2063
+0.5 ##uw8(neighborhood new)	#uw8(neighborhood New)	2063
+11 ##uw8(new york)	#uw8(New York)	2063
+5 ##uw8(york city)	#uw8(York City)	2063

@@ -1,0 +1,13 @@
+0.183406 #normal	normal	452
+0.613095 #habitat	habitat	452
+269.998 #beaver	beavers	452
+0.341584 #note	note	452
+0.0796813 #exception	exceptions	452
+0.0037037 ##1(normal habitat)	#1(normal habitat)	452
+0.0037037 ##1(habitat beaver)	#1(habitat beavers)	452
+0.0037037 ##1(beaver note)	#1(beavers note)	452
+0.0037037 ##1(note exception)	#1(note exceptions)	452
+0.0037037 ##uw8(normal habitat)	#uw8(normal habitat)	452
+0.0383142 ##uw8(habitat beaver)	#uw8(habitat beavers)	452
+0.00743494 ##uw8(beaver note)	#uw8(beavers note)	452
+0.0037037 ##uw8(note exception)	#uw8(note exceptions)	452

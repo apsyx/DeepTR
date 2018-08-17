@@ -1,0 +1,10 @@
+0.321429 #method	methods	524
+0.37037 #removal	removal	524
+36 #scar	scar	524
+1.05556 #tissue	tissue	524
+0.0277778 ##1(method removal)	#1(methods removal)	524
+0.0277778 ##1(removal scar)	#1(removal scar)	524
+0.233333 ##1(scar tissue)	#1(scar tissue)	524
+0.0277778 ##uw8(method removal)	#uw8(methods removal)	524
+0.121212 ##uw8(removal scar)	#uw8(removal scar)	524
+0.321429 ##uw8(scar tissue)	#uw8(scar tissue)	524

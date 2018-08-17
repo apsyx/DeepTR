@@ -1,0 +1,10 @@
+3.66667 #food	foods	552
+1.54545 #good	good	552
+27 #cancer	cancer	552
+27 #patient	patients	552
+0.037037 ##1(food good)	#1(foods good)	552
+0.037037 ##1(good cancer)	#1(good cancer)	552
+8.33333 ##1(cancer patient)	#1(cancer patients)	552
+0.333333 ##uw8(food good)	#uw8(foods good)	552
+0.4 ##uw8(good cancer)	#uw8(good cancer)	552
+13 ##uw8(cancer patient)	#uw8(cancer patients)	552

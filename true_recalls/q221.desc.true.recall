@@ -1,0 +1,40 @@
+0.211921 #step	Steps	221
+0.262069 #taken	taken	221
+0.253425 #church	church	221
+0.297872 #govern	governments	221
+1.69118 #commune	community	221
+0.122699 #civic	civic	221
+0.605263 #organize	organizations	221
+0.0457143 #halt	halt	221
+0.0166667 #carnage	carnage	221
+1.07955 #youth	youths	221
+0.0701754 #engage	engaged	221
+3.69231 #drug	drug	221
+3.46341 #gang	gang	221
+0.115854 #warfare	warfare	221
+0.0166667 ##1(step taken)	#1(Steps taken)	221
+0.00549451 ##1(taken church)	#1(taken church)	221
+0.00549451 ##1(church govern)	#1(church governments)	221
+0.00549451 ##1(govern commune)	#1(governments community)	221
+0.00549451 ##1(commune civic)	#1(community civic)	221
+0.0166667 ##1(civic organize)	#1(civic organizations)	221
+0.00549451 ##1(organize halt)	#1(organizations halt)	221
+0.00549451 ##1(halt carnage)	#1(halt carnage)	221
+0.00549451 ##1(carnage youth)	#1(carnage youths)	221
+0.0110497 ##1(youth engage)	#1(youths engaged)	221
+0.00549451 ##1(engage drug)	#1(engaged drug)	221
+0.0639535 ##1(drug gang)	#1(drug gang)	221
+0.0578035 ##1(gang warfare)	#1(gang warfare)	221
+0.0338983 ##uw8(step taken)	#uw8(Steps taken)	221
+0.0110497 ##uw8(taken church)	#uw8(taken church)	221
+0.0110497 ##uw8(church govern)	#uw8(church governments)	221
+0.0223464 ##uw8(govern commune)	#uw8(governments community)	221
+0.0166667 ##uw8(commune civic)	#uw8(community civic)	221
+0.0166667 ##uw8(civic organize)	#uw8(civic organizations)	221
+0.00549451 ##uw8(organize halt)	#uw8(organizations halt)	221
+0.00549451 ##uw8(halt carnage)	#uw8(halt carnage)	221
+0.00549451 ##uw8(carnage youth)	#uw8(carnage youths)	221
+0.0166667 ##uw8(youth engage)	#uw8(youths engaged)	221
+0.0338983 ##uw8(engage drug)	#uw8(engaged drug)	221
+0.71028 ##uw8(drug gang)	#uw8(drug gang)	221
+0.0764706 ##uw8(gang warfare)	#uw8(gang warfare)	221

@@ -1,0 +1,19 @@
+1 #history	history	755
+1.71429 #locate	location	755
+18 #scotland	Scottish	755
+6.6 #highland	highland	755
+11.6667 #game	games	755
+0.652174 #unite	United	755
+18 #state	States	755
+0.027027 ##1(history locate)	#1(history location)	755
+0.0555556 ##1(locate scotland)	#1(location Scottish)	755
+0.357143 ##1(scotland highland)	#1(Scottish highland)	755
+1.92308 ##1(highland game)	#1(highland games)	755
+0.027027 ##1(game unite)	#1(games United)	755
+0.52 ##1(unite state)	#1(United States)	755
+0.0555556 ##uw8(history locate)	#uw8(history location)	755
+0.0555556 ##uw8(locate scotland)	#uw8(location Scottish)	755
+1.23529 ##uw8(scotland highland)	#uw8(Scottish highland)	755
+4.42857 ##uw8(highland game)	#uw8(highland games)	755
+0.0857143 ##uw8(game unite)	#uw8(games United)	755
+0.52 ##uw8(unite state)	#uw8(United States)	755

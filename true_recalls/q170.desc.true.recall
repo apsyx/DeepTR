@@ -1,0 +1,16 @@
+0.0454545 #consequence	Consequences	170
+0.0697674 #implantation	Implantation	170
+14.3333 #silicone	Silicone	170
+6.66667 #gel	Gel	170
+22 #breast	Breast	170
+1.3 #device	Devices	170
+0.0222222 ##1(consequence implantation)	#1(Consequences Implantation)	170
+0.0222222 ##1(implantation silicone)	#1(Implantation Silicone)	170
+4.11111 ##1(silicone gel)	#1(Silicone Gel)	170
+0.769231 ##1(gel breast)	#1(Gel Breast)	170
+0.0222222 ##1(breast device)	#1(Breast Devices)	170
+0.0222222 ##uw8(consequence implantation)	#uw8(Consequences Implantation)	170
+0.0454545 ##uw8(implantation silicone)	#uw8(Implantation Silicone)	170
+4.75 ##uw8(silicone gel)	#uw8(Silicone Gel)	170
+1.19048 ##uw8(gel breast)	#uw8(Gel Breast)	170
+0.0952381 ##uw8(breast device)	#uw8(Breast Devices)	170

@@ -1,0 +1,16 @@
+0.268293 #identify	identifying	584
+0.444444 #type	types	584
+1.73684 #cause	causes	584
+0.155556 #extent	extent	584
+16.3333 #birth	birth	584
+16.3333 #defect	defects	584
+0.0196078 ##1(identify type)	#1(identifying types)	584
+0.0196078 ##1(type cause)	#1(types causes)	584
+0.0196078 ##1(cause extent)	#1(causes extent)	584
+0.0196078 ##1(extent birth)	#1(extent birth)	584
+9.4 ##1(birth defect)	#1(birth defects)	584
+0.0196078 ##uw8(identify type)	#uw8(identifying types)	584
+0.0612245 ##uw8(type cause)	#uw8(types causes)	584
+0.0196078 ##uw8(cause extent)	#uw8(causes extent)	584
+0.0196078 ##uw8(extent birth)	#uw8(extent birth)	584
+9.4 ##uw8(birth defect)	#uw8(birth defects)	584

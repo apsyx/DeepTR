@@ -1,0 +1,13 @@
+0.555556 #biography	biographical	2108
+0.166667 #information	information	2108
+41 #ralph	Ralph	2108
+41 #owen	Owen	2108
+0.0243902 #brester	Brester	2108
+0.0243902 ##1(biography information)	#1(biographical information)	2108
+0.0243902 ##1(information ralph)	#1(information Ralph)	2108
+41 ##1(ralph owen)	#1(Ralph Owen)	2108
+0.0243902 ##1(owen brester)	#1(Owen Brester)	2108
+0.0243902 ##uw8(biography information)	#uw8(biographical information)	2108
+0.0243902 ##uw8(information ralph)	#uw8(information Ralph)	2108
+41 ##uw8(ralph owen)	#uw8(Ralph Owen)	2108
+0.0243902 ##uw8(owen brester)	#uw8(Owen Brester)	2108

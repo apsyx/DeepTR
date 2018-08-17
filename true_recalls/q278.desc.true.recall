@@ -1,0 +1,28 @@
+0.285714 #relevant	relevant	278
+0.125 #document	document	278
+0.125 #discuss	discuss	278
+0.285714 #geneticist	geneticists	278
+0.8 #find	findings	278
+0.125 #concern	concerning	278
+0.125 #ancestry	ancestry	278
+0.8 #world	world	278
+0.125 #s	s	278
+2 #people	peoples	278
+0.125 ##1(relevant document)	#1(relevant document)	278
+0.125 ##1(document discuss)	#1(document discuss)	278
+0.125 ##1(discuss geneticist)	#1(discuss geneticists)	278
+0.125 ##1(geneticist find)	#1(geneticists findings)	278
+0.125 ##1(find concern)	#1(findings concerning)	278
+0.125 ##1(concern ancestry)	#1(concerning ancestry)	278
+0.125 ##1(ancestry world)	#1(ancestry world)	278
+0.125 ##1(world s)	#1(world s)	278
+0.125 ##1(s people)	#1(s peoples)	278
+0.125 ##uw8(relevant document)	#uw8(relevant document)	278
+0.125 ##uw8(document discuss)	#uw8(document discuss)	278
+0.125 ##uw8(discuss geneticist)	#uw8(discuss geneticists)	278
+0.125 ##uw8(geneticist find)	#uw8(geneticists findings)	278
+0.125 ##uw8(find concern)	#uw8(findings concerning)	278
+0.125 ##uw8(concern ancestry)	#uw8(concerning ancestry)	278
+0.125 ##uw8(ancestry world)	#uw8(ancestry world)	278
+0.125 ##uw8(world s)	#uw8(world s)	278
+0.125 ##uw8(s people)	#uw8(s peoples)	278

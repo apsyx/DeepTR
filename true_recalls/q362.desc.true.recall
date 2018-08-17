@@ -1,0 +1,7 @@
+0.28125 #incident	incidents	362
+0.464286 #human	human	362
+9.25 #smuggle	smuggling	362
+0.025 ##1(incident human)	#1(incidents human)	362
+0.242424 ##1(human smuggle)	#1(human smuggling)	362
+0.025 ##uw8(incident human)	#uw8(incidents human)	362
+0.28125 ##uw8(human smuggle)	#uw8(human smuggling)	362

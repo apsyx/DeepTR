@@ -1,0 +1,13 @@
+0.5 #give	Give	844
+2.375 #information	information	844
+8 #segment	segmental	844
+12.5 #duplicate	duplications	844
+2.85714 #genome	genomes	844
+0.0384615 ##1(give information)	#1(Give information)	844
+0.0384615 ##1(information segment)	#1(information segmental)	844
+1.25 ##1(segment duplicate)	#1(segmental duplications)	844
+0.08 ##1(duplicate genome)	#1(duplications genomes)	844
+0.173913 ##uw8(give information)	#uw8(Give information)	844
+0.0384615 ##uw8(information segment)	#uw8(information segmental)	844
+5.75 ##uw8(segment duplicate)	#uw8(segmental duplications)	844
+0.6875 ##uw8(duplicate genome)	#uw8(duplications genomes)	844

@@ -1,0 +1,28 @@
+0.0964912 #region	regions	239
+0.388889 #unite	United	239
+1.71739 #state	States	239
+0.168224 #specific	specific	239
+40.6667 #cancer	cancers	239
+0.315789 #concentrate	concentrated	239
+0.136364 #condition	conditions	239
+0.190476 #exist	exist	239
+2.37838 #cause	cause	239
+0.436782 #problem	problem	239
+0.00806452 ##1(region unite)	#1(regions United)	239
+0.358696 ##1(unite state)	#1(United States)	239
+0.00806452 ##1(state specific)	#1(States specific)	239
+0.0245902 ##1(specific cancer)	#1(specific cancers)	239
+0.00806452 ##1(cancer concentrate)	#1(cancers concentrated)	239
+0.00806452 ##1(concentrate condition)	#1(concentrated conditions)	239
+0.00806452 ##1(condition exist)	#1(conditions exist)	239
+0.00806452 ##1(exist cause)	#1(exist cause)	239
+0.00806452 ##1(cause problem)	#1(cause problem)	239
+0.00806452 ##uw8(region unite)	#uw8(regions United)	239
+0.358696 ##uw8(unite state)	#uw8(United States)	239
+0.0245902 ##uw8(state specific)	#uw8(States specific)	239
+0.0330579 ##uw8(specific cancer)	#uw8(specific cancers)	239
+0.0416667 ##uw8(cancer concentrate)	#uw8(cancers concentrated)	239
+0.00806452 ##uw8(concentrate condition)	#uw8(concentrated conditions)	239
+0.0162602 ##uw8(condition exist)	#uw8(conditions exist)	239
+0.00806452 ##uw8(exist cause)	#uw8(exist cause)	239
+0.0416667 ##uw8(cause problem)	#uw8(cause problem)	239

@@ -1,0 +1,10 @@
+51.6001 #import	imported	820
+130.5 #fire	fire	820
+261.999 #ant	ants	820
+0.109705 #controlled	controlled	820
+28.2222 ##1(import fire)	#1(imported fire)	820
+130.5 ##1(fire ant)	#1(fire ants)	820
+0.00381679 ##1(ant controlled)	#1(ants controlled)	820
+28.2222 ##uw8(import fire)	#uw8(imported fire)	820
+130.5 ##uw8(fire ant)	#uw8(fire ants)	820
+0.0436508 ##uw8(ant controlled)	#uw8(ants controlled)	820

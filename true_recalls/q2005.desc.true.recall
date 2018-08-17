@@ -1,0 +1,25 @@
+6 #mitchell	Mitchell	2005
+6 #college	College	2005
+6 #new	New	2005
+6 #london	London	2005
+2.5 #ct	CT	2005
+0.166667 #prospect	prospective	2005
+2.5 #student	student	2005
+0.75 #find	find	2005
+0.4 #useful	useful	2005
+6 ##1(mitchell college)	#1(Mitchell College)	2005
+0.75 ##1(college new)	#1(College New)	2005
+6 ##1(new london)	#1(New London)	2005
+2.5 ##1(london ct)	#1(London CT)	2005
+0.166667 ##1(ct prospect)	#1(CT prospective)	2005
+0.166667 ##1(prospect student)	#1(prospective student)	2005
+0.166667 ##1(student find)	#1(student find)	2005
+0.166667 ##1(find useful)	#1(find useful)	2005
+6 ##uw8(mitchell college)	#uw8(Mitchell College)	2005
+6 ##uw8(college new)	#uw8(College New)	2005
+6 ##uw8(new london)	#uw8(New London)	2005
+2.5 ##uw8(london ct)	#uw8(London CT)	2005
+0.166667 ##uw8(ct prospect)	#uw8(CT prospective)	2005
+0.166667 ##uw8(prospect student)	#uw8(prospective student)	2005
+0.4 ##uw8(student find)	#uw8(student find)	2005
+0.166667 ##uw8(find useful)	#uw8(find useful)	2005

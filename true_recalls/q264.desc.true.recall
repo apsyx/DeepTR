@@ -1,0 +1,16 @@
+0.0216607 #instance	instances	264
+0.451282 #citizen	citizens	264
+2.2907 #held	held	264
+1.37815 #foreign	foreign	264
+0.757764 #jail	jails	264
+0.0035461 #1900	1900	264
+0.0035461 ##1(instance citizen)	#1(instances citizens)	264
+0.0179856 ##1(citizen held)	#1(citizens held)	264
+0.0760456 ##1(held foreign)	#1(held foreign)	264
+0.0179856 ##1(foreign jail)	#1(foreign jails)	264
+0.0035461 ##1(jail 1900)	#1(jails 1900)	264
+0.0035461 ##uw8(instance citizen)	#uw8(instances citizens)	264
+0.0253623 ##uw8(citizen held)	#uw8(citizens held)	264
+0.280543 ##uw8(held foreign)	#uw8(held foreign)	264
+0.0290909 ##uw8(foreign jail)	#uw8(foreign jails)	264
+0.0035461 ##uw8(jail 1900)	#uw8(jails 1900)	264

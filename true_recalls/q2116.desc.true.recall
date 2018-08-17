@@ -1,0 +1,10 @@
+79.0001 #california	California	2116
+15 #franchise	Franchise	2116
+79.0001 #tax	Tax	2116
+9 #board	Board	2116
+1 ##1(california franchise)	#1(California Franchise)	2116
+9 ##1(franchise tax)	#1(Franchise Tax)	2116
+9 ##1(tax board)	#1(Tax Board)	2116
+1.58065 ##uw8(california franchise)	#uw8(California Franchise)	2116
+15 ##uw8(franchise tax)	#uw8(Franchise Tax)	2116
+9 ##uw8(tax board)	#uw8(Tax Board)	2116

@@ -1,0 +1,10 @@
+0.7 #death	deaths	295
+0.214286 #result	resulted	295
+0.888889 #scuba	scuba	295
+3.25 #dive	diving	295
+0.0625 ##1(death result)	#1(deaths resulted)	295
+0.0625 ##1(result scuba)	#1(resulted scuba)	295
+0.7 ##1(scuba dive)	#1(scuba diving)	295
+0.0625 ##uw8(death result)	#uw8(deaths resulted)	295
+0.0625 ##uw8(result scuba)	#uw8(resulted scuba)	295
+0.7 ##uw8(scuba dive)	#uw8(scuba diving)	295

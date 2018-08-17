@@ -1,0 +1,28 @@
+0.277778 #commercial	Commercial	314
+0.483871 #harvest	harvesting	314
+0.314286 #marine	marine	314
+0.0222222 #vegetation	vegetation	314
+0.586207 #algae	algae	314
+1.09091 #seaweed	seaweed	314
+0.314286 #kelp	kelp	314
+0.483871 #food	food	314
+0.243243 #drug	drug	314
+0.0454545 #purpose	purposes	314
+0.0454545 ##1(commercial harvest)	#1(Commercial harvesting)	314
+0.0222222 ##1(harvest marine)	#1(harvesting marine)	314
+0.0222222 ##1(marine vegetation)	#1(marine vegetation)	314
+0.0222222 ##1(vegetation algae)	#1(vegetation algae)	314
+0.0222222 ##1(algae seaweed)	#1(algae seaweed)	314
+0.0222222 ##1(seaweed kelp)	#1(seaweed kelp)	314
+0.0222222 ##1(kelp food)	#1(kelp food)	314
+0.0697674 ##1(food drug)	#1(food drug)	314
+0.0222222 ##1(drug purpose)	#1(drug purposes)	314
+0.0952381 ##uw8(commercial harvest)	#uw8(Commercial harvesting)	314
+0.0454545 ##uw8(harvest marine)	#uw8(harvesting marine)	314
+0.0222222 ##uw8(marine vegetation)	#uw8(marine vegetation)	314
+0.0222222 ##uw8(vegetation algae)	#uw8(vegetation algae)	314
+0.0222222 ##uw8(algae seaweed)	#uw8(algae seaweed)	314
+0.0697674 ##uw8(seaweed kelp)	#uw8(seaweed kelp)	314
+0.0222222 ##uw8(kelp food)	#uw8(kelp food)	314
+0.15 ##uw8(food drug)	#uw8(food drug)	314
+0.0222222 ##uw8(drug purpose)	#uw8(drug purposes)	314

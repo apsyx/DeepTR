@@ -1,0 +1,19 @@
+0.313131 #origin	origin	801
+0.710526 #nature	nature	801
+0.287129 #extent	extent	801
+2.71429 #spread	spread	801
+0.805556 #mean	means	801
+0.64557 #controlling	controlling	801
+64 #kudzu	kudzu	801
+0.00775194 ##1(origin nature)	#1(origin nature)	801
+0.00775194 ##1(nature extent)	#1(nature extent)	801
+0.00775194 ##1(extent spread)	#1(extent spread)	801
+0.00775194 ##1(spread mean)	#1(spread means)	801
+0.00775194 ##1(mean controlling)	#1(means controlling)	801
+0.111111 ##1(controlling kudzu)	#1(controlling kudzu)	801
+0.00775194 ##uw8(origin nature)	#uw8(origin nature)	801
+0.015625 ##uw8(nature extent)	#uw8(nature extent)	801
+0.015625 ##uw8(extent spread)	#uw8(extent spread)	801
+0.0833333 ##uw8(spread mean)	#uw8(spread means)	801
+0.04 ##uw8(mean controlling)	#uw8(means controlling)	801
+0.140351 ##uw8(controlling kudzu)	#uw8(controlling kudzu)	801

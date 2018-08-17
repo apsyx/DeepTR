@@ -1,0 +1,22 @@
+0.0740741 #article	articles	608
+0.0740741 #discuss	discuss	608
+0.0740741 #pro	pros	608
+0.0357143 #con	cons	608
+28 #tax	taxing	608
+28 #social	social	608
+28 #secure	security	608
+1.9 #benefit	benefits	608
+0.0357143 ##1(article discuss)	#1(articles discuss)	608
+0.0357143 ##1(discuss pro)	#1(discuss pros)	608
+0.0357143 ##1(pro con)	#1(pros cons)	608
+0.0357143 ##1(con tax)	#1(cons taxing)	608
+0.115385 ##1(tax social)	#1(taxing social)	608
+13.5 ##1(social secure)	#1(social security)	608
+0.933333 ##1(secure benefit)	#1(security benefits)	608
+0.0357143 ##uw8(article discuss)	#uw8(articles discuss)	608
+0.0357143 ##uw8(discuss pro)	#uw8(discuss pros)	608
+0.0357143 ##uw8(pro con)	#uw8(pros cons)	608
+0.0357143 ##uw8(con tax)	#uw8(cons taxing)	608
+3.83333 ##uw8(tax social)	#uw8(taxing social)	608
+13.5 ##uw8(social secure)	#uw8(social security)	608
+1.23077 ##uw8(secure benefit)	#uw8(security benefits)	608

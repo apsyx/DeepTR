@@ -1,0 +1,19 @@
+10 #france	France	620
+0.1 #respond	responded	620
+1.2 #protest	protests	620
+10 #nuclear	nuclear	620
+10 #test	testing	620
+0.833333 #south	South	620
+10 #pacific	Pacific	620
+0.1 ##1(france respond)	#1(France responded)	620
+0.1 ##1(respond protest)	#1(responded protests)	620
+0.1 ##1(protest nuclear)	#1(protests nuclear)	620
+4.5 ##1(nuclear test)	#1(nuclear testing)	620
+0.1 ##1(test south)	#1(testing South)	620
+0.833333 ##1(south pacific)	#1(South Pacific)	620
+0.1 ##uw8(france respond)	#uw8(France responded)	620
+0.1 ##uw8(respond protest)	#uw8(responded protests)	620
+0.833333 ##uw8(protest nuclear)	#uw8(protests nuclear)	620
+10 ##uw8(nuclear test)	#uw8(nuclear testing)	620
+0.833333 ##uw8(test south)	#uw8(testing South)	620
+0.833333 ##uw8(south pacific)	#uw8(South Pacific)	620

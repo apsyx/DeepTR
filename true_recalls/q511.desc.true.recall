@@ -1,0 +1,7 @@
+12.9167 #disease	diseases	511
+166.001 #smoke	smoking	511
+19.875 #cause	cause	511
+0.0372671 ##1(disease smoke)	#1(diseases smoking)	511
+0.304688 ##1(smoke cause)	#1(smoking cause)	511
+1.35211 ##uw8(disease smoke)	#uw8(diseases smoking)	511
+3.175 ##uw8(smoke cause)	#uw8(smoking cause)	511

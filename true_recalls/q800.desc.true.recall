@@ -1,0 +1,22 @@
+0.0536913 #remedy	remedies	800
+156 #treat	treatments	800
+1.27536 #given	given	800
+0.0466667 #lesson	lesson	800
+0.509615 #stop	stop	800
+6.47619 #effect	effects	800
+156 #ovarian	ovarian	800
+156 #cancer	cancer	800
+0.00641026 ##1(remedy treat)	#1(remedies treatments)	800
+0.00641026 ##1(treat given)	#1(treatments given)	800
+0.00641026 ##1(given lesson)	#1(given lesson)	800
+0.00641026 ##1(lesson stop)	#1(lesson stop)	800
+0.00641026 ##1(stop effect)	#1(stop effects)	800
+0.0129032 ##1(effect ovarian)	#1(effects ovarian)	800
+13.2727 ##1(ovarian cancer)	#1(ovarian cancer)	800
+0.0129032 ##uw8(remedy treat)	#uw8(remedies treatments)	800
+0.198473 ##uw8(treat given)	#uw8(treatments given)	800
+0.00641026 ##uw8(given lesson)	#uw8(given lesson)	800
+0.00641026 ##uw8(lesson stop)	#uw8(lesson stop)	800
+0.0466667 ##uw8(stop effect)	#uw8(stop effects)	800
+0.414414 ##uw8(effect ovarian)	#uw8(effects ovarian)	800
+156 ##uw8(ovarian cancer)	#uw8(ovarian cancer)	800

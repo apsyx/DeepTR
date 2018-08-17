@@ -1,0 +1,22 @@
+document
+discuss
+cases
+medications
+procedures
+prior
+heart
+surgery
+#1(document discuss)
+#1(discuss cases)
+#1(cases medications)
+#1(medications procedures)
+#1(procedures prior)
+#1(prior heart)
+#1(heart surgery)
+#uw8(document discuss)
+#uw8(discuss cases)
+#uw8(cases medications)
+#uw8(medications procedures)
+#uw8(procedures prior)
+#uw8(prior heart)
+#uw8(heart surgery)

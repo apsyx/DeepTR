@@ -1,0 +1,22 @@
+1 #evidence	Evidence	260
+0.333333 #exist	existence	260
+5 #human	human	260
+0.333333 #life	life	260
+0.714286 #10	10	260
+11 #000	000	260
+23 #year	years	260
+7 #ago	ago	260
+0.0434783 ##1(evidence exist)	#1(Evidence existence)	260
+0.0434783 ##1(exist human)	#1(existence human)	260
+0.0434783 ##1(human life)	#1(human life)	260
+0.0434783 ##1(life 10)	#1(life 10)	260
+0.5 ##1(10 000)	#1(10 000)	260
+11 ##1(000 year)	#1(000 years)	260
+7 ##1(year ago)	#1(years ago)	260
+0.0434783 ##uw8(evidence exist)	#uw8(Evidence existence)	260
+0.0434783 ##uw8(exist human)	#uw8(existence human)	260
+0.0909091 ##uw8(human life)	#uw8(human life)	260
+0.0434783 ##uw8(life 10)	#uw8(life 10)	260
+0.5 ##uw8(10 000)	#uw8(10 000)	260
+11 ##uw8(000 year)	#uw8(000 years)	260
+7 ##uw8(year ago)	#uw8(years ago)	260

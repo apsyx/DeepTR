@@ -1,0 +1,28 @@
+0.0909091 #individual	individuals	650
+0.125 #corporate	corporations	650
+0.5 #indict	indicted	650
+8 #charge	charges	650
+35 #tax	tax	650
+2.6 #evasion	evasion	650
+0.636364 #two	two	650
+11 #million	million	650
+0.5 #dollar	dollars	650
+0.0285714 #uk	UK	650
+0.0285714 ##1(individual corporate)	#1(individuals corporations)	650
+0.0285714 ##1(corporate indict)	#1(corporations indicted)	650
+0.0588235 ##1(indict charge)	#1(indicted charges)	650
+0.0285714 ##1(charge tax)	#1(charges tax)	650
+2.6 ##1(tax evasion)	#1(tax evasion)	650
+0.0285714 ##1(evasion two)	#1(evasion two)	650
+0.0285714 ##1(two million)	#1(two million)	650
+0.0285714 ##1(million dollar)	#1(million dollars)	650
+0.0285714 ##1(dollar uk)	#1(dollars UK)	650
+0.0285714 ##uw8(individual corporate)	#uw8(individuals corporations)	650
+0.0285714 ##uw8(corporate indict)	#uw8(corporations indicted)	650
+0.2 ##uw8(indict charge)	#uw8(indicted charges)	650
+0.894737 ##uw8(charge tax)	#uw8(charges tax)	650
+2.6 ##uw8(tax evasion)	#uw8(tax evasion)	650
+0.0588235 ##uw8(evasion two)	#uw8(evasion two)	650
+0.0588235 ##uw8(two million)	#uw8(two million)	650
+0.0588235 ##uw8(million dollar)	#uw8(million dollars)	650
+0.0285714 ##uw8(dollar uk)	#uw8(dollars UK)	650

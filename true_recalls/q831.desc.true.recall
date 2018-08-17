@@ -1,0 +1,16 @@
+35 #secure	security	831
+0.714286 #measure	measures	831
+35 #dulles	Dulles	831
+6.2 #international	International	831
+35 #airport	Airport	831
+0.2 #virginia	Virginia	831
+0.5 ##1(secure measure)	#1(security measures)	831
+0.0285714 ##1(measure dulles)	#1(measures Dulles)	831
+2.6 ##1(dulles international)	#1(Dulles International)	831
+5 ##1(international airport)	#1(International Airport)	831
+0.0285714 ##1(airport virginia)	#1(Airport Virginia)	831
+0.565217 ##uw8(secure measure)	#uw8(security measures)	831
+0.0285714 ##uw8(measure dulles)	#uw8(measures Dulles)	831
+3 ##uw8(dulles international)	#uw8(Dulles International)	831
+5 ##uw8(international airport)	#uw8(International Airport)	831
+0.0588235 ##uw8(airport virginia)	#uw8(Airport Virginia)	831

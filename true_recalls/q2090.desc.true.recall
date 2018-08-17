@@ -1,0 +1,7 @@
+11 #mgb	MGB	2090
+3.8 #sport	sports	2090
+23 #car	car	2090
+0.0434783 ##1(mgb sport)	#1(MGB sports)	2090
+3.8 ##1(sport car)	#1(sports car)	2090
+3 ##uw8(mgb sport)	#uw8(MGB sports)	2090
+3.8 ##uw8(sport car)	#uw8(sports car)	2090

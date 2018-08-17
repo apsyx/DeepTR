@@ -1,0 +1,25 @@
+0.387097 #business	businesses	684
+0.653846 #govern	government	684
+0.075 #entity	entities	684
+0.653846 #give	give	684
+0.194444 #medical	medical	684
+2.90909 #benefit	benefits	684
+42 #part	part	684
+42 #time	time	684
+20.5 #work	workers	684
+0.0238095 ##1(business govern)	#1(businesses government)	684
+0.0238095 ##1(govern entity)	#1(government entities)	684
+0.0238095 ##1(entity give)	#1(entities give)	684
+0.0238095 ##1(give medical)	#1(give medical)	684
+0.0487805 ##1(medical benefit)	#1(medical benefits)	684
+0.0238095 ##1(benefit part)	#1(benefits part)	684
+13.3333 ##1(part time)	#1(part time)	684
+2.07143 ##1(time work)	#1(time workers)	684
+0.0487805 ##uw8(business govern)	#uw8(businesses government)	684
+0.0238095 ##uw8(govern entity)	#uw8(government entities)	684
+0.0238095 ##uw8(entity give)	#uw8(entities give)	684
+0.0238095 ##uw8(give medical)	#uw8(give medical)	684
+0.075 ##uw8(medical benefit)	#uw8(medical benefits)	684
+0.264706 ##uw8(benefit part)	#uw8(benefits part)	684
+13.3333 ##uw8(part time)	#uw8(part time)	684
+3.3 ##uw8(time work)	#uw8(time workers)	684

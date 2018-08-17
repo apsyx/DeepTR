@@ -1,0 +1,13 @@
+1.42553 #evidence	evidence	707
+113 #aspirin	aspirin	707
+2.45455 #help	help	707
+2.67742 #prevent	prevent	707
+56 #cancer	cancer	707
+0.00884956 ##1(evidence aspirin)	#1(evidence aspirin)	707
+0.0178571 ##1(aspirin help)	#1(aspirin help)	707
+0.23913 ##1(help prevent)	#1(help prevent)	707
+0.390244 ##1(prevent cancer)	#1(prevent cancer)	707
+0.0555556 ##uw8(evidence aspirin)	#uw8(evidence aspirin)	707
+0.14 ##uw8(aspirin help)	#uw8(aspirin help)	707
+0.325581 ##uw8(help prevent)	#uw8(help prevent)	707
+1.71429 ##uw8(prevent cancer)	#uw8(prevent cancer)	707

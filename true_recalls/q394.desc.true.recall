@@ -1,0 +1,13 @@
+2.8 #educate	education	394
+1.375 #children	children	394
+8.5 #home	home	394
+8.5 #home	home	394
+5.33333 #school	schooling	394
+0.0555556 ##1(educate children)	#1(education children)	394
+0.0555556 ##1(children home)	#1(children home)	394
+0.0555556 ##1(home home)	#1(home home)	394
+0.1875 ##1(home school)	#1(home schooling)	394
+0.461538 ##uw8(educate children)	#uw8(education children)	394
+0.461538 ##uw8(children home)	#uw8(children home)	394
+8.5 ##uw8(home home)	#uw8(home home)	394
+0.461538 ##uw8(home school)	#uw8(home schooling)	394

@@ -1,0 +1,16 @@
+0.384615 #registration	registration	2136
+1.25 #require	requirements	2136
+0.2 #enroll	enrolling	2136
+17 #america	American	2136
+17 #military	Military	2136
+17 #university	University	2136
+0.0588235 ##1(registration require)	#1(registration requirements)	2136
+0.0588235 ##1(require enroll)	#1(requirements enrolling)	2136
+0.0588235 ##1(enroll america)	#1(enrolling American)	2136
+17 ##1(america military)	#1(American Military)	2136
+17 ##1(military university)	#1(Military University)	2136
+0.0588235 ##uw8(registration require)	#uw8(registration requirements)	2136
+0.0588235 ##uw8(require enroll)	#uw8(requirements enrolling)	2136
+0.0588235 ##uw8(enroll america)	#uw8(enrolling American)	2136
+17 ##uw8(america military)	#uw8(American Military)	2136
+17 ##uw8(military university)	#uw8(Military University)	2136

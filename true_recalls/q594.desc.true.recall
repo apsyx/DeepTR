@@ -1,0 +1,16 @@
+13.5 #food	foods	594
+4.8 #help	help	594
+1.9 #people	people	594
+1.07143 #prevent	prevent	594
+6.25 #high	high	594
+13.5 #cholesterol	cholesterol	594
+0.0740741 ##1(food help)	#1(foods help)	594
+0.0740741 ##1(help people)	#1(help people)	594
+0.0357143 ##1(people prevent)	#1(people prevent)	594
+0.115385 ##1(prevent high)	#1(prevent high)	594
+0.26087 ##1(high cholesterol)	#1(high cholesterol)	594
+0.705882 ##uw8(food help)	#uw8(foods help)	594
+0.26087 ##uw8(help people)	#uw8(help people)	594
+0.0357143 ##uw8(people prevent)	#uw8(people prevent)	594
+0.26087 ##uw8(prevent high)	#uw8(prevent high)	594
+3.14286 ##uw8(high cholesterol)	#uw8(high cholesterol)	594

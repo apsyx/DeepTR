@@ -1,0 +1,31 @@
+instances
+journalist
+put
+risk
+eg
+killed
+arrested
+taken
+hostage
+performance
+work
+#1(instances journalist)
+#1(journalist put)
+#1(put risk)
+#1(risk eg)
+#1(eg killed)
+#1(killed arrested)
+#1(arrested taken)
+#1(taken hostage)
+#1(hostage performance)
+#1(performance work)
+#uw8(instances journalist)
+#uw8(journalist put)
+#uw8(put risk)
+#uw8(risk eg)
+#uw8(eg killed)
+#uw8(killed arrested)
+#uw8(arrested taken)
+#uw8(taken hostage)
+#uw8(hostage performance)
+#uw8(performance work)

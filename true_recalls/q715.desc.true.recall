@@ -1,0 +1,19 @@
+0.744681 #organize	organizations	715
+0.464286 #private	private	715
+0.0649351 #governmental	governmental	715
+2.03704 #develop	developing	715
+26.3333 #drug	drugs	715
+0.123288 #combat	combat	715
+81.0001 #schizophrenia	schizophrenia	715
+0.0123457 ##1(organize private)	#1(organizations private)	715
+0.0123457 ##1(private governmental)	#1(private governmental)	715
+0.0123457 ##1(governmental develop)	#1(governmental developing)	715
+0.0379747 ##1(develop drug)	#1(developing drugs)	715
+0.0123457 ##1(drug combat)	#1(drugs combat)	715
+0.0123457 ##1(combat schizophrenia)	#1(combat schizophrenia)	715
+0.025 ##uw8(organize private)	#uw8(organizations private)	715
+0.0123457 ##uw8(private governmental)	#uw8(private governmental)	715
+0.0123457 ##uw8(governmental develop)	#uw8(governmental developing)	715
+0.413793 ##uw8(develop drug)	#uw8(developing drugs)	715
+0.0379747 ##uw8(drug combat)	#uw8(drugs combat)	715
+0.025 ##uw8(combat schizophrenia)	#uw8(combat schizophrenia)	715

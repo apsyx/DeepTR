@@ -1,0 +1,7 @@
+62 #review	reviews	2080
+2.9375 #compute	computer	2080
+62 #keyboard	keyboards	2080
+0.016129 ##1(review compute)	#1(reviews computer)	2080
+0.3125 ##1(compute keyboard)	#1(computer keyboards)	2080
+0.145455 ##uw8(review compute)	#uw8(reviews computer)	2080
+0.575 ##uw8(compute keyboard)	#uw8(computer keyboards)	2080

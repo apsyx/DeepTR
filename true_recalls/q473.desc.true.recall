@@ -1,0 +1,10 @@
+2 #toronto	Toronto	473
+2 #film	Film	473
+2 #festival	Festival	473
+0.5 #award	awards	473
+2 ##1(toronto film)	#1(Toronto Film)	473
+2 ##1(film festival)	#1(Film Festival)	473
+0.5 ##1(festival award)	#1(Festival awards)	473
+2 ##uw8(toronto film)	#uw8(Toronto Film)	473
+2 ##uw8(film festival)	#uw8(Film Festival)	473
+0.5 ##uw8(festival award)	#uw8(Festival awards)	473

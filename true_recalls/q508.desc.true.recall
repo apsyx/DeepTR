@@ -1,0 +1,10 @@
+3.9 #disease	diseases	508
+48 #hair	hair	508
+11.25 #loss	loss	508
+7.16667 #symptom	symptom	508
+0.0425532 ##1(disease hair)	#1(diseases hair)	508
+2.26667 ##1(hair loss)	#1(hair loss)	508
+0.0208333 ##1(loss symptom)	#1(loss symptom)	508
+0.113636 ##uw8(disease hair)	#uw8(diseases hair)	508
+3.9 ##uw8(hair loss)	#uw8(hair loss)	508
+0.25641 ##uw8(loss symptom)	#uw8(loss symptom)	508

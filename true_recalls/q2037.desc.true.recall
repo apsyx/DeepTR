@@ -1,0 +1,13 @@
+2 #host	hosting	2037
+0.5 #cook	cooking	2037
+0.5 #show	show	2037
+2 #pamper	Pampered	2037
+2 #chef	Chef	2037
+0.5 ##1(host cook)	#1(hosting cooking)	2037
+0.5 ##1(cook show)	#1(cooking show)	2037
+0.5 ##1(show pamper)	#1(show Pampered)	2037
+2 ##1(pamper chef)	#1(Pampered Chef)	2037
+0.5 ##uw8(host cook)	#uw8(hosting cooking)	2037
+0.5 ##uw8(cook show)	#uw8(cooking show)	2037
+0.5 ##uw8(show pamper)	#uw8(show Pampered)	2037
+2 ##uw8(pamper chef)	#uw8(Pampered Chef)	2037

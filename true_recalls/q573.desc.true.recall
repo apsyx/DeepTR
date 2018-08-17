@@ -1,0 +1,13 @@
+15 #teach	teaching	573
+3 #opportune	opportunities	573
+7 #america	Americans	573
+0.777778 #europe	Europe	573
+0.777778 #asia	Asia	573
+0.0666667 ##1(teach opportune)	#1(teaching opportunities)	573
+0.0666667 ##1(opportune america)	#1(opportunities Americans)	573
+0.0666667 ##1(america europe)	#1(Americans Europe)	573
+0.0666667 ##1(europe asia)	#1(Europe Asia)	573
+0.454545 ##uw8(teach opportune)	#uw8(teaching opportunities)	573
+0.142857 ##uw8(opportune america)	#uw8(opportunities Americans)	573
+0.333333 ##uw8(america europe)	#uw8(Americans Europe)	573
+0.454545 ##uw8(europe asia)	#uw8(Europe Asia)	573

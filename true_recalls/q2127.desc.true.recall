@@ -1,0 +1,13 @@
+0.911111 #information	information	2127
+0.211268 #tourist	tourists	2127
+85 #dutchess	Dutchess	2127
+85 #county	County	2127
+11.2857 #ny	NY	2127
+0.0117647 ##1(information tourist)	#1(information tourists)	2127
+0.0117647 ##1(tourist dutchess)	#1(tourists Dutchess)	2127
+85 ##1(dutchess county)	#1(Dutchess County)	2127
+0.30303 ##1(county ny)	#1(County NY)	2127
+0.0617284 ##uw8(information tourist)	#uw8(information tourists)	2127
+0.0361446 ##uw8(tourist dutchess)	#uw8(tourists Dutchess)	2127
+85 ##uw8(dutchess county)	#uw8(Dutchess County)	2127
+0.791667 ##uw8(county ny)	#uw8(County NY)	2127

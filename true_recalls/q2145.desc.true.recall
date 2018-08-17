@@ -1,0 +1,13 @@
+0.8125 #information	information	2145
+28 #vine	vines	2145
+0.933333 #grown	grown	2145
+0.611111 #shady	shady	2145
+2.22222 #area	areas	2145
+0.0357143 ##1(information vine)	#1(information vines)	2145
+0.115385 ##1(vine grown)	#1(vines grown)	2145
+0.0357143 ##1(grown shady)	#1(grown shady)	2145
+0.318182 ##1(shady area)	#1(shady areas)	2145
+0.26087 ##uw8(information vine)	#uw8(information vines)	2145
+0.380952 ##uw8(vine grown)	#uw8(vines grown)	2145
+0.0357143 ##uw8(grown shady)	#uw8(grown shady)	2145
+0.380952 ##uw8(shady area)	#uw8(shady areas)	2145

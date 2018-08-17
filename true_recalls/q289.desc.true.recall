@@ -1,0 +1,28 @@
+0.075188 #emerge	emergence	289
+0.375 #chain	chains	289
+0.521277 #profit	profit	289
+34.75 #hospital	hospitals	289
+0.075188 #affect	affect	289
+34.75 #hospital	hospital	289
+0.232759 #industry	industry	289
+0.0514706 #provision	provision	289
+1.07246 #health	health	289
+1.55357 #care	care	289
+0.00704225 ##1(emerge chain)	#1(emergence chains)	289
+0.00704225 ##1(chain profit)	#1(chains profit)	289
+0.1 ##1(profit hospital)	#1(profit hospitals)	289
+0.00704225 ##1(hospital affect)	#1(hospitals affect)	289
+0.00704225 ##1(affect hospital)	#1(affect hospital)	289
+0.028777 ##1(hospital industry)	#1(hospital industry)	289
+0.00704225 ##1(industry provision)	#1(industry provision)	289
+0.00704225 ##1(provision health)	#1(provision health)	289
+0.537634 ##1(health care)	#1(health care)	289
+0.00704225 ##uw8(emerge chain)	#uw8(emergence chains)	289
+0.0514706 ##uw8(chain profit)	#uw8(chains profit)	289
+0.181818 ##uw8(profit hospital)	#uw8(profit hospitals)	289
+0.0214286 ##uw8(hospital affect)	#uw8(hospitals affect)	289
+0.0214286 ##uw8(affect hospital)	#uw8(affect hospital)	289
+0.0671642 ##uw8(hospital industry)	#uw8(hospital industry)	289
+0.00704225 ##uw8(industry provision)	#uw8(industry provision)	289
+0.0141844 ##uw8(provision health)	#uw8(provision health)	289
+0.554348 ##uw8(health care)	#uw8(health care)	289

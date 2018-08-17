@@ -1,0 +1,22 @@
+0.722222 #effect	Effectiveness	172
+1.06667 #medical	Medical	172
+0.631579 #product	Products	172
+0.24 #relate	Related	172
+0.722222 #program	Programs	172
+0.0333333 #utilize	Utilized	172
+0.722222 #cessation	Cessation	172
+30 #smoke	Smoking	172
+0.0333333 ##1(effect medical)	#1(Effectiveness Medical)	172
+0.0333333 ##1(medical product)	#1(Medical Products)	172
+0.0333333 ##1(product relate)	#1(Products Related)	172
+0.0333333 ##1(relate program)	#1(Related Programs)	172
+0.0333333 ##1(program utilize)	#1(Programs Utilized)	172
+0.0333333 ##1(utilize cessation)	#1(Utilized Cessation)	172
+0.0333333 ##1(cessation smoke)	#1(Cessation Smoking)	172
+0.0333333 ##uw8(effect medical)	#uw8(Effectiveness Medical)	172
+0.148148 ##uw8(medical product)	#uw8(Medical Products)	172
+0.0333333 ##uw8(product relate)	#uw8(Products Related)	172
+0.0333333 ##uw8(relate program)	#uw8(Related Programs)	172
+0.0333333 ##uw8(program utilize)	#uw8(Programs Utilized)	172
+0.0333333 ##uw8(utilize cessation)	#uw8(Utilized Cessation)	172
+0.722222 ##uw8(cessation smoke)	#uw8(Cessation Smoking)	172

@@ -1,0 +1,19 @@
+4.72727 #restrict	restrictions	714
+1.42308 #place	placed	714
+62 #old	older	714
+14.75 #person	persons	714
+2.70588 #renew	renewing	714
+62 #drive	drivers	714
+62 #license	licenses	714
+0.0677966 ##1(restrict place)	#1(restrictions placed)	714
+0.0327869 ##1(place old)	#1(placed older)	714
+0.340426 ##1(old person)	#1(older persons)	714
+0.0677966 ##1(person renew)	#1(persons renewing)	714
+0.166667 ##1(renew drive)	#1(renewing drivers)	714
+6 ##1(drive license)	#1(drivers licenses)	714
+0.3125 ##uw8(restrict place)	#uw8(restrictions placed)	714
+0.0862069 ##uw8(place old)	#uw8(placed older)	714
+1.625 ##uw8(old person)	#uw8(older persons)	714
+0.852941 ##uw8(person renew)	#uw8(persons renewing)	714
+2 ##uw8(renew drive)	#uw8(renewing drivers)	714
+30.5 ##uw8(drive license)	#uw8(drivers licenses)	714

@@ -1,0 +1,7 @@
+2 #medical	medical	380
+0.8 #treat	treatment	380
+8 #obese	obesity	380
+0.125 ##1(medical treat)	#1(medical treatment)	380
+0.125 ##1(treat obese)	#1(treatment obesity)	380
+0.125 ##uw8(medical treat)	#uw8(medical treatment)	380
+0.8 ##uw8(treat obese)	#uw8(treatment obesity)	380

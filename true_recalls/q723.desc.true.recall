@@ -1,0 +1,13 @@
+14.8571 #govern	government	723
+1.41304 #s	s	723
+0.707692 #definition	definition	723
+110 #executive	executive	723
+54.5 #privilege	privilege	723
+0.0277778 ##1(govern s)	#1(government s)	723
+0.0183486 ##1(s definition)	#1(s definition)	723
+0.00909091 ##1(definition executive)	#1(definition executive)	723
+26.75 ##1(executive privilege)	#1(executive privilege)	723
+0.193548 ##uw8(govern s)	#uw8(government s)	723
+0.0373832 ##uw8(s definition)	#uw8(s definition)	723
+0.0277778 ##uw8(definition executive)	#uw8(definition executive)	723
+26.75 ##uw8(executive privilege)	#uw8(executive privilege)	723

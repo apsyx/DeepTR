@@ -1,0 +1,13 @@
+0.847761 #method	methods	718
+7.59722 #control	control	718
+40.2667 #acid	acid	718
+21.9259 #rain	rain	718
+8.52308 #effect	effects	718
+0.00161812 ##1(method control)	#1(methods control)	718
+0.0456081 ##1(control acid)	#1(control acid)	718
+17.7576 ##1(acid rain)	#1(acid rain)	718
+0.0248344 ##1(rain effect)	#1(rain effects)	718
+0.172348 ##uw8(method control)	#uw8(methods control)	718
+0.65508 ##uw8(control acid)	#uw8(control acid)	718
+17.7576 ##uw8(acid rain)	#uw8(acid rain)	718
+0.426267 ##uw8(rain effect)	#uw8(rain effects)	718

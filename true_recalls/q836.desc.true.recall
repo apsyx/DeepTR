@@ -1,0 +1,13 @@
+1.47619 #level	level	836
+51 #wage	wages	836
+2.25 #paid	paid	836
+51 #illegal	illegal	836
+51 #immigrant	immigrants	836
+0.04 ##1(level wage)	#1(level wages)	836
+0.181818 ##1(wage paid)	#1(wages paid)	836
+0.0196078 ##1(paid illegal)	#1(paid illegal)	836
+3.72727 ##1(illegal immigrant)	#1(illegal immigrants)	836
+0.209302 ##uw8(level wage)	#uw8(level wages)	836
+0.485714 ##uw8(wage paid)	#uw8(wages paid)	836
+0.3 ##uw8(paid illegal)	#uw8(paid illegal)	836
+6.42857 ##uw8(illegal immigrant)	#uw8(illegal immigrants)	836

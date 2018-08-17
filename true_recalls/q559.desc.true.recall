@@ -1,0 +1,22 @@
+1.5 #local	local	559
+2.63636 #commune	community	559
+39 #volunteer	volunteer	559
+9 #program	programs	559
+1.22222 #federal	federal	559
+1 #govern	government	559
+3 #provide	provides	559
+1.85714 #resource	resources	559
+0.176471 ##1(local commune)	#1(local community)	559
+0.176471 ##1(commune volunteer)	#1(community volunteer)	559
+0.666667 ##1(volunteer program)	#1(volunteer programs)	559
+0.025641 ##1(program federal)	#1(programs federal)	559
+0.333333 ##1(federal govern)	#1(federal government)	559
+0.025641 ##1(govern provide)	#1(government provides)	559
+0.025641 ##1(provide resource)	#1(provides resources)	559
+0.481481 ##uw8(local commune)	#uw8(local community)	559
+0.538462 ##uw8(commune volunteer)	#uw8(community volunteer)	559
+2.33333 ##uw8(volunteer program)	#uw8(volunteer programs)	559
+0.212121 ##uw8(program federal)	#uw8(programs federal)	559
+0.333333 ##uw8(federal govern)	#uw8(federal government)	559
+0.212121 ##uw8(govern provide)	#uw8(government provides)	559
+0.25 ##uw8(provide resource)	#uw8(provides resources)	559

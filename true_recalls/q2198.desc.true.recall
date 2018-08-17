@@ -1,0 +1,13 @@
+2.54545 #event	events	2198
+0.5 #held	held	2198
+38 #indiana	Indiana	2198
+38 #state	State	2198
+38 #fairground	Fairgrounds	2198
+0.114286 ##1(event held)	#1(events held)	2198
+0.0263158 ##1(held indiana)	#1(held Indiana)	2198
+38 ##1(indiana state)	#1(Indiana State)	2198
+12 ##1(state fairground)	#1(State Fairgrounds)	2198
+0.147059 ##uw8(event held)	#uw8(events held)	2198
+0.181818 ##uw8(held indiana)	#uw8(held Indiana)	2198
+38 ##uw8(indiana state)	#uw8(Indiana State)	2198
+38 ##uw8(state fairground)	#uw8(State Fairgrounds)	2198

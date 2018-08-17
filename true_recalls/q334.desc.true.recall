@@ -1,0 +1,25 @@
+0.375 #determine	Determine	334
+0.222222 #useful	usefulness	334
+0.833333 #effect	effectiveness	334
+0.375 #continue	continuing	334
+0.375 #maintain	maintain	334
+2.66667 #export	export	334
+1.75 #control	controls	334
+10 #encryption	encryption	334
+1.75 #software	software	334
+0.1 ##1(determine useful)	#1(Determine usefulness)	334
+0.1 ##1(useful effect)	#1(usefulness effectiveness)	334
+0.1 ##1(effect continue)	#1(effectiveness continuing)	334
+0.1 ##1(continue maintain)	#1(continuing maintain)	334
+0.1 ##1(maintain export)	#1(maintain export)	334
+1.2 ##1(export control)	#1(export controls)	334
+0.1 ##1(control encryption)	#1(controls encryption)	334
+0.222222 ##1(encryption software)	#1(encryption software)	334
+0.1 ##uw8(determine useful)	#uw8(Determine usefulness)	334
+0.1 ##uw8(useful effect)	#uw8(usefulness effectiveness)	334
+0.1 ##uw8(effect continue)	#uw8(effectiveness continuing)	334
+0.1 ##uw8(continue maintain)	#uw8(continuing maintain)	334
+0.1 ##uw8(maintain export)	#uw8(maintain export)	334
+1.2 ##uw8(export control)	#uw8(export controls)	334
+0.833333 ##uw8(control encryption)	#uw8(controls encryption)	334
+0.375 ##uw8(encryption software)	#uw8(encryption software)	334

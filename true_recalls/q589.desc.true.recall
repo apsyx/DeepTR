@@ -1,0 +1,16 @@
+2.22857 #study	studies	589
+4.13636 #service	services	589
+0.569444 #offer	offered	589
+10.3 #mental	mental	589
+1.56818 #ill	illness	589
+6.53333 #adolescent	adolescents	589
+0.018018 ##1(study service)	#1(studies services)	589
+0.00892857 ##1(service offer)	#1(services offered)	589
+0.0366972 ##1(offer mental)	#1(offered mental)	589
+0.852459 ##1(mental ill)	#1(mental illness)	589
+0.00892857 ##1(ill adolescent)	#1(illness adolescents)	589
+0.177083 ##uw8(study service)	#uw8(studies services)	589
+0.0560748 ##uw8(service offer)	#uw8(services offered)	589
+0.107843 ##uw8(offer mental)	#uw8(offered mental)	589
+0.915254 ##uw8(mental ill)	#uw8(mental illness)	589
+0.164948 ##uw8(ill adolescent)	#uw8(illness adolescents)	589

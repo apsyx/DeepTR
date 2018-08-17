@@ -1,0 +1,31 @@
+4.33333 #abuse	Abuse	181
+2.2 #elder	Elderly	181
+1.28571 #family	Family	181
+0.6 #member	Members	181
+1 #medical	Medical	181
+0.0666667 #nonmedic	Nonmedical	181
+0.142857 #personnel	Personnel	181
+0.142857 #initiate	Initiatives	181
+0.454545 #taken	Taken	181
+0.0666667 #minimize	Minimize	181
+0.230769 #mistreatment	Mistreatment	181
+0.142857 ##1(abuse elder)	#1(Abuse Elderly)	181
+0.0666667 ##1(elder family)	#1(Elderly Family)	181
+0.230769 ##1(family member)	#1(Family Members)	181
+0.0666667 ##1(member medical)	#1(Members Medical)	181
+0.0666667 ##1(medical nonmedic)	#1(Medical Nonmedical)	181
+0.0666667 ##1(nonmedic personnel)	#1(Nonmedical Personnel)	181
+0.0666667 ##1(personnel initiate)	#1(Personnel Initiatives)	181
+0.0666667 ##1(initiate taken)	#1(Initiatives Taken)	181
+0.0666667 ##1(taken minimize)	#1(Taken Minimize)	181
+0.0666667 ##1(minimize mistreatment)	#1(Minimize Mistreatment)	181
+0.6 ##uw8(abuse elder)	#uw8(Abuse Elderly)	181
+0.333333 ##uw8(elder family)	#uw8(Elderly Family)	181
+0.230769 ##uw8(family member)	#uw8(Family Members)	181
+0.0666667 ##uw8(member medical)	#uw8(Members Medical)	181
+0.0666667 ##uw8(medical nonmedic)	#uw8(Medical Nonmedical)	181
+0.0666667 ##uw8(nonmedic personnel)	#uw8(Nonmedical Personnel)	181
+0.0666667 ##uw8(personnel initiate)	#uw8(Personnel Initiatives)	181
+0.0666667 ##uw8(initiate taken)	#uw8(Initiatives Taken)	181
+0.0666667 ##uw8(taken minimize)	#uw8(Taken Minimize)	181
+0.0666667 ##uw8(minimize mistreatment)	#uw8(Minimize Mistreatment)	181

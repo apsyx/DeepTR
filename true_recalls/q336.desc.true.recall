@@ -1,0 +1,37 @@
+0.0769231 #relevant	relevant	336
+0.272727 #document	document	336
+0.0769231 #discuss	discuss	336
+0.555556 #frequent	frequency	336
+0.0769231 #vicious	vicious	336
+0.4 #black	black	336
+13 #bear	bear	336
+0.272727 #attack	attacks	336
+0.272727 #worldwide	worldwide	336
+0.4 #possible	possible	336
+1.33333 #cause	causes	336
+0.0769231 #savage	savage	336
+0.0769231 #behavior	behavior	336
+0.0769231 ##1(relevant document)	#1(relevant document)	336
+0.0769231 ##1(document discuss)	#1(document discuss)	336
+0.0769231 ##1(discuss frequent)	#1(discuss frequency)	336
+0.0769231 ##1(frequent vicious)	#1(frequency vicious)	336
+0.0769231 ##1(vicious black)	#1(vicious black)	336
+0.4 ##1(black bear)	#1(black bear)	336
+0.272727 ##1(bear attack)	#1(bear attacks)	336
+0.0769231 ##1(attack worldwide)	#1(attacks worldwide)	336
+0.0769231 ##1(worldwide possible)	#1(worldwide possible)	336
+0.0769231 ##1(possible cause)	#1(possible causes)	336
+0.0769231 ##1(cause savage)	#1(causes savage)	336
+0.0769231 ##1(savage behavior)	#1(savage behavior)	336
+0.0769231 ##uw8(relevant document)	#uw8(relevant document)	336
+0.0769231 ##uw8(document discuss)	#uw8(document discuss)	336
+0.0769231 ##uw8(discuss frequent)	#uw8(discuss frequency)	336
+0.0769231 ##uw8(frequent vicious)	#uw8(frequency vicious)	336
+0.0769231 ##uw8(vicious black)	#uw8(vicious black)	336
+0.4 ##uw8(black bear)	#uw8(black bear)	336
+0.272727 ##uw8(bear attack)	#uw8(bear attacks)	336
+0.0769231 ##uw8(attack worldwide)	#uw8(attacks worldwide)	336
+0.0769231 ##uw8(worldwide possible)	#uw8(worldwide possible)	336
+0.0769231 ##uw8(possible cause)	#uw8(possible causes)	336
+0.0769231 ##uw8(cause savage)	#uw8(causes savage)	336
+0.0769231 ##uw8(savage behavior)	#uw8(savage behavior)	336

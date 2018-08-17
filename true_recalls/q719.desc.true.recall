@@ -1,0 +1,28 @@
+0.304527 #kind	kinds	719
+0.488263 #harm	harm	719
+6.925 #cruise	cruise	719
+27.8182 #ship	ships	719
+2.77381 #sea	sea	719
+1.24823 #life	life	719
+0.801136 #coral	coral	719
+0.87574 #reef	reefs	719
+0.509524 #extent	extent	719
+1.75652 #damage	damage	719
+0.00316456 ##1(kind harm)	#1(kinds harm)	719
+0.00316456 ##1(harm cruise)	#1(harm cruise)	719
+3.0641 ##1(cruise ship)	#1(cruise ships)	719
+0.00316456 ##1(ship sea)	#1(ships sea)	719
+0.0893471 ##1(sea life)	#1(sea life)	719
+0.00316456 ##1(life coral)	#1(life coral)	719
+0.741758 ##1(coral reef)	#1(coral reefs)	719
+0.00634921 ##1(reef extent)	#1(reefs extent)	719
+0.00316456 ##1(extent damage)	#1(extent damage)	719
+0.00316456 ##uw8(kind harm)	#uw8(kinds harm)	719
+0.02589 ##uw8(harm cruise)	#uw8(harm cruise)	719
+3.66176 ##uw8(cruise ship)	#uw8(cruise ships)	719
+0.283401 ##uw8(ship sea)	#uw8(ships sea)	719
+0.252964 ##uw8(sea life)	#uw8(sea life)	719
+0.0566667 ##uw8(life coral)	#uw8(life coral)	719
+0.751381 ##uw8(coral reef)	#uw8(coral reefs)	719
+0.0427632 ##uw8(reef extent)	#uw8(reefs extent)	719
+0.0673401 ##uw8(extent damage)	#uw8(extent damage)	719

@@ -1,0 +1,16 @@
+0.0933333 #status	status	375
+2.90476 #research	research	375
+1.64516 #hydrogen	hydrogen	375
+0.15493 #feasible	feasible	375
+8.11111 #energy	energy	375
+1.15789 #source	source	375
+0.0123457 ##1(status research)	#1(status research)	375
+0.025 ##1(research hydrogen)	#1(research hydrogen)	375
+0.0123457 ##1(hydrogen feasible)	#1(hydrogen feasible)	375
+0.0123457 ##1(feasible energy)	#1(feasible energy)	375
+0.344262 ##1(energy source)	#1(energy source)	375
+0.0123457 ##uw8(status research)	#uw8(status research)	375
+0.123288 ##uw8(research hydrogen)	#uw8(research hydrogen)	375
+0.0123457 ##uw8(hydrogen feasible)	#uw8(hydrogen feasible)	375
+0.0123457 ##uw8(feasible energy)	#uw8(feasible energy)	375
+0.54717 ##uw8(energy source)	#uw8(energy source)	375

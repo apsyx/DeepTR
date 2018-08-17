@@ -1,0 +1,13 @@
+0.5 #phrase	phrase	2131
+5 #equal	equal	2131
+5 #opportune	opportunity	2131
+2 #employer	employer	2131
+1 #mean	mean	2131
+0.2 ##1(phrase equal)	#1(phrase equal)	2131
+2 ##1(equal opportune)	#1(equal opportunity)	2131
+1 ##1(opportune employer)	#1(opportunity employer)	2131
+0.2 ##1(employer mean)	#1(employer mean)	2131
+0.2 ##uw8(phrase equal)	#uw8(phrase equal)	2131
+5 ##uw8(equal opportune)	#uw8(equal opportunity)	2131
+1 ##uw8(opportune employer)	#uw8(opportunity employer)	2131
+0.2 ##uw8(employer mean)	#uw8(employer mean)	2131

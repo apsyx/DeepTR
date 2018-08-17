@@ -1,0 +1,25 @@
+0.129412 #account	accounts	442
+0.0666667 #selfless	selfless	442
+0.714286 #heroic	heroic	442
+0.548387 #act	acts	442
+0.0909091 #individual	individuals	442
+0.21519 #small	small	442
+0.21519 #group	groups	442
+0.0666667 #benefit	benefit	442
+0.263158 #cause	cause	442
+0.0105263 ##1(account selfless)	#1(accounts selfless)	442
+0.0105263 ##1(selfless heroic)	#1(selfless heroic)	442
+0.0549451 ##1(heroic act)	#1(heroic acts)	442
+0.0105263 ##1(act individual)	#1(acts individuals)	442
+0.0105263 ##1(individual small)	#1(individuals small)	442
+0.0212766 ##1(small group)	#1(small groups)	442
+0.0105263 ##1(group benefit)	#1(groups benefit)	442
+0.0105263 ##1(benefit cause)	#1(benefit cause)	442
+0.0105263 ##uw8(account selfless)	#uw8(accounts selfless)	442
+0.0105263 ##uw8(selfless heroic)	#uw8(selfless heroic)	442
+0.0666667 ##uw8(heroic act)	#uw8(heroic acts)	442
+0.0105263 ##uw8(act individual)	#uw8(acts individuals)	442
+0.0105263 ##uw8(individual small)	#uw8(individuals small)	442
+0.0212766 ##uw8(small group)	#uw8(small groups)	442
+0.0105263 ##uw8(group benefit)	#uw8(groups benefit)	442
+0.0105263 ##uw8(benefit cause)	#uw8(benefit cause)	442

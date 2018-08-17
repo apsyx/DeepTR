@@ -1,0 +1,10 @@
+0.266667 #estrogen	estrogen	356
+0.0555556 #postmenopausal	postmenopausal	356
+1.375 #women	women	356
+0.9 #britain	Britain	356
+0.0555556 ##1(estrogen postmenopausal)	#1(estrogen postmenopausal)	356
+0.0555556 ##1(postmenopausal women)	#1(postmenopausal women)	356
+0.0555556 ##1(women britain)	#1(women Britain)	356
+0.0555556 ##uw8(estrogen postmenopausal)	#uw8(estrogen postmenopausal)	356
+0.0555556 ##uw8(postmenopausal women)	#uw8(postmenopausal women)	356
+0.0555556 ##uw8(women britain)	#uw8(women Britain)	356

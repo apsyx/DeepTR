@@ -1,0 +1,10 @@
+0.2 #origin	origin	461
+0.5 #operate	operation	461
+5 #lava	lava	461
+5 #lamp	lamps	461
+0.2 ##1(origin operate)	#1(origin operation)	461
+0.2 ##1(operate lava)	#1(operation lava)	461
+5 ##1(lava lamp)	#1(lava lamps)	461
+0.2 ##uw8(origin operate)	#uw8(origin operation)	461
+0.2 ##uw8(operate lava)	#uw8(operation lava)	461
+5 ##uw8(lava lamp)	#uw8(lava lamps)	461

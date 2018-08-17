@@ -1,0 +1,25 @@
+1.2 #big	big	497
+10 #orchid	orchid	497
+2.66667 #grow	growing	497
+0.1 #industry	industry	497
+0.571429 #major	major	497
+2.66667 #grow	growers	497
+1.2 #big	big	497
+0.1 #industry	industry	497
+0.1 #dollar	dollars	497
+0.1 ##1(big orchid)	#1(big orchid)	497
+0.571429 ##1(orchid grow)	#1(orchid growing)	497
+0.1 ##1(grow industry)	#1(growing industry)	497
+0.1 ##1(industry major)	#1(industry major)	497
+0.1 ##1(major grow)	#1(major growers)	497
+0.1 ##1(grow big)	#1(growers big)	497
+0.1 ##1(big industry)	#1(big industry)	497
+0.1 ##1(industry dollar)	#1(industry dollars)	497
+0.833333 ##uw8(big orchid)	#uw8(big orchid)	497
+0.833333 ##uw8(orchid grow)	#uw8(orchid growing)	497
+0.1 ##uw8(grow industry)	#uw8(growing industry)	497
+0.1 ##uw8(industry major)	#uw8(industry major)	497
+0.1 ##uw8(major grow)	#uw8(major growers)	497
+0.1 ##uw8(grow big)	#uw8(growers big)	497
+0.1 ##uw8(big industry)	#uw8(big industry)	497
+0.1 ##uw8(industry dollar)	#uw8(industry dollars)	497

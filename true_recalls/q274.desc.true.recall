@@ -1,0 +1,13 @@
+0.110092 #latest	latest	274
+4.26087 #develop	developments	274
+1.88095 #product	production	274
+120 #electric	electric	274
+0.273684 #automobile	automobiles	274
+0.00833333 ##1(latest develop)	#1(latest developments)	274
+0.0168067 ##1(develop product)	#1(developments production)	274
+0.0168067 ##1(product electric)	#1(production electric)	274
+0.0254237 ##1(electric automobile)	#1(electric automobiles)	274
+0.00833333 ##uw8(latest develop)	#uw8(latest developments)	274
+0.0900901 ##uw8(develop product)	#uw8(developments production)	274
+0.152381 ##uw8(product electric)	#uw8(production electric)	274
+0.1 ##uw8(electric automobile)	#uw8(electric automobiles)	274

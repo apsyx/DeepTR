@@ -1,0 +1,19 @@
+0.78 #business	businesses	687
+1.17073 #industry	industries	687
+0.171053 #form	form	687
+0.219178 #basis	basis	687
+0.412698 #economy	economy	687
+88 #northern	Northern	687
+88 #ireland	Ireland	687
+0.0113636 ##1(business industry)	#1(businesses industries)	687
+0.0113636 ##1(industry form)	#1(industries form)	687
+0.0113636 ##1(form basis)	#1(form basis)	687
+0.0113636 ##1(basis economy)	#1(basis economy)	687
+0.0113636 ##1(economy northern)	#1(economy Northern)	687
+88 ##1(northern ireland)	#1(Northern Ireland)	687
+0.0470588 ##uw8(business industry)	#uw8(businesses industries)	687
+0.0113636 ##uw8(industry form)	#uw8(industries form)	687
+0.0229885 ##uw8(form basis)	#uw8(form basis)	687
+0.0113636 ##uw8(basis economy)	#uw8(basis economy)	687
+0.141026 ##uw8(economy northern)	#uw8(economy Northern)	687
+88 ##uw8(northern ireland)	#uw8(Northern Ireland)	687

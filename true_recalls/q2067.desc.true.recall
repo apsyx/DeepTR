@@ -1,0 +1,16 @@
+38 #vldl	VLDL	2067
+8.75 #low	low	2067
+5.5 #dense	density	2067
+38 #lipoprotein	lipoprotein	2067
+3.875 #type	type	2067
+8.75 #cholesterol	cholesterol	2067
+0.0833333 ##1(vldl low)	#1(VLDL low)	2067
+5.5 ##1(low dense)	#1(low density)	2067
+4.57143 ##1(dense lipoprotein)	#1(density lipoprotein)	2067
+0.0263158 ##1(lipoprotein type)	#1(lipoprotein type)	2067
+0.0540541 ##1(type cholesterol)	#1(type cholesterol)	2067
+2.54545 ##uw8(vldl low)	#uw8(VLDL low)	2067
+5.5 ##uw8(low dense)	#uw8(low density)	2067
+4.57143 ##uw8(dense lipoprotein)	#uw8(density lipoprotein)	2067
+1.29412 ##uw8(lipoprotein type)	#uw8(lipoprotein type)	2067
+0.625 ##uw8(type cholesterol)	#uw8(type cholesterol)	2067

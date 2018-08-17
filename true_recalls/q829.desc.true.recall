@@ -1,0 +1,25 @@
+0.130435 #kind	kinds	829
+0.368421 #material	material	829
+1.6 #international	international	829
+0.733333 #support	support	829
+1 #provide	provided	829
+0.238095 #side	side	829
+25 #spain	Spanish	829
+25 #civil	Civil	829
+25 #war	War	829
+0.04 ##1(kind material)	#1(kinds material)	829
+0.04 ##1(material international)	#1(material international)	829
+0.04 ##1(international support)	#1(international support)	829
+0.04 ##1(support provide)	#1(support provided)	829
+0.04 ##1(provide side)	#1(provided side)	829
+0.04 ##1(side spain)	#1(side Spanish)	829
+25 ##1(spain civil)	#1(Spanish Civil)	829
+25 ##1(civil war)	#1(Civil War)	829
+0.04 ##uw8(kind material)	#uw8(kinds material)	829
+0.0833333 ##uw8(material international)	#uw8(material international)	829
+0.0833333 ##uw8(international support)	#uw8(international support)	829
+0.0833333 ##uw8(support provide)	#uw8(support provided)	829
+0.0833333 ##uw8(provide side)	#uw8(provided side)	829
+0.0833333 ##uw8(side spain)	#uw8(side Spanish)	829
+25 ##uw8(spain civil)	#uw8(Spanish Civil)	829
+25 ##uw8(civil war)	#uw8(Civil War)	829

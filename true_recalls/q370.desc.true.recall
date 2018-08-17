@@ -1,0 +1,19 @@
+0.21147 #law	laws	370
+0.0833333 #deal	dealing	370
+0.362903 #quality	quality	370
+0.778947 #process	processing	370
+11.5185 #food	food	370
+0.0529595 #beverage	beverages	370
+2.31373 #drug	drugs	370
+0.00296736 ##1(law deal)	#1(laws dealing)	370
+0.00296736 ##1(deal quality)	#1(dealing quality)	370
+0.00296736 ##1(quality process)	#1(quality processing)	370
+0.0496894 ##1(process food)	#1(processing food)	370
+0.00595238 ##1(food beverage)	#1(food beverages)	370
+0.00296736 ##1(beverage drug)	#1(beverages drugs)	370
+0.00296736 ##uw8(law deal)	#uw8(laws dealing)	370
+0.00296736 ##uw8(deal quality)	#uw8(dealing quality)	370
+0.015015 ##uw8(quality process)	#uw8(quality processing)	370
+0.157534 ##uw8(process food)	#uw8(processing food)	370
+0.021148 ##uw8(food beverage)	#uw8(food beverages)	370
+0.00296736 ##uw8(beverage drug)	#uw8(beverages drugs)	370

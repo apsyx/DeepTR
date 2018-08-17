@@ -1,0 +1,7 @@
+0.644628 #support	support	235
+6.65385 #legal	legalizing	235
+7.65217 #drug	drugs	235
+0.0257732 ##1(support legal)	#1(support legalizing)	235
+0.213415 ##1(legal drug)	#1(legalizing drugs)	235
+0.111732 ##uw8(support legal)	#uw8(support legalizing)	235
+0.970297 ##uw8(legal drug)	#uw8(legalizing drugs)	235

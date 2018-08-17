@@ -1,0 +1,13 @@
+0.26087 #effect	effect	693
+6.25 #electronic	electronic	693
+3.83333 #media	media	693
+28 #newspaper	newspaper	693
+0.526316 #industry	industry	693
+0.0357143 ##1(effect electronic)	#1(effect electronic)	693
+0.526316 ##1(electronic media)	#1(electronic media)	693
+0.0357143 ##1(media newspaper)	#1(media newspaper)	693
+0.208333 ##1(newspaper industry)	#1(newspaper industry)	693
+0.0357143 ##uw8(effect electronic)	#uw8(effect electronic)	693
+0.611111 ##uw8(electronic media)	#uw8(electronic media)	693
+0.526316 ##uw8(media newspaper)	#uw8(media newspaper)	693
+0.318182 ##uw8(newspaper industry)	#uw8(newspaper industry)	693

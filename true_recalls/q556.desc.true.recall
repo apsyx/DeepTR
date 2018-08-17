@@ -1,0 +1,13 @@
+0.166667 #purpose	purposes	556
+1.8 #federal	federal	556
+0.272727 #govern	government	556
+1 #purchase	purchase	556
+13 #food	food	556
+0.0769231 ##1(purpose federal)	#1(purposes federal)	556
+0.0769231 ##1(federal govern)	#1(federal government)	556
+0.0769231 ##1(govern purchase)	#1(government purchase)	556
+0.272727 ##1(purchase food)	#1(purchase food)	556
+0.0769231 ##uw8(purpose federal)	#uw8(purposes federal)	556
+0.0769231 ##uw8(federal govern)	#uw8(federal government)	556
+0.0769231 ##uw8(govern purchase)	#uw8(government purchase)	556
+1 ##uw8(purchase food)	#uw8(purchase food)	556

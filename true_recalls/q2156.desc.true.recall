@@ -1,0 +1,13 @@
+65.0001 #online	online	2156
+32 #program	programs	2156
+1.75 #offer	offered	2156
+65.0001 #university	University	2156
+65.0001 #phoenix	Phoenix	2156
+0.178571 ##1(online program)	#1(online programs)	2156
+0.2 ##1(program offer)	#1(programs offered)	2156
+0.0153846 ##1(offer university)	#1(offered University)	2156
+0.047619 ##1(university phoenix)	#1(University Phoenix)	2156
+4.5 ##uw8(online program)	#uw8(online programs)	2156
+1.12903 ##uw8(program offer)	#uw8(programs offered)	2156
+1.35714 ##uw8(offer university)	#uw8(offered University)	2156
+65.0001 ##uw8(university phoenix)	#uw8(University Phoenix)	2156

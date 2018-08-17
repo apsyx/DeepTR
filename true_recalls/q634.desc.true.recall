@@ -1,0 +1,25 @@
+2.25 #death	deaths	634
+0.181818 #attribute	attributed	634
+3.33333 #have	having	634
+1.16667 #taken	taken	634
+0.0833333 #taint	tainted	634
+5.5 #l	L	634
+12 #tryptophan	tryptophan	634
+3.33333 #dietary	dietary	634
+12 #supplement	supplements	634
+0.0833333 ##1(death attribute)	#1(deaths attributed)	634
+0.0833333 ##1(attribute have)	#1(attributed having)	634
+0.181818 ##1(have taken)	#1(having taken)	634
+0.0833333 ##1(taken taint)	#1(taken tainted)	634
+0.0833333 ##1(taint l)	#1(tainted L)	634
+5.5 ##1(l tryptophan)	#1(L tryptophan)	634
+0.0833333 ##1(tryptophan dietary)	#1(tryptophan dietary)	634
+2.25 ##1(dietary supplement)	#1(dietary supplements)	634
+0.0833333 ##uw8(death attribute)	#uw8(deaths attributed)	634
+0.0833333 ##uw8(attribute have)	#uw8(attributed having)	634
+0.3 ##uw8(have taken)	#uw8(having taken)	634
+0.0833333 ##uw8(taken taint)	#uw8(taken tainted)	634
+0.0833333 ##uw8(taint l)	#uw8(tainted L)	634
+5.5 ##uw8(l tryptophan)	#uw8(L tryptophan)	634
+0.857143 ##uw8(tryptophan dietary)	#uw8(tryptophan dietary)	634
+2.25 ##uw8(dietary supplement)	#uw8(dietary supplements)	634

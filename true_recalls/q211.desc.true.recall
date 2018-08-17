@@ -1,0 +1,55 @@
+0.377119 #effect	effective	211
+19.3125 #drive	driving	211
+0.3 #intoxicate	intoxicated	211
+0.031746 #dwi	DWI	211
+0.116838 #regulate	regulations	211
+0.245211 #number	number	211
+0.484018 #death	deaths	211
+0.342975 #cause	caused	211
+0.031746 #dwi	DWI	211
+0.109215 #significant	significantly	211
+0.152482 #lower	lowered	211
+0.00308642 #aren	aren	211
+0.0517799 #t	t	211
+0.199262 #penalty	penalties	211
+0.00931677 #harsh	harsh	211
+0.031746 #dwi	DWI	211
+19.3125 #drive	drivers	211
+0.0690789 #sober	sober	211
+19.3125 #drive	driver	211
+0.00308642 ##1(effect drive)	#1(effective driving)	211
+0.00619195 ##1(drive intoxicate)	#1(driving intoxicated)	211
+0.00619195 ##1(intoxicate dwi)	#1(intoxicated DWI)	211
+0.00308642 ##1(dwi regulate)	#1(DWI regulations)	211
+0.00308642 ##1(regulate number)	#1(regulations number)	211
+0.00308642 ##1(number death)	#1(number deaths)	211
+0.00308642 ##1(death cause)	#1(deaths caused)	211
+0.00308642 ##1(cause dwi)	#1(caused DWI)	211
+0.00308642 ##1(dwi significant)	#1(DWI significantly)	211
+0.00308642 ##1(significant lower)	#1(significantly lowered)	211
+0.00308642 ##1(lower aren)	#1(lowered aren)	211
+0.00308642 ##1(aren t)	#1(aren t)	211
+0.00308642 ##1(t penalty)	#1(t penalties)	211
+0.00308642 ##1(penalty harsh)	#1(penalties harsh)	211
+0.00308642 ##1(harsh dwi)	#1(harsh DWI)	211
+0.00931677 ##1(dwi drive)	#1(DWI drivers)	211
+0.00308642 ##1(drive sober)	#1(drivers sober)	211
+0.00308642 ##1(sober drive)	#1(sober driver)	211
+0.0620915 ##uw8(effect drive)	#uw8(effective driving)	211
+0.128472 ##uw8(drive intoxicate)	#uw8(driving intoxicated)	211
+0.00931677 ##uw8(intoxicate dwi)	#uw8(intoxicated DWI)	211
+0.00308642 ##uw8(dwi regulate)	#uw8(DWI regulations)	211
+0.0124611 ##uw8(regulate number)	#uw8(regulations number)	211
+0.0350318 ##uw8(number death)	#uw8(number deaths)	211
+0.0655738 ##uw8(death cause)	#uw8(deaths caused)	211
+0.00308642 ##uw8(cause dwi)	#uw8(caused DWI)	211
+0.00308642 ##uw8(dwi significant)	#uw8(DWI significantly)	211
+0.00308642 ##uw8(significant lower)	#uw8(significantly lowered)	211
+0.00308642 ##uw8(lower aren)	#uw8(lowered aren)	211
+0.00308642 ##uw8(aren t)	#uw8(aren t)	211
+0.00308642 ##uw8(t penalty)	#uw8(t penalties)	211
+0.00931677 ##uw8(penalty harsh)	#uw8(penalties harsh)	211
+0.00308642 ##uw8(harsh dwi)	#uw8(harsh DWI)	211
+0.0124611 ##uw8(dwi drive)	#uw8(DWI drivers)	211
+0.00931677 ##uw8(drive sober)	#uw8(drivers sober)	211
+0.00931677 ##uw8(sober drive)	#uw8(sober driver)	211

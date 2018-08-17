@@ -1,0 +1,13 @@
+19 #tmj	TMJ	496
+1.22222 #syndrome	syndrome	496
+2.33333 #cause	causes	496
+1.22222 #symptom	symptoms	496
+3 #treat	treatment	496
+0.176471 ##1(tmj syndrome)	#1(TMJ syndrome)	496
+0.0526316 ##1(syndrome cause)	#1(syndrome causes)	496
+0.0526316 ##1(cause symptom)	#1(causes symptoms)	496
+0.0526316 ##1(symptom treat)	#1(symptoms treatment)	496
+0.428571 ##uw8(tmj syndrome)	#uw8(TMJ syndrome)	496
+0.333333 ##uw8(syndrome cause)	#uw8(syndrome causes)	496
+0.111111 ##uw8(cause symptom)	#uw8(causes symptoms)	496
+0.333333 ##uw8(symptom treat)	#uw8(symptoms treatment)	496

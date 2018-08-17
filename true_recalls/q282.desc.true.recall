@@ -1,0 +1,13 @@
+0.430108 #violent	violent	282
+1.25424 #juvenile	juvenile	282
+1.07812 #crime	crime	282
+0.0555556 #global	global	282
+0.430108 #issue	issue	282
+0.0390625 ##1(violent juvenile)	#1(violent juvenile)	282
+0.108333 ##1(juvenile crime)	#1(juvenile crime)	282
+0.00757576 ##1(crime global)	#1(crime global)	282
+0.00757576 ##1(global issue)	#1(global issue)	282
+0.108333 ##uw8(violent juvenile)	#uw8(violent juvenile)	282
+0.1875 ##uw8(juvenile crime)	#uw8(juvenile crime)	282
+0.00757576 ##uw8(crime global)	#uw8(crime global)	282
+0.00757576 ##uw8(global issue)	#uw8(global issue)	282

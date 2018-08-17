@@ -1,0 +1,16 @@
+1.48936 #illicit	Illicit	766
+1.72093 #activity	activity	766
+1.81928 #involve	involving	766
+232.998 #diamond	diamonds	766
+232.998 #diamond	diamond	766
+2.44118 #smuggle	smuggling	766
+0.0934579 ##1(illicit activity)	#1(Illicit activity)	766
+0.0173913 ##1(activity involve)	#1(activity involving)	766
+0.00429185 ##1(involve diamond)	#1(involving diamonds)	766
+0.04 ##1(diamond diamond)	#1(diamonds diamond)	766
+0.285714 ##1(diamond smuggle)	#1(diamond smuggling)	766
+0.141463 ##uw8(illicit activity)	#uw8(Illicit activity)	766
+0.130435 ##uw8(activity involve)	#uw8(activity involving)	766
+0.206186 ##uw8(involve diamond)	#uw8(involving diamonds)	766
+232.998 ##uw8(diamond diamond)	#uw8(diamonds diamond)	766
+0.8 ##uw8(diamond smuggle)	#uw8(diamond smuggling)	766

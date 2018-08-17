@@ -1,0 +1,52 @@
+0.362963 #theft	theft	311
+0.304965 #trade	trade	311
+2.11864 #secret	secrets	311
+0.115152 #source	sources	311
+0.916667 #information	information	311
+0.304965 #trade	trade	311
+0.00546448 #journal	journals	311
+0.546219 #business	business	311
+0.415385 #meet	meetings	311
+0.460317 #data	data	311
+0.0514286 #patent	Patent	311
+0.586207 #office	Offices	311
+0.304965 #trade	trade	311
+0.260274 #show	shows	311
+0.027933 #analysis	analysis	311
+0.121951 #competitor	competitor	311
+0.0454545 #s	s	311
+1.35897 #product	products	311
+0.00546448 ##1(theft trade)	#1(theft trade)	311
+0.101796 ##1(trade secret)	#1(trade secrets)	311
+0.00546448 ##1(secret source)	#1(secrets sources)	311
+0.00546448 ##1(source information)	#1(sources information)	311
+0.00546448 ##1(information trade)	#1(information trade)	311
+0.00546448 ##1(trade journal)	#1(trade journals)	311
+0.00546448 ##1(journal business)	#1(journals business)	311
+0.010989 ##1(business meet)	#1(business meetings)	311
+0.00546448 ##1(meet data)	#1(meetings data)	311
+0.00546448 ##1(data patent)	#1(data Patent)	311
+0.00546448 ##1(patent office)	#1(Patent Offices)	311
+0.00546448 ##1(office trade)	#1(Offices trade)	311
+0.010989 ##1(trade show)	#1(trade shows)	311
+0.00546448 ##1(show analysis)	#1(shows analysis)	311
+0.00546448 ##1(analysis competitor)	#1(analysis competitor)	311
+0.00546448 ##1(competitor s)	#1(competitor s)	311
+0.00546448 ##1(s product)	#1(s products)	311
+0.0514286 ##uw8(theft trade)	#uw8(theft trade)	311
+0.115152 ##uw8(trade secret)	#uw8(trade secrets)	311
+0.00546448 ##uw8(secret source)	#uw8(secrets sources)	311
+0.00546448 ##uw8(source information)	#uw8(sources information)	311
+0.0222222 ##uw8(information trade)	#uw8(information trade)	311
+0.00546448 ##uw8(trade journal)	#uw8(trade journals)	311
+0.00546448 ##uw8(journal business)	#uw8(journals business)	311
+0.0222222 ##uw8(business meet)	#uw8(business meetings)	311
+0.0165746 ##uw8(meet data)	#uw8(meetings data)	311
+0.010989 ##uw8(data patent)	#uw8(data Patent)	311
+0.00546448 ##uw8(patent office)	#uw8(Patent Offices)	311
+0.00546448 ##uw8(office trade)	#uw8(Offices trade)	311
+0.010989 ##uw8(trade show)	#uw8(trade shows)	311
+0.00546448 ##uw8(show analysis)	#uw8(shows analysis)	311
+0.00546448 ##uw8(analysis competitor)	#uw8(analysis competitor)	311
+0.00546448 ##uw8(competitor s)	#uw8(competitor s)	311
+0.010989 ##uw8(s product)	#uw8(s products)	311

@@ -1,0 +1,13 @@
+0.102564 #history	history	616
+0.131579 #extent	extent	616
+42 #volkswagen	Volkswagen	616
+2.90909 #product	production	616
+42 #mexico	Mexico	616
+0.0238095 ##1(history extent)	#1(history extent)	616
+0.0238095 ##1(extent volkswagen)	#1(extent Volkswagen)	616
+0.0238095 ##1(volkswagen product)	#1(Volkswagen production)	616
+0.0238095 ##1(product mexico)	#1(production Mexico)	616
+0.0238095 ##uw8(history extent)	#uw8(history extent)	616
+0.0238095 ##uw8(extent volkswagen)	#uw8(extent Volkswagen)	616
+0.075 ##uw8(volkswagen product)	#uw8(Volkswagen production)	616
+0.34375 ##uw8(product mexico)	#uw8(production Mexico)	616

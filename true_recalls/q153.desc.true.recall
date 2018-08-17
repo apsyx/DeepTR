@@ -1,0 +1,16 @@
+2.8125 #insurance	Insurance	153
+2.8125 #coverage	Coverage	153
+7.71429 #pay	pays	153
+3.69231 #long	Long	153
+2.21053 #term	Term	153
+19.3333 #care	Care	153
+0.0892857 ##1(insurance coverage)	#1(Insurance Coverage)	153
+0.0166667 ##1(coverage pay)	#1(Coverage pays)	153
+0.0166667 ##1(pay long)	#1(pays Long)	153
+1.90476 ##1(long term)	#1(Long Term)	153
+1.17857 ##1(term care)	#1(Term Care)	153
+0.22 ##uw8(insurance coverage)	#uw8(Insurance Coverage)	153
+0.297872 ##uw8(coverage pay)	#uw8(Coverage pays)	153
+0.196078 ##uw8(pay long)	#uw8(pays Long)	153
+1.90476 ##uw8(long term)	#uw8(Long Term)	153
+1.65217 ##uw8(term care)	#uw8(Term Care)	153

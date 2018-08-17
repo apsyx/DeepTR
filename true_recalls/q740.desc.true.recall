@@ -1,0 +1,13 @@
+3.33333 #regulate	regulates	740
+64 #assist	assisted	740
+64 #live	living	740
+4.90909 #facility	facilities	740
+64 #maryland	Maryland	740
+0.0833333 ##1(regulate assist)	#1(regulates assisted)	740
+7.125 ##1(assist live)	#1(assisted living)	740
+1.03125 ##1(live facility)	#1(living facilities)	740
+0.101695 ##1(facility maryland)	#1(facilities Maryland)	740
+0.477273 ##uw8(regulate assist)	#uw8(regulates assisted)	740
+8.28572 ##uw8(assist live)	#uw8(assisted living)	740
+1.32143 ##uw8(live facility)	#uw8(living facilities)	740
+0.756757 ##uw8(facility maryland)	#uw8(facilities Maryland)	740

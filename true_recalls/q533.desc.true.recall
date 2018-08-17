@@ -1,0 +1,22 @@
+0.112676 #pro	pro	533
+0.0394737 #con	con	533
+0.19697 #regard	regarding	533
+1.82143 #children	children	533
+1.13514 #wear	wearing	533
+77.9999 #uniform	uniforms	533
+1.25714 #public	public	533
+77.9999 #school	schools	533
+0.0128205 ##1(pro con)	#1(pro con)	533
+0.0128205 ##1(con regard)	#1(con regarding)	533
+0.0128205 ##1(regard children)	#1(regarding children)	533
+0.025974 ##1(children wear)	#1(children wearing)	533
+0.274194 ##1(wear uniform)	#1(wearing uniforms)	533
+0.0128205 ##1(uniform public)	#1(uniforms public)	533
+0.795455 ##1(public school)	#1(public schools)	533
+0.025974 ##uw8(pro con)	#uw8(pro con)	533
+0.0128205 ##uw8(con regard)	#uw8(con regarding)	533
+0.0128205 ##uw8(regard children)	#uw8(regarding children)	533
+0.0675676 ##uw8(children wear)	#uw8(children wearing)	533
+0.795455 ##uw8(wear uniform)	#uw8(wearing uniforms)	533
+0.161765 ##uw8(uniform public)	#uw8(uniforms public)	533
+0.837209 ##uw8(public school)	#uw8(public schools)	533

@@ -1,0 +1,13 @@
+30 #endanger	endangered	583
+0.722222 #plant	plants	583
+0.347826 #animal	animals	583
+0.409091 #live	live	583
+14.5 #florida	Florida	583
+0.0689655 ##1(endanger plant)	#1(endangered plants)	583
+0.0333333 ##1(plant animal)	#1(plants animals)	583
+0.0333333 ##1(animal live)	#1(animals live)	583
+0.0333333 ##1(live florida)	#1(live Florida)	583
+0.107143 ##uw8(endanger plant)	#uw8(endangered plants)	583
+0.148148 ##uw8(plant animal)	#uw8(plants animals)	583
+0.0333333 ##uw8(animal live)	#uw8(animals live)	583
+0.0689655 ##uw8(live florida)	#uw8(live Florida)	583

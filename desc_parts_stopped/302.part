@@ -1,0 +1,13 @@
+disease
+Poliomyelitis
+polio
+control
+world
+#1(disease Poliomyelitis)
+#1(Poliomyelitis polio)
+#1(polio control)
+#1(control world)
+#uw8(disease Poliomyelitis)
+#uw8(Poliomyelitis polio)
+#uw8(polio control)
+#uw8(control world)

@@ -1,0 +1,13 @@
+40 #sugar	sugar	414
+40 #cuba	Cuba	414
+0.952381 #export	export	414
+2.41667 #country	countries	414
+0.464286 #import	import	414
+0.051282 ##1(sugar cuba)	#1(sugar Cuba)	414
+0.0789474 ##1(cuba export)	#1(Cuba export)	414
+0.025 ##1(export country)	#1(export countries)	414
+0.025 ##1(country import)	#1(countries import)	414
+2.15385 ##uw8(sugar cuba)	#uw8(sugar Cuba)	414
+0.205882 ##uw8(cuba export)	#uw8(Cuba export)	414
+0.171429 ##uw8(export country)	#uw8(export countries)	414
+0.051282 ##uw8(country import)	#uw8(countries import)	414

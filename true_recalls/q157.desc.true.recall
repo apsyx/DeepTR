@@ -1,0 +1,10 @@
+0.941177 #cause	Causes	157
+1.53846 #treat	treatments	157
+65.0001 #multiple	multiple	157
+65.0001 #sclerosis	sclerosis	157
+0.0153846 ##1(cause treat)	#1(Causes treatments)	157
+0.0153846 ##1(treat multiple)	#1(treatments multiple)	157
+65.0001 ##1(multiple sclerosis)	#1(multiple sclerosis)	157
+0.0819672 ##uw8(cause treat)	#uw8(Causes treatments)	157
+0.32 ##uw8(treat multiple)	#uw8(treatments multiple)	157
+65.0001 ##uw8(multiple sclerosis)	#uw8(multiple sclerosis)	157

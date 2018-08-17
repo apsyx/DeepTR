@@ -1,0 +1,19 @@
+6.5 #song	songs	2042
+2.75 #lyric	lyrics	2042
+14 #music	music	2042
+6.5 #information	information	2042
+14 #music	musical	2042
+14 #music	Music	2042
+14 #man	Man	2042
+0.25 ##1(song lyric)	#1(songs lyrics)	2042
+0.0714286 ##1(lyric music)	#1(lyrics music)	2042
+0.0714286 ##1(music information)	#1(music information)	2042
+0.0714286 ##1(information music)	#1(information musical)	2042
+0.0714286 ##1(music music)	#1(musical Music)	2042
+14 ##1(music man)	#1(Music Man)	2042
+2.75 ##uw8(song lyric)	#uw8(songs lyrics)	2042
+1.5 ##uw8(lyric music)	#uw8(lyrics music)	2042
+1.5 ##uw8(music information)	#uw8(music information)	2042
+1.5 ##uw8(information music)	#uw8(information musical)	2042
+14 ##uw8(music music)	#uw8(musical Music)	2042
+14 ##uw8(music man)	#uw8(Music Man)	2042

@@ -1,0 +1,22 @@
+0.172414 #negate	negative	686
+0.133333 #impact	impacts	686
+33 #argentina	Argentina	686
+0.030303 #s	s	686
+1.61538 #policy	policy	686
+0.0967742 #pegging	pegging	686
+3.85714 #peso	peso	686
+10.3333 #dollar	dollar	686
+0.030303 ##1(negate impact)	#1(negative impacts)	686
+0.030303 ##1(impact argentina)	#1(impacts Argentina)	686
+0.030303 ##1(argentina s)	#1(Argentina s)	686
+0.030303 ##1(s policy)	#1(s policy)	686
+0.030303 ##1(policy pegging)	#1(policy pegging)	686
+0.030303 ##1(pegging peso)	#1(pegging peso)	686
+0.030303 ##1(peso dollar)	#1(peso dollar)	686
+0.030303 ##uw8(negate impact)	#uw8(negative impacts)	686
+0.030303 ##uw8(impact argentina)	#uw8(impacts Argentina)	686
+0.030303 ##uw8(argentina s)	#uw8(Argentina s)	686
+0.030303 ##uw8(s policy)	#uw8(s policy)	686
+0.030303 ##uw8(policy pegging)	#uw8(policy pegging)	686
+0.0625 ##uw8(pegging peso)	#uw8(pegging peso)	686
+2.4 ##uw8(peso dollar)	#uw8(peso dollar)	686

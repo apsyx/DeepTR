@@ -1,0 +1,10 @@
+0.311111 #advantage	advantages	654
+0.0925926 #disadvantage	disadvantages	654
+2.10526 #sex	sex	654
+57.9999 #school	schools	654
+0.0172414 ##1(advantage disadvantage)	#1(advantages disadvantages)	654
+0.0172414 ##1(disadvantage sex)	#1(disadvantages sex)	654
+0.404762 ##1(sex school)	#1(sex schools)	654
+0.0172414 ##uw8(advantage disadvantage)	#uw8(advantages disadvantages)	654
+0.0172414 ##uw8(disadvantage sex)	#uw8(disadvantages sex)	654
+1.18519 ##uw8(sex school)	#uw8(sex schools)	654

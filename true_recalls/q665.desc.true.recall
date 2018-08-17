@@ -1,0 +1,13 @@
+0.05 #extensive	extensive	665
+20 #poverty	poverty	665
+1.33333 #sub	sub	665
+1.1 #saharan	Saharan	665
+20 #africa	Africa	665
+0.05 ##1(extensive poverty)	#1(extensive poverty)	665
+0.05 ##1(poverty sub)	#1(poverty sub)	665
+1.1 ##1(sub saharan)	#1(sub Saharan)	665
+0.75 ##1(saharan africa)	#1(Saharan Africa)	665
+0.05 ##uw8(extensive poverty)	#uw8(extensive poverty)	665
+0.105263 ##uw8(poverty sub)	#uw8(poverty sub)	665
+1.1 ##uw8(sub saharan)	#uw8(sub Saharan)	665
+0.75 ##uw8(saharan africa)	#uw8(Saharan Africa)	665

@@ -1,0 +1,10 @@
+0.0227273 #refer	reference	795
+0.0227273 #notable	notable	795
+0.285714 #cock	cockers	795
+44 #spaniel	spaniels	795
+0.0227273 ##1(refer notable)	#1(reference notable)	795
+0.0227273 ##1(notable cock)	#1(notable cockers)	795
+0.285714 ##1(cock spaniel)	#1(cockers spaniels)	795
+0.0227273 ##uw8(refer notable)	#uw8(reference notable)	795
+0.0227273 ##uw8(notable cock)	#uw8(notable cockers)	795
+0.285714 ##uw8(cock spaniel)	#uw8(cockers spaniels)	795

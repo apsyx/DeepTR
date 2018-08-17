@@ -1,0 +1,16 @@
+1.40278 #rule	rules	772
+0.300752 #guidelines	guidelines	772
+16.3 #display	display	772
+7.65 #unite	United	772
+42.2499 #state	States	772
+172 #flag	flag	772
+0.00581395 ##1(rule guidelines)	#1(rules guidelines)	772
+0.00581395 ##1(guidelines display)	#1(guidelines display)	772
+0.0236686 ##1(display unite)	#1(display United)	772
+7.23809 ##1(unite state)	#1(United States)	772
+1.47143 ##1(state flag)	#1(States flag)	772
+0.0421687 ##uw8(rule guidelines)	#uw8(rules guidelines)	772
+0.0949367 ##uw8(guidelines display)	#uw8(guidelines display)	772
+0.988506 ##uw8(display unite)	#uw8(display United)	772
+7.23809 ##uw8(unite state)	#uw8(United States)	772
+14.7273 ##uw8(state flag)	#uw8(States flag)	772

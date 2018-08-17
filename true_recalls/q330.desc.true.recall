@@ -1,0 +1,37 @@
+0.0163934 #query	query	330
+0.215686 #look	looking	330
+0.127273 #example	examples	330
+0.192308 #cooperate	cooperation	330
+0.0877193 #friend	friendly	330
+0.377778 #tie	ties	330
+19.6667 #iran	Iran	330
+61.0001 #iraq	Iraq	330
+0.377778 #way	ways	330
+1.95238 #two	two	330
+1.69565 #country	countries	330
+0.192308 #consider	considered	330
+0.169811 #ally	allies	330
+0.0163934 ##1(query look)	#1(query looking)	330
+0.0163934 ##1(look example)	#1(looking examples)	330
+0.0163934 ##1(example cooperate)	#1(examples cooperation)	330
+0.0163934 ##1(cooperate friend)	#1(cooperation friendly)	330
+0.0163934 ##1(friend tie)	#1(friendly ties)	330
+0.0163934 ##1(tie iran)	#1(ties Iran)	330
+0.347826 ##1(iran iraq)	#1(Iran Iraq)	330
+0.0163934 ##1(iraq way)	#1(Iraq ways)	330
+0.0163934 ##1(way two)	#1(ways two)	330
+0.44186 ##1(two country)	#1(two countries)	330
+0.0163934 ##1(country consider)	#1(countries considered)	330
+0.0163934 ##1(consider ally)	#1(considered allies)	330
+0.0163934 ##uw8(query look)	#uw8(query looking)	330
+0.0163934 ##uw8(look example)	#uw8(looking examples)	330
+0.0163934 ##uw8(example cooperate)	#uw8(examples cooperation)	330
+0.0163934 ##uw8(cooperate friend)	#uw8(cooperation friendly)	330
+0.0163934 ##uw8(friend tie)	#uw8(friendly ties)	330
+0.0877193 ##uw8(tie iran)	#uw8(ties Iran)	330
+3.76923 ##uw8(iran iraq)	#uw8(Iran Iraq)	330
+0.127273 ##uw8(iraq way)	#uw8(Iraq ways)	330
+0.0689655 ##uw8(way two)	#uw8(ways two)	330
+0.47619 ##uw8(two country)	#uw8(two countries)	330
+0.0163934 ##uw8(country consider)	#uw8(countries considered)	330
+0.0333333 ##uw8(consider ally)	#uw8(considered allies)	330

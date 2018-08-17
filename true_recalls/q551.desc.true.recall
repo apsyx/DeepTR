@@ -1,0 +1,13 @@
+6.5 #law	laws	551
+0.5 #regulate	regulations	551
+6.5 #protect	protect	551
+6.5 #intellectual	intellectual	551
+6.5 #property	property	551
+0.0714286 ##1(law regulate)	#1(laws regulations)	551
+0.0714286 ##1(regulate protect)	#1(regulations protect)	551
+0.363636 ##1(protect intellectual)	#1(protect intellectual)	551
+6.5 ##1(intellectual property)	#1(intellectual property)	551
+0.25 ##uw8(law regulate)	#uw8(laws regulations)	551
+0.0714286 ##uw8(regulate protect)	#uw8(regulations protect)	551
+2.75 ##uw8(protect intellectual)	#uw8(protect intellectual)	551
+6.5 ##uw8(intellectual property)	#uw8(intellectual property)	551

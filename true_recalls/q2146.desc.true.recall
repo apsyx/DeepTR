@@ -1,0 +1,13 @@
+11 #service	services	2146
+0.333333 #provide	provided	2146
+11 #sherwood	Sherwood	2146
+11 #regional	Regional	2146
+11 #library	Library	2146
+0.0909091 ##1(service provide)	#1(services provided)	2146
+0.0909091 ##1(provide sherwood)	#1(provided Sherwood)	2146
+11 ##1(sherwood regional)	#1(Sherwood Regional)	2146
+3 ##1(regional library)	#1(Regional Library)	2146
+0.2 ##uw8(service provide)	#uw8(services provided)	2146
+0.0909091 ##uw8(provide sherwood)	#uw8(provided Sherwood)	2146
+11 ##uw8(sherwood regional)	#uw8(Sherwood Regional)	2146
+3 ##uw8(regional library)	#uw8(Regional Library)	2146

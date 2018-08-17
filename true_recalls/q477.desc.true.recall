@@ -1,0 +1,19 @@
+1 #ship	ships	477
+1 #operate	operated	477
+3 #royal	Royal	477
+3 #caribbean	Caribbean	477
+3 #cruise	Cruise	477
+1 #line	Lines	477
+0.333333 #rccl	RCCL	477
+0.333333 ##1(ship operate)	#1(ships operated)	477
+0.333333 ##1(operate royal)	#1(operated Royal)	477
+3 ##1(royal caribbean)	#1(Royal Caribbean)	477
+3 ##1(caribbean cruise)	#1(Caribbean Cruise)	477
+1 ##1(cruise line)	#1(Cruise Lines)	477
+0.333333 ##1(line rccl)	#1(Lines RCCL)	477
+1 ##uw8(ship operate)	#uw8(ships operated)	477
+1 ##uw8(operate royal)	#uw8(operated Royal)	477
+3 ##uw8(royal caribbean)	#uw8(Royal Caribbean)	477
+3 ##uw8(caribbean cruise)	#uw8(Caribbean Cruise)	477
+1 ##uw8(cruise line)	#uw8(Cruise Lines)	477
+0.333333 ##uw8(line rccl)	#uw8(Lines RCCL)	477

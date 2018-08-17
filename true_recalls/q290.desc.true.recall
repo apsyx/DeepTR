@@ -1,0 +1,22 @@
+0.0614035 #impact	impact	290
+0.344444 #foreign	foreign	290
+0.222222 #automobile	automobile	290
+2.36111 #manufacture	manufacturers	290
+0.19802 #locate	locating	290
+12.4444 #plant	plants	290
+0.833333 #unite	United	290
+0.951613 #state	States	290
+0.00833333 ##1(impact foreign)	#1(impact foreign)	290
+0.00833333 ##1(foreign automobile)	#1(foreign automobile)	290
+0.0803571 ##1(automobile manufacture)	#1(automobile manufacturers)	290
+0.00833333 ##1(manufacture locate)	#1(manufacturers locating)	290
+0.0168067 ##1(locate plant)	#1(locating plants)	290
+0.00833333 ##1(plant unite)	#1(plants United)	290
+0.406977 ##1(unite state)	#1(United States)	290
+0.00833333 ##uw8(impact foreign)	#uw8(impact foreign)	290
+0.0168067 ##uw8(foreign automobile)	#uw8(foreign automobile)	290
+0.0900901 ##uw8(automobile manufacture)	#uw8(automobile manufacturers)	290
+0.0614035 ##uw8(manufacture locate)	#uw8(manufacturers locating)	290
+0.0900901 ##uw8(locate plant)	#uw8(locating plants)	290
+0.174757 ##uw8(plant unite)	#uw8(plants United)	290
+0.406977 ##uw8(unite state)	#uw8(United States)	290

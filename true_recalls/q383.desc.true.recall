@@ -1,0 +1,10 @@
+11.3333 #drug	drugs	383
+1.79245 #treat	treatment	383
+0.243697 #mental	mental	383
+0.254237 #ill	illness	383
+0.0422535 ##1(drug treat)	#1(drugs treatment)	383
+0.0136986 ##1(treat mental)	#1(treatment mental)	383
+0.104478 ##1(mental ill)	#1(mental illness)	383
+0.396226 ##uw8(drug treat)	#uw8(drugs treatment)	383
+0.0422535 ##uw8(treat mental)	#uw8(treatment mental)	383
+0.104478 ##uw8(mental ill)	#uw8(mental illness)	383

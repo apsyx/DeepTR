@@ -1,0 +1,10 @@
+3.11765 #regulate	regulations	733
+1.8 #regard	regarding	733
+22.3333 #airline	airline	733
+1.25806 #overbooke	overbooking	733
+0.0144928 ##1(regulate regard)	#1(regulations regarding)	733
+0.0144928 ##1(regard airline)	#1(regarding airline)	733
+0.09375 ##1(airline overbooke)	#1(airline overbooking)	733
+0.0294118 ##uw8(regulate regard)	#uw8(regulations regarding)	733
+0.0606061 ##uw8(regard airline)	#uw8(regarding airline)	733
+0.489362 ##uw8(airline overbooke)	#uw8(airline overbooking)	733

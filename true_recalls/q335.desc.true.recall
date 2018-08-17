@@ -1,0 +1,34 @@
+0.387755 #problem	problems	335
+0.0625 #solution	solutions	335
+0.387755 #problem	problems	335
+0.0625 #arise	arise	335
+0.283019 #relationship	relationships	335
+0.511111 #biology	biological	335
+8.71429 #parent	parents	335
+0.7 #adoptive	adoptive	335
+8.71429 #parent	parents	335
+10.3333 #child	child	335
+1.83333 #children	children	335
+0.333333 #involve	involved	335
+0.0149254 ##1(problem solution)	#1(problems solutions)	335
+0.0149254 ##1(solution problem)	#1(solutions problems)	335
+0.0149254 ##1(problem arise)	#1(problems arise)	335
+0.0149254 ##1(arise relationship)	#1(arise relationships)	335
+0.0149254 ##1(relationship biology)	#1(relationships biological)	335
+0.236364 ##1(biology parent)	#1(biological parents)	335
+0.0149254 ##1(parent adoptive)	#1(parents adoptive)	335
+0.478261 ##1(adoptive parent)	#1(adoptive parents)	335
+0.0625 ##1(parent child)	#1(parents child)	335
+0.0149254 ##1(child children)	#1(child children)	335
+0.0149254 ##1(children involve)	#1(children involved)	335
+0.030303 ##uw8(problem solution)	#uw8(problems solutions)	335
+0.030303 ##uw8(solution problem)	#uw8(solutions problems)	335
+0.0149254 ##uw8(problem arise)	#uw8(problems arise)	335
+0.0149254 ##uw8(arise relationship)	#uw8(arise relationships)	335
+0.0149254 ##uw8(relationship biology)	#uw8(relationships biological)	335
+0.283019 ##uw8(biology parent)	#uw8(biological parents)	335
+0.511111 ##uw8(parent adoptive)	#uw8(parents adoptive)	335
+0.511111 ##uw8(adoptive parent)	#uw8(adoptive parents)	335
+0.888889 ##uw8(parent child)	#uw8(parents child)	335
+0.0793651 ##uw8(child children)	#uw8(child children)	335
+0.030303 ##uw8(children involve)	#uw8(children involved)	335

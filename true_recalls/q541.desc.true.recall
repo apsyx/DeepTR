@@ -1,0 +1,7 @@
+0.133333 #instrument	instruments	541
+61.3334 #forecast	forecast	541
+185.999 #weather	weather	541
+0.00268097 ##1(instrument forecast)	#1(instruments forecast)	541
+0.0872093 ##1(forecast weather)	#1(forecast weather)	541
+0.00808625 ##uw8(instrument forecast)	#uw8(instruments forecast)	541
+2.04065 ##uw8(forecast weather)	#uw8(forecast weather)	541

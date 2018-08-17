@@ -1,0 +1,13 @@
+0.666667 #buy	buy	2195
+1.5 #replacement	replacement	2195
+4 #part	parts	2195
+4 #pressure	pressure	2195
+4 #wash	washers	2195
+0.25 ##1(buy replacement)	#1(buy replacement)	2195
+0.666667 ##1(replacement part)	#1(replacement parts)	2195
+0.25 ##1(part pressure)	#1(parts pressure)	2195
+4 ##1(pressure wash)	#1(pressure washers)	2195
+0.25 ##uw8(buy replacement)	#uw8(buy replacement)	2195
+0.666667 ##uw8(replacement part)	#uw8(replacement parts)	2195
+1.5 ##uw8(part pressure)	#uw8(parts pressure)	2195
+4 ##uw8(pressure wash)	#uw8(pressure washers)	2195

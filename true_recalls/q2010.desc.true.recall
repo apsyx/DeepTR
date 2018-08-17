@@ -1,0 +1,19 @@
+0.333333 #m	m	2010
+0.333333 #look	looking	2010
+7 #cheap	cheap	2010
+3 #low	low	2010
+3 #cost	cost	2010
+7 #internet	internet	2010
+3 #service	service	2010
+0.142857 ##1(m look)	#1(m looking)	2010
+0.142857 ##1(look cheap)	#1(looking cheap)	2010
+0.142857 ##1(cheap low)	#1(cheap low)	2010
+3 ##1(low cost)	#1(low cost)	2010
+1.66667 ##1(cost internet)	#1(cost internet)	2010
+3 ##1(internet service)	#1(internet service)	2010
+0.142857 ##uw8(m look)	#uw8(m looking)	2010
+0.142857 ##uw8(look cheap)	#uw8(looking cheap)	2010
+1.66667 ##uw8(cheap low)	#uw8(cheap low)	2010
+3 ##uw8(low cost)	#uw8(low cost)	2010
+1.66667 ##uw8(cost internet)	#uw8(cost internet)	2010
+3 ##uw8(internet service)	#uw8(internet service)	2010

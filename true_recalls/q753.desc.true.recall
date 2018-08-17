@@ -1,0 +1,13 @@
+8.4 #program	programs	753
+46 #school	schools	753
+5.71429 #prevent	prevent	753
+46 #bully	bullying	753
+46 #student	students	753
+0.424242 ##1(program school)	#1(programs schools)	753
+0.0930233 ##1(school prevent)	#1(schools prevent)	753
+0.88 ##1(prevent bully)	#1(prevent bullying)	753
+0.119048 ##1(bully student)	#1(bullying students)	753
+8.4 ##uw8(program school)	#uw8(programs schools)	753
+2.35714 ##uw8(school prevent)	#uw8(schools prevent)	753
+1.9375 ##uw8(prevent bully)	#uw8(prevent bullying)	753
+4.875 ##uw8(bully student)	#uw8(bullying students)	753

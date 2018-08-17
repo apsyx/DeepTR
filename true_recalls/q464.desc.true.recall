@@ -1,0 +1,16 @@
+2 #city	cities	464
+14 #state	states	464
+0.875 #ban	banned	464
+14 #display	displays	464
+2 #nativity	nativity	464
+1.5 #scene	scene	464
+0.0714286 ##1(city state)	#1(cities states)	464
+0.0714286 ##1(state ban)	#1(states banned)	464
+0.0714286 ##1(ban display)	#1(banned displays)	464
+0.0714286 ##1(display nativity)	#1(displays nativity)	464
+1.5 ##1(nativity scene)	#1(nativity scene)	464
+0.25 ##uw8(city state)	#uw8(cities states)	464
+0.25 ##uw8(state ban)	#uw8(states banned)	464
+0.5 ##uw8(ban display)	#uw8(banned displays)	464
+0.875 ##uw8(display nativity)	#uw8(displays nativity)	464
+1.5 ##uw8(nativity scene)	#uw8(nativity scene)	464

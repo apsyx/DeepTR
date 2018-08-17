@@ -1,0 +1,16 @@
+0.153846 #reliable	reliable	359
+1.30769 #consistent	consistent	359
+0.0344828 #predictor	predictors	359
+0.875 #mutual	mutual	359
+29 #fund	fund	359
+2.75 #performance	performance	359
+0.0344828 ##1(reliable consistent)	#1(reliable consistent)	359
+0.0344828 ##1(consistent predictor)	#1(consistent predictors)	359
+0.0344828 ##1(predictor mutual)	#1(predictors mutual)	359
+0.764706 ##1(mutual fund)	#1(mutual fund)	359
+0.304348 ##1(fund performance)	#1(fund performance)	359
+0.0344828 ##uw8(reliable consistent)	#uw8(reliable consistent)	359
+0.0344828 ##uw8(consistent predictor)	#uw8(consistent predictors)	359
+0.0344828 ##uw8(predictor mutual)	#uw8(predictors mutual)	359
+0.764706 ##uw8(mutual fund)	#uw8(mutual fund)	359
+1.30769 ##uw8(fund performance)	#uw8(fund performance)	359

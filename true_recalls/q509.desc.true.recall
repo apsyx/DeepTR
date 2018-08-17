@@ -1,0 +1,10 @@
+2.83784 #effect	effect	509
+141 #steroid	steroids	509
+0.632184 #human	human	509
+3.58064 #body	body	509
+0.0215827 ##1(effect steroid)	#1(effect steroids)	509
+0.0070922 ##1(steroid human)	#1(steroids human)	509
+0.0676692 ##1(human body)	#1(human body)	509
+0.479167 ##uw8(effect steroid)	#uw8(effect steroids)	509
+0.0597015 ##uw8(steroid human)	#uw8(steroids human)	509
+0.0757576 ##uw8(human body)	#uw8(human body)	509

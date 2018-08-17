@@ -1,0 +1,10 @@
+0.2 #disaster	disasters	363
+0.2 #occurred	occurred	363
+17 #tunnel	tunnels	363
+0.285714 #transportation	transportation	363
+0.0588235 ##1(disaster occurred)	#1(disasters occurred)	363
+0.0588235 ##1(occurred tunnel)	#1(occurred tunnels)	363
+0.0588235 ##1(tunnel transportation)	#1(tunnels transportation)	363
+0.0588235 ##uw8(disaster occurred)	#uw8(disasters occurred)	363
+0.0588235 ##uw8(occurred tunnel)	#uw8(occurred tunnels)	363
+0.125 ##uw8(tunnel transportation)	#uw8(tunnels transportation)	363

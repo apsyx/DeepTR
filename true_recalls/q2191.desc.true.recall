@@ -1,0 +1,10 @@
+6.5 #race	racing	2191
+1.14286 #schedule	schedule	2191
+14 #churchill	Churchill	2191
+14 #downs	Downs	2191
+0.363636 ##1(race schedule)	#1(racing schedule)	2191
+0.0714286 ##1(schedule churchill)	#1(schedule Churchill)	2191
+14 ##1(churchill downs)	#1(Churchill Downs)	2191
+0.363636 ##uw8(race schedule)	#uw8(racing schedule)	2191
+0.5 ##uw8(schedule churchill)	#uw8(schedule Churchill)	2191
+14 ##uw8(churchill downs)	#uw8(Churchill Downs)	2191

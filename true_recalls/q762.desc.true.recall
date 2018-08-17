@@ -1,0 +1,13 @@
+0.864407 #consider	considered	762
+2.05556 #doctor	doctors	762
+0.486486 #europe	European	762
+0.358025 #settle	settlement	762
+4.78947 #america	America	762
+0.00917431 ##1(consider doctor)	#1(considered doctors)	762
+0.00917431 ##1(doctor europe)	#1(doctors European)	762
+0.0185185 ##1(europe settle)	#1(European settlement)	762
+0.00917431 ##1(settle america)	#1(settlement America)	762
+0.047619 ##uw8(consider doctor)	#uw8(considered doctors)	762
+0.0377358 ##uw8(doctor europe)	#uw8(doctors European)	762
+0.0377358 ##uw8(europe settle)	#uw8(European settlement)	762
+0.1 ##uw8(settle america)	#uw8(settlement America)	762

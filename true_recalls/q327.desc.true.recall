@@ -1,0 +1,22 @@
+0.857143 #country	country	327
+0.444444 #city	city	327
+0.3 #evidence	evidence	327
+0.3 #human	human	327
+12 #slavery	slavery	327
+0.181818 #practice	practiced	327
+0.0833333 #eighty	eighties	327
+0.0833333 #ninety	nineties	327
+0.0833333 ##1(country city)	#1(country city)	327
+0.0833333 ##1(city evidence)	#1(city evidence)	327
+0.0833333 ##1(evidence human)	#1(evidence human)	327
+0.0833333 ##1(human slavery)	#1(human slavery)	327
+0.0833333 ##1(slavery practice)	#1(slavery practiced)	327
+0.0833333 ##1(practice eighty)	#1(practiced eighties)	327
+0.0833333 ##1(eighty ninety)	#1(eighties nineties)	327
+0.181818 ##uw8(country city)	#uw8(country city)	327
+0.0833333 ##uw8(city evidence)	#uw8(city evidence)	327
+0.0833333 ##uw8(evidence human)	#uw8(evidence human)	327
+0.0833333 ##uw8(human slavery)	#uw8(human slavery)	327
+0.0833333 ##uw8(slavery practice)	#uw8(slavery practiced)	327
+0.0833333 ##uw8(practice eighty)	#uw8(practiced eighties)	327
+0.0833333 ##uw8(eighty ninety)	#uw8(eighties nineties)	327

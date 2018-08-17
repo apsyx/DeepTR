@@ -1,0 +1,25 @@
+2.6 #new	new	419
+5 #use	uses	419
+0.8 #develop	developed	419
+1.57143 #old	old	419
+0.285714 #automobile	automobile	419
+0.8 #tire	tires	419
+0.285714 #mean	means	419
+0.8 #tire	tire	419
+2 #recycle	recycling	419
+0.0588235 ##1(new use)	#1(new uses)	419
+0.0588235 ##1(use develop)	#1(uses developed)	419
+0.0588235 ##1(develop old)	#1(developed old)	419
+0.125 ##1(old automobile)	#1(old automobile)	419
+0.2 ##1(automobile tire)	#1(automobile tires)	419
+0.0588235 ##1(tire mean)	#1(tires means)	419
+0.0588235 ##1(mean tire)	#1(means tire)	419
+0.0588235 ##1(tire recycle)	#1(tire recycling)	419
+0.384615 ##uw8(new use)	#uw8(new uses)	419
+0.384615 ##uw8(use develop)	#uw8(uses developed)	419
+0.125 ##uw8(develop old)	#uw8(developed old)	419
+0.125 ##uw8(old automobile)	#uw8(old automobile)	419
+0.285714 ##uw8(automobile tire)	#uw8(automobile tires)	419
+0.0588235 ##uw8(tire mean)	#uw8(tires means)	419
+0.0588235 ##uw8(mean tire)	#uw8(means tire)	419
+0.2 ##uw8(tire recycle)	#uw8(tire recycling)	419

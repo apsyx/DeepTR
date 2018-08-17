@@ -1,0 +1,13 @@
+42 #breed	breeds	2194
+42 #small	small	2194
+42 #toy	toy	2194
+42 #dog	dog	2194
+42 #hybrid	hybrids	2194
+0.0487805 ##1(breed small)	#1(breeds small)	2194
+0.0487805 ##1(small toy)	#1(small toy)	2194
+0.0238095 ##1(toy dog)	#1(toy dog)	2194
+42 ##1(dog hybrid)	#1(dog hybrids)	2194
+42 ##uw8(breed small)	#uw8(breeds small)	2194
+42 ##uw8(small toy)	#uw8(small toy)	2194
+42 ##uw8(toy dog)	#uw8(toy dog)	2194
+42 ##uw8(dog hybrid)	#uw8(dog hybrids)	2194

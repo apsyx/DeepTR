@@ -1,0 +1,10 @@
+28 #prostate	prostate	692
+8.66667 #cancer	cancer	692
+0.115385 #detect	detection	692
+2.625 #treat	treatment	692
+3.14286 ##1(prostate cancer)	#1(prostate cancer)	692
+0.0357143 ##1(cancer detect)	#1(cancer detection)	692
+0.0357143 ##1(detect treat)	#1(detection treatment)	692
+3.83333 ##uw8(prostate cancer)	#uw8(prostate cancer)	692
+0.0357143 ##uw8(cancer detect)	#uw8(cancer detection)	692
+0.0357143 ##uw8(detect treat)	#uw8(detection treatment)	692

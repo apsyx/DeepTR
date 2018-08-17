@@ -1,0 +1,31 @@
+0.20354 #issue	issues	390
+0.259259 #associate	associated	390
+0.679012 #call	called	390
+0.142857 #orphan	orphan	390
+135 #drug	drugs	390
+135 #drug	drugs	390
+6.15789 #treat	treat	390
+2.2381 #disease	diseases	390
+0.214286 #affect	affecting	390
+0.152542 #relatively	relatively	390
+1.19355 #people	people	390
+0.00740741 ##1(issue associate)	#1(issues associated)	390
+0.00740741 ##1(associate call)	#1(associated called)	390
+0.0225564 ##1(call orphan)	#1(called orphan)	390
+0.133333 ##1(orphan drug)	#1(orphan drugs)	390
+0.0149254 ##1(drug drug)	#1(drugs drugs)	390
+0.0542636 ##1(drug treat)	#1(drugs treat)	390
+0.0225564 ##1(treat disease)	#1(treat diseases)	390
+0.0225564 ##1(disease affect)	#1(diseases affecting)	390
+0.00740741 ##1(affect relatively)	#1(affecting relatively)	390
+0.00740741 ##1(relatively people)	#1(relatively people)	390
+0.00740741 ##uw8(issue associate)	#uw8(issues associated)	390
+0.00740741 ##uw8(associate call)	#uw8(associated called)	390
+0.0225564 ##uw8(call orphan)	#uw8(called orphan)	390
+0.133333 ##uw8(orphan drug)	#uw8(orphan drugs)	390
+135 ##uw8(drug drug)	#uw8(drugs drugs)	390
+1.09231 ##uw8(drug treat)	#uw8(drugs treat)	390
+0.247706 ##uw8(treat disease)	#uw8(treat diseases)	390
+0.0625 ##uw8(disease affect)	#uw8(diseases affecting)	390
+0.00740741 ##uw8(affect relatively)	#uw8(affecting relatively)	390
+0.00740741 ##uw8(relatively people)	#uw8(relatively people)	390

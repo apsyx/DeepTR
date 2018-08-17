@@ -1,0 +1,13 @@
+1.28571 #differ	difference	501
+0.52381 #deduct	deduction	501
+0.333333 #induct	induction	501
+2.36842 #process	process	501
+4.33333 #reason	reasoning	501
+0.015873 ##1(differ deduct)	#1(difference deduction)	501
+0.0491803 ##1(deduct induct)	#1(deduction induction)	501
+0.015873 ##1(induct process)	#1(induction process)	501
+0.015873 ##1(process reason)	#1(process reasoning)	501
+0.015873 ##uw8(differ deduct)	#uw8(difference deduction)	501
+0.163636 ##uw8(deduct induct)	#uw8(deduction induction)	501
+0.103448 ##uw8(induct process)	#uw8(induction process)	501
+0.0847458 ##uw8(process reason)	#uw8(process reasoning)	501

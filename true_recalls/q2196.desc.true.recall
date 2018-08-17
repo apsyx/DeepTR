@@ -1,0 +1,7 @@
+20.5 #cause	causes	2196
+42 #sore	sore	2196
+42 #throat	throat	2196
+0.194444 ##1(cause sore)	#1(causes sore)	2196
+42 ##1(sore throat)	#1(sore throat)	2196
+4.375 ##uw8(cause sore)	#uw8(causes sore)	2196
+42 ##uw8(sore throat)	#uw8(sore throat)	2196

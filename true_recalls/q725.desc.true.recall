@@ -1,0 +1,16 @@
+6.34483 #cause	cause	725
+1.00943 #lower	lowered	725
+18.3636 #white	white	725
+212.001 #blood	blood	725
+212.001 #cell	cell	725
+18.3636 #count	count	725
+0.00471698 ##1(cause lower)	#1(cause lowered)	725
+0.0142857 ##1(lower white)	#1(lowered white)	725
+7.875 ##1(white blood)	#1(white blood)	725
+18.3636 ##1(blood cell)	#1(blood cell)	725
+4.07143 ##1(cell count)	#1(cell count)	725
+0.0544554 ##uw8(cause lower)	#uw8(cause lowered)	725
+0.103627 ##uw8(lower white)	#uw8(lowered white)	725
+8.68182 ##uw8(white blood)	#uw8(white blood)	725
+69.9999 ##uw8(blood cell)	#uw8(blood cell)	725
+5.65625 ##uw8(cell count)	#uw8(cell count)	725

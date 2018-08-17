@@ -1,0 +1,13 @@
+0.272727 #m	m	2047
+0.75 #look	looking	2047
+1.33333 #information	information	2047
+13 #index	indexed	2047
+13 #annuity	annuities	2047
+0.0769231 ##1(m look)	#1(m looking)	2047
+0.0769231 ##1(look information)	#1(looking information)	2047
+0.0769231 ##1(information index)	#1(information indexed)	2047
+13 ##1(index annuity)	#1(indexed annuities)	2047
+0.0769231 ##uw8(m look)	#uw8(m looking)	2047
+0.0769231 ##uw8(look information)	#uw8(looking information)	2047
+0.166667 ##uw8(information index)	#uw8(information indexed)	2047
+13 ##uw8(index annuity)	#uw8(indexed annuities)	2047

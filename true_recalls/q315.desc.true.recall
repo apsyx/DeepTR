@@ -1,0 +1,13 @@
+0.301887 #fatal	fatal	315
+1.37931 #highway	highway	315
+2.45 #accident	accidents	315
+0.0147059 #resolve	resolved	315
+0.408163 #cause	cause	315
+0.0147059 ##1(fatal highway)	#1(fatal highway)	315
+0.0298507 ##1(highway accident)	#1(highway accidents)	315
+0.0147059 ##1(accident resolve)	#1(accidents resolved)	315
+0.0147059 ##1(resolve cause)	#1(resolved cause)	315
+0.0454545 ##uw8(fatal highway)	#uw8(fatal highway)	315
+0.15 ##uw8(highway accident)	#uw8(highway accidents)	315
+0.0147059 ##uw8(accident resolve)	#uw8(accidents resolved)	315
+0.0147059 ##uw8(resolve cause)	#uw8(resolved cause)	315

@@ -1,0 +1,19 @@
+0.0377358 #depletion	depletion	249
+0.774194 #destruct	destruction	249
+2.92857 #rain	rain	249
+10 #forest	forest	249
+0.896552 #effect	effected	249
+3.23077 #world	worlds	249
+0.195652 #weather	weather	249
+0.0185185 ##1(depletion destruct)	#1(depletion destruction)	249
+0.0185185 ##1(destruct rain)	#1(destruction rain)	249
+1.89474 ##1(rain forest)	#1(rain forest)	249
+0.0185185 ##1(forest effect)	#1(forest effected)	249
+0.0185185 ##1(effect world)	#1(effected worlds)	249
+0.0377358 ##1(world weather)	#1(worlds weather)	249
+0.0185185 ##uw8(depletion destruct)	#uw8(depletion destruction)	249
+0.25 ##uw8(destruct rain)	#uw8(destruction rain)	249
+1.89474 ##uw8(rain forest)	#uw8(rain forest)	249
+0.0784314 ##uw8(forest effect)	#uw8(forest effected)	249
+0.0377358 ##uw8(effect world)	#uw8(effected worlds)	249
+0.0377358 ##uw8(world weather)	#uw8(worlds weather)	249

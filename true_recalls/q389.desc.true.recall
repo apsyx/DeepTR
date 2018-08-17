@@ -1,0 +1,43 @@
+0.0888889 #specific	specific	389
+0.0481283 #entity	entities	389
+0.298013 #accuse	accused	389
+1.02062 #illegal	illegal	389
+0.451852 #technology	technology	389
+0.12 #transfer	transfer	389
+0.289474 #sell	selling	389
+0.232704 #product	products	389
+0.0051282 #formula	formulas	389
+0.12 #direct	directly	389
+0.026178 #indirect	indirectly	389
+0.661017 #foreign	foreign	389
+0.0481283 #entity	entities	389
+0.0425532 #peaceful	peaceful	389
+0.209877 #purpose	purposes	389
+0.0051282 ##1(specific entity)	#1(specific entities)	389
+0.0051282 ##1(entity accuse)	#1(entities accused)	389
+0.0051282 ##1(accuse illegal)	#1(accused illegal)	389
+0.0051282 ##1(illegal technology)	#1(illegal technology)	389
+0.026178 ##1(technology transfer)	#1(technology transfer)	389
+0.0051282 ##1(transfer sell)	#1(transfer selling)	389
+0.0051282 ##1(sell product)	#1(selling products)	389
+0.0051282 ##1(product formula)	#1(products formulas)	389
+0.0051282 ##1(formula direct)	#1(formulas directly)	389
+0.0051282 ##1(direct indirect)	#1(directly indirectly)	389
+0.0051282 ##1(indirect foreign)	#1(indirectly foreign)	389
+0.0051282 ##1(foreign entity)	#1(foreign entities)	389
+0.0051282 ##1(entity peaceful)	#1(entities peaceful)	389
+0.0103093 ##1(peaceful purpose)	#1(peaceful purposes)	389
+0.0051282 ##uw8(specific entity)	#uw8(specific entities)	389
+0.0051282 ##uw8(entity accuse)	#uw8(entities accused)	389
+0.101124 ##uw8(accuse illegal)	#uw8(accused illegal)	389
+0.0769231 ##uw8(illegal technology)	#uw8(illegal technology)	389
+0.0537634 ##uw8(technology transfer)	#uw8(technology transfer)	389
+0.0051282 ##uw8(transfer sell)	#uw8(transfer selling)	389
+0.0208333 ##uw8(sell product)	#uw8(selling products)	389
+0.0051282 ##uw8(product formula)	#uw8(products formulas)	389
+0.0051282 ##uw8(formula direct)	#uw8(formulas directly)	389
+0.0103093 ##uw8(direct indirect)	#uw8(directly indirectly)	389
+0.0051282 ##uw8(indirect foreign)	#uw8(indirectly foreign)	389
+0.0051282 ##uw8(foreign entity)	#uw8(foreign entities)	389
+0.0051282 ##uw8(entity peaceful)	#uw8(entities peaceful)	389
+0.015544 ##uw8(peaceful purpose)	#uw8(peaceful purposes)	389

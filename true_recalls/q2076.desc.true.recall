@@ -1,0 +1,10 @@
+50 #raise	raised	2076
+50 #garden	garden	2076
+50 #bed	beds	2076
+0.214286 #box	boxes	2076
+1.68421 ##1(raise garden)	#1(raised garden)	2076
+2 ##1(garden bed)	#1(garden beds)	2076
+0.0408163 ##1(bed box)	#1(beds boxes)	2076
+50 ##uw8(raise garden)	#uw8(raised garden)	2076
+50 ##uw8(garden bed)	#uw8(garden beds)	2076
+0.133333 ##uw8(bed box)	#uw8(beds boxes)	2076

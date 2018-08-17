@@ -1,0 +1,22 @@
+0.516529 #current	current	824
+0.660634 #role	role	824
+15.6818 #civil	Civil	824
+29.5833 #air	Air	824
+14.9565 #patrol	Patrol	824
+2.59804 #train	training	824
+0.176282 #participant	participants	824
+0.561702 #receive	receive	824
+0.00273224 ##1(current role)	#1(current role)	824
+0.0110193 ##1(role civil)	#1(role Civil)	824
+14.2917 ##1(civil air)	#1(Civil Air)	824
+14.2917 ##1(air patrol)	#1(Air Patrol)	824
+0.0110193 ##1(patrol train)	#1(Patrol training)	824
+0.00273224 ##1(train participant)	#1(training participants)	824
+0.00273224 ##1(participant receive)	#1(participants receive)	824
+0.00547945 ##uw8(current role)	#uw8(current role)	824
+0.0637681 ##uw8(role civil)	#uw8(role Civil)	824
+14.2917 ##uw8(civil air)	#uw8(Civil Air)	824
+14.2917 ##uw8(air patrol)	#uw8(Air Patrol)	824
+0.30605 ##uw8(patrol train)	#uw8(Patrol training)	824
+0.0699708 ##uw8(train participant)	#uw8(training participants)	824
+0.00824176 ##uw8(participant receive)	#uw8(participants receive)	824

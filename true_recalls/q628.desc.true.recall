@@ -1,0 +1,16 @@
+0.4 #justify	justification	628
+6 #govern	government	628
+0.555556 #invade	invade	628
+27 #panama	Panama	628
+0.272727 #oppose	oppose	628
+3.66667 #invasion	invasion	628
+0.037037 ##1(justify govern)	#1(justification government)	628
+0.037037 ##1(govern invade)	#1(government invade)	628
+0.217391 ##1(invade panama)	#1(invade Panama)	628
+0.037037 ##1(panama oppose)	#1(Panama oppose)	628
+0.037037 ##1(oppose invasion)	#1(oppose invasion)	628
+0.0769231 ##uw8(justify govern)	#uw8(justification government)	628
+0.0769231 ##uw8(govern invade)	#uw8(government invade)	628
+0.217391 ##uw8(invade panama)	#uw8(invade Panama)	628
+0.037037 ##uw8(panama oppose)	#uw8(Panama oppose)	628
+0.0769231 ##uw8(oppose invasion)	#uw8(oppose invasion)	628

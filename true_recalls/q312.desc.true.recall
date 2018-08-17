@@ -1,0 +1,16 @@
+0.0833333 #science	science	312
+1.6 #grow	growing	312
+12 #plant	plants	312
+3.33333 #water	water	312
+0.0833333 #substance	substance	312
+1.6 #soil	soil	312
+0.0833333 ##1(science grow)	#1(science growing)	312
+0.181818 ##1(grow plant)	#1(growing plants)	312
+0.0833333 ##1(plant water)	#1(plants water)	312
+0.0833333 ##1(water substance)	#1(water substance)	312
+0.0833333 ##1(substance soil)	#1(substance soil)	312
+0.0833333 ##uw8(science grow)	#uw8(science growing)	312
+1.16667 ##uw8(grow plant)	#uw8(growing plants)	312
+0.625 ##uw8(plant water)	#uw8(plants water)	312
+0.0833333 ##uw8(water substance)	#uw8(water substance)	312
+0.0833333 ##uw8(substance soil)	#uw8(substance soil)	312

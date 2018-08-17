@@ -1,0 +1,31 @@
+0.882353 #impact	impact	299
+1.78261 #local	local	299
+0.6 #economy	economies	299
+0.230769 #cause	caused	299
+3.26667 #military	Military	299
+0.185185 #downs	downsizing	299
+9.66667 #base	base	299
+3.92308 #closure	closure	299
+0.163636 #foreign	Foreign	299
+0.122807 #soil	soil	299
+0.422222 #locate	locations	299
+0.0322581 ##1(impact local)	#1(impact local)	299
+0.28 ##1(local economy)	#1(local economies)	299
+0.015873 ##1(economy cause)	#1(economies caused)	299
+0.015873 ##1(cause military)	#1(caused Military)	299
+0.0491803 ##1(military downs)	#1(Military downsizing)	299
+0.015873 ##1(downs base)	#1(downsizing base)	299
+1.13333 ##1(base closure)	#1(base closure)	299
+0.015873 ##1(closure foreign)	#1(closure Foreign)	299
+0.015873 ##1(foreign soil)	#1(Foreign soil)	299
+0.015873 ##1(soil locate)	#1(soil locations)	299
+0.163636 ##uw8(impact local)	#uw8(impact local)	299
+0.28 ##uw8(local economy)	#uw8(local economies)	299
+0.015873 ##uw8(economy cause)	#uw8(economies caused)	299
+0.0322581 ##uw8(cause military)	#uw8(caused Military)	299
+0.103448 ##uw8(military downs)	#uw8(Military downsizing)	299
+0.0847458 ##uw8(downs base)	#uw8(downsizing base)	299
+2.04762 ##uw8(base closure)	#uw8(base closure)	299
+0.015873 ##uw8(closure foreign)	#uw8(closure Foreign)	299
+0.015873 ##uw8(foreign soil)	#uw8(Foreign soil)	299
+0.015873 ##uw8(soil locate)	#uw8(soil locations)	299

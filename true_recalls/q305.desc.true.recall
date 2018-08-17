@@ -1,0 +1,13 @@
+0.0277778 #crashworthy	crashworthy	305
+0.121212 #least	least	305
+0.0277778 #crashworthy	crashworthy	305
+1.3125 #passenger	passenger	305
+1.84615 #vehicle	vehicles	305
+0.0277778 ##1(crashworthy least)	#1(crashworthy least)	305
+0.0277778 ##1(least crashworthy)	#1(least crashworthy)	305
+0.0277778 ##1(crashworthy passenger)	#1(crashworthy passenger)	305
+0.0571429 ##1(passenger vehicle)	#1(passenger vehicles)	305
+0.0277778 ##uw8(crashworthy least)	#uw8(crashworthy least)	305
+0.0277778 ##uw8(least crashworthy)	#uw8(least crashworthy)	305
+0.0277778 ##uw8(crashworthy passenger)	#uw8(crashworthy passenger)	305
+0.121212 ##uw8(passenger vehicle)	#uw8(passenger vehicles)	305

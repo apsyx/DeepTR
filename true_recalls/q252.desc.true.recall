@@ -1,0 +1,28 @@
+0.444444 #step	steps	252
+0.695652 #taken	taken	252
+0.147059 #governmental	governmental	252
+0.258065 #private	private	252
+0.181818 #entity	entities	252
+0.695652 #world	world	252
+0.344828 #wide	wide	252
+0.695652 #stop	stop	252
+2.25 #smuggle	smuggling	252
+1.78571 #alien	aliens	252
+0.0833333 ##1(step taken)	#1(steps taken)	252
+0.0263158 ##1(taken governmental)	#1(taken governmental)	252
+0.0263158 ##1(governmental private)	#1(governmental private)	252
+0.114286 ##1(private entity)	#1(private entities)	252
+0.0263158 ##1(entity world)	#1(entities world)	252
+0.0263158 ##1(world wide)	#1(world wide)	252
+0.0263158 ##1(wide stop)	#1(wide stop)	252
+0.0263158 ##1(stop smuggle)	#1(stop smuggling)	252
+0.0263158 ##1(smuggle alien)	#1(smuggling aliens)	252
+0.147059 ##uw8(step taken)	#uw8(steps taken)	252
+0.0263158 ##uw8(taken governmental)	#uw8(taken governmental)	252
+0.0263158 ##uw8(governmental private)	#uw8(governmental private)	252
+0.114286 ##uw8(private entity)	#uw8(private entities)	252
+0.0263158 ##uw8(entity world)	#uw8(entities world)	252
+0.0263158 ##uw8(world wide)	#uw8(world wide)	252
+0.0263158 ##uw8(wide stop)	#uw8(wide stop)	252
+0.147059 ##uw8(stop smuggle)	#uw8(stop smuggling)	252
+0.625 ##uw8(smuggle alien)	#uw8(smuggling aliens)	252

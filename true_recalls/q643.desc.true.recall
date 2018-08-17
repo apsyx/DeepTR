@@ -1,0 +1,22 @@
+0.0333333 #harm	harm	643
+0.55 #power	power	643
+5.2 #dam	dams	643
+0.823529 #pacific	Pacific	643
+0.291667 #northwest	northwest	643
+0.631579 #cause	caused	643
+30 #salmon	salmon	643
+2.1 #fishery	fisheries	643
+0.0333333 ##1(harm power)	#1(harm power)	643
+0.0333333 ##1(power dam)	#1(power dams)	643
+0.0333333 ##1(dam pacific)	#1(dams Pacific)	643
+0.24 ##1(pacific northwest)	#1(Pacific northwest)	643
+0.0333333 ##1(northwest cause)	#1(northwest caused)	643
+0.0333333 ##1(cause salmon)	#1(caused salmon)	643
+0.148148 ##1(salmon fishery)	#1(salmon fisheries)	643
+0.0333333 ##uw8(harm power)	#uw8(harm power)	643
+0.0333333 ##uw8(power dam)	#uw8(power dams)	643
+0.0689655 ##uw8(dam pacific)	#uw8(dams Pacific)	643
+0.24 ##uw8(pacific northwest)	#uw8(Pacific northwest)	643
+0.0333333 ##uw8(northwest cause)	#uw8(northwest caused)	643
+0.107143 ##uw8(cause salmon)	#uw8(caused salmon)	643
+0.47619 ##uw8(salmon fishery)	#uw8(salmon fisheries)	643

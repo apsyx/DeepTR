@@ -1,0 +1,31 @@
+0.46875 #regulate	Regulation	167
+1.47368 #show	showing	167
+0.88 #violence	violence	167
+0.46875 #explicit	explicit	167
+1.35 #sex	sex	167
+0.220779 #motion	motion	167
+0.424242 #picture	picture	167
+0.342857 #theater	theaters	167
+1.68571 #television	television	167
+0.566667 #video	video	167
+0.105882 #cassette	cassettes	167
+0.0107527 ##1(regulate show)	#1(Regulation showing)	167
+0.032967 ##1(show violence)	#1(showing violence)	167
+0.0107527 ##1(violence explicit)	#1(violence explicit)	167
+0.0444444 ##1(explicit sex)	#1(explicit sex)	167
+0.0107527 ##1(sex motion)	#1(sex motion)	167
+0.220779 ##1(motion picture)	#1(motion picture)	167
+0.032967 ##1(picture theater)	#1(picture theaters)	167
+0.0107527 ##1(theater television)	#1(theaters television)	167
+0.0107527 ##1(television video)	#1(television video)	167
+0.0561798 ##1(video cassette)	#1(video cassettes)	167
+0.0444444 ##uw8(regulate show)	#uw8(Regulation showing)	167
+0.0804598 ##uw8(show violence)	#uw8(showing violence)	167
+0.0444444 ##uw8(violence explicit)	#uw8(violence explicit)	167
+0.0561798 ##uw8(explicit sex)	#uw8(explicit sex)	167
+0.032967 ##uw8(sex motion)	#uw8(sex motion)	167
+0.220779 ##uw8(motion picture)	#uw8(motion picture)	167
+0.0561798 ##uw8(picture theater)	#uw8(picture theaters)	167
+0.0561798 ##uw8(theater television)	#uw8(theaters television)	167
+0.0561798 ##uw8(television video)	#uw8(television video)	167
+0.0804598 ##uw8(video cassette)	#uw8(video cassettes)	167

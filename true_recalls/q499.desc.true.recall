@@ -1,0 +1,13 @@
+0.25 #origin	origin	499
+0.25 #develop	development	499
+1.5 #select	selection	499
+4 #pool	pool	499
+4 #cue	cue	499
+0.25 ##1(origin develop)	#1(origin development)	499
+0.25 ##1(develop select)	#1(development selection)	499
+0.25 ##1(select pool)	#1(selection pool)	499
+0.666667 ##1(pool cue)	#1(pool cue)	499
+0.25 ##uw8(origin develop)	#uw8(origin development)	499
+0.25 ##uw8(develop select)	#uw8(development selection)	499
+0.666667 ##uw8(select pool)	#uw8(selection pool)	499
+4 ##uw8(pool cue)	#uw8(pool cue)	499

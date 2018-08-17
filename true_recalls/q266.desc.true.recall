@@ -1,0 +1,13 @@
+0.0367647 #purpose	purpose	266
+0.0930233 #scuba	scuba	266
+140 #dive	diving	266
+0.0522388 #done	done	266
+0.0367647 #professional	professionally	266
+0.00714286 ##1(purpose scuba)	#1(purpose scuba)	266
+0.0763359 ##1(scuba dive)	#1(scuba diving)	266
+0.00714286 ##1(dive done)	#1(diving done)	266
+0.00714286 ##1(done professional)	#1(done professionally)	266
+0.00714286 ##uw8(purpose scuba)	#uw8(purpose scuba)	266
+0.0930233 ##uw8(scuba dive)	#uw8(scuba diving)	266
+0.0143885 ##uw8(dive done)	#uw8(diving done)	266
+0.00714286 ##uw8(done professional)	#uw8(done professionally)	266

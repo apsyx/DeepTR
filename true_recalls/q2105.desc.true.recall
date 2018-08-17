@@ -1,0 +1,16 @@
+4.625 #medical	medical	2105
+44 #service	services	2105
+1.04545 #available	available	2105
+44 #sonoma	Sonoma	2105
+21.5 #county	County	2105
+4.625 #california	California	2105
+0.40625 ##1(medical service)	#1(medical services)	2105
+0.0227273 ##1(service available)	#1(services available)	2105
+0.0227273 ##1(available sonoma)	#1(available Sonoma)	2105
+10.25 ##1(sonoma county)	#1(Sonoma County)	2105
+0.184211 ##1(county california)	#1(County California)	2105
+0.666667 ##uw8(medical service)	#uw8(medical services)	2105
+0.125 ##uw8(service available)	#uw8(services available)	2105
+0.216216 ##uw8(available sonoma)	#uw8(available Sonoma)	2105
+14 ##uw8(sonoma county)	#uw8(Sonoma County)	2105
+1.04545 ##uw8(county california)	#uw8(County California)	2105

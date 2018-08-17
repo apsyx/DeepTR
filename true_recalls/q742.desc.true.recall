@@ -1,0 +1,13 @@
+0.810345 #protect	protection	742
+12.125 #investor	investors	742
+10.6667 #fraud	fraud	742
+51.5 #hedge	hedge	742
+104 #fund	funds	742
+0.25 ##1(protect investor)	#1(protection investors)	742
+0.0194175 ##1(investor fraud)	#1(investors fraud)	742
+0.0194175 ##1(fraud hedge)	#1(fraud hedge)	742
+51.5 ##1(hedge fund)	#1(hedge funds)	742
+0.521739 ##uw8(protect investor)	#uw8(protection investors)	742
+0.363636 ##uw8(investor fraud)	#uw8(investors fraud)	742
+0.438356 ##uw8(fraud hedge)	#uw8(fraud hedge)	742
+51.5 ##uw8(hedge fund)	#uw8(hedge funds)	742

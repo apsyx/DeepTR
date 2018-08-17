@@ -1,0 +1,19 @@
+3.83333 #death	death	618
+28 #iran	Iranian	618
+8.66667 #president	President	618
+28 #ayatollah	Ayatollah	618
+8.66667 #khomeini	Khomeini	618
+0.0357143 #ramify	ramifications	618
+3.83333 #death	death	618
+0.115385 ##1(death iran)	#1(death Iranian)	618
+0.380952 ##1(iran president)	#1(Iranian President)	618
+0.0357143 ##1(president ayatollah)	#1(President Ayatollah)	618
+0.526316 ##1(ayatollah khomeini)	#1(Ayatollah Khomeini)	618
+0.0357143 ##1(khomeini ramify)	#1(Khomeini ramifications)	618
+0.0357143 ##1(ramify death)	#1(ramifications death)	618
+0.705882 ##uw8(death iran)	#uw8(death Iranian)	618
+1.63636 ##uw8(iran president)	#uw8(Iranian President)	618
+0.115385 ##uw8(president ayatollah)	#uw8(President Ayatollah)	618
+6.25 ##uw8(ayatollah khomeini)	#uw8(Ayatollah Khomeini)	618
+0.0357143 ##uw8(khomeini ramify)	#uw8(Khomeini ramifications)	618
+0.0357143 ##uw8(ramify death)	#uw8(ramifications death)	618

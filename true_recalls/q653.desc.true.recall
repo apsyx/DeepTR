@@ -1,0 +1,16 @@
+0.0266667 #activity	activities	653
+24.6667 #eta	ETA	653
+4.5 #basque	Basque	653
+0.790698 #terrorist	terrorist	653
+0.222222 #organize	organization	653
+1.96154 #spain	Spain	653
+0.0131579 ##1(activity eta)	#1(activities ETA)	653
+0.480769 ##1(eta basque)	#1(ETA Basque)	653
+0.0405405 ##1(basque terrorist)	#1(Basque terrorist)	653
+0.1 ##1(terrorist organize)	#1(terrorist organization)	653
+0.0131579 ##1(organize spain)	#1(organization Spain)	653
+0.0266667 ##uw8(activity eta)	#uw8(activities ETA)	653
+3.27778 ##uw8(eta basque)	#uw8(ETA Basque)	653
+0.283333 ##uw8(basque terrorist)	#uw8(Basque terrorist)	653
+0.115942 ##uw8(terrorist organize)	#uw8(terrorist organization)	653
+0.0405405 ##uw8(organize spain)	#uw8(organization Spain)	653

@@ -1,0 +1,13 @@
+0.619048 #company	companies	828
+0.971014 #organize	organizations	828
+1.125 #secret	secret	828
+1.06061 #mystery	mystery	828
+135 #shop	shoppers	828
+0.00740741 ##1(company organize)	#1(companies organizations)	828
+0.00740741 ##1(organize secret)	#1(organizations secret)	828
+0.0149254 ##1(secret mystery)	#1(secret mystery)	828
+1 ##1(mystery shop)	#1(mystery shoppers)	828
+0.0381679 ##uw8(company organize)	#uw8(companies organizations)	828
+0.00740741 ##uw8(organize secret)	#uw8(organizations secret)	828
+0.0149254 ##uw8(secret mystery)	#uw8(secret mystery)	828
+1 ##uw8(mystery shop)	#uw8(mystery shoppers)	828

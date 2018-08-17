@@ -1,0 +1,16 @@
+0.333333 #positive	positive	303
+0.0909091 #accomplish	accomplishments	303
+11 #hubble	Hubble	303
+11 #telescope	telescope	303
+0.5 #launch	launched	303
+0.0909091 #1991	1991	303
+0.0909091 ##1(positive accomplish)	#1(positive accomplishments)	303
+0.0909091 ##1(accomplish hubble)	#1(accomplishments Hubble)	303
+1 ##1(hubble telescope)	#1(Hubble telescope)	303
+0.2 ##1(telescope launch)	#1(telescope launched)	303
+0.0909091 ##1(launch 1991)	#1(launched 1991)	303
+0.0909091 ##uw8(positive accomplish)	#uw8(positive accomplishments)	303
+0.0909091 ##uw8(accomplish hubble)	#uw8(accomplishments Hubble)	303
+11 ##uw8(hubble telescope)	#uw8(Hubble telescope)	303
+0.2 ##uw8(telescope launch)	#uw8(telescope launched)	303
+0.0909091 ##uw8(launch 1991)	#uw8(launched 1991)	303

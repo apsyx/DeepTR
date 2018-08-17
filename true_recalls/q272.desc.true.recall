@@ -1,0 +1,10 @@
+3.22222 #medical	Medically	272
+8.5 #outpatient	outpatient	272
+3.22222 #surgery	surgery	272
+0.027027 #prevalant	prevalant	272
+0.027027 ##1(medical outpatient)	#1(Medically outpatient)	272
+0.652174 ##1(outpatient surgery)	#1(outpatient surgery)	272
+0.027027 ##1(surgery prevalant)	#1(surgery prevalant)	272
+0.1875 ##uw8(medical outpatient)	#uw8(Medically outpatient)	272
+1.375 ##uw8(outpatient surgery)	#uw8(outpatient surgery)	272
+0.027027 ##uw8(surgery prevalant)	#uw8(surgery prevalant)	272

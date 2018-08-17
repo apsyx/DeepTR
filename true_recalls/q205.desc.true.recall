@@ -1,0 +1,7 @@
+0.164179 #evidence	evidence	205
+0.0947368 #paramilitary	paramilitary	205
+0.263158 #activity	activity	205
+0.00321543 ##1(evidence paramilitary)	#1(evidence paramilitary)	205
+0.0162866 ##1(paramilitary activity)	#1(paramilitary activity)	205
+0.00321543 ##uw8(evidence paramilitary)	#uw8(evidence paramilitary)	205
+0.0162866 ##uw8(paramilitary activity)	#uw8(paramilitary activity)	205

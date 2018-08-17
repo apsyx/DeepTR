@@ -1,0 +1,22 @@
+0.202128 #young	young	656
+0.948276 #children	children	656
+1.01786 #protect	protected	656
+112 #lead	lead	656
+2.05405 #poison	poisoning	656
+3.91304 #paint	paint	656
+0.269663 #water	water	656
+0.0560748 #pipe	pipes	656
+0.177083 ##1(young children)	#1(young children)	656
+0.00892857 ##1(children protect)	#1(children protected)	656
+0.0272727 ##1(protect lead)	#1(protected lead)	656
+0.569444 ##1(lead poison)	#1(lead poisoning)	656
+0.00892857 ##1(poison paint)	#1(poisoning paint)	656
+0.00892857 ##1(paint water)	#1(paint water)	656
+0.00892857 ##1(water pipe)	#1(water pipes)	656
+0.177083 ##uw8(young children)	#uw8(young children)	656
+0.0660377 ##uw8(children protect)	#uw8(children protected)	656
+0.202128 ##uw8(protect lead)	#uw8(protected lead)	656
+1.89744 ##uw8(lead poison)	#uw8(lead poisoning)	656
+0.765625 ##uw8(poison paint)	#uw8(poisoning paint)	656
+0.0272727 ##uw8(paint water)	#uw8(paint water)	656
+0.018018 ##uw8(water pipe)	#uw8(water pipes)	656

@@ -1,0 +1,34 @@
+0.111111 #unexpected	unexpected	405
+0.0526316 #unexplained	unexplained	405
+0.538462 #cosmic	cosmic	405
+0.333333 #event	events	405
+0.142857 #celestial	celestial	405
+0.0526316 #phenomena	phenomena	405
+0.538462 #radiate	radiation	405
+0.0810811 #supernova	supernova	405
+0.025641 #outburst	outbursts	405
+1.35294 #new	new	405
+0.333333 #comet	comets	405
+0.6 #detect	detected	405
+0.025641 ##1(unexpected unexplained)	#1(unexpected unexplained)	405
+0.025641 ##1(unexplained cosmic)	#1(unexplained cosmic)	405
+0.025641 ##1(cosmic event)	#1(cosmic events)	405
+0.025641 ##1(event celestial)	#1(events celestial)	405
+0.025641 ##1(celestial phenomena)	#1(celestial phenomena)	405
+0.025641 ##1(phenomena radiate)	#1(phenomena radiation)	405
+0.025641 ##1(radiate supernova)	#1(radiation supernova)	405
+0.025641 ##1(supernova outburst)	#1(supernova outbursts)	405
+0.025641 ##1(outburst new)	#1(outbursts new)	405
+0.025641 ##1(new comet)	#1(new comets)	405
+0.025641 ##1(comet detect)	#1(comets detected)	405
+0.025641 ##uw8(unexpected unexplained)	#uw8(unexpected unexplained)	405
+0.025641 ##uw8(unexplained cosmic)	#uw8(unexplained cosmic)	405
+0.0526316 ##uw8(cosmic event)	#uw8(cosmic events)	405
+0.025641 ##uw8(event celestial)	#uw8(events celestial)	405
+0.025641 ##uw8(celestial phenomena)	#uw8(celestial phenomena)	405
+0.025641 ##uw8(phenomena radiate)	#uw8(phenomena radiation)	405
+0.025641 ##uw8(radiate supernova)	#uw8(radiation supernova)	405
+0.025641 ##uw8(supernova outburst)	#uw8(supernova outbursts)	405
+0.025641 ##uw8(outburst new)	#uw8(outbursts new)	405
+0.0526316 ##uw8(new comet)	#uw8(new comets)	405
+0.025641 ##uw8(comet detect)	#uw8(comets detected)	405

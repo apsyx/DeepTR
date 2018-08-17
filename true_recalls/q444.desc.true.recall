@@ -1,0 +1,19 @@
+0.583333 #potential	potential	444
+3.75 #use	uses	444
+18 #supercritic	supercritical	444
+1.11111 #fluid	fluids	444
+0.727273 #environmental	environmental	444
+0.1875 #protect	protection	444
+0.583333 #measure	measure	444
+0.0555556 ##1(potential use)	#1(potential uses)	444
+0.1875 ##1(use supercritic)	#1(uses supercritical)	444
+0.583333 ##1(supercritic fluid)	#1(supercritical fluids)	444
+0.0555556 ##1(fluid environmental)	#1(fluids environmental)	444
+0.117647 ##1(environmental protect)	#1(environmental protection)	444
+0.117647 ##1(protect measure)	#1(protection measure)	444
+0.0555556 ##uw8(potential use)	#uw8(potential uses)	444
+0.583333 ##uw8(use supercritic)	#uw8(uses supercritical)	444
+0.727273 ##uw8(supercritic fluid)	#uw8(supercritical fluids)	444
+0.0555556 ##uw8(fluid environmental)	#uw8(fluids environmental)	444
+0.1875 ##uw8(environmental protect)	#uw8(environmental protection)	444
+0.117647 ##uw8(protect measure)	#uw8(protection measure)	444

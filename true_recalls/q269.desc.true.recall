@@ -1,0 +1,28 @@
+0.141762 #define	Define	269
+0.114019 #instance	instances	269
+2.15344 #foreign	foreign	269
+7.63768 #trade	trade	269
+0.0777577 #instrument	instrument	269
+0.28172 #achieve	achieve	269
+0.619565 #national	national	269
+2.15344 #foreign	foreign	269
+2.34831 #policy	policy	269
+0.260042 #objective	objectives	269
+0.00168067 ##1(define instance)	#1(Define instances)	269
+0.00168067 ##1(instance foreign)	#1(instances foreign)	269
+0.070018 ##1(foreign trade)	#1(foreign trade)	269
+0.00505902 ##1(trade instrument)	#1(trade instrument)	269
+0.00168067 ##1(instrument achieve)	#1(instrument achieve)	269
+0.003367 ##1(achieve national)	#1(achieve national)	269
+0.00846024 ##1(national foreign)	#1(national foreign)	269
+0.436145 ##1(foreign policy)	#1(foreign policy)	269
+0.0567376 ##1(policy objective)	#1(policy objectives)	269
+0.00168067 ##uw8(define instance)	#uw8(Define instances)	269
+0.00846024 ##uw8(instance foreign)	#uw8(instances foreign)	269
+0.150579 ##uw8(foreign trade)	#uw8(foreign trade)	269
+0.00846024 ##uw8(trade instrument)	#uw8(trade instrument)	269
+0.00505902 ##uw8(instrument achieve)	#uw8(instrument achieve)	269
+0.00846024 ##uw8(achieve national)	#uw8(achieve national)	269
+0.099631 ##uw8(national foreign)	#uw8(national foreign)	269
+0.508861 ##uw8(foreign policy)	#uw8(foreign policy)	269
+0.0777577 ##uw8(policy objective)	#uw8(policy objectives)	269

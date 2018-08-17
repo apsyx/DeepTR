@@ -1,0 +1,19 @@
+0.367647 #country	countries	298
+0.0449438 #enforce	enforced	298
+0.291667 #strict	strict	298
+17.6 #gun	gun	298
+10.625 #control	control	298
+0.453125 #measure	measures	298
+0.021978 #1950	1950	298
+0.0108696 ##1(country enforce)	#1(countries enforced)	298
+0.0108696 ##1(enforce strict)	#1(enforced strict)	298
+0.0941176 ##1(strict gun)	#1(strict gun)	298
+3.89474 ##1(gun control)	#1(gun control)	298
+0.0813954 ##1(control measure)	#1(control measures)	298
+0.0108696 ##1(measure 1950)	#1(measures 1950)	298
+0.0108696 ##uw8(country enforce)	#uw8(countries enforced)	298
+0.0108696 ##uw8(enforce strict)	#uw8(enforced strict)	298
+0.120482 ##uw8(strict gun)	#uw8(strict gun)	298
+4.16667 ##uw8(gun control)	#uw8(gun control)	298
+0.107143 ##uw8(control measure)	#uw8(control measures)	298
+0.0108696 ##uw8(measure 1950)	#uw8(measures 1950)	298

@@ -1,0 +1,13 @@
+6.33333 #greenpeace	Greenpeace	674
+0.047619 #prosecute	prosecuted	674
+0.833333 #member	members	674
+1.2 #arrest	arrested	674
+0.294118 #action	actions	674
+0.047619 ##1(greenpeace prosecute)	#1(Greenpeace prosecuted)	674
+0.047619 ##1(prosecute member)	#1(prosecuted members)	674
+0.047619 ##1(member arrest)	#1(members arrested)	674
+0.047619 ##1(arrest action)	#1(arrested actions)	674
+0.047619 ##uw8(greenpeace prosecute)	#uw8(Greenpeace prosecuted)	674
+0.047619 ##uw8(prosecute member)	#uw8(prosecuted members)	674
+0.1 ##uw8(member arrest)	#uw8(members arrested)	674
+0.047619 ##uw8(arrest action)	#uw8(arrested actions)	674

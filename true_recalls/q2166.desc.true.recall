@@ -1,0 +1,10 @@
+0.714286 #type	type	2166
+5 #career	careers	2166
+5 #compute	computer	2166
+5 #programmer	programmers	2166
+0.0909091 ##1(type career)	#1(type careers)	2166
+0.2 ##1(career compute)	#1(careers computer)	2166
+1.4 ##1(compute programmer)	#1(computer programmers)	2166
+0.0909091 ##uw8(type career)	#uw8(type careers)	2166
+1.4 ##uw8(career compute)	#uw8(careers computer)	2166
+1.4 ##uw8(compute programmer)	#uw8(computer programmers)	2166

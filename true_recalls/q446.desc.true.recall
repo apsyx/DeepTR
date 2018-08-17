@@ -1,0 +1,25 @@
+22.4286 #tourist	tourists	446
+0.100671 #likely	likely	446
+0.0580645 #subject	subjected	446
+0.19708 #act	acts	446
+0.464286 #violence	violence	446
+0.28125 #cause	causing	446
+0.0580645 #body	bodily	446
+0.0379747 #harm	harm	446
+0.322581 #death	death	446
+0.00613497 ##1(tourist likely)	#1(tourists likely)	446
+0.00613497 ##1(likely subject)	#1(likely subjected)	446
+0.00613497 ##1(subject act)	#1(subjected acts)	446
+0.00613497 ##1(act violence)	#1(acts violence)	446
+0.00613497 ##1(violence cause)	#1(violence causing)	446
+0.00613497 ##1(cause body)	#1(causing bodily)	446
+0.00613497 ##1(body harm)	#1(bodily harm)	446
+0.00613497 ##1(harm death)	#1(harm death)	446
+0.0123457 ##uw8(tourist likely)	#uw8(tourists likely)	446
+0.00613497 ##uw8(likely subject)	#uw8(likely subjected)	446
+0.00613497 ##uw8(subject act)	#uw8(subjected acts)	446
+0.0789474 ##uw8(act violence)	#uw8(acts violence)	446
+0.0186335 ##uw8(violence cause)	#uw8(violence causing)	446
+0.00613497 ##uw8(cause body)	#uw8(causing bodily)	446
+0.00613497 ##uw8(body harm)	#uw8(bodily harm)	446
+0.00613497 ##uw8(harm death)	#uw8(harm death)	446

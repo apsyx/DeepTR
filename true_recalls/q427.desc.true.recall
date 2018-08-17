@@ -1,0 +1,16 @@
+1.47619 #damage	damage	427
+1.36364 #ultraviolet	ultraviolet	427
+0.3 #uv	UV	427
+0.677419 #light	light	427
+0.857143 #sun	sun	427
+1.88889 #eye	eyes	427
+0.0612245 ##1(damage ultraviolet)	#1(damage ultraviolet)	427
+0.0612245 ##1(ultraviolet uv)	#1(ultraviolet UV)	427
+0.04 ##1(uv light)	#1(UV light)	427
+0.0196078 ##1(light sun)	#1(light sun)	427
+0.0196078 ##1(sun eye)	#1(sun eyes)	427
+0.130435 ##uw8(damage ultraviolet)	#uw8(damage ultraviolet)	427
+0.106383 ##uw8(ultraviolet uv)	#uw8(ultraviolet UV)	427
+0.04 ##uw8(uv light)	#uw8(UV light)	427
+0.0833333 ##uw8(light sun)	#uw8(light sun)	427
+0.0612245 ##uw8(sun eye)	#uw8(sun eyes)	427

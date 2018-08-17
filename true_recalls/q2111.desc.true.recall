@@ -1,0 +1,13 @@
+33 #treat	treatments	2111
+1.95652 #available	available	2111
+66.9999 #dog	dogs	2111
+0.789474 #diagnose	diagnosed	2111
+66.9999 #lymphoma	lymphoma	2111
+0.0461538 ##1(treat available)	#1(treatments available)	2111
+0.0149254 ##1(available dog)	#1(available dogs)	2111
+0.0461538 ##1(dog diagnose)	#1(dogs diagnosed)	2111
+0.0793651 ##1(diagnose lymphoma)	#1(diagnosed lymphoma)	2111
+0.172414 ##uw8(treat available)	#uw8(treatments available)	2111
+0.114754 ##uw8(available dog)	#uw8(available dogs)	2111
+0.283019 ##uw8(dog diagnose)	#uw8(dogs diagnosed)	2111
+0.36 ##uw8(diagnose lymphoma)	#uw8(diagnosed lymphoma)	2111

@@ -1,0 +1,19 @@
+0.4 #concern	concerns	373
+0.458333 #unite	United	373
+1.05882 #state	States	373
+0.166667 #regard	regarding	373
+1.5 #export	export	373
+1.05882 #encryption	encryption	373
+1.33333 #equip	equipment	373
+0.0294118 ##1(concern unite)	#1(concerns United)	373
+0.4 ##1(unite state)	#1(United States)	373
+0.0294118 ##1(state regard)	#1(States regarding)	373
+0.0294118 ##1(regard export)	#1(regarding export)	373
+0.0294118 ##1(export encryption)	#1(export encryption)	373
+0.0294118 ##1(encryption equip)	#1(encryption equipment)	373
+0.0294118 ##uw8(concern unite)	#uw8(concerns United)	373
+0.4 ##uw8(unite state)	#uw8(United States)	373
+0.0294118 ##uw8(state regard)	#uw8(States regarding)	373
+0.0606061 ##uw8(regard export)	#uw8(regarding export)	373
+0.166667 ##uw8(export encryption)	#uw8(export encryption)	373
+0.166667 ##uw8(encryption equip)	#uw8(encryption equipment)	373

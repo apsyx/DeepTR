@@ -1,0 +1,22 @@
+0.882353 #likely	likely	2149
+7 #volcanic	volcanic	2149
+31 #eruption	eruption	2149
+31 #yellowstone	Yellowstone	2149
+31 #national	National	2149
+31 #park	Park	2149
+1.90909 #effect	effects	2149
+31 #eruption	eruption	2149
+0.0322581 ##1(likely volcanic)	#1(likely volcanic)	2149
+2.2 ##1(volcanic eruption)	#1(volcanic eruption)	2149
+0.0666667 ##1(eruption yellowstone)	#1(eruption Yellowstone)	2149
+9.66667 ##1(yellowstone national)	#1(Yellowstone National)	2149
+31 ##1(national park)	#1(National Park)	2149
+0.0322581 ##1(park effect)	#1(Park effects)	2149
+0.0322581 ##1(effect eruption)	#1(effects eruption)	2149
+0.185185 ##uw8(likely volcanic)	#uw8(likely volcanic)	2149
+2.55556 ##uw8(volcanic eruption)	#uw8(volcanic eruption)	2149
+2.55556 ##uw8(eruption yellowstone)	#uw8(eruption Yellowstone)	2149
+15 ##uw8(yellowstone national)	#uw8(Yellowstone National)	2149
+31 ##uw8(national park)	#uw8(National Park)	2149
+0.454545 ##uw8(park effect)	#uw8(Park effects)	2149
+0.185185 ##uw8(effect eruption)	#uw8(effects eruption)	2149

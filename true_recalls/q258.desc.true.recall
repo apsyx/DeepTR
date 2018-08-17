@@ -1,0 +1,25 @@
+0.0934579 #instance	instances	258
+0.147059 #illegal	illegal	258
+0.103774 #entry	entry	258
+0.244681 #sensitive	sensitive	258
+57.5 #compute	computer	258
+4.57143 #network	networks	258
+0.17 #non	non	258
+0.147059 #authorize	authorized	258
+0.0636364 #personnel	personnel	258
+0.00862069 ##1(instance illegal)	#1(instances illegal)	258
+0.00862069 ##1(illegal entry)	#1(illegal entry)	258
+0.00862069 ##1(entry sensitive)	#1(entry sensitive)	258
+0.00862069 ##1(sensitive compute)	#1(sensitive computer)	258
+0.720588 ##1(compute network)	#1(computer networks)	258
+0.00862069 ##1(network non)	#1(networks non)	258
+0.00862069 ##1(non authorize)	#1(non authorized)	258
+0.00862069 ##1(authorize personnel)	#1(authorized personnel)	258
+0.00862069 ##uw8(instance illegal)	#uw8(instances illegal)	258
+0.0263158 ##uw8(illegal entry)	#uw8(illegal entry)	258
+0.00862069 ##uw8(entry sensitive)	#uw8(entry sensitive)	258
+0.0934579 ##uw8(sensitive compute)	#uw8(sensitive computer)	258
+1.85366 ##uw8(compute network)	#uw8(computer networks)	258
+0.0263158 ##uw8(network non)	#uw8(networks non)	258
+0.00862069 ##uw8(non authorize)	#uw8(non authorized)	258
+0.00862069 ##uw8(authorize personnel)	#uw8(authorized personnel)	258

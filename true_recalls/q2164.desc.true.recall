@@ -1,0 +1,10 @@
+27 #hobby	hobby	2164
+13 #store	stores	2164
+0.4 #carry	carry	2164
+13 #train	trains	2164
+2.11111 ##1(hobby store)	#1(hobby stores)	2164
+0.037037 ##1(store carry)	#1(stores carry)	2164
+0.037037 ##1(carry train)	#1(carry trains)	2164
+6 ##uw8(hobby store)	#uw8(hobby stores)	2164
+0.0769231 ##uw8(store carry)	#uw8(stores carry)	2164
+0.166667 ##uw8(carry train)	#uw8(carry trains)	2164

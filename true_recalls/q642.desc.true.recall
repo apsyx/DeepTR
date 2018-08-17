@@ -1,0 +1,28 @@
+0.138889 #happen	happened	642
+1.92857 #protest	protesters	642
+1.5625 #arrest	arrested	642
+0.138889 #connect	connection	642
+2.72727 #tiananmen	Tiananmen	642
+5.83333 #square	Square	642
+0.782609 #demonstrate	demonstrations	642
+7.2 #beije	Beijing	642
+0.138889 #spring	spring	642
+12.6667 #1989	1989	642
+0.025 ##1(happen protest)	#1(happened protesters)	642
+0.025 ##1(protest arrest)	#1(protesters arrested)	642
+0.025 ##1(arrest connect)	#1(arrested connection)	642
+0.025 ##1(connect tiananmen)	#1(connection Tiananmen)	642
+1.73333 ##1(tiananmen square)	#1(Tiananmen Square)	642
+0.051282 ##1(square demonstrate)	#1(Square demonstrations)	642
+0.051282 ##1(demonstrate beije)	#1(demonstrations Beijing)	642
+0.025 ##1(beije spring)	#1(Beijing spring)	642
+0.0789474 ##1(spring 1989)	#1(spring 1989)	642
+0.025 ##uw8(happen protest)	#uw8(happened protesters)	642
+0.108108 ##uw8(protest arrest)	#uw8(protesters arrested)	642
+0.051282 ##uw8(arrest connect)	#uw8(arrested connection)	642
+0.025 ##uw8(connect tiananmen)	#uw8(connection Tiananmen)	642
+1.73333 ##uw8(tiananmen square)	#uw8(Tiananmen Square)	642
+0.205882 ##uw8(square demonstrate)	#uw8(Square demonstrations)	642
+0.138889 ##uw8(demonstrate beije)	#uw8(demonstrations Beijing)	642
+0.025 ##uw8(beije spring)	#uw8(Beijing spring)	642
+0.0789474 ##uw8(spring 1989)	#uw8(spring 1989)	642

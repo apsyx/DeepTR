@@ -1,0 +1,10 @@
+1 #buy	buying	2004
+3 #install	installing	2004
+0.333333 #repaire	repairing	2004
+3 #toilet	toilets	2004
+0.333333 ##1(buy install)	#1(buying installing)	2004
+0.333333 ##1(install repaire)	#1(installing repairing)	2004
+0.333333 ##1(repaire toilet)	#1(repairing toilets)	2004
+0.333333 ##uw8(buy install)	#uw8(buying installing)	2004
+0.333333 ##uw8(install repaire)	#uw8(installing repairing)	2004
+0.333333 ##uw8(repaire toilet)	#uw8(repairing toilets)	2004

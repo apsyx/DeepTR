@@ -1,0 +1,16 @@
+1.05405 #civilian	civilian	277
+0.461538 #death	deaths	277
+0.1875 #cause	caused	277
+1.62069 #land	land	277
+18 #mine	mines	277
+0.948718 #country	country	277
+0.0410959 ##1(civilian death)	#1(civilian deaths)	277
+0.0133333 ##1(death cause)	#1(deaths caused)	277
+0.0133333 ##1(cause land)	#1(caused land)	277
+1.11111 ##1(land mine)	#1(land mines)	277
+0.027027 ##1(mine country)	#1(mines country)	277
+0.0555556 ##uw8(civilian death)	#uw8(civilian deaths)	277
+0.0133333 ##uw8(death cause)	#uw8(deaths caused)	277
+0.027027 ##uw8(cause land)	#uw8(caused land)	277
+1.17143 ##uw8(land mine)	#uw8(land mines)	277
+0.101449 ##uw8(mine country)	#uw8(mines country)	277

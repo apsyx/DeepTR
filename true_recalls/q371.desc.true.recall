@@ -1,0 +1,34 @@
+0.1875 #extent	extent	371
+3.75 #health	health	371
+1.11111 #insurance	insurance	371
+1.71429 #coverage	coverage	371
+0.0555556 #holistic	holistic	371
+0.357143 #non	non	371
+0.357143 #tradition	traditional	371
+0.583333 #medicine	medicine	371
+5.33333 #medical	medical	371
+18 #treat	treatments	371
+0.583333 #example	example	371
+0.1875 #acupuncture	acupuncture	371
+0.0555556 ##1(extent health)	#1(extent health)	371
+0.727273 ##1(health insurance)	#1(health insurance)	371
+0.117647 ##1(insurance coverage)	#1(insurance coverage)	371
+0.0555556 ##1(coverage holistic)	#1(coverage holistic)	371
+0.0555556 ##1(holistic non)	#1(holistic non)	371
+0.0555556 ##1(non tradition)	#1(non traditional)	371
+0.0555556 ##1(tradition medicine)	#1(traditional medicine)	371
+0.0555556 ##1(medicine medical)	#1(medicine medical)	371
+0.117647 ##1(medical treat)	#1(medical treatments)	371
+0.0555556 ##1(treat example)	#1(treatments example)	371
+0.0555556 ##1(example acupuncture)	#1(example acupuncture)	371
+0.0555556 ##uw8(extent health)	#uw8(extent health)	371
+0.727273 ##uw8(health insurance)	#uw8(health insurance)	371
+0.1875 ##uw8(insurance coverage)	#uw8(insurance coverage)	371
+0.0555556 ##uw8(coverage holistic)	#uw8(coverage holistic)	371
+0.0555556 ##uw8(holistic non)	#uw8(holistic non)	371
+0.117647 ##uw8(non tradition)	#uw8(non traditional)	371
+0.0555556 ##uw8(tradition medicine)	#uw8(traditional medicine)	371
+0.117647 ##uw8(medicine medical)	#uw8(medicine medical)	371
+0.727273 ##uw8(medical treat)	#uw8(medical treatments)	371
+0.0555556 ##uw8(treat example)	#uw8(treatments example)	371
+0.0555556 ##uw8(example acupuncture)	#uw8(example acupuncture)	371

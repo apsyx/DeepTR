@@ -1,0 +1,13 @@
+84 #pet	pets	794
+1.23684 #animal	animals	794
+84 #therapy	therapy	794
+1.02381 #human	humans	794
+0.931818 #benefit	benefits	794
+0.0493827 ##1(pet animal)	#1(pets animals)	794
+0.0759494 ##1(animal therapy)	#1(animals therapy)	794
+0.0119048 ##1(therapy human)	#1(therapy humans)	794
+0.0119048 ##1(human benefit)	#1(humans benefits)	794
+0.603774 ##uw8(pet animal)	#uw8(pets animals)	794
+0.517857 ##uw8(animal therapy)	#uw8(animals therapy)	794
+0.0365854 ##uw8(therapy human)	#uw8(therapy humans)	794
+0.0493827 ##uw8(human benefit)	#uw8(humans benefits)	794

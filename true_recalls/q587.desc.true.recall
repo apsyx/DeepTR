@@ -1,0 +1,13 @@
+5 #research	research	587
+0.5 #tell	tell	587
+5 #effect	effectiveness	587
+5 #bilingual	bilingual	587
+5 #educate	education	587
+0.2 ##1(research tell)	#1(research tell)	587
+0.2 ##1(tell effect)	#1(tell effectiveness)	587
+0.2 ##1(effect bilingual)	#1(effectiveness bilingual)	587
+5 ##1(bilingual educate)	#1(bilingual education)	587
+0.2 ##uw8(research tell)	#uw8(research tell)	587
+0.2 ##uw8(tell effect)	#uw8(tell effectiveness)	587
+0.2 ##uw8(effect bilingual)	#uw8(effectiveness bilingual)	587
+5 ##uw8(bilingual educate)	#uw8(bilingual education)	587

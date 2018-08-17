@@ -1,0 +1,22 @@
+0.76 #current	current	385
+0.0731707 #status	status	385
+0.571429 #hybrid	hybrid	385
+0.72549 #automobile	automobile	385
+2.66667 #engine	engines	385
+5.28571 #car	cars	385
+2.38462 #fuel	fueled	385
+0.491525 #gasoline	gasoline	385
+0.0114943 ##1(current status)	#1(current status)	385
+0.0114943 ##1(status hybrid)	#1(status hybrid)	385
+0.0114943 ##1(hybrid automobile)	#1(hybrid automobile)	385
+0.0352941 ##1(automobile engine)	#1(automobile engines)	385
+0.0731707 ##1(engine car)	#1(engines cars)	385
+0.0352941 ##1(car fuel)	#1(cars fueled)	385
+0.0232558 ##1(fuel gasoline)	#1(fueled gasoline)	385
+0.0114943 ##uw8(current status)	#uw8(current status)	385
+0.0114943 ##uw8(status hybrid)	#uw8(status hybrid)	385
+0.0114943 ##uw8(hybrid automobile)	#uw8(hybrid automobile)	385
+0.0864198 ##uw8(automobile engine)	#uw8(automobile engines)	385
+0.396825 ##uw8(engine car)	#uw8(engines cars)	385
+0.419355 ##uw8(car fuel)	#uw8(cars fueled)	385
+0.189189 ##uw8(fuel gasoline)	#uw8(fueled gasoline)	385

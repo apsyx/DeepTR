@@ -1,0 +1,19 @@
+0.0990099 #name	Name	255
+4.28571 #country	countries	255
+0.305882 #practice	practice	255
+0.21978 #ignore	ignore	255
+12.875 #environmental	environmental	255
+2.08333 #protect	protective	255
+0.48 #measure	measures	255
+0.00909091 ##1(name country)	#1(Name countries)	255
+0.00909091 ##1(country practice)	#1(countries practice)	255
+0.00909091 ##1(practice ignore)	#1(practice ignore)	255
+0.00909091 ##1(ignore environmental)	#1(ignore environmental)	255
+0.5 ##1(environmental protect)	#1(environmental protective)	255
+0.0277778 ##1(protect measure)	#1(protective measures)	255
+0.00909091 ##uw8(name country)	#uw8(Name countries)	255
+0.0277778 ##uw8(country practice)	#uw8(countries practice)	255
+0.00909091 ##uw8(practice ignore)	#uw8(practice ignore)	255
+0.0373832 ##uw8(ignore environmental)	#uw8(ignore environmental)	255
+0.585714 ##uw8(environmental protect)	#uw8(environmental protective)	255
+0.0571429 ##uw8(protect measure)	#uw8(protective measures)	255

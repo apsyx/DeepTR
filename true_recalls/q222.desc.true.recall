@@ -1,0 +1,19 @@
+0.0410959 #data	data	222
+0.169231 #available	available	222
+0.245902 #suggest	suggest	222
+1.92308 #capital	capital	222
+2.04 #punish	punishment	222
+1.05405 #deterrent	deterrent	222
+3 #crime	crime	222
+0.0133333 ##1(data available)	#1(data available)	222
+0.0133333 ##1(available suggest)	#1(available suggest)	222
+0.0133333 ##1(suggest capital)	#1(suggest capital)	222
+1.45161 ##1(capital punish)	#1(capital punishment)	222
+0.0133333 ##1(punish deterrent)	#1(punishment deterrent)	222
+0.0133333 ##1(deterrent crime)	#1(deterrent crime)	222
+0.0133333 ##uw8(data available)	#uw8(data available)	222
+0.0133333 ##uw8(available suggest)	#uw8(available suggest)	222
+0.0410959 ##uw8(suggest capital)	#uw8(suggest capital)	222
+1.45161 ##uw8(capital punish)	#uw8(capital punishment)	222
+0.151515 ##uw8(punish deterrent)	#uw8(punishment deterrent)	222
+0.1875 ##uw8(deterrent crime)	#uw8(deterrent crime)	222

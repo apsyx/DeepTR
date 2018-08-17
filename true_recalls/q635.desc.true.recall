@@ -1,0 +1,10 @@
+0.105263 #argument	arguments	635
+2 #doctor	doctor	635
+2.5 #assist	assisted	635
+6 #suicide	suicide	635
+0.05 ##1(argument doctor)	#1(arguments doctor)	635
+0.3125 ##1(doctor assist)	#1(doctor assisted)	635
+0.909091 ##1(assist suicide)	#1(assisted suicide)	635
+0.05 ##uw8(argument doctor)	#uw8(arguments doctor)	635
+0.4 ##uw8(doctor assist)	#uw8(doctor assisted)	635
+1.33333 ##uw8(assist suicide)	#uw8(assisted suicide)	635

@@ -1,0 +1,19 @@
+0.136364 #effort	efforts	557
+0.282051 #maintain	maintain	557
+0.470588 #improve	improve	557
+11.5 #clean	clean	557
+3.16667 #air	air	557
+11.5 #clean	clean	557
+1.5 #water	water	557
+0.0204082 ##1(effort maintain)	#1(efforts maintain)	557
+0.0204082 ##1(maintain improve)	#1(maintain improve)	557
+0.0204082 ##1(improve clean)	#1(improve clean)	557
+1.5 ##1(clean air)	#1(clean air)	557
+0.0416667 ##1(air clean)	#1(air clean)	557
+0.5625 ##1(clean water)	#1(clean water)	557
+0.0204082 ##uw8(effort maintain)	#uw8(efforts maintain)	557
+0.0638298 ##uw8(maintain improve)	#uw8(maintain improve)	557
+0.0869565 ##uw8(improve clean)	#uw8(improve clean)	557
+1.63158 ##uw8(clean air)	#uw8(clean air)	557
+1.63158 ##uw8(air clean)	#uw8(air clean)	557
+0.666667 ##uw8(clean water)	#uw8(clean water)	557

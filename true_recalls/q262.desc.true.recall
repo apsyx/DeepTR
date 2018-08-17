@@ -1,0 +1,34 @@
+5 #seasonal	seasonal	262
+5 #affect	affective	262
+5 #disorder	disorder	262
+0.2 #syndrome	syndrome	262
+2 #sad	SADS	262
+2 #known	known	262
+5 #seasonal	seasonal	262
+1 #absence	absence	262
+2 #daylight	daylight	262
+0.2 #syndrome	syndrome	262
+0.2 #worldwide	worldwide	262
+5 #disorder	disorder	262
+5 ##1(seasonal affect)	#1(seasonal affective)	262
+5 ##1(affect disorder)	#1(affective disorder)	262
+0.2 ##1(disorder syndrome)	#1(disorder syndrome)	262
+0.2 ##1(syndrome sad)	#1(syndrome SADS)	262
+0.2 ##1(sad known)	#1(SADS known)	262
+0.2 ##1(known seasonal)	#1(known seasonal)	262
+0.2 ##1(seasonal absence)	#1(seasonal absence)	262
+0.2 ##1(absence daylight)	#1(absence daylight)	262
+0.2 ##1(daylight syndrome)	#1(daylight syndrome)	262
+0.2 ##1(syndrome worldwide)	#1(syndrome worldwide)	262
+0.2 ##1(worldwide disorder)	#1(worldwide disorder)	262
+5 ##uw8(seasonal affect)	#uw8(seasonal affective)	262
+5 ##uw8(affect disorder)	#uw8(affective disorder)	262
+0.2 ##uw8(disorder syndrome)	#uw8(disorder syndrome)	262
+0.2 ##uw8(syndrome sad)	#uw8(syndrome SADS)	262
+0.5 ##uw8(sad known)	#uw8(SADS known)	262
+0.5 ##uw8(known seasonal)	#uw8(known seasonal)	262
+0.2 ##uw8(seasonal absence)	#uw8(seasonal absence)	262
+0.2 ##uw8(absence daylight)	#uw8(absence daylight)	262
+0.2 ##uw8(daylight syndrome)	#uw8(daylight syndrome)	262
+0.2 ##uw8(syndrome worldwide)	#uw8(syndrome worldwide)	262
+0.2 ##uw8(worldwide disorder)	#uw8(worldwide disorder)	262

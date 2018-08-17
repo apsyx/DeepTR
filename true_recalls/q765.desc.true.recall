@@ -1,0 +1,25 @@
+53.5 #death	deaths	765
+0.379747 #attribute	attributed	765
+9.9 #drug	drug	765
+108 #ephedra	ephedra	765
+0.786885 #known	known	765
+4.45 #herb	herbal	765
+1.0566 #ingredient	ingredient	765
+1.01852 #ma	ma	765
+0.981818 #huang	huang	765
+0.0186916 ##1(death attribute)	#1(deaths attributed)	765
+0.00925926 ##1(attribute drug)	#1(attributed drug)	765
+0.0792079 ##1(drug ephedra)	#1(drug ephedra)	765
+0.0283019 ##1(ephedra known)	#1(ephedra known)	765
+0.00925926 ##1(known herb)	#1(known herbal)	765
+0.112245 ##1(herb ingredient)	#1(herbal ingredient)	765
+0.0186916 ##1(ingredient ma)	#1(ingredient ma)	765
+0.981818 ##1(ma huang)	#1(ma huang)	765
+0.0686274 ##uw8(death attribute)	#uw8(deaths attributed)	765
+0.0480769 ##uw8(attribute drug)	#uw8(attributed drug)	765
+0.513889 ##uw8(drug ephedra)	#uw8(drug ephedra)	765
+0.267442 ##uw8(ephedra known)	#uw8(ephedra known)	765
+0.0582524 ##uw8(known herb)	#uw8(known herbal)	765
+0.238636 ##uw8(herb ingredient)	#uw8(herbal ingredient)	765
+0.112245 ##uw8(ingredient ma)	#uw8(ingredient ma)	765
+0.981818 ##uw8(ma huang)	#uw8(ma huang)	765

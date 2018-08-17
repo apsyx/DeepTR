@@ -1,0 +1,22 @@
+1.33566 #civilian	civilian	306
+0.0470219 #non	non	306
+0.0372671 #combatant	combatants	306
+4.66102 #kill	killed	306
+0.0774194 #various	various	306
+0.590476 #civil	civil	306
+1.10063 #war	wars	306
+1.30345 #africa	Africa	306
+0.003003 ##1(civilian non)	#1(civilian non)	306
+0.003003 ##1(non combatant)	#1(non combatants)	306
+0.003003 ##1(combatant kill)	#1(combatants killed)	306
+0.003003 ##1(kill various)	#1(killed various)	306
+0.003003 ##1(various civil)	#1(various civil)	306
+0.458515 ##1(civil war)	#1(civil wars)	306
+0.003003 ##1(war africa)	#1(wars Africa)	306
+0.003003 ##uw8(civilian non)	#uw8(civilian non)	306
+0.003003 ##uw8(non combatant)	#uw8(non combatants)	306
+0.0060241 ##uw8(combatant kill)	#uw8(combatants killed)	306
+0.00906345 ##uw8(kill various)	#uw8(killed various)	306
+0.003003 ##uw8(various civil)	#uw8(various civil)	306
+0.458515 ##uw8(civil war)	#uw8(civil wars)	306
+0.0705128 ##uw8(war africa)	#uw8(wars Africa)	306

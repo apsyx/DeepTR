@@ -1,0 +1,25 @@
+82.0001 #mercury	mercury	783
+1.67742 #poison	poisonings	783
+1.76667 #children	children	783
+0.202899 #occurred	occurred	783
+82.0001 #school	schools	783
+0.97619 #measure	measures	783
+0.804348 #taken	taken	783
+0.886364 #prevent	prevent	783
+0.693878 #incident	incidents	783
+0.360656 ##1(mercury poison)	#1(mercury poisonings)	783
+0.0246914 ##1(poison children)	#1(poisonings children)	783
+0.0121951 ##1(children occurred)	#1(children occurred)	783
+0.0121951 ##1(occurred school)	#1(occurred schools)	783
+0.0121951 ##1(school measure)	#1(schools measures)	783
+0.0246914 ##1(measure taken)	#1(measures taken)	783
+0.0121951 ##1(taken prevent)	#1(taken prevent)	783
+0.0121951 ##1(prevent incident)	#1(prevent incidents)	783
+0.693878 ##uw8(mercury poison)	#uw8(mercury poisonings)	783
+0.185714 ##uw8(poison children)	#uw8(poisonings children)	783
+0.0121951 ##uw8(children occurred)	#uw8(children occurred)	783
+0.0779221 ##uw8(occurred school)	#uw8(occurred schools)	783
+0.106667 ##uw8(school measure)	#uw8(schools measures)	783
+0.0641026 ##uw8(measure taken)	#uw8(measures taken)	783
+0.0121951 ##uw8(taken prevent)	#uw8(taken prevent)	783
+0.0121951 ##uw8(prevent incident)	#uw8(prevent incidents)	783

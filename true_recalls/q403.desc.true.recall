@@ -1,0 +1,52 @@
+1.875 #effect	effects	403
+1.09091 #dietary	dietary	403
+1.09091 #intake	intakes	403
+0.0952381 #potassium	potassium	403
+0.0952381 #magnesium	magnesium	403
+0.642857 #fruit	fruits	403
+0.642857 #vegetable	vegetables	403
+0.0454545 #determinant	determinants	403
+6.66667 #bone	bone	403
+0.642857 #mineral	mineral	403
+1.09091 #dense	density	403
+0.642857 #elder	elderly	403
+1.09091 #men	men	403
+4.75 #women	women	403
+0.769231 #prevent	preventing	403
+22 #osteoporosis	osteoporosis	403
+6.66667 #bone	bone	403
+0.0952381 #decay	decay	403
+0.0454545 ##1(effect dietary)	#1(effects dietary)	403
+0.277778 ##1(dietary intake)	#1(dietary intakes)	403
+0.0454545 ##1(intake potassium)	#1(intakes potassium)	403
+0.0952381 ##1(potassium magnesium)	#1(potassium magnesium)	403
+0.0454545 ##1(magnesium fruit)	#1(magnesium fruits)	403
+0.0952381 ##1(fruit vegetable)	#1(fruits vegetables)	403
+0.0454545 ##1(vegetable determinant)	#1(vegetables determinants)	403
+0.0454545 ##1(determinant bone)	#1(determinants bone)	403
+0.0952381 ##1(bone mineral)	#1(bone mineral)	403
+0.0454545 ##1(mineral dense)	#1(mineral density)	403
+0.0454545 ##1(dense elder)	#1(density elderly)	403
+0.15 ##1(elder men)	#1(elderly men)	403
+0.0454545 ##1(men women)	#1(men women)	403
+0.0454545 ##1(women prevent)	#1(women preventing)	403
+0.352941 ##1(prevent osteoporosis)	#1(preventing osteoporosis)	403
+0.0952381 ##1(osteoporosis bone)	#1(osteoporosis bone)	403
+0.0454545 ##1(bone decay)	#1(bone decay)	403
+0.0454545 ##uw8(effect dietary)	#uw8(effects dietary)	403
+0.642857 ##uw8(dietary intake)	#uw8(dietary intakes)	403
+0.0454545 ##uw8(intake potassium)	#uw8(intakes potassium)	403
+0.0952381 ##uw8(potassium magnesium)	#uw8(potassium magnesium)	403
+0.0454545 ##uw8(magnesium fruit)	#uw8(magnesium fruits)	403
+0.352941 ##uw8(fruit vegetable)	#uw8(fruits vegetables)	403
+0.0454545 ##uw8(vegetable determinant)	#uw8(vegetables determinants)	403
+0.0454545 ##uw8(determinant bone)	#uw8(determinants bone)	403
+0.277778 ##uw8(bone mineral)	#uw8(bone mineral)	403
+0.15 ##uw8(mineral dense)	#uw8(mineral density)	403
+0.0454545 ##uw8(dense elder)	#uw8(density elderly)	403
+0.210526 ##uw8(elder men)	#uw8(elderly men)	403
+0.769231 ##uw8(men women)	#uw8(men women)	403
+0.352941 ##uw8(women prevent)	#uw8(women preventing)	403
+0.352941 ##uw8(prevent osteoporosis)	#uw8(preventing osteoporosis)	403
+1.55556 ##uw8(osteoporosis bone)	#uw8(osteoporosis bone)	403
+0.0454545 ##uw8(bone decay)	#uw8(bone decay)	403

@@ -1,0 +1,22 @@
+59.0001 #bart	BART	2086
+59.0001 #bay	Bay	2086
+59.0001 #area	Area	2086
+19 #rapid	Rapid	2086
+59.0001 #transit	Transit	2086
+0.621622 #system	system	2086
+59.0001 #san	San	2086
+59.0001 #francisco	Francisco	2086
+0.363636 ##1(bart bay)	#1(BART Bay)	2086
+59.0001 ##1(bay area)	#1(Bay Area)	2086
+19 ##1(area rapid)	#1(Area Rapid)	2086
+19 ##1(rapid transit)	#1(Rapid Transit)	2086
+0.395349 ##1(transit system)	#1(Transit system)	2086
+0.0169492 ##1(system san)	#1(system San)	2086
+59.0001 ##1(san francisco)	#1(San Francisco)	2086
+2 ##uw8(bart bay)	#uw8(BART Bay)	2086
+59.0001 ##uw8(bay area)	#uw8(Bay Area)	2086
+19 ##uw8(area rapid)	#uw8(Area Rapid)	2086
+19 ##uw8(rapid transit)	#uw8(Rapid Transit)	2086
+0.395349 ##uw8(transit system)	#uw8(Transit system)	2086
+0.428571 ##uw8(system san)	#uw8(system San)	2086
+59.0001 ##uw8(san francisco)	#uw8(San Francisco)	2086

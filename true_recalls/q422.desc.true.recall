@@ -1,0 +1,10 @@
+0.033557 #incident	incidents	422
+2.5814 #stolen	stolen	422
+0.166667 #forge	forged	422
+3.4 #art	art	422
+0.00653595 ##1(incident stolen)	#1(incidents stolen)	422
+0.00653595 ##1(stolen forge)	#1(stolen forged)	422
+0.0198675 ##1(forge art)	#1(forged art)	422
+0.0131579 ##uw8(incident stolen)	#uw8(incidents stolen)	422
+0.00653595 ##uw8(stolen forge)	#uw8(stolen forged)	422
+0.062069 ##uw8(forge art)	#uw8(forged art)	422

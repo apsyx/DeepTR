@@ -1,0 +1,16 @@
+0.206897 #widespread	widespread	420
+16.5 #carbon	carbon	420
+16.5 #monoxide	monoxide	420
+0.944444 #poison	poisoning	420
+0.0606061 #global	global	420
+0.166667 #scale	scale	420
+0.0294118 ##1(widespread carbon)	#1(widespread carbon)	420
+16.5 ##1(carbon monoxide)	#1(carbon monoxide)	420
+0.590909 ##1(monoxide poison)	#1(monoxide poisoning)	420
+0.0294118 ##1(poison global)	#1(poisoning global)	420
+0.0294118 ##1(global scale)	#1(global scale)	420
+0.0294118 ##uw8(widespread carbon)	#uw8(widespread carbon)	420
+16.5 ##uw8(carbon monoxide)	#uw8(carbon monoxide)	420
+0.75 ##uw8(monoxide poison)	#uw8(monoxide poisoning)	420
+0.0294118 ##uw8(poison global)	#uw8(poisoning global)	420
+0.0294118 ##uw8(global scale)	#uw8(global scale)	420

@@ -1,0 +1,13 @@
+0.111111 #progress	progress	234
+1.30769 #made	made	234
+14 #fuel	fuel	234
+14 #cell	cell	234
+0.363636 #technology	technology	234
+0.0344828 ##1(progress made)	#1(progress made)	234
+0.0344828 ##1(made fuel)	#1(made fuel)	234
+9 ##1(fuel cell)	#1(fuel cell)	234
+0.153846 ##1(cell technology)	#1(cell technology)	234
+0.0344828 ##uw8(progress made)	#uw8(progress made)	234
+0.111111 ##uw8(made fuel)	#uw8(made fuel)	234
+9 ##uw8(fuel cell)	#uw8(fuel cell)	234
+0.25 ##uw8(cell technology)	#uw8(cell technology)	234

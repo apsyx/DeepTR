@@ -1,0 +1,19 @@
+0.5 #adverse	adverse	338
+5 #effect	effects	338
+5 #people	people	338
+0.5 #experience	experienced	338
+5 #take	taking	338
+5 #aspirin	aspirin	338
+0.2 #repeatedly	repeatedly	338
+0.5 ##1(adverse effect)	#1(adverse effects)	338
+0.2 ##1(effect people)	#1(effects people)	338
+0.2 ##1(people experience)	#1(people experienced)	338
+0.2 ##1(experience take)	#1(experienced taking)	338
+2 ##1(take aspirin)	#1(taking aspirin)	338
+0.2 ##1(aspirin repeatedly)	#1(aspirin repeatedly)	338
+0.5 ##uw8(adverse effect)	#uw8(adverse effects)	338
+0.2 ##uw8(effect people)	#uw8(effects people)	338
+0.2 ##uw8(people experience)	#uw8(people experienced)	338
+0.5 ##uw8(experience take)	#uw8(experienced taking)	338
+2 ##uw8(take aspirin)	#uw8(taking aspirin)	338
+0.2 ##uw8(aspirin repeatedly)	#uw8(aspirin repeatedly)	338

@@ -1,0 +1,7 @@
+34 #symptom	symptoms	2175
+34 #heart	heart	2175
+34 #attack	attack	2175
+1.05882 ##1(symptom heart)	#1(symptoms heart)	2175
+34 ##1(heart attack)	#1(heart attack)	2175
+16.5 ##uw8(symptom heart)	#uw8(symptoms heart)	2175
+34 ##uw8(heart attack)	#uw8(heart attack)	2175

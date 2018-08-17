@@ -1,0 +1,13 @@
+0.026616 #accusation	Accusations	152
+0.0588235 #cheat	Cheating	152
+2.57616 #contractor	Contractors	152
+7.70968 #defense	Defense	152
+0.298077 #project	Projects	152
+0.00185529 ##1(accusation cheat)	#1(Accusations Cheating)	152
+0.00185529 ##1(cheat contractor)	#1(Cheating Contractors)	152
+0.00746269 ##1(contractor defense)	#1(Contractors Defense)	152
+0.011236 ##1(defense project)	#1(Defense Projects)	152
+0.00185529 ##uw8(accusation cheat)	#uw8(Accusations Cheating)	152
+0.00371747 ##uw8(cheat contractor)	#uw8(Cheating Contractors)	152
+1.44344 ##uw8(contractor defense)	#uw8(Contractors Defense)	152
+0.0404624 ##uw8(defense project)	#uw8(Defense Projects)	152

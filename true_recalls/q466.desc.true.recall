@@ -1,0 +1,10 @@
+0.333333 #background	background	466
+3 #peer	Peer	466
+3 #gynt	Gynt	466
+1 #suite	Suite	466
+0.333333 ##1(background peer)	#1(background Peer)	466
+3 ##1(peer gynt)	#1(Peer Gynt)	466
+1 ##1(gynt suite)	#1(Gynt Suite)	466
+0.333333 ##uw8(background peer)	#uw8(background Peer)	466
+3 ##uw8(peer gynt)	#uw8(Peer Gynt)	466
+1 ##uw8(gynt suite)	#uw8(Gynt Suite)	466

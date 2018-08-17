@@ -1,0 +1,13 @@
+0.333333 #method	methods	522
+7 #water	water	522
+7 #mojave	Mojave	522
+1.66667 #desert	Desert	522
+1 #region	region	522
+0.142857 ##1(method water)	#1(methods water)	522
+0.142857 ##1(water mojave)	#1(water Mojave)	522
+1.66667 ##1(mojave desert)	#1(Mojave Desert)	522
+0.333333 ##1(desert region)	#1(Desert region)	522
+0.333333 ##uw8(method water)	#uw8(methods water)	522
+1.66667 ##uw8(water mojave)	#uw8(water Mojave)	522
+1.66667 ##uw8(mojave desert)	#uw8(Mojave Desert)	522
+0.333333 ##uw8(desert region)	#uw8(Desert region)	522

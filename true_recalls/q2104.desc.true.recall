@@ -1,0 +1,22 @@
+2 #official	official	2104
+5 #legal	legal	2104
+5 #rule	rules	2104
+1 #procedure	procedures	2104
+0.2 #pertain	pertaining	2104
+5 #child	child	2104
+5 #support	support	2104
+5 #indiana	Indiana	2104
+0.2 ##1(official legal)	#1(official legal)	2104
+0.2 ##1(legal rule)	#1(legal rules)	2104
+0.5 ##1(rule procedure)	#1(rules procedures)	2104
+0.2 ##1(procedure pertain)	#1(procedures pertaining)	2104
+0.2 ##1(pertain child)	#1(pertaining child)	2104
+5 ##1(child support)	#1(child support)	2104
+0.2 ##1(support indiana)	#1(support Indiana)	2104
+0.2 ##uw8(official legal)	#uw8(official legal)	2104
+0.5 ##uw8(legal rule)	#uw8(legal rules)	2104
+0.5 ##uw8(rule procedure)	#uw8(rules procedures)	2104
+0.2 ##uw8(procedure pertain)	#uw8(procedures pertaining)	2104
+0.2 ##uw8(pertain child)	#uw8(pertaining child)	2104
+5 ##uw8(child support)	#uw8(child support)	2104
+1 ##uw8(support indiana)	#uw8(support Indiana)	2104

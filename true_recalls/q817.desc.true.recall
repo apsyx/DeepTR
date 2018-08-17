@@ -1,0 +1,13 @@
+112 #name	naming	817
+27.25 #right	rights	817
+3.91304 #sport	sports	817
+36.6667 #stadium	stadiums	817
+0.637681 #acquire	acquired	817
+27.25 ##1(name right)	#1(naming rights)	817
+0.00892857 ##1(right sport)	#1(rights sports)	817
+0.255556 ##1(sport stadium)	#1(sports stadiums)	817
+0.00892857 ##1(stadium acquire)	#1(stadiums acquired)	817
+27.25 ##uw8(name right)	#uw8(naming rights)	817
+0.241758 ##uw8(right sport)	#uw8(rights sports)	817
+0.486842 ##uw8(sport stadium)	#uw8(sports stadiums)	817
+0.0970874 ##uw8(stadium acquire)	#uw8(stadiums acquired)	817

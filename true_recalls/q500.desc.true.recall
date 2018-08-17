@@ -1,0 +1,13 @@
+0.333333 #state	state	500
+0.0666667 #art	art	500
+63 #dna	DNA	500
+1.46154 #test	testing	500
+0.230769 #goal	goals	500
+0.015873 ##1(state art)	#1(state art)	500
+0.015873 ##1(art dna)	#1(art DNA)	500
+0.122807 ##1(dna test)	#1(DNA testing)	500
+0.015873 ##1(test goal)	#1(testing goals)	500
+0.0491803 ##uw8(state art)	#uw8(state art)	500
+0.015873 ##uw8(art dna)	#uw8(art DNA)	500
+0.422222 ##uw8(dna test)	#uw8(DNA testing)	500
+0.015873 ##uw8(test goal)	#uw8(testing goals)	500

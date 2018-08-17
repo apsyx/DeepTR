@@ -1,0 +1,22 @@
+7.66667 #cult	cult	325
+0.857143 #name	name	325
+0.529412 #identify	identify	325
+7.66667 #cult	cult	325
+7.66667 #member	members	325
+0.238095 #activity	activities	325
+0.0833333 #everyday	everyday	325
+0.733333 #life	life	325
+0.04 ##1(cult name)	#1(cult name)	325
+0.04 ##1(name identify)	#1(name identify)	325
+0.04 ##1(identify cult)	#1(identify cult)	325
+0.444444 ##1(cult member)	#1(cult members)	325
+0.04 ##1(member activity)	#1(members activities)	325
+0.04 ##1(activity everyday)	#1(activities everyday)	325
+0.04 ##1(everyday life)	#1(everyday life)	325
+0.04 ##uw8(cult name)	#uw8(cult name)	325
+0.0833333 ##uw8(name identify)	#uw8(name identify)	325
+0.04 ##uw8(identify cult)	#uw8(identify cult)	325
+1.36364 ##uw8(cult member)	#uw8(cult members)	325
+0.04 ##uw8(member activity)	#uw8(members activities)	325
+0.04 ##uw8(activity everyday)	#uw8(activities everyday)	325
+0.04 ##uw8(everyday life)	#uw8(everyday life)	325

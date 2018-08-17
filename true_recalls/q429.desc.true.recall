@@ -1,0 +1,7 @@
+0.444444 #outbreak	outbreaks	429
+12 #legionnaire	Legionnaires	429
+12 #disease	disease	429
+0.0833333 ##1(outbreak legionnaire)	#1(outbreaks Legionnaires)	429
+12 ##1(legionnaire disease)	#1(Legionnaires disease)	429
+0.3 ##uw8(outbreak legionnaire)	#uw8(outbreaks Legionnaires)	429
+12 ##uw8(legionnaire disease)	#uw8(Legionnaires disease)	429

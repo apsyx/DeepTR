@@ -1,0 +1,25 @@
+0.733333 #reason	reasonable	2078
+25 #diet	dieting	2078
+0.857143 #advice	advice	2078
+0.3 #fad	fads	2078
+0.444444 #medicate	medications	2078
+0.733333 #reason	reasonable	2078
+0.857143 #method	methods	2078
+12 #weight	weight	2078
+3.33333 #loss	loss	2078
+0.04 ##1(reason diet)	#1(reasonable dieting)	2078
+0.04 ##1(diet advice)	#1(dieting advice)	2078
+0.04 ##1(advice fad)	#1(advice fads)	2078
+0.04 ##1(fad medicate)	#1(fads medications)	2078
+0.04 ##1(medicate reason)	#1(medications reasonable)	2078
+0.04 ##1(reason method)	#1(reasonable methods)	2078
+0.04 ##1(method weight)	#1(methods weight)	2078
+3.33333 ##1(weight loss)	#1(weight loss)	2078
+0.130435 ##uw8(reason diet)	#uw8(reasonable dieting)	2078
+0.238095 ##uw8(diet advice)	#uw8(dieting advice)	2078
+0.04 ##uw8(advice fad)	#uw8(advice fads)	2078
+0.04 ##uw8(fad medicate)	#uw8(fads medications)	2078
+0.04 ##uw8(medicate reason)	#uw8(medications reasonable)	2078
+0.04 ##uw8(reason method)	#uw8(reasonable methods)	2078
+0.238095 ##uw8(method weight)	#uw8(methods weight)	2078
+3.33333 ##uw8(weight loss)	#uw8(weight loss)	2078

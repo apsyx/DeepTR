@@ -1,0 +1,13 @@
+3 #affirmative	affirmative	242
+4 #action	action	242
+0.290323 #affect	affected	242
+3.44444 #construct	construction	242
+0.818182 #industry	industry	242
+3 ##1(affirmative action)	#1(affirmative action)	242
+0.0526316 ##1(action affect)	#1(action affected)	242
+0.025641 ##1(affect construct)	#1(affected construction)	242
+0.290323 ##1(construct industry)	#1(construction industry)	242
+3 ##uw8(affirmative action)	#uw8(affirmative action)	242
+0.0810811 ##uw8(action affect)	#uw8(action affected)	242
+0.025641 ##uw8(affect construct)	#uw8(affected construction)	242
+0.37931 ##uw8(construct industry)	#uw8(construction industry)	242

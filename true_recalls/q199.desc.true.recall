@@ -1,0 +1,10 @@
+0.666667 #legal	Legality	199
+2.57143 #medical	Medically	199
+1.08333 #assist	Assisted	199
+3.16667 #suicide	Suicides	199
+0.0416667 ##1(legal medical)	#1(Legality Medically)	199
+0.0416667 ##1(medical assist)	#1(Medically Assisted)	199
+0.388889 ##1(assist suicide)	#1(Assisted Suicides)	199
+0.0869565 ##uw8(legal medical)	#uw8(Legality Medically)	199
+0.0869565 ##uw8(medical assist)	#uw8(Medically Assisted)	199
+0.5625 ##uw8(assist suicide)	#uw8(Assisted Suicides)	199

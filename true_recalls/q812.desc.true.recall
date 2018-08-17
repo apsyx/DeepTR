@@ -1,0 +1,31 @@
+5.94737 #condition	conditions	812
+0.434783 #lead	lead	812
+0.833333 #doctor	doctors	812
+1.31579 #recommend	recommend	812
+32 #total	total	812
+131 #knee	knee	812
+65.0001 #replacement	replacement	812
+32 #surgery	surgery	812
+0.534884 #complicate	complications	812
+5.94737 #result	result	812
+32 #surgery	surgery	812
+0.00763359 ##1(condition lead)	#1(conditions lead)	812
+0.00763359 ##1(lead doctor)	#1(lead doctors)	812
+0.03125 ##1(doctor recommend)	#1(doctors recommend)	812
+0.03125 ##1(recommend total)	#1(recommend total)	812
+5 ##1(total knee)	#1(total knee)	812
+13.6667 ##1(knee replacement)	#1(knee replacement)	812
+1.58824 ##1(replacement surgery)	#1(replacement surgery)	812
+0.0232558 ##1(surgery complicate)	#1(surgery complications)	812
+0.00763359 ##1(complicate result)	#1(complications result)	812
+0.00763359 ##1(result surgery)	#1(result surgery)	812
+0.0731707 ##uw8(condition lead)	#uw8(conditions lead)	812
+0.0153846 ##uw8(lead doctor)	#uw8(lead doctors)	812
+0.03125 ##uw8(doctor recommend)	#uw8(doctors recommend)	812
+0.2 ##uw8(recommend total)	#uw8(recommend total)	812
+11 ##uw8(total knee)	#uw8(total knee)	812
+25.4 ##uw8(knee replacement)	#uw8(knee replacement)	812
+2.21951 ##uw8(replacement surgery)	#uw8(replacement surgery)	812
+0.1 ##uw8(surgery complicate)	#uw8(surgery complications)	812
+0.0909091 ##uw8(complicate result)	#uw8(complications result)	812
+0.389474 ##uw8(result surgery)	#uw8(result surgery)	812

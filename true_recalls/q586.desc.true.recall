@@ -1,0 +1,28 @@
+2.07692 #provide	providing	586
+1.66667 #data	data	586
+1.5 #prevention	prevention	586
+9 #treat	treatment	586
+0.37931 #outcome	outcomes	586
+0.428571 #regard	regarding	586
+39 #cancer	cancers	586
+0.142857 #typic	typically	586
+1 #affect	affect	586
+19 #women	women	586
+0.025641 ##1(provide data)	#1(providing data)	586
+0.025641 ##1(data prevention)	#1(data prevention)	586
+0.0526316 ##1(prevention treat)	#1(prevention treatment)	586
+0.025641 ##1(treat outcome)	#1(treatment outcomes)	586
+0.025641 ##1(outcome regard)	#1(outcomes regarding)	586
+0.025641 ##1(regard cancer)	#1(regarding cancers)	586
+0.025641 ##1(cancer typic)	#1(cancers typically)	586
+0.025641 ##1(typic affect)	#1(typically affect)	586
+0.0526316 ##1(affect women)	#1(affect women)	586
+0.0810811 ##uw8(provide data)	#uw8(providing data)	586
+0.025641 ##uw8(data prevention)	#uw8(data prevention)	586
+0.428571 ##uw8(prevention treat)	#uw8(prevention treatment)	586
+0.0526316 ##uw8(treat outcome)	#uw8(treatment outcomes)	586
+0.025641 ##uw8(outcome regard)	#uw8(outcomes regarding)	586
+0.142857 ##uw8(regard cancer)	#uw8(regarding cancers)	586
+0.0810811 ##uw8(cancer typic)	#uw8(cancers typically)	586
+0.025641 ##uw8(typic affect)	#uw8(typically affect)	586
+0.290323 ##uw8(affect women)	#uw8(affect women)	586

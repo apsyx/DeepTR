@@ -1,0 +1,34 @@
+0.333333 #change	changes	597
+4.33333 #special	special	597
+15 #educate	education	597
+2.2 #children	children	597
+4.33333 #disable	disabilities	597
+2.2 #result	resulting	597
+7 #idea	IDEA	597
+3 #legislate	legislation	597
+3 #individual	Individuals	597
+4.33333 #disable	Disabilities	597
+15 #educate	Education	597
+3 #act	Act	597
+0.0666667 ##1(change special)	#1(changes special)	597
+4.33333 ##1(special educate)	#1(special education)	597
+0.230769 ##1(educate children)	#1(education children)	597
+0.0666667 ##1(children disable)	#1(children disabilities)	597
+0.0666667 ##1(disable result)	#1(disabilities resulting)	597
+0.0666667 ##1(result idea)	#1(resulting IDEA)	597
+0.0666667 ##1(idea legislate)	#1(IDEA legislation)	597
+0.0666667 ##1(legislate individual)	#1(legislation Individuals)	597
+0.0666667 ##1(individual disable)	#1(Individuals Disabilities)	597
+3 ##1(disable educate)	#1(Disabilities Education)	597
+2.2 ##1(educate act)	#1(Education Act)	597
+0.142857 ##uw8(change special)	#uw8(changes special)	597
+4.33333 ##uw8(special educate)	#uw8(special education)	597
+1.28571 ##uw8(educate children)	#uw8(education children)	597
+1.66667 ##uw8(children disable)	#uw8(children disabilities)	597
+0.6 ##uw8(disable result)	#uw8(disabilities resulting)	597
+0.142857 ##uw8(result idea)	#uw8(resulting IDEA)	597
+0.0666667 ##uw8(idea legislate)	#uw8(IDEA legislation)	597
+0.0666667 ##uw8(legislate individual)	#uw8(legislation Individuals)	597
+3 ##uw8(individual disable)	#uw8(Individuals Disabilities)	597
+3 ##uw8(disable educate)	#uw8(Disabilities Education)	597
+2.2 ##uw8(educate act)	#uw8(Education Act)	597

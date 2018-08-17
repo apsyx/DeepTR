@@ -1,0 +1,58 @@
+0.25 #health	Health	345
+0.0526316 #study	studies	345
+0.0526316 #primary	primarily	345
+0.212121 #cause	caused	345
+0.111111 #reduction	reductions	345
+12.3333 #tobacco	tobacco	345
+2.07692 #sale	sales	345
+0.290323 #economic	economic	345
+0.111111 #impact	impact	345
+0.212121 #cause	caused	345
+12.3333 #tobacco	tobacco	345
+12.3333 #company	companies	345
+0.25 #look	look	345
+0.290323 #overseas	overseas	345
+0.0526316 #customer	customers	345
+0.111111 #impact	impact	345
+0.25 #health	health	345
+0.290323 #economic	economic	345
+0.0526316 #factor	factors	345
+0.290323 #overseas	overseas	345
+0.025641 ##1(health study)	#1(Health studies)	345
+0.025641 ##1(study primary)	#1(studies primarily)	345
+0.025641 ##1(primary cause)	#1(primarily caused)	345
+0.025641 ##1(cause reduction)	#1(caused reductions)	345
+0.025641 ##1(reduction tobacco)	#1(reductions tobacco)	345
+0.111111 ##1(tobacco sale)	#1(tobacco sales)	345
+0.025641 ##1(sale economic)	#1(sales economic)	345
+0.025641 ##1(economic impact)	#1(economic impact)	345
+0.025641 ##1(impact cause)	#1(impact caused)	345
+0.025641 ##1(cause tobacco)	#1(caused tobacco)	345
+0.37931 ##1(tobacco company)	#1(tobacco companies)	345
+0.025641 ##1(company look)	#1(companies look)	345
+0.025641 ##1(look overseas)	#1(look overseas)	345
+0.025641 ##1(overseas customer)	#1(overseas customers)	345
+0.025641 ##1(customer impact)	#1(customers impact)	345
+0.025641 ##1(impact health)	#1(impact health)	345
+0.025641 ##1(health economic)	#1(health economic)	345
+0.025641 ##1(economic factor)	#1(economic factors)	345
+0.025641 ##1(factor overseas)	#1(factors overseas)	345
+0.025641 ##uw8(health study)	#uw8(Health studies)	345
+0.025641 ##uw8(study primary)	#uw8(studies primarily)	345
+0.025641 ##uw8(primary cause)	#uw8(primarily caused)	345
+0.025641 ##uw8(cause reduction)	#uw8(caused reductions)	345
+0.025641 ##uw8(reduction tobacco)	#uw8(reductions tobacco)	345
+0.290323 ##uw8(tobacco sale)	#uw8(tobacco sales)	345
+0.0526316 ##uw8(sale economic)	#uw8(sales economic)	345
+0.025641 ##uw8(economic impact)	#uw8(economic impact)	345
+0.025641 ##uw8(impact cause)	#uw8(impact caused)	345
+0.0526316 ##uw8(cause tobacco)	#uw8(caused tobacco)	345
+0.666667 ##uw8(tobacco company)	#uw8(tobacco companies)	345
+0.0526316 ##uw8(company look)	#uw8(companies look)	345
+0.0526316 ##uw8(look overseas)	#uw8(look overseas)	345
+0.025641 ##uw8(overseas customer)	#uw8(overseas customers)	345
+0.025641 ##uw8(customer impact)	#uw8(customers impact)	345
+0.025641 ##uw8(impact health)	#uw8(impact health)	345
+0.025641 ##uw8(health economic)	#uw8(health economic)	345
+0.025641 ##uw8(economic factor)	#uw8(economic factors)	345
+0.025641 ##uw8(factor overseas)	#uw8(factors overseas)	345

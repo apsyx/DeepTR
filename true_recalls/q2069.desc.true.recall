@@ -1,0 +1,13 @@
+3 #beginner	beginners	2069
+3 #instruct	instructions	2069
+11 #sew	sewing	2069
+1 #hand	hand	2069
+11 #machine	machine	2069
+0.0909091 ##1(beginner instruct)	#1(beginners instructions)	2069
+0.714286 ##1(instruct sew)	#1(instructions sewing)	2069
+0.714286 ##1(sew hand)	#1(sewing hand)	2069
+0.0909091 ##1(hand machine)	#1(hand machine)	2069
+1 ##uw8(beginner instruct)	#uw8(beginners instructions)	2069
+2 ##uw8(instruct sew)	#uw8(instructions sewing)	2069
+1 ##uw8(sew hand)	#uw8(sewing hand)	2069
+0.714286 ##uw8(hand machine)	#uw8(hand machine)	2069

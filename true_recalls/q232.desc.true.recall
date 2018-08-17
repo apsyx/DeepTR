@@ -1,0 +1,13 @@
+1.2 #report	Reports	232
+0.1 #evaluate	evaluation	232
+1.2 #near	near	232
+4.5 #death	death	232
+4.5 #experience	experience	232
+0.1 ##1(report evaluate)	#1(Reports evaluation)	232
+0.1 ##1(evaluate near)	#1(evaluation near)	232
+1.2 ##1(near death)	#1(near death)	232
+0.833333 ##1(death experience)	#1(death experience)	232
+0.1 ##uw8(report evaluate)	#uw8(Reports evaluation)	232
+0.1 ##uw8(evaluate near)	#uw8(evaluation near)	232
+1.2 ##uw8(near death)	#uw8(near death)	232
+1.2 ##uw8(death experience)	#uw8(death experience)	232

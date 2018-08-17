@@ -1,0 +1,10 @@
+0.680412 #bias	bias	688
+0.442478 #exist	exists	688
+19.375 #media	media	688
+1.62903 #country	countries	688
+0.00617284 ##1(bias exist)	#1(bias exists)	688
+0.00617284 ##1(exist media)	#1(exists media)	688
+0.00617284 ##1(media country)	#1(media countries)	688
+0.00617284 ##uw8(bias exist)	#uw8(bias exists)	688
+0.0516129 ##uw8(exist media)	#uw8(exists media)	688
+0.13986 ##uw8(media country)	#uw8(media countries)	688

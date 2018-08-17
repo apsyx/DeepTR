@@ -1,0 +1,16 @@
+1.18391 #history	history	785
+1.46753 #present	present	785
+1.4359 #status	status	785
+26.1429 #ivory	Ivory	785
+37 #bill	billed	785
+189 #woodpeck	Woodpecker	785
+0.00529101 ##1(history present)	#1(history present)	785
+0.0382514 ##1(present status)	#1(present status)	785
+0.00529101 ##1(status ivory)	#1(status Ivory)	785
+22.75 ##1(ivory bill)	#1(Ivory billed)	785
+9.55556 ##1(bill woodpeck)	#1(billed Woodpecker)	785
+0.0326087 ##uw8(history present)	#uw8(history present)	785
+0.0674157 ##uw8(present status)	#uw8(present status)	785
+0.043956 ##uw8(status ivory)	#uw8(status Ivory)	785
+22.75 ##uw8(ivory bill)	#uw8(Ivory billed)	785
+22.75 ##uw8(bill woodpeck)	#uw8(billed Woodpecker)	785

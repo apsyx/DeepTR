@@ -1,0 +1,31 @@
+0.0588235 #retrieve	Retrieve	603
+0.125 #document	documents	603
+0.125 #regard	regarding	603
+2 #lawsuit	lawsuits	603
+17 #tobacco	tobacco	603
+1.25 #industry	industry	603
+0.285714 #cause	causing	603
+1 #health	health	603
+0.125 #problem	problems	603
+0.636364 #death	death	603
+3.5 #cigarette	cigarettes	603
+0.0588235 ##1(retrieve document)	#1(Retrieve documents)	603
+0.0588235 ##1(document regard)	#1(documents regarding)	603
+0.0588235 ##1(regard lawsuit)	#1(regarding lawsuits)	603
+0.0588235 ##1(lawsuit tobacco)	#1(lawsuits tobacco)	603
+0.8 ##1(tobacco industry)	#1(tobacco industry)	603
+0.0588235 ##1(industry cause)	#1(industry causing)	603
+0.0588235 ##1(cause health)	#1(causing health)	603
+0.125 ##1(health problem)	#1(health problems)	603
+0.0588235 ##1(problem death)	#1(problems death)	603
+0.0588235 ##1(death cigarette)	#1(death cigarettes)	603
+0.0588235 ##uw8(retrieve document)	#uw8(Retrieve documents)	603
+0.0588235 ##uw8(document regard)	#uw8(documents regarding)	603
+0.0588235 ##uw8(regard lawsuit)	#uw8(regarding lawsuits)	603
+0.8 ##uw8(lawsuit tobacco)	#uw8(lawsuits tobacco)	603
+1 ##uw8(tobacco industry)	#uw8(tobacco industry)	603
+0.0588235 ##uw8(industry cause)	#uw8(industry causing)	603
+0.285714 ##uw8(cause health)	#uw8(causing health)	603
+0.125 ##uw8(health problem)	#uw8(health problems)	603
+0.0588235 ##uw8(problem death)	#uw8(problems death)	603
+0.2 ##uw8(death cigarette)	#uw8(death cigarettes)	603

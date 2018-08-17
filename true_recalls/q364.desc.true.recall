@@ -1,0 +1,10 @@
+1.05556 #case	cases	364
+11.3333 #rabies	rabies	364
+0.37037 #confirm	confirmed	364
+0.0882353 #done	done	364
+0.0277778 ##1(case rabies)	#1(cases rabies)	364
+0.0277778 ##1(rabies confirm)	#1(rabies confirmed)	364
+0.0277778 ##1(confirm done)	#1(confirmed done)	364
+0.37037 ##uw8(case rabies)	#uw8(cases rabies)	364
+0.0571429 ##uw8(rabies confirm)	#uw8(rabies confirmed)	364
+0.0277778 ##uw8(confirm done)	#uw8(confirmed done)	364

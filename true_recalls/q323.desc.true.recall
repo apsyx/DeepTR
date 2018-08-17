@@ -1,0 +1,13 @@
+0.0862069 #instance	instances	323
+0.615385 #plagiarism	plagiarism	323
+0.125 #literary	literary	323
+0.05 #journalistic	journalistic	323
+0.369565 #world	worlds	323
+0.016129 ##1(instance plagiarism)	#1(instances plagiarism)	323
+0.016129 ##1(plagiarism literary)	#1(plagiarism literary)	323
+0.016129 ##1(literary journalistic)	#1(literary journalistic)	323
+0.0327869 ##1(journalistic world)	#1(journalistic worlds)	323
+0.0327869 ##uw8(instance plagiarism)	#uw8(instances plagiarism)	323
+0.0327869 ##uw8(plagiarism literary)	#uw8(plagiarism literary)	323
+0.016129 ##uw8(literary journalistic)	#uw8(literary journalistic)	323
+0.0327869 ##uw8(journalistic world)	#uw8(journalistic worlds)	323

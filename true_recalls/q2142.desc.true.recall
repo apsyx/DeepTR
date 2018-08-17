@@ -1,0 +1,16 @@
+32 #information	information	2142
+32 #sale	sales	2142
+32 #tax	tax	2142
+32 #illinois	Illinois	2142
+32 #rate	rate	2142
+0.65 #levy	levied	2142
+0.03125 ##1(information sale)	#1(information sales)	2142
+32 ##1(sale tax)	#1(sales tax)	2142
+0.1 ##1(tax illinois)	#1(tax Illinois)	2142
+0.03125 ##1(illinois rate)	#1(Illinois rate)	2142
+0.03125 ##1(rate levy)	#1(rate levied)	2142
+0.736842 ##uw8(information sale)	#uw8(information sales)	2142
+32 ##uw8(sale tax)	#uw8(sales tax)	2142
+32 ##uw8(tax illinois)	#uw8(tax Illinois)	2142
+15.5 ##uw8(illinois rate)	#uw8(Illinois rate)	2142
+0.65 ##uw8(rate levy)	#uw8(rate levied)	2142

@@ -1,0 +1,22 @@
+0.117647 #outcome	outcome	612
+1.71429 #pro	pro	612
+3.75 #independence	independence	612
+3.75 #protest	protesters	612
+5.33333 #tibet	Tibet	612
+5.33333 #arrest	arrested	612
+18 #china	Chinese	612
+3.75 #authority	authorities	612
+0.0555556 ##1(outcome pro)	#1(outcome pro)	612
+1.375 ##1(pro independence)	#1(pro independence)	612
+0.266667 ##1(independence protest)	#1(independence protesters)	612
+0.0555556 ##1(protest tibet)	#1(protesters Tibet)	612
+0.0555556 ##1(tibet arrest)	#1(Tibet arrested)	612
+0.0555556 ##1(arrest china)	#1(arrested Chinese)	612
+1.375 ##1(china authority)	#1(Chinese authorities)	612
+0.0555556 ##uw8(outcome pro)	#uw8(outcome pro)	612
+1.375 ##uw8(pro independence)	#uw8(pro independence)	612
+0.357143 ##uw8(independence protest)	#uw8(independence protesters)	612
+0.266667 ##uw8(protest tibet)	#uw8(protesters Tibet)	612
+0.117647 ##uw8(tibet arrest)	#uw8(Tibet arrested)	612
+0.461538 ##uw8(arrest china)	#uw8(arrested Chinese)	612
+1.375 ##uw8(china authority)	#uw8(Chinese authorities)	612

@@ -1,0 +1,13 @@
+10.5 #information	information	2141
+0.0454545 #procedure	procedures	2141
+4.75 #register	registering	2141
+22 #vehicle	vehicles	2141
+10.5 #virginia	Virginia	2141
+0.0454545 ##1(information procedure)	#1(information procedures)	2141
+0.0454545 ##1(procedure register)	#1(procedures registering)	2141
+0.352941 ##1(register vehicle)	#1(registering vehicles)	2141
+0.0454545 ##1(vehicle virginia)	#1(vehicles Virginia)	2141
+0.0454545 ##uw8(information procedure)	#uw8(information procedures)	2141
+0.0454545 ##uw8(procedure register)	#uw8(procedures registering)	2141
+3.6 ##uw8(register vehicle)	#uw8(registering vehicles)	2141
+10.5 ##uw8(vehicle virginia)	#uw8(vehicles Virginia)	2141

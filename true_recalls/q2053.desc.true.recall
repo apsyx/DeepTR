@@ -1,0 +1,22 @@
+0.5 #locate	locations	2053
+2 #information	information	2053
+14 #discovery	Discovery	2053
+14 #channel	Channel	2053
+14 #store	stores	2053
+0.25 #type	types	2053
+0.666667 #product	products	2053
+0.0714286 #sell	sell	2053
+0.0714286 ##1(locate information)	#1(locations information)	2053
+0.0714286 ##1(information discovery)	#1(information Discovery)	2053
+14 ##1(discovery channel)	#1(Discovery Channel)	2053
+0.875 ##1(channel store)	#1(Channel stores)	2053
+0.0714286 ##1(store type)	#1(stores types)	2053
+0.0714286 ##1(type product)	#1(types products)	2053
+0.0714286 ##1(product sell)	#1(products sell)	2053
+0.0714286 ##uw8(locate information)	#uw8(locations information)	2053
+1.14286 ##uw8(information discovery)	#uw8(information Discovery)	2053
+14 ##uw8(discovery channel)	#uw8(Discovery Channel)	2053
+1.14286 ##uw8(channel store)	#uw8(Channel stores)	2053
+0.0714286 ##uw8(store type)	#uw8(stores types)	2053
+0.0714286 ##uw8(type product)	#uw8(types products)	2053
+0.0714286 ##uw8(product sell)	#uw8(products sell)	2053

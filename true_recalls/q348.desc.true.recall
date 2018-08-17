@@ -1,0 +1,25 @@
+0.75 #fear	fear	348
+1.33333 #open	open	348
+6 #public	public	348
+1.33333 #place	places	348
+6 #agoraphobia	Agoraphobia	348
+0.166667 #widespread	widespread	348
+0.166667 #disorder	disorder	348
+0.166667 #relatively	relatively	348
+0.4 #unknown	unknown	348
+0.166667 ##1(fear open)	#1(fear open)	348
+0.166667 ##1(open public)	#1(open public)	348
+0.75 ##1(public place)	#1(public places)	348
+0.166667 ##1(place agoraphobia)	#1(places Agoraphobia)	348
+0.166667 ##1(agoraphobia widespread)	#1(Agoraphobia widespread)	348
+0.166667 ##1(widespread disorder)	#1(widespread disorder)	348
+0.166667 ##1(disorder relatively)	#1(disorder relatively)	348
+0.166667 ##1(relatively unknown)	#1(relatively unknown)	348
+0.4 ##uw8(fear open)	#uw8(fear open)	348
+0.4 ##uw8(open public)	#uw8(open public)	348
+0.75 ##uw8(public place)	#uw8(public places)	348
+0.166667 ##uw8(place agoraphobia)	#uw8(places Agoraphobia)	348
+0.166667 ##uw8(agoraphobia widespread)	#uw8(Agoraphobia widespread)	348
+0.166667 ##uw8(widespread disorder)	#uw8(widespread disorder)	348
+0.166667 ##uw8(disorder relatively)	#uw8(disorder relatively)	348
+0.166667 ##uw8(relatively unknown)	#uw8(relatively unknown)	348

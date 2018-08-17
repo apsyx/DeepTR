@@ -1,0 +1,13 @@
+0.4 #present	present	592
+0.75 #plan	planned	592
+6 #use	uses	592
+6 #fuel	fuel	592
+6 #cell	cells	592
+0.166667 ##1(present plan)	#1(present planned)	592
+0.166667 ##1(plan use)	#1(planned uses)	592
+1.33333 ##1(use fuel)	#1(uses fuel)	592
+6 ##1(fuel cell)	#1(fuel cells)	592
+0.166667 ##uw8(present plan)	#uw8(present planned)	592
+0.166667 ##uw8(plan use)	#uw8(planned uses)	592
+6 ##uw8(use fuel)	#uw8(uses fuel)	592
+6 ##uw8(fuel cell)	#uw8(fuel cells)	592

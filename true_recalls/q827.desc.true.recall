@@ -1,0 +1,22 @@
+1.7 #give	Give	827
+0.317073 #definition	definition	827
+1.34783 #description	description	827
+2 #application	application	827
+26 #hidden	Hidden	827
+26 #markov	Markov	827
+26 #model	Modeling	827
+8 #algorithm	algorithm	827
+0.0188679 ##1(give definition)	#1(Give definition)	827
+0.0188679 ##1(definition description)	#1(definition description)	827
+0.0188679 ##1(description application)	#1(description application)	827
+0.0188679 ##1(application hidden)	#1(application Hidden)	827
+17 ##1(hidden markov)	#1(Hidden Markov)	827
+17 ##1(markov model)	#1(Markov Modeling)	827
+0.0588235 ##1(model algorithm)	#1(Modeling algorithm)	827
+0.0188679 ##uw8(give definition)	#uw8(Give definition)	827
+0.0188679 ##uw8(definition description)	#uw8(definition description)	827
+0.0384615 ##uw8(description application)	#uw8(description application)	827
+0.227273 ##uw8(application hidden)	#uw8(application Hidden)	827
+26 ##uw8(hidden markov)	#uw8(Hidden Markov)	827
+17 ##uw8(markov model)	#uw8(Markov Modeling)	827
+1.57143 ##uw8(model algorithm)	#uw8(Modeling algorithm)	827

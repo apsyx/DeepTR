@@ -1,0 +1,16 @@
+0.466667 #specific	specific	2117
+4.86667 #health	health	2117
+1.31579 #problem	problems	2117
+0.0864198 #arise	arise	2117
+16.6 #exposure	exposure	2117
+87.0001 #asbestos	asbestos	2117
+0.0352941 ##1(specific health)	#1(specific health)	2117
+0.257143 ##1(health problem)	#1(health problems)	2117
+0.0114943 ##1(problem arise)	#1(problems arise)	2117
+0.0114943 ##1(arise exposure)	#1(arise exposure)	2117
+0.660377 ##1(exposure asbestos)	#1(exposure asbestos)	2117
+0.0352941 ##uw8(specific health)	#uw8(specific health)	2117
+0.275362 ##uw8(health problem)	#uw8(health problems)	2117
+0.0232558 ##uw8(problem arise)	#uw8(problems arise)	2117
+0.047619 ##uw8(arise exposure)	#uw8(arise exposure)	2117
+13.6667 ##uw8(exposure asbestos)	#uw8(exposure asbestos)	2117

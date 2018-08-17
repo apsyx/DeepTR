@@ -1,0 +1,13 @@
+27 #vitamin	Vitamins	160
+0.142857 #cure	Cure	160
+1.8 #cause	Cause	160
+0.473684 #human	Human	160
+0.12 #ail	Ailments	160
+0.0181818 ##1(vitamin cure)	#1(Vitamins Cure)	160
+0.0181818 ##1(cure cause)	#1(Cure Cause)	160
+0.037037 ##1(cause human)	#1(Cause Human)	160
+0.0181818 ##1(human ail)	#1(Human Ailments)	160
+0.0181818 ##uw8(vitamin cure)	#uw8(Vitamins Cure)	160
+0.0181818 ##uw8(cure cause)	#uw8(Cure Cause)	160
+0.0769231 ##uw8(cause human)	#uw8(Cause Human)	160
+0.0181818 ##uw8(human ail)	#uw8(Human Ailments)	160

@@ -1,0 +1,16 @@
+22.3333 #radio	radio	848
+51.5 #station	stations	848
+10.6667 #call	call	848
+2.08824 #letter	letters	848
+1.23404 #locate	location	848
+0.25 #ownership	ownership	848
+1.14286 ##1(radio station)	#1(radio stations)	848
+0.544118 ##1(station call)	#1(stations call)	848
+0.381579 ##1(call letter)	#1(call letters)	848
+0.0144928 ##1(letter locate)	#1(letters location)	848
+0.00478469 ##1(locate ownership)	#1(location ownership)	848
+2.13433 ##uw8(radio station)	#uw8(radio stations)	848
+1.5 ##uw8(station call)	#uw8(stations call)	848
+0.489362 ##uw8(call letter)	#uw8(call letters)	848
+0.0659899 ##uw8(letter locate)	#uw8(letters location)	848
+0.0243902 ##uw8(locate ownership)	#uw8(location ownership)	848

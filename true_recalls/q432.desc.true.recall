@@ -1,0 +1,13 @@
+14 #police	police	432
+1.14286 #department	departments	432
+0.111111 #profile	profiling	432
+4 #stop	stop	432
+0.153846 #motorist	motorists	432
+0.875 ##1(police department)	#1(police departments)	432
+0.0344828 ##1(department profile)	#1(departments profiling)	432
+0.0344828 ##1(profile stop)	#1(profiling stop)	432
+0.0714286 ##1(stop motorist)	#1(stop motorists)	432
+0.875 ##uw8(police department)	#uw8(police departments)	432
+0.0344828 ##uw8(department profile)	#uw8(departments profiling)	432
+0.0344828 ##uw8(profile stop)	#uw8(profiling stop)	432
+0.0714286 ##uw8(stop motorist)	#uw8(stop motorists)	432

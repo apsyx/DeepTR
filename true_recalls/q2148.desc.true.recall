@@ -1,0 +1,22 @@
+0.714286 #information	information	2148
+0.2 #timeline	timeline	2148
+11 #martha	Martha	2148
+11 #stewart	Stewart	2148
+0.5 #s	s	2148
+3 #inside	insider	2148
+5 #trade	trading	2148
+1.4 #case	case	2148
+0.0909091 ##1(information timeline)	#1(information timeline)	2148
+0.0909091 ##1(timeline martha)	#1(timeline Martha)	2148
+11 ##1(martha stewart)	#1(Martha Stewart)	2148
+0.0909091 ##1(stewart s)	#1(Stewart s)	2148
+0.0909091 ##1(s inside)	#1(s insider)	2148
+3 ##1(inside trade)	#1(insider trading)	2148
+0.2 ##1(trade case)	#1(trading case)	2148
+0.0909091 ##uw8(information timeline)	#uw8(information timeline)	2148
+0.0909091 ##uw8(timeline martha)	#uw8(timeline Martha)	2148
+11 ##uw8(martha stewart)	#uw8(Martha Stewart)	2148
+0.333333 ##uw8(stewart s)	#uw8(Stewart s)	2148
+0.333333 ##uw8(s inside)	#uw8(s insider)	2148
+3 ##uw8(inside trade)	#uw8(insider trading)	2148
+0.333333 ##uw8(trade case)	#uw8(trading case)	2148

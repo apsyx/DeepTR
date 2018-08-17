@@ -1,0 +1,28 @@
+0.142857 #gather	Gather	623
+1 #information	information	623
+0.25 #mention	mentions	623
+0.0526316 #ricin	ricin	623
+1.5 #sarin	sarin	623
+0.37931 #soman	soman	623
+0.538462 #anthrax	anthrax	623
+0.904762 #toxic	toxic	623
+5.66667 #chemical	chemical	623
+12.3333 #weapon	weapon	623
+0.025641 ##1(gather information)	#1(Gather information)	623
+0.025641 ##1(information mention)	#1(information mentions)	623
+0.025641 ##1(mention ricin)	#1(mentions ricin)	623
+0.025641 ##1(ricin sarin)	#1(ricin sarin)	623
+0.176471 ##1(sarin soman)	#1(sarin soman)	623
+0.025641 ##1(soman anthrax)	#1(soman anthrax)	623
+0.025641 ##1(anthrax toxic)	#1(anthrax toxic)	623
+0.0810811 ##1(toxic chemical)	#1(toxic chemical)	623
+3.44444 ##1(chemical weapon)	#1(chemical weapon)	623
+0.0526316 ##uw8(gather information)	#uw8(Gather information)	623
+0.025641 ##uw8(information mention)	#uw8(information mentions)	623
+0.025641 ##uw8(mention ricin)	#uw8(mentions ricin)	623
+0.025641 ##uw8(ricin sarin)	#uw8(ricin sarin)	623
+0.290323 ##uw8(sarin soman)	#uw8(sarin soman)	623
+0.025641 ##uw8(soman anthrax)	#uw8(soman anthrax)	623
+0.025641 ##uw8(anthrax toxic)	#uw8(anthrax toxic)	623
+0.428571 ##uw8(toxic chemical)	#uw8(toxic chemical)	623
+4 ##uw8(chemical weapon)	#uw8(chemical weapon)	623

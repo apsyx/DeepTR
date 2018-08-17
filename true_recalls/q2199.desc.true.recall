@@ -1,0 +1,10 @@
+0.630435 #primary	primary	2199
+17.75 #symptom	symptoms	2199
+2 #sign	signs	2199
+0.339286 #fybromyalgia	fybromyalgia	2199
+0.0714286 ##1(primary symptom)	#1(primary symptoms)	2199
+0.0416667 ##1(symptom sign)	#1(symptoms signs)	2199
+0.0135135 ##1(sign fybromyalgia)	#1(signs fybromyalgia)	2199
+0.0714286 ##uw8(primary symptom)	#uw8(primary symptoms)	2199
+0.785714 ##uw8(symptom sign)	#uw8(symptoms signs)	2199
+0.0135135 ##uw8(sign fybromyalgia)	#uw8(signs fybromyalgia)	2199

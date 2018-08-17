@@ -1,0 +1,10 @@
+0.285714 #boundary	boundaries	2110
+0.588235 #politics	political	2110
+0.173913 #jurisdiction	jurisdictions	2110
+26 #brazil	Brazil	2110
+0.0384615 ##1(boundary politics)	#1(boundaries political)	2110
+0.0384615 ##1(politics jurisdiction)	#1(political jurisdictions)	2110
+0.0384615 ##1(jurisdiction brazil)	#1(jurisdictions Brazil)	2110
+0.0384615 ##uw8(boundary politics)	#uw8(boundaries political)	2110
+0.0384615 ##uw8(politics jurisdiction)	#uw8(political jurisdictions)	2110
+0.0384615 ##uw8(jurisdiction brazil)	#uw8(jurisdictions Brazil)	2110

@@ -1,0 +1,13 @@
+8 #contact	contact	2138
+8 #information	information	2138
+8 #jax	Jax	2138
+8 #chemical	Chemical	2138
+0.8 #company	Company	2138
+0.125 ##1(contact information)	#1(contact information)	2138
+0.125 ##1(information jax)	#1(information Jax)	2138
+8 ##1(jax chemical)	#1(Jax Chemical)	2138
+0.5 ##1(chemical company)	#1(Chemical Company)	2138
+8 ##uw8(contact information)	#uw8(contact information)	2138
+3.5 ##uw8(information jax)	#uw8(information Jax)	2138
+8 ##uw8(jax chemical)	#uw8(Jax Chemical)	2138
+0.5 ##uw8(chemical company)	#uw8(Chemical Company)	2138

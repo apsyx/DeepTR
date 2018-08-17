@@ -1,0 +1,13 @@
+1.38889 #frequent	frequently	850
+85 #mississippi	Mississippi	850
+85 #river	River	850
+85 #flood	flood	850
+1.26316 #bank	banks	850
+0.0117647 ##1(frequent mississippi)	#1(frequently Mississippi)	850
+11.2857 ##1(mississippi river)	#1(Mississippi River)	850
+0.686274 ##1(river flood)	#1(River flood)	850
+0.0117647 ##1(flood bank)	#1(flood banks)	850
+0.131579 ##uw8(frequent mississippi)	#uw8(frequently Mississippi)	850
+42 ##uw8(mississippi river)	#uw8(Mississippi River)	850
+42 ##uw8(river flood)	#uw8(River flood)	850
+0.146667 ##uw8(flood bank)	#uw8(flood banks)	850

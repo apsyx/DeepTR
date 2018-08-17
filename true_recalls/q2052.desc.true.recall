@@ -1,0 +1,16 @@
+8.33333 #event	events	2052
+3 #sponsor	sponsored	2052
+27 #avp	AVP	2052
+0.4 #associate	Association	2052
+13 #volleyball	Volleyball	2052
+0.473684 #professional	Professionals	2052
+0.037037 ##1(event sponsor)	#1(events sponsored)	2052
+1.8 ##1(sponsor avp)	#1(sponsored AVP)	2052
+0.0769231 ##1(avp associate)	#1(AVP Association)	2052
+0.037037 ##1(associate volleyball)	#1(Association Volleyball)	2052
+0.0769231 ##1(volleyball professional)	#1(Volleyball Professionals)	2052
+0.0769231 ##uw8(event sponsor)	#uw8(events sponsored)	2052
+1.8 ##uw8(sponsor avp)	#uw8(sponsored AVP)	2052
+0.217391 ##uw8(avp associate)	#uw8(AVP Association)	2052
+0.272727 ##uw8(associate volleyball)	#uw8(Association Volleyball)	2052
+0.4 ##uw8(volleyball professional)	#uw8(Volleyball Professionals)	2052

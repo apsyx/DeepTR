@@ -1,0 +1,10 @@
+35.9 #cancer	cancer	549
+3.85526 #normal	normal	549
+91.2499 #cell	cell	549
+0.0726744 #reproduction	reproduction	549
+0.00271739 ##1(cancer normal)	#1(cancer normal)	549
+0.376866 ##1(normal cell)	#1(normal cell)	549
+0.0109589 ##1(cell reproduction)	#1(cell reproduction)	549
+0.29021 ##uw8(cancer normal)	#uw8(cancer normal)	549
+1.30625 ##uw8(normal cell)	#uw8(normal cell)	549
+0.0221607 ##uw8(cell reproduction)	#uw8(cell reproduction)	549

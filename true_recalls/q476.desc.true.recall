@@ -1,0 +1,16 @@
+1.90909 #movie	movies	476
+0.573771 #television	television	476
+0.548387 #program	programs	476
+47 #jennifer	Jennifer	476
+15 #aniston	Aniston	476
+0.352113 #appear	appeared	476
+0.0212766 ##1(movie television)	#1(movies television)	476
+0.0212766 ##1(television program)	#1(television programs)	476
+0.0105263 ##1(program jennifer)	#1(programs Jennifer)	476
+12.7143 ##1(jennifer aniston)	#1(Jennifer Aniston)	476
+0.0105263 ##1(aniston appear)	#1(Aniston appeared)	476
+0.0666667 ##uw8(movie television)	#uw8(movies television)	476
+0.0212766 ##uw8(television program)	#uw8(television programs)	476
+0.0105263 ##uw8(program jennifer)	#uw8(programs Jennifer)	476
+12.7143 ##uw8(jennifer aniston)	#uw8(Jennifer Aniston)	476
+0.0212766 ##uw8(aniston appear)	#uw8(Aniston appeared)	476

@@ -1,0 +1,31 @@
+0.0325444 #instance	instances	227
+0.0838509 #reason	reasons	227
+0.876344 #death	deaths	227
+2.52525 #military	military	227
+0.736318 #cause	caused	227
+0.167224 #enemy	enemy	227
+0.00287356 #eg	eg	227
+0.233216 #friend	friendly	227
+0.638498 #fire	fire	227
+0.856383 #train	training	227
+1.18125 #accident	accidents	227
+0.00287356 ##1(instance reason)	#1(instances reasons)	227
+0.00287356 ##1(reason death)	#1(reasons deaths)	227
+0.00287356 ##1(death military)	#1(deaths military)	227
+0.00287356 ##1(military cause)	#1(military caused)	227
+0.00287356 ##1(cause enemy)	#1(caused enemy)	227
+0.00287356 ##1(enemy eg)	#1(enemy eg)	227
+0.00287356 ##1(eg friend)	#1(eg friendly)	227
+0.151815 ##1(friend fire)	#1(friendly fire)	227
+0.00287356 ##1(fire train)	#1(fire training)	227
+0.0204678 ##1(train accident)	#1(training accidents)	227
+0.00287356 ##uw8(instance reason)	#uw8(instances reasons)	227
+0.00576369 ##uw8(reason death)	#uw8(reasons deaths)	227
+0.0575758 ##uw8(death military)	#uw8(deaths military)	227
+0.0325444 ##uw8(military cause)	#uw8(military caused)	227
+0.00287356 ##uw8(cause enemy)	#uw8(caused enemy)	227
+0.00287356 ##uw8(enemy eg)	#uw8(enemy eg)	227
+0.00287356 ##uw8(eg friend)	#uw8(eg friendly)	227
+0.151815 ##uw8(friend fire)	#uw8(friendly fire)	227
+0.0174927 ##uw8(fire train)	#uw8(fire training)	227
+0.0672783 ##uw8(train accident)	#uw8(training accidents)	227

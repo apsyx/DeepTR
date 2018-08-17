@@ -1,0 +1,43 @@
+23 #hydrogen	hydrogen	382
+5 #fuel	fuel	382
+0.0909091 #piston	piston	382
+0.2 #driven	driven	382
+1.4 #automobile	automobiles	382
+0.142857 #safe	safe	382
+0.2 #storage	storage	382
+1 #concern	concern	382
+23 #hydrogen	hydrogen	382
+5 #fuel	fuel	382
+0.846154 #cell	cells	382
+1.18182 #generate	generate	382
+3 #electric	electricity	382
+1.66667 #drive	drive	382
+1.66667 #car	car	382
+0.6 ##1(hydrogen fuel)	#1(hydrogen fuel)	382
+0.0434783 ##1(fuel piston)	#1(fuel piston)	382
+0.0434783 ##1(piston driven)	#1(piston driven)	382
+0.0434783 ##1(driven automobile)	#1(driven automobiles)	382
+0.0434783 ##1(automobile safe)	#1(automobiles safe)	382
+0.0434783 ##1(safe storage)	#1(safe storage)	382
+0.0434783 ##1(storage concern)	#1(storage concern)	382
+0.0434783 ##1(concern hydrogen)	#1(concern hydrogen)	382
+0.6 ##1(hydrogen fuel)	#1(hydrogen fuel)	382
+0.714286 ##1(fuel cell)	#1(fuel cells)	382
+0.142857 ##1(cell generate)	#1(cells generate)	382
+0.142857 ##1(generate electric)	#1(generate electricity)	382
+0.0909091 ##1(electric drive)	#1(electricity drive)	382
+0.0434783 ##1(drive car)	#1(drive car)	382
+2.42857 ##uw8(hydrogen fuel)	#uw8(hydrogen fuel)	382
+0.0434783 ##uw8(fuel piston)	#uw8(fuel piston)	382
+0.0434783 ##uw8(piston driven)	#uw8(piston driven)	382
+0.0434783 ##uw8(driven automobile)	#uw8(driven automobiles)	382
+0.0434783 ##uw8(automobile safe)	#uw8(automobiles safe)	382
+0.0434783 ##uw8(safe storage)	#uw8(safe storage)	382
+0.0434783 ##uw8(storage concern)	#uw8(storage concern)	382
+0.0909091 ##uw8(concern hydrogen)	#uw8(concern hydrogen)	382
+2.42857 ##uw8(hydrogen fuel)	#uw8(hydrogen fuel)	382
+0.714286 ##uw8(fuel cell)	#uw8(fuel cells)	382
+0.263158 ##uw8(cell generate)	#uw8(cells generate)	382
+0.333333 ##uw8(generate electric)	#uw8(generate electricity)	382
+0.142857 ##uw8(electric drive)	#uw8(electricity drive)	382
+0.2 ##uw8(drive car)	#uw8(drive car)	382

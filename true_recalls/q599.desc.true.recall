@@ -1,0 +1,25 @@
+4.6 #case	cases	599
+3.66667 #scientific	scientific	599
+55 #research	research	599
+4.09091 #misconduct	misconduct	599
+0.244444 #effort	efforts	599
+1 #made	made	599
+0.12 #control	control	599
+0.037037 #discourage	discourage	599
+0.191489 #behavior	behavior	599
+0.0181818 ##1(case scientific)	#1(cases scientific)	599
+0.191489 ##1(scientific research)	#1(scientific research)	599
+0.272727 ##1(research misconduct)	#1(research misconduct)	599
+0.0181818 ##1(misconduct effort)	#1(misconduct efforts)	599
+0.0181818 ##1(effort made)	#1(efforts made)	599
+0.0181818 ##1(made control)	#1(made control)	599
+0.0181818 ##1(control discourage)	#1(control discourage)	599
+0.0181818 ##1(discourage behavior)	#1(discourage behavior)	599
+0.555556 ##uw8(case scientific)	#uw8(cases scientific)	599
+1.54545 ##uw8(scientific research)	#uw8(scientific research)	599
+1.54545 ##uw8(research misconduct)	#uw8(research misconduct)	599
+0.0566038 ##uw8(misconduct effort)	#uw8(misconduct efforts)	599
+0.037037 ##uw8(effort made)	#uw8(efforts made)	599
+0.0181818 ##uw8(made control)	#uw8(made control)	599
+0.0181818 ##uw8(control discourage)	#uw8(control discourage)	599
+0.0181818 ##uw8(discourage behavior)	#uw8(discourage behavior)	599

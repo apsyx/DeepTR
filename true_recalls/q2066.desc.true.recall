@@ -1,0 +1,16 @@
+11 #file	file	2066
+11 #federal	Federal	2066
+11 #income	income	2066
+11 #tax	tax	2066
+11 #return	return	2066
+11 #online	online	2066
+0.2 ##1(file federal)	#1(file Federal)	2066
+0.5 ##1(federal income)	#1(Federal income)	2066
+11 ##1(income tax)	#1(income tax)	2066
+11 ##1(tax return)	#1(tax return)	2066
+0.5 ##1(return online)	#1(return online)	2066
+5 ##uw8(file federal)	#uw8(file Federal)	2066
+2 ##uw8(federal income)	#uw8(Federal income)	2066
+11 ##uw8(income tax)	#uw8(income tax)	2066
+11 ##uw8(tax return)	#uw8(tax return)	2066
+1 ##uw8(return online)	#uw8(return online)	2066

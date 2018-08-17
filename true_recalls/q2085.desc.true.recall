@@ -1,0 +1,10 @@
+0.3125 #information	information	2085
+41 #milwaukee	Milwaukee	2085
+41 #journal	Journal	2085
+41 #sentinel	Sentinel	2085
+0.0243902 ##1(information milwaukee)	#1(information Milwaukee)	2085
+4.25 ##1(milwaukee journal)	#1(Milwaukee Journal)	2085
+41 ##1(journal sentinel)	#1(Journal Sentinel)	2085
+0.0243902 ##uw8(information milwaukee)	#uw8(information Milwaukee)	2085
+5 ##uw8(milwaukee journal)	#uw8(Milwaukee Journal)	2085
+41 ##uw8(journal sentinel)	#uw8(Journal Sentinel)	2085

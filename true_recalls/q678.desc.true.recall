@@ -1,0 +1,16 @@
+0.615385 #joint	joint	678
+0.5 #share	shared	678
+2.5 #custody	custody	678
+0.105263 #s	s	678
+0.235294 #impact	impact	678
+9.5 #children	children	678
+0.05 ##1(joint share)	#1(joint shared)	678
+0.05 ##1(share custody)	#1(shared custody)	678
+0.05 ##1(custody s)	#1(custody s)	678
+0.05 ##1(s impact)	#1(s impact)	678
+0.05 ##1(impact children)	#1(impact children)	678
+0.105263 ##uw8(joint share)	#uw8(joint shared)	678
+0.166667 ##uw8(share custody)	#uw8(shared custody)	678
+0.05 ##uw8(custody s)	#uw8(custody s)	678
+0.05 ##uw8(s impact)	#uw8(s impact)	678
+0.105263 ##uw8(impact children)	#uw8(impact children)	678

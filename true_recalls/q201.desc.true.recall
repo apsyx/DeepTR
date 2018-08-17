@@ -1,0 +1,31 @@
+3 #procedure	procedures	201
+1 #implement	implemented	201
+1 #insure	insure	201
+3 #proper	proper	201
+1 #care	care	201
+3 #given	given	201
+0.333333 #children	children	201
+3 #place	placed	201
+0.333333 #au	au	201
+0.333333 #pair	pairs	201
+1 #responsible	responsibility	201
+0.333333 ##1(procedure implement)	#1(procedures implemented)	201
+0.333333 ##1(implement insure)	#1(implemented insure)	201
+0.333333 ##1(insure proper)	#1(insure proper)	201
+0.333333 ##1(proper care)	#1(proper care)	201
+0.333333 ##1(care given)	#1(care given)	201
+0.333333 ##1(given children)	#1(given children)	201
+0.333333 ##1(children place)	#1(children placed)	201
+0.333333 ##1(place au)	#1(placed au)	201
+0.333333 ##1(au pair)	#1(au pairs)	201
+0.333333 ##1(pair responsible)	#1(pairs responsibility)	201
+0.333333 ##uw8(procedure implement)	#uw8(procedures implemented)	201
+0.333333 ##uw8(implement insure)	#uw8(implemented insure)	201
+0.333333 ##uw8(insure proper)	#uw8(insure proper)	201
+0.333333 ##uw8(proper care)	#uw8(proper care)	201
+0.333333 ##uw8(care given)	#uw8(care given)	201
+0.333333 ##uw8(given children)	#uw8(given children)	201
+0.333333 ##uw8(children place)	#uw8(children placed)	201
+0.333333 ##uw8(place au)	#uw8(placed au)	201
+0.333333 ##uw8(au pair)	#uw8(au pairs)	201
+0.333333 ##uw8(pair responsible)	#uw8(pairs responsibility)	201

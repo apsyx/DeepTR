@@ -1,0 +1,22 @@
+1.27778 #information	information	492
+1.05 #need	needed	492
+1.73333 #make	make	492
+0.464286 #decision	decisions	492
+1.5625 #purchase	purchases	492
+0.413793 #redemption	redemptions	492
+19.5 #save	Savings	492
+40 #bond	Bonds	492
+0.025 ##1(information need)	#1(information needed)	492
+0.025 ##1(need make)	#1(needed make)	492
+0.051282 ##1(make decision)	#1(make decisions)	492
+0.025 ##1(decision purchase)	#1(decisions purchases)	492
+0.025 ##1(purchase redemption)	#1(purchases redemptions)	492
+0.051282 ##1(redemption save)	#1(redemptions Savings)	492
+12.6667 ##1(save bond)	#1(Savings Bonds)	492
+0.051282 ##uw8(information need)	#uw8(information needed)	492
+0.108108 ##uw8(need make)	#uw8(needed make)	492
+0.322581 ##uw8(make decision)	#uw8(make decisions)	492
+0.051282 ##uw8(decision purchase)	#uw8(decisions purchases)	492
+0.0789474 ##uw8(purchase redemption)	#uw8(purchases redemptions)	492
+0.205882 ##uw8(redemption save)	#uw8(redemptions Savings)	492
+12.6667 ##uw8(save bond)	#uw8(Savings Bonds)	492

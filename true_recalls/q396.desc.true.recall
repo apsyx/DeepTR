@@ -1,0 +1,16 @@
+0.742857 #sick	sick	396
+29.5 #build	building	396
+0.525 #syndrome	syndrome	396
+29.5 #build	building	396
+1.10345 #relate	related	396
+0.297872 #illnesse	illnesses	396
+0.648649 ##1(sick build)	#1(sick building)	396
+0.487805 ##1(build syndrome)	#1(building syndrome)	396
+0.0166667 ##1(syndrome build)	#1(syndrome building)	396
+0.386364 ##1(build relate)	#1(building related)	396
+0.173077 ##1(relate illnesse)	#1(related illnesses)	396
+0.694444 ##uw8(sick build)	#uw8(sick building)	396
+0.487805 ##uw8(build syndrome)	#uw8(building syndrome)	396
+0.487805 ##uw8(syndrome build)	#uw8(syndrome building)	396
+0.525 ##uw8(build relate)	#uw8(building related)	396
+0.196078 ##uw8(relate illnesse)	#uw8(related illnesses)	396

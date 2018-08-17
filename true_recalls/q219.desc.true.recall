@@ -1,0 +1,25 @@
+0.451613 #volume	volume	219
+1.7551 #import	imports	219
+6.94118 #japan	Japanese	219
+2.21429 #auto	autos	219
+0.534091 #compare	compared	219
+3.5 #export	export	219
+2.21429 #auto	autos	219
+0.40625 #canada	Canada	219
+0.238532 #mexico	Mexico	219
+0.00746269 ##1(volume import)	#1(volume imports)	219
+0.0305344 ##1(import japan)	#1(imports Japanese)	219
+0.40625 ##1(japan auto)	#1(Japanese autos)	219
+0.00746269 ##1(auto compare)	#1(autos compared)	219
+0.00746269 ##1(compare export)	#1(compared export)	219
+0.00746269 ##1(export auto)	#1(export autos)	219
+0.00746269 ##1(auto canada)	#1(autos Canada)	219
+0.0150376 ##1(canada mexico)	#1(Canada Mexico)	219
+0.08 ##uw8(volume import)	#uw8(volume imports)	219
+0.569767 ##uw8(import japan)	#uw8(imports Japanese)	219
+0.753247 ##uw8(japan auto)	#uw8(Japanese autos)	219
+0.00746269 ##uw8(auto compare)	#uw8(autos compared)	219
+0.0384615 ##uw8(compare export)	#uw8(compared export)	219
+0.391753 ##uw8(export auto)	#uw8(export autos)	219
+0.0305344 ##uw8(auto canada)	#uw8(autos Canada)	219
+0.0227273 ##uw8(canada mexico)	#uw8(Canada Mexico)	219

@@ -1,0 +1,13 @@
+0.25 #cause	causes	369
+1.5 #treat	treatments	369
+0.363636 #anorexia	anorexia	369
+0.363636 #nervosa	nervosa	369
+0.875 #bulimia	bulimia	369
+0.0714286 ##1(cause treat)	#1(causes treatments)	369
+0.0714286 ##1(treat anorexia)	#1(treatments anorexia)	369
+0.363636 ##1(anorexia nervosa)	#1(anorexia nervosa)	369
+0.0714286 ##1(nervosa bulimia)	#1(nervosa bulimia)	369
+0.0714286 ##uw8(cause treat)	#uw8(causes treatments)	369
+0.153846 ##uw8(treat anorexia)	#uw8(treatments anorexia)	369
+0.363636 ##uw8(anorexia nervosa)	#uw8(anorexia nervosa)	369
+0.0714286 ##uw8(nervosa bulimia)	#uw8(nervosa bulimia)	369

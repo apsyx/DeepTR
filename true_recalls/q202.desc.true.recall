@@ -1,0 +1,16 @@
+0.113281 #status	Status	202
+284.002 #nuclear	nuclear	202
+2.39286 #proliferate	proliferation	202
+1.47826 #treaty	treaties	202
+0.244541 #violate	violations	202
+0.153846 #monitor	monitoring	202
+0.00352113 ##1(status nuclear)	#1(Status nuclear)	202
+0.1875 ##1(nuclear proliferate)	#1(nuclear proliferation)	202
+0.803797 ##1(proliferate treaty)	#1(proliferation treaties)	202
+0.00706714 ##1(treaty violate)	#1(treaties violations)	202
+0.00352113 ##1(violate monitor)	#1(violations monitoring)	202
+0.0215054 ##uw8(status nuclear)	#uw8(Status nuclear)	202
+1.66355 ##uw8(nuclear proliferate)	#uw8(nuclear proliferation)	202
+0.850649 ##uw8(proliferate treaty)	#uw8(proliferation treaties)	202
+0.0516605 ##uw8(treaty violate)	#uw8(treaties violations)	202
+0.00706714 ##uw8(violate monitor)	#uw8(violations monitoring)	202

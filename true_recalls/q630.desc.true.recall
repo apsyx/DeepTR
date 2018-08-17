@@ -1,0 +1,40 @@
+0.2 #retrieve	Retrieve	630
+0.2 #document	documents	630
+0.5 #contain	containing	630
+0.2 #information	information	630
+0.5 #symptom	symptoms	630
+1 #individual	individuals	630
+2 #suffer	suffering	630
+5 #gulf	Gulf	630
+5 #war	War	630
+2 #syndrome	Syndrome	630
+0.2 #result	result	630
+2 #serve	serving	630
+5 #gulf	Gulf	630
+5 #war	War	630
+0.2 ##1(retrieve document)	#1(Retrieve documents)	630
+0.2 ##1(document contain)	#1(documents containing)	630
+0.2 ##1(contain information)	#1(containing information)	630
+0.2 ##1(information symptom)	#1(information symptoms)	630
+0.2 ##1(symptom individual)	#1(symptoms individuals)	630
+0.2 ##1(individual suffer)	#1(individuals suffering)	630
+0.2 ##1(suffer gulf)	#1(suffering Gulf)	630
+5 ##1(gulf war)	#1(Gulf War)	630
+0.5 ##1(war syndrome)	#1(War Syndrome)	630
+0.2 ##1(syndrome result)	#1(Syndrome result)	630
+0.2 ##1(result serve)	#1(result serving)	630
+0.2 ##1(serve gulf)	#1(serving Gulf)	630
+5 ##1(gulf war)	#1(Gulf War)	630
+0.2 ##uw8(retrieve document)	#uw8(Retrieve documents)	630
+0.2 ##uw8(document contain)	#uw8(documents containing)	630
+0.2 ##uw8(contain information)	#uw8(containing information)	630
+0.2 ##uw8(information symptom)	#uw8(information symptoms)	630
+0.2 ##uw8(symptom individual)	#uw8(symptoms individuals)	630
+0.2 ##uw8(individual suffer)	#uw8(individuals suffering)	630
+1 ##uw8(suffer gulf)	#uw8(suffering Gulf)	630
+5 ##uw8(gulf war)	#uw8(Gulf War)	630
+0.5 ##uw8(war syndrome)	#uw8(War Syndrome)	630
+0.2 ##uw8(syndrome result)	#uw8(Syndrome result)	630
+0.2 ##uw8(result serve)	#uw8(result serving)	630
+0.2 ##uw8(serve gulf)	#uw8(serving Gulf)	630
+5 ##uw8(gulf war)	#uw8(Gulf War)	630

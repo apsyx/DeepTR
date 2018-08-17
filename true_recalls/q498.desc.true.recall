@@ -1,0 +1,28 @@
+7 #hair	hair	498
+3 #transplant	transplant	498
+3 #procedure	procedures	498
+3 #take	take	498
+1.66667 #place	place	498
+1.66667 #cost	cost	498
+3 #procedure	procedure	498
+1.66667 #successful	successful	498
+0.142857 #inherent	inherent	498
+1.66667 #risk	risks	498
+3 ##1(hair transplant)	#1(hair transplant)	498
+0.142857 ##1(transplant procedure)	#1(transplant procedures)	498
+0.142857 ##1(procedure take)	#1(procedures take)	498
+1 ##1(take place)	#1(take place)	498
+0.142857 ##1(place cost)	#1(place cost)	498
+0.142857 ##1(cost procedure)	#1(cost procedure)	498
+0.142857 ##1(procedure successful)	#1(procedure successful)	498
+0.142857 ##1(successful inherent)	#1(successful inherent)	498
+0.142857 ##1(inherent risk)	#1(inherent risks)	498
+3 ##uw8(hair transplant)	#uw8(hair transplant)	498
+1.66667 ##uw8(transplant procedure)	#uw8(transplant procedures)	498
+0.142857 ##uw8(procedure take)	#uw8(procedures take)	498
+1 ##uw8(take place)	#uw8(take place)	498
+0.142857 ##uw8(place cost)	#uw8(place cost)	498
+1.66667 ##uw8(cost procedure)	#uw8(cost procedure)	498
+1 ##uw8(procedure successful)	#uw8(procedure successful)	498
+0.142857 ##uw8(successful inherent)	#uw8(successful inherent)	498
+0.142857 ##uw8(inherent risk)	#uw8(inherent risks)	498

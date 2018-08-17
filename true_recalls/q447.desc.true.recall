@@ -1,0 +1,13 @@
+17 #new	new	447
+1 #develop	developments	447
+0.8 #application	applications	447
+17 #stirl	Stirling	447
+0.384615 #engine	engine	447
+0.2 ##1(new develop)	#1(new developments)	447
+0.125 ##1(develop application)	#1(developments applications)	447
+0.0588235 ##1(application stirl)	#1(applications Stirling)	447
+0.285714 ##1(stirl engine)	#1(Stirling engine)	447
+0.285714 ##uw8(new develop)	#uw8(new developments)	447
+0.5 ##uw8(develop application)	#uw8(developments applications)	447
+0.125 ##uw8(application stirl)	#uw8(applications Stirling)	447
+0.384615 ##uw8(stirl engine)	#uw8(Stirling engine)	447

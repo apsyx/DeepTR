@@ -1,0 +1,10 @@
+5.33333 #movie	movies	2171
+18 #ron	Ron	2171
+18 #howard	Howard	2171
+3.75 #direct	directed	2171
+0.1875 ##1(movie ron)	#1(movies Ron)	2171
+18 ##1(ron howard)	#1(Ron Howard)	2171
+0.357143 ##1(howard direct)	#1(Howard directed)	2171
+0.583333 ##uw8(movie ron)	#uw8(movies Ron)	2171
+18 ##uw8(ron howard)	#uw8(Ron Howard)	2171
+2.16667 ##uw8(howard direct)	#uw8(Howard directed)	2171

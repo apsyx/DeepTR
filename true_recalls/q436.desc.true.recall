@@ -1,0 +1,10 @@
+0.410853 #cause	causes	436
+0.263889 #railway	railway	436
+1 #accident	accidents	436
+0.205298 #world	world	436
+0.00552486 ##1(cause railway)	#1(causes railway)	436
+0.0282486 ##1(railway accident)	#1(railway accidents)	436
+0.00552486 ##1(accident world)	#1(accidents world)	436
+0.0224719 ##uw8(cause railway)	#uw8(causes railway)	436
+0.0769231 ##uw8(railway accident)	#uw8(railway accidents)	436
+0.0167598 ##uw8(accident world)	#uw8(accidents world)	436

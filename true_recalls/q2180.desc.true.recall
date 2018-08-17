@@ -1,0 +1,13 @@
+0.0769231 #inexpensive	inexpensive	2180
+13 #hotel	hotels	2180
+13 #new	New	2180
+13 #york	York	2180
+13 #city	City	2180
+0.0769231 ##1(inexpensive hotel)	#1(inexpensive hotels)	2180
+6 ##1(hotel new)	#1(hotels New)	2180
+13 ##1(new york)	#1(New York)	2180
+6 ##1(york city)	#1(York City)	2180
+0.0769231 ##uw8(inexpensive hotel)	#uw8(inexpensive hotels)	2180
+13 ##uw8(hotel new)	#uw8(hotels New)	2180
+13 ##uw8(new york)	#uw8(New York)	2180
+13 ##uw8(york city)	#uw8(York City)	2180

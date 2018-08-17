@@ -1,0 +1,16 @@
+0.045977 #usual	usual	695
+44.5 #sentence	sentence	695
+3.33333 #convict	convicted	695
+1.02222 #white	white	695
+0.625 #collar	collar	695
+2.95652 #crime	crimes	695
+0.0111111 ##1(usual sentence)	#1(usual sentence)	695
+0.0111111 ##1(sentence convict)	#1(sentence convicted)	695
+0.0224719 ##1(convict white)	#1(convicted white)	695
+0.596491 ##1(white collar)	#1(white collar)	695
+0.28169 ##1(collar crime)	#1(collar crimes)	695
+0.0111111 ##uw8(usual sentence)	#uw8(usual sentence)	695
+0.378788 ##uw8(sentence convict)	#uw8(sentence convicted)	695
+0.0581395 ##uw8(convict white)	#uw8(convicted white)	695
+0.596491 ##uw8(white collar)	#uw8(white collar)	695
+0.3 ##uw8(collar crime)	#uw8(collar crimes)	695

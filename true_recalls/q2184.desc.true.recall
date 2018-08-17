@@ -1,0 +1,16 @@
+25 #issue	issues	2184
+7.66667 #address	addressed	2184
+51 #civil	Civil	2184
+51 #right	Rights	2184
+51 #act	Act	2184
+51 #1964	1964	2184
+0.0196078 ##1(issue address)	#1(issues addressed)	2184
+0.0196078 ##1(address civil)	#1(addressed Civil)	2184
+51 ##1(civil right)	#1(Civil Rights)	2184
+51 ##1(right act)	#1(Rights Act)	2184
+1.08 ##1(act 1964)	#1(Act 1964)	2184
+1.6 ##uw8(issue address)	#uw8(issues addressed)	2184
+2.05882 ##uw8(address civil)	#uw8(addressed Civil)	2184
+51 ##uw8(civil right)	#uw8(Civil Rights)	2184
+51 ##uw8(right act)	#uw8(Rights Act)	2184
+51 ##uw8(act 1964)	#uw8(Act 1964)	2184

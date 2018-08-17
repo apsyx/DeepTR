@@ -1,0 +1,13 @@
+1.5 #timeline	timeline	2179
+4 #africa	African	2179
+9 #america	Americans	2179
+1.5 #unite	United	2179
+1.5 #state	States	2179
+0.428571 ##1(timeline africa)	#1(timeline African)	2179
+4 ##1(africa america)	#1(African Americans)	2179
+0.111111 ##1(america unite)	#1(Americans United)	2179
+1.5 ##1(unite state)	#1(United States)	2179
+0.428571 ##uw8(timeline africa)	#uw8(timeline African)	2179
+4 ##uw8(africa america)	#uw8(African Americans)	2179
+0.25 ##uw8(america unite)	#uw8(Americans United)	2179
+1.5 ##uw8(unite state)	#uw8(United States)	2179

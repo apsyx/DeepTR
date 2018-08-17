@@ -1,0 +1,16 @@
+0.772727 #picture	picture	2155
+38 #sup	Supper	2155
+12 #paint	painting	2155
+8.75 #leonardo	Leonardo	2155
+5.5 #da	da	2155
+5.5 #vinci	Vinci	2155
+0.0263158 ##1(picture sup)	#1(picture Supper)	2155
+0.625 ##1(sup paint)	#1(Supper painting)	2155
+0.114286 ##1(paint leonardo)	#1(painting Leonardo)	2155
+5.5 ##1(leonardo da)	#1(Leonardo da)	2155
+5.5 ##1(da vinci)	#1(da Vinci)	2155
+0.258065 ##uw8(picture sup)	#uw8(picture Supper)	2155
+8.75 ##uw8(sup paint)	#uw8(Supper painting)	2155
+6.8 ##uw8(paint leonardo)	#uw8(painting Leonardo)	2155
+5.5 ##uw8(leonardo da)	#uw8(Leonardo da)	2155
+5.5 ##uw8(da vinci)	#uw8(da Vinci)	2155

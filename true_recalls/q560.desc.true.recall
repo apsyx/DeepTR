@@ -1,0 +1,19 @@
+0.25 #explain	explain	560
+0.111111 #danger	danger	560
+0.0714286 #signal	signals	560
+2.33333 #type	Type	560
+2.33333 #type	Type	560
+0.25 #ii	II	560
+29 #diabetes	diabetes	560
+0.0344828 ##1(explain danger)	#1(explain danger)	560
+0.0344828 ##1(danger signal)	#1(danger signals)	560
+0.0344828 ##1(signal type)	#1(signals Type)	560
+0.0344828 ##1(type type)	#1(Type Type)	560
+0.25 ##1(type ii)	#1(Type II)	560
+0.153846 ##1(ii diabetes)	#1(II diabetes)	560
+0.0344828 ##uw8(explain danger)	#uw8(explain danger)	560
+0.0344828 ##uw8(danger signal)	#uw8(danger signals)	560
+0.0344828 ##uw8(signal type)	#uw8(signals Type)	560
+2.33333 ##uw8(type type)	#uw8(Type Type)	560
+0.25 ##uw8(type ii)	#uw8(Type II)	560
+0.153846 ##uw8(ii diabetes)	#uw8(II diabetes)	560

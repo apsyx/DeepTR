@@ -1,0 +1,28 @@
+kinds
+diseases
+infect
+humans
+due
+contact
+deer
+consumption
+deer
+meat
+#1(kinds diseases)
+#1(diseases infect)
+#1(infect humans)
+#1(humans due)
+#1(due contact)
+#1(contact deer)
+#1(deer consumption)
+#1(consumption deer)
+#1(deer meat)
+#uw8(kinds diseases)
+#uw8(diseases infect)
+#uw8(infect humans)
+#uw8(humans due)
+#uw8(due contact)
+#uw8(contact deer)
+#uw8(deer consumption)
+#uw8(consumption deer)
+#uw8(deer meat)

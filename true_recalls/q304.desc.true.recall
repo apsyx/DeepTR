@@ -1,0 +1,28 @@
+0.0153846 #compile	Compile	304
+0.546875 #list	list	304
+0.5 #mammal	mammals	304
+0.311258 #consider	considered	304
+13.1429 #endanger	endangered	304
+0.269231 #identify	identify	304
+0.404255 #habitat	habitat	304
+0.285714 #possible	possible	304
+0.0366492 #specify	specify	304
+0.584 #threaten	threatens	304
+0.00507614 ##1(compile list)	#1(Compile list)	304
+0.00507614 ##1(list mammal)	#1(list mammals)	304
+0.00507614 ##1(mammal consider)	#1(mammals considered)	304
+0.00507614 ##1(consider endanger)	#1(considered endangered)	304
+0.00507614 ##1(endanger identify)	#1(endangered identify)	304
+0.00507614 ##1(identify habitat)	#1(identify habitat)	304
+0.00507614 ##1(habitat possible)	#1(habitat possible)	304
+0.00507614 ##1(possible specify)	#1(possible specify)	304
+0.00507614 ##1(specify threaten)	#1(specify threatens)	304
+0.00507614 ##uw8(compile list)	#uw8(Compile list)	304
+0.0531915 ##uw8(list mammal)	#uw8(list mammals)	304
+0.0206186 ##uw8(mammal consider)	#uw8(mammals considered)	304
+0.0153846 ##uw8(consider endanger)	#uw8(considered endangered)	304
+0.00507614 ##uw8(endanger identify)	#uw8(endangered identify)	304
+0.0259067 ##uw8(identify habitat)	#uw8(identify habitat)	304
+0.0102041 ##uw8(habitat possible)	#uw8(habitat possible)	304
+0.00507614 ##uw8(possible specify)	#uw8(possible specify)	304
+0.00507614 ##uw8(specify threaten)	#uw8(specify threatens)	304

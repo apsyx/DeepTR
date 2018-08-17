@@ -1,0 +1,16 @@
+0.6 #individual	individuals	456
+0.777778 #group	groups	456
+1 #predict	predicting	456
+7 #end	end	456
+7 #world	world	456
+1.66667 #2000	2000	456
+0.0666667 ##1(individual group)	#1(individuals groups)	456
+0.0666667 ##1(group predict)	#1(groups predicting)	456
+0.0666667 ##1(predict end)	#1(predicting end)	456
+0.0666667 ##1(end world)	#1(end world)	456
+0.0666667 ##1(world 2000)	#1(world 2000)	456
+0.0666667 ##uw8(individual group)	#uw8(individuals groups)	456
+0.0666667 ##uw8(group predict)	#uw8(groups predicting)	456
+0.230769 ##uw8(predict end)	#uw8(predicting end)	456
+1.28571 ##uw8(end world)	#uw8(end world)	456
+0.333333 ##uw8(world 2000)	#uw8(world 2000)	456

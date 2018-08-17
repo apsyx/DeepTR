@@ -1,0 +1,31 @@
+0.245614 #action	actions	340
+0.126984 #taken	taken	340
+0.0142857 #propel	propel	340
+0.651163 #nation	nations	340
+0.868421 #world	world	340
+0.126984 #treaty	treaty	340
+0.365385 #ban	banning	340
+0.365385 #product	production	340
+0.0597015 #transfer	transfer	340
+0.918919 #land	land	340
+22.6667 #mine	mines	340
+0.0142857 ##1(action taken)	#1(actions taken)	340
+0.0142857 ##1(taken propel)	#1(taken propel)	340
+0.0142857 ##1(propel nation)	#1(propel nations)	340
+0.0142857 ##1(nation world)	#1(nations world)	340
+0.0142857 ##1(world treaty)	#1(world treaty)	340
+0.0142857 ##1(treaty ban)	#1(treaty banning)	340
+0.0142857 ##1(ban product)	#1(banning production)	340
+0.0142857 ##1(product transfer)	#1(production transfer)	340
+0.0142857 ##1(transfer land)	#1(transfer land)	340
+0.577778 ##1(land mine)	#1(land mines)	340
+0.0142857 ##uw8(action taken)	#uw8(actions taken)	340
+0.0142857 ##uw8(taken propel)	#uw8(taken propel)	340
+0.0142857 ##uw8(propel nation)	#uw8(propel nations)	340
+0.0289855 ##uw8(nation world)	#uw8(nations world)	340
+0.0289855 ##uw8(world treaty)	#uw8(world treaty)	340
+0.0441176 ##uw8(treaty ban)	#uw8(treaty banning)	340
+0.0757576 ##uw8(ban product)	#uw8(banning production)	340
+0.0289855 ##uw8(product transfer)	#uw8(production transfer)	340
+0.0142857 ##uw8(transfer land)	#uw8(transfer land)	340
+0.731707 ##uw8(land mine)	#uw8(land mines)	340

@@ -1,0 +1,16 @@
+0.785714 #govern	Government	231
+0.470588 #increase	increased	231
+3.16667 #support	support	231
+24 #national	National	231
+11.5 #endow	Endowment	231
+24 #art	Arts	231
+0.0416667 ##1(govern increase)	#1(Government increased)	231
+0.0416667 ##1(increase support)	#1(increased support)	231
+0.0416667 ##1(support national)	#1(support National)	231
+11.5 ##1(national endow)	#1(National Endowment)	231
+0.0416667 ##1(endow art)	#1(Endowment Arts)	231
+0.0416667 ##uw8(govern increase)	#uw8(Government increased)	231
+0.0869565 ##uw8(increase support)	#uw8(increased support)	231
+0.25 ##uw8(support national)	#uw8(support National)	231
+11.5 ##uw8(national endow)	#uw8(National Endowment)	231
+7.33333 ##uw8(endow art)	#uw8(Endowment Arts)	231

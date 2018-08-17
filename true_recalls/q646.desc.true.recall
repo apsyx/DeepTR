@@ -1,0 +1,19 @@
+1.4 #increase	increase	646
+2 #number	number	646
+0.714286 #people	people	646
+2 #receive	receiving	646
+11 #food	food	646
+11 #stamp	stamp	646
+11 #benefit	benefits	646
+0.2 ##1(increase number)	#1(increase number)	646
+0.0909091 ##1(number people)	#1(number people)	646
+0.333333 ##1(people receive)	#1(people receiving)	646
+0.714286 ##1(receive food)	#1(receiving food)	646
+11 ##1(food stamp)	#1(food stamp)	646
+0.333333 ##1(stamp benefit)	#1(stamp benefits)	646
+0.333333 ##uw8(increase number)	#uw8(increase number)	646
+0.714286 ##uw8(number people)	#uw8(number people)	646
+0.5 ##uw8(people receive)	#uw8(people receiving)	646
+0.714286 ##uw8(receive food)	#uw8(receiving food)	646
+11 ##uw8(food stamp)	#uw8(food stamp)	646
+1.4 ##uw8(stamp benefit)	#uw8(stamp benefits)	646

@@ -1,0 +1,22 @@
+0.111111 #hazardous	hazardous	350
+2.18182 #health	health	350
+0.428571 #individual	individuals	350
+9 #work	work	350
+1.5 #compute	computer	350
+0.627907 #terminal	terminals	350
+0.489362 #day	daily	350
+0.111111 #basis	basis	350
+0.0144928 ##1(hazardous health)	#1(hazardous health)	350
+0.0144928 ##1(health individual)	#1(health individuals)	350
+0.0447761 ##1(individual work)	#1(individuals work)	350
+0.0144928 ##1(work compute)	#1(work computer)	350
+0.111111 ##1(compute terminal)	#1(computer terminals)	350
+0.0144928 ##1(terminal day)	#1(terminals daily)	350
+0.0294118 ##1(day basis)	#1(daily basis)	350
+0.0606061 ##uw8(hazardous health)	#uw8(hazardous health)	350
+0.0144928 ##uw8(health individual)	#uw8(health individuals)	350
+0.0769231 ##uw8(individual work)	#uw8(individuals work)	350
+0.458333 ##uw8(work compute)	#uw8(work computer)	350
+0.129032 ##uw8(compute terminal)	#uw8(computer terminals)	350
+0.0294118 ##uw8(terminal day)	#uw8(terminals daily)	350
+0.0294118 ##uw8(day basis)	#uw8(daily basis)	350

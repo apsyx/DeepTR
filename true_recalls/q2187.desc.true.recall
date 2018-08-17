@@ -1,0 +1,7 @@
+6.25 #map	map	2187
+28 #island	islands	2187
+28 #vanuatu	Vanuatu	2187
+0.0357143 ##1(map island)	#1(map islands)	2187
+2.22222 ##1(island vanuatu)	#1(islands Vanuatu)	2187
+0.16 ##uw8(map island)	#uw8(map islands)	2187
+28 ##uw8(island vanuatu)	#uw8(islands Vanuatu)	2187

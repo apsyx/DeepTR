@@ -1,0 +1,25 @@
+0.342105 #impact	impact	641
+11.75 #exxon	Exxon	641
+50 #valdez	Valdez	641
+50 #oil	oil	641
+50 #spill	spill	641
+0.758621 #marine	marine	641
+0.416667 #life	life	641
+1.125 #wildlife	wildlife	641
+0.961538 #area	area	641
+0.02 ##1(impact exxon)	#1(impact Exxon)	641
+4.66667 ##1(exxon valdez)	#1(Exxon Valdez)	641
+0.378378 ##1(valdez oil)	#1(Valdez oil)	641
+4.66667 ##1(oil spill)	#1(oil spill)	641
+0.02 ##1(spill marine)	#1(spill marine)	641
+0.133333 ##1(marine life)	#1(marine life)	641
+0.02 ##1(life wildlife)	#1(life wildlife)	641
+0.02 ##1(wildlife area)	#1(wildlife area)	641
+0.0408163 ##uw8(impact exxon)	#uw8(impact Exxon)	641
+6.28571 ##uw8(exxon valdez)	#uw8(Exxon Valdez)	641
+1.31818 ##uw8(valdez oil)	#uw8(Valdez oil)	641
+11.75 ##uw8(oil spill)	#uw8(oil spill)	641
+0.108696 ##uw8(spill marine)	#uw8(spill marine)	641
+0.133333 ##uw8(marine life)	#uw8(marine life)	641
+0.02 ##uw8(life wildlife)	#uw8(life wildlife)	641
+0.0408163 ##uw8(wildlife area)	#uw8(wildlife area)	641

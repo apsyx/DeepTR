@@ -1,0 +1,16 @@
+0.231579 #statistic	Statistics	760
+0.329545 #regard	regarding	760
+116 #america	American	760
+116 #muslim	Muslims	760
+13.625 #mosque	mosques	760
+2 #school	schools	760
+0.00862069 ##1(statistic regard)	#1(Statistics regarding)	760
+0.00862069 ##1(regard america)	#1(regarding American)	760
+1.85366 ##1(america muslim)	#1(American Muslims)	760
+0.0353982 ##1(muslim mosque)	#1(Muslims mosques)	760
+0.0353982 ##1(mosque school)	#1(mosques schools)	760
+0.00862069 ##uw8(statistic regard)	#uw8(Statistics regarding)	760
+0.0263158 ##uw8(regard america)	#uw8(regarding American)	760
+22.4 ##uw8(america muslim)	#uw8(American Muslims)	760
+0.647887 ##uw8(muslim mosque)	#uw8(Muslims mosques)	760
+0.193878 ##uw8(mosque school)	#uw8(mosques schools)	760

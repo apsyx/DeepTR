@@ -1,0 +1,40 @@
+3 #clock	Clock	485
+0.333333 #reliance	reliance	485
+3 #important	important	485
+0.333333 #considerate	consideration	485
+0.333333 #operate	operation	485
+0.333333 #global	global	485
+3 #position	positioning	485
+3 #system	system	485
+3 #gps	GPS	485
+0.333333 #entity	entity	485
+0.333333 #responsible	responsible	485
+3 #clock	clock	485
+3 #accuracy	accuracy	485
+3 #accuracy	accuracy	485
+0.333333 ##1(clock reliance)	#1(Clock reliance)	485
+0.333333 ##1(reliance important)	#1(reliance important)	485
+0.333333 ##1(important considerate)	#1(important consideration)	485
+0.333333 ##1(considerate operate)	#1(consideration operation)	485
+0.333333 ##1(operate global)	#1(operation global)	485
+0.333333 ##1(global position)	#1(global positioning)	485
+0.333333 ##1(position system)	#1(positioning system)	485
+0.333333 ##1(system gps)	#1(system GPS)	485
+0.333333 ##1(gps entity)	#1(GPS entity)	485
+0.333333 ##1(entity responsible)	#1(entity responsible)	485
+0.333333 ##1(responsible clock)	#1(responsible clock)	485
+0.333333 ##1(clock accuracy)	#1(clock accuracy)	485
+0.333333 ##1(accuracy accuracy)	#1(accuracy accuracy)	485
+0.333333 ##uw8(clock reliance)	#uw8(Clock reliance)	485
+0.333333 ##uw8(reliance important)	#uw8(reliance important)	485
+0.333333 ##uw8(important considerate)	#uw8(important consideration)	485
+0.333333 ##uw8(considerate operate)	#uw8(consideration operation)	485
+0.333333 ##uw8(operate global)	#uw8(operation global)	485
+0.333333 ##uw8(global position)	#uw8(global positioning)	485
+0.333333 ##uw8(position system)	#uw8(positioning system)	485
+3 ##uw8(system gps)	#uw8(system GPS)	485
+0.333333 ##uw8(gps entity)	#uw8(GPS entity)	485
+0.333333 ##uw8(entity responsible)	#uw8(entity responsible)	485
+0.333333 ##uw8(responsible clock)	#uw8(responsible clock)	485
+3 ##uw8(clock accuracy)	#uw8(clock accuracy)	485
+3 ##uw8(accuracy accuracy)	#uw8(accuracy accuracy)	485

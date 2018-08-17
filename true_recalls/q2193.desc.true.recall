@@ -1,0 +1,13 @@
+0.833333 #order	order	2193
+21 #dog	dog	2193
+2.66667 #clean	clean	2193
+21 #bag	bags	2193
+0.375 #online	online	2193
+0.1 ##1(order dog)	#1(order dog)	2193
+0.157895 ##1(dog clean)	#1(dog clean)	2193
+0.047619 ##1(clean bag)	#1(clean bags)	2193
+0.047619 ##1(bag online)	#1(bags online)	2193
+0.222222 ##uw8(order dog)	#uw8(order dog)	2193
+0.833333 ##uw8(dog clean)	#uw8(dog clean)	2193
+1.44444 ##uw8(clean bag)	#uw8(clean bags)	2193
+0.047619 ##uw8(bag online)	#uw8(bags online)	2193

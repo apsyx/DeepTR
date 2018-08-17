@@ -1,0 +1,16 @@
+1.08 #work	working	697
+0.368421 #condition	conditions	697
+0.485714 #pay	pay	697
+16.3333 #air	air	697
+25 #traffic	traffic	697
+3 #controller	controllers	697
+0.106383 ##1(work condition)	#1(working conditions)	697
+0.0196078 ##1(condition pay)	#1(conditions pay)	697
+0.0196078 ##1(pay air)	#1(pay air)	697
+16.3333 ##1(air traffic)	#1(air traffic)	697
+1.73684 ##1(traffic controller)	#1(traffic controllers)	697
+0.155556 ##uw8(work condition)	#uw8(working conditions)	697
+0.0833333 ##uw8(condition pay)	#uw8(conditions pay)	697
+0.04 ##uw8(pay air)	#uw8(pay air)	697
+16.3333 ##uw8(air traffic)	#uw8(air traffic)	697
+2.05882 ##uw8(traffic controller)	#uw8(traffic controllers)	697

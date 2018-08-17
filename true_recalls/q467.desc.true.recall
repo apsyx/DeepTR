@@ -1,0 +1,13 @@
+0.9375 #information	information	467
+0.377778 #buy	buying	467
+3.13333 #own	owning	467
+0.675676 #dachshund	dachshund	467
+30 #dog	dogs	467
+0.0163934 ##1(information buy)	#1(information buying)	467
+0.0163934 ##1(buy own)	#1(buying owning)	467
+0.0163934 ##1(own dachshund)	#1(owning dachshund)	467
+0.0333333 ##1(dachshund dog)	#1(dachshund dogs)	467
+0.0508475 ##uw8(information buy)	#uw8(information buying)	467
+0.0508475 ##uw8(buy own)	#uw8(buying owning)	467
+0.0508475 ##uw8(own dachshund)	#uw8(owning dachshund)	467
+0.127273 ##uw8(dachshund dog)	#uw8(dachshund dogs)	467

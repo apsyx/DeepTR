@@ -1,0 +1,43 @@
+2 #college	Colleges	256
+0.5 #long	long	256
+2 #time	time	256
+0.142857 #reduce	reducing	256
+0.846154 #require	requirements	256
+0.411765 #core	core	256
+0.6 #subject	subjects	256
+1.66667 #history	history	256
+0.714286 #literature	literature	256
+0.6 #philosophy	philosophy	256
+1.18182 #science	science	256
+0.6 #critic	Criticism	256
+0.2 #trend	trend	256
+0.2 #occurred	occurred	256
+0.6 #critic	criticisms	256
+0.0434783 ##1(college long)	#1(Colleges long)	256
+0.0909091 ##1(long time)	#1(long time)	256
+0.0434783 ##1(time reduce)	#1(time reducing)	256
+0.0434783 ##1(reduce require)	#1(reducing requirements)	256
+0.0434783 ##1(require core)	#1(requirements core)	256
+0.0434783 ##1(core subject)	#1(core subjects)	256
+0.0434783 ##1(subject history)	#1(subjects history)	256
+0.142857 ##1(history literature)	#1(history literature)	256
+0.0909091 ##1(literature philosophy)	#1(literature philosophy)	256
+0.0434783 ##1(philosophy science)	#1(philosophy science)	256
+0.0434783 ##1(science critic)	#1(science Criticism)	256
+0.0434783 ##1(critic trend)	#1(Criticism trend)	256
+0.0434783 ##1(trend occurred)	#1(trend occurred)	256
+0.0434783 ##1(occurred critic)	#1(occurred criticisms)	256
+0.0434783 ##uw8(college long)	#uw8(Colleges long)	256
+0.0909091 ##uw8(long time)	#uw8(long time)	256
+0.0434783 ##uw8(time reduce)	#uw8(time reducing)	256
+0.0434783 ##uw8(reduce require)	#uw8(reducing requirements)	256
+0.0909091 ##uw8(require core)	#uw8(requirements core)	256
+0.0434783 ##uw8(core subject)	#uw8(core subjects)	256
+0.142857 ##uw8(subject history)	#uw8(subjects history)	256
+0.5 ##uw8(history literature)	#uw8(history literature)	256
+0.263158 ##uw8(literature philosophy)	#uw8(literature philosophy)	256
+0.142857 ##uw8(philosophy science)	#uw8(philosophy science)	256
+0.0434783 ##uw8(science critic)	#uw8(science Criticism)	256
+0.0434783 ##uw8(critic trend)	#uw8(Criticism trend)	256
+0.0434783 ##uw8(trend occurred)	#uw8(trend occurred)	256
+0.0434783 ##uw8(occurred critic)	#uw8(occurred criticisms)	256

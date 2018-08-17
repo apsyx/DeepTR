@@ -1,0 +1,10 @@
+0.0909091 #criteria	criteria	572
+2.42857 #select	selecting	572
+23 #nurse	nursing	572
+23 #home	home	572
+0.0434783 ##1(criteria select)	#1(criteria selecting)	572
+0.0434783 ##1(select nurse)	#1(selecting nursing)	572
+23 ##1(nurse home)	#1(nursing home)	572
+0.0434783 ##uw8(criteria select)	#uw8(criteria selecting)	572
+0.846154 ##uw8(select nurse)	#uw8(selecting nursing)	572
+23 ##uw8(nurse home)	#uw8(nursing home)	572

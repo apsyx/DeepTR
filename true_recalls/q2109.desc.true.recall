@@ -1,0 +1,19 @@
+6 #medical	medical	2109
+6 #service	services	2109
+0.4 #available	available	2109
+6 #mayo	Mayo	2109
+6 #clinic	Clinic	2109
+2.5 #jacksonville	Jacksonville	2109
+0.166667 #fl	FL	2109
+6 ##1(medical service)	#1(medical services)	2109
+0.166667 ##1(service available)	#1(services available)	2109
+0.166667 ##1(available mayo)	#1(available Mayo)	2109
+6 ##1(mayo clinic)	#1(Mayo Clinic)	2109
+0.75 ##1(clinic jacksonville)	#1(Clinic Jacksonville)	2109
+0.166667 ##1(jacksonville fl)	#1(Jacksonville FL)	2109
+6 ##uw8(medical service)	#uw8(medical services)	2109
+0.166667 ##uw8(service available)	#uw8(services available)	2109
+0.166667 ##uw8(available mayo)	#uw8(available Mayo)	2109
+6 ##uw8(mayo clinic)	#uw8(Mayo Clinic)	2109
+1.33333 ##uw8(clinic jacksonville)	#uw8(Clinic Jacksonville)	2109
+0.166667 ##uw8(jacksonville fl)	#uw8(Jacksonville FL)	2109

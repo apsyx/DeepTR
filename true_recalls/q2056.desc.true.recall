@@ -1,0 +1,37 @@
+15 #uss	USS	2056
+15 #yorktown	Yorktown	2056
+15 #aircraft	aircraft	2056
+15 #carry	carrier	2056
+1.66667 #part	part	2056
+1.66667 #museum	museum	2056
+0.777778 #exhibit	exhibit	2056
+1.28571 #patriot	Patriots	2056
+7 #point	Point	2056
+1.66667 #museum	museum	2056
+1.28571 #charleston	Charleston	2056
+4.33333 #harbor	Harbor	2056
+0.6 #sc	SC	2056
+7 ##1(uss yorktown)	#1(USS Yorktown)	2056
+0.6 ##1(yorktown aircraft)	#1(Yorktown aircraft)	2056
+15 ##1(aircraft carry)	#1(aircraft carrier)	2056
+0.0666667 ##1(carry part)	#1(carrier part)	2056
+0.0666667 ##1(part museum)	#1(part museum)	2056
+0.0666667 ##1(museum exhibit)	#1(museum exhibit)	2056
+0.0666667 ##1(exhibit patriot)	#1(exhibit Patriots)	2056
+1.28571 ##1(patriot point)	#1(Patriots Point)	2056
+0.777778 ##1(point museum)	#1(Point museum)	2056
+0.0666667 ##1(museum charleston)	#1(museum Charleston)	2056
+1 ##1(charleston harbor)	#1(Charleston Harbor)	2056
+0.0666667 ##1(harbor sc)	#1(Harbor SC)	2056
+7 ##uw8(uss yorktown)	#uw8(USS Yorktown)	2056
+7 ##uw8(yorktown aircraft)	#uw8(Yorktown aircraft)	2056
+15 ##uw8(aircraft carry)	#uw8(aircraft carrier)	2056
+0.333333 ##uw8(carry part)	#uw8(carrier part)	2056
+0.0666667 ##uw8(part museum)	#uw8(part museum)	2056
+0.142857 ##uw8(museum exhibit)	#uw8(museum exhibit)	2056
+0.777778 ##uw8(exhibit patriot)	#uw8(exhibit Patriots)	2056
+1.28571 ##uw8(patriot point)	#uw8(Patriots Point)	2056
+1.28571 ##uw8(point museum)	#uw8(Point museum)	2056
+1 ##uw8(museum charleston)	#uw8(museum Charleston)	2056
+1 ##uw8(charleston harbor)	#uw8(Charleston Harbor)	2056
+0.0666667 ##uw8(harbor sc)	#uw8(Harbor SC)	2056

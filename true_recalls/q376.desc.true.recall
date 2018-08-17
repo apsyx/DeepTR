@@ -1,0 +1,22 @@
+0.405405 #type	types	376
+0.405405 #case	cases	376
+0.04 #heard	heard	376
+0.890909 #world	World	376
+25 #court	Court	376
+19.8 #international	International	376
+25 #court	Court	376
+3 #justice	Justice	376
+0.00970874 ##1(type case)	#1(types cases)	376
+0.00970874 ##1(case heard)	#1(cases heard)	376
+0.00970874 ##1(heard world)	#1(heard World)	376
+0.238095 ##1(world court)	#1(World Court)	376
+0.00970874 ##1(court international)	#1(Court International)	376
+4.47368 ##1(international court)	#1(International Court)	376
+0.00970874 ##1(court justice)	#1(Court Justice)	376
+0.00970874 ##uw8(type case)	#uw8(types cases)	376
+0.00970874 ##uw8(case heard)	#uw8(cases heard)	376
+0.00970874 ##uw8(heard world)	#uw8(heard World)	376
+0.283951 ##uw8(world court)	#uw8(World Court)	376
+5.5 ##uw8(court international)	#uw8(Court International)	376
+5.5 ##uw8(international court)	#uw8(International Court)	376
+2.85185 ##uw8(court justice)	#uw8(Court Justice)	376

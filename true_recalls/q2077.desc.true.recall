@@ -1,0 +1,19 @@
+2.25 #deal	dealers	2077
+0.130435 #sell	sell	2077
+0.368421 #rent	rent	2077
+25 #bobcat	Bobcat	2077
+1 #tractor	tractors	2077
+0.529412 #construct	construction	2077
+25 #equip	equipment	2077
+0.04 ##1(deal sell)	#1(dealers sell)	2077
+0.04 ##1(sell rent)	#1(sell rent)	2077
+0.04 ##1(rent bobcat)	#1(rent Bobcat)	2077
+0.0833333 ##1(bobcat tractor)	#1(Bobcat tractors)	2077
+0.04 ##1(tractor construct)	#1(tractors construction)	2077
+0.130435 ##1(construct equip)	#1(construction equipment)	2077
+0.04 ##uw8(deal sell)	#uw8(dealers sell)	2077
+0.04 ##uw8(sell rent)	#uw8(sell rent)	2077
+0.238095 ##uw8(rent bobcat)	#uw8(rent Bobcat)	2077
+0.444444 ##uw8(bobcat tractor)	#uw8(Bobcat tractors)	2077
+0.04 ##uw8(tractor construct)	#uw8(tractors construction)	2077
+0.3 ##uw8(construct equip)	#uw8(construction equipment)	2077

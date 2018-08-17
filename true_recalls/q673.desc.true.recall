@@ -1,0 +1,16 @@
+0.190476 #factor	factors	673
+0.388889 #led	led	673
+1.5 #withdrawal	withdrawal	673
+24 #soviet	Soviet	673
+1.5 #troop	troops	673
+24 #afghanistan	Afghanistan	673
+0.0416667 ##1(factor led)	#1(factors led)	673
+0.0416667 ##1(led withdrawal)	#1(led withdrawal)	673
+0.0416667 ##1(withdrawal soviet)	#1(withdrawal Soviet)	673
+0.666667 ##1(soviet troop)	#1(Soviet troops)	673
+0.0416667 ##1(troop afghanistan)	#1(troops Afghanistan)	673
+0.0416667 ##uw8(factor led)	#uw8(factors led)	673
+0.0416667 ##uw8(led withdrawal)	#uw8(led withdrawal)	673
+0.785714 ##uw8(withdrawal soviet)	#uw8(withdrawal Soviet)	673
+0.923077 ##uw8(soviet troop)	#uw8(Soviet troops)	673
+1.08333 ##uw8(troop afghanistan)	#uw8(troops Afghanistan)	673

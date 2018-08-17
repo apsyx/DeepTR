@@ -1,0 +1,28 @@
+1.15152 #govern	government	243
+0.126984 #restrict	restrict	243
+1.15152 #fossil	fossil	243
+4.46154 #fuel	fuels	243
+5.45455 #energy	energy	243
+0.42 #resource	resources	243
+0.20339 #private	private	243
+0.0923077 #corporate	corporations	243
+0.44898 #public	public	243
+0.365385 #utility	utilities	243
+0.0142857 ##1(govern restrict)	#1(government restrict)	243
+0.0142857 ##1(restrict fossil)	#1(restrict fossil)	243
+1.15152 ##1(fossil fuel)	#1(fossil fuels)	243
+0.0289855 ##1(fuel energy)	#1(fuels energy)	243
+0.0597015 ##1(energy resource)	#1(energy resources)	243
+0.0142857 ##1(resource private)	#1(resources private)	243
+0.0142857 ##1(private corporate)	#1(private corporations)	243
+0.0142857 ##1(corporate public)	#1(corporations public)	243
+0.0289855 ##1(public utility)	#1(public utilities)	243
+0.0289855 ##uw8(govern restrict)	#uw8(government restrict)	243
+0.0142857 ##uw8(restrict fossil)	#uw8(restrict fossil)	243
+1.15152 ##uw8(fossil fuel)	#uw8(fossil fuels)	243
+0.224138 ##uw8(fuel energy)	#uw8(fuels energy)	243
+0.145161 ##uw8(energy resource)	#uw8(energy resources)	243
+0.0289855 ##uw8(resource private)	#uw8(resources private)	243
+0.0142857 ##uw8(private corporate)	#uw8(private corporations)	243
+0.0142857 ##uw8(corporate public)	#uw8(corporations public)	243
+0.0597015 ##uw8(public utility)	#uw8(public utilities)	243

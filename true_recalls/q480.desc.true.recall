@@ -1,0 +1,16 @@
+2 #automobile	automobile	480
+20 #traffic	traffic	480
+9.5 #washington	Washington	480
+6 #dc	DC	480
+3.2 #metropolitan	metropolitan	480
+20 #area	area	480
+0.105263 ##1(automobile traffic)	#1(automobile traffic)	480
+0.05 ##1(traffic washington)	#1(traffic Washington)	480
+3.2 ##1(washington dc)	#1(Washington DC)	480
+0.105263 ##1(dc metropolitan)	#1(DC metropolitan)	480
+1.1 ##1(metropolitan area)	#1(metropolitan area)	480
+0.166667 ##uw8(automobile traffic)	#uw8(automobile traffic)	480
+0.105263 ##uw8(traffic washington)	#uw8(traffic Washington)	480
+4.25 ##uw8(washington dc)	#uw8(Washington DC)	480
+0.105263 ##uw8(dc metropolitan)	#uw8(DC metropolitan)	480
+3.2 ##uw8(metropolitan area)	#uw8(metropolitan area)	480

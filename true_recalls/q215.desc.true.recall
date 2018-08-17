@@ -1,0 +1,22 @@
+45.25 #infant	infant	215
+6.4 #mortal	mortality	215
+4 #rate	rate	215
+0.712963 #unite	United	215
+2.49057 #state	States	215
+1.80303 #high	higher	215
+0.225166 #industrial	industrialized	215
+0.927083 #nation	nations	215
+5.16667 ##1(infant mortal)	#1(infant mortality)	215
+1.28395 ##1(mortal rate)	#1(mortality rate)	215
+0.00543478 ##1(rate unite)	#1(rate United)	215
+0.666667 ##1(unite state)	#1(United States)	215
+0.010929 ##1(state high)	#1(States higher)	215
+0.010929 ##1(high industrial)	#1(higher industrialized)	215
+0.134969 ##1(industrial nation)	#1(industrialized nations)	215
+5.37931 ##uw8(infant mortal)	#uw8(infant mortality)	215
+1.68116 ##uw8(mortal rate)	#uw8(mortality rate)	215
+0.114458 ##uw8(rate unite)	#uw8(rate United)	215
+0.666667 ##uw8(unite state)	#uw8(United States)	215
+0.107784 ##uw8(state high)	#uw8(States higher)	215
+0.0571429 ##uw8(high industrial)	#uw8(higher industrialized)	215
+0.134969 ##uw8(industrial nation)	#uw8(industrialized nations)	215

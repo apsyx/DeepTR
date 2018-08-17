@@ -1,0 +1,7 @@
+8.91667 #atlantic	Atlantic	813
+118 #intracoastal	Intracoastal	813
+118 #waterway	Waterway	813
+2.21622 ##1(atlantic intracoastal)	#1(Atlantic Intracoastal)	813
+118 ##1(intracoastal waterway)	#1(Intracoastal Waterway)	813
+3.25 ##uw8(atlantic intracoastal)	#uw8(Atlantic Intracoastal)	813
+118 ##uw8(intracoastal waterway)	#uw8(Intracoastal Waterway)	813

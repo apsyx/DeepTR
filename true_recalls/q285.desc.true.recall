@@ -1,0 +1,28 @@
+0.153509 #determine	Determine	285
+0.520231 #number	number	285
+261.999 #submarine	submarines	285
+3.31148 #nuclear	nuclear	285
+0.992424 #power	powered	285
+0.223256 #convention	conventional	285
+0.223256 #present	presently	285
+0.0734694 #inventory	inventories	285
+0.453039 #country	countries	285
+0.477528 #world	world	285
+0.0115385 ##1(determine number)	#1(Determine number)	285
+0.00381679 ##1(number submarine)	#1(number submarines)	285
+0.0115385 ##1(submarine nuclear)	#1(submarines nuclear)	285
+0.421622 ##1(nuclear power)	#1(nuclear powered)	285
+0.00381679 ##1(power convention)	#1(powered conventional)	285
+0.00381679 ##1(convention present)	#1(conventional presently)	285
+0.00381679 ##1(present inventory)	#1(presently inventories)	285
+0.00381679 ##1(inventory country)	#1(inventories countries)	285
+0.00381679 ##1(country world)	#1(countries world)	285
+0.0233463 ##uw8(determine number)	#uw8(Determine number)	285
+0.0867769 ##uw8(number submarine)	#uw8(number submarines)	285
+1.26724 ##uw8(submarine nuclear)	#uw8(submarines nuclear)	285
+0.437158 ##uw8(nuclear power)	#uw8(nuclear powered)	285
+0.0354331 ##uw8(power convention)	#uw8(powered conventional)	285
+0.0115385 ##uw8(convention present)	#uw8(conventional presently)	285
+0.00766284 ##uw8(present inventory)	#uw8(presently inventories)	285
+0.00381679 ##uw8(inventory country)	#uw8(inventories countries)	285
+0.0734694 ##uw8(country world)	#uw8(countries world)	285

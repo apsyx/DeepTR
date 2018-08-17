@@ -1,0 +1,31 @@
+0.5 #relevant	relevant	281
+0.5 #document	document	281
+0.5 #identify	identify	281
+0.5 #benefit	benefit	281
+2 #scientist	scientists	281
+0.5 #hope	hope	281
+0.5 #gain	gain	281
+0.5 #decipher	deciphering	281
+2 #genetic	genetic	281
+0.5 #code	code	281
+2 #yeast	yeast	281
+0.5 ##1(relevant document)	#1(relevant document)	281
+0.5 ##1(document identify)	#1(document identify)	281
+0.5 ##1(identify benefit)	#1(identify benefit)	281
+0.5 ##1(benefit scientist)	#1(benefit scientists)	281
+0.5 ##1(scientist hope)	#1(scientists hope)	281
+0.5 ##1(hope gain)	#1(hope gain)	281
+0.5 ##1(gain decipher)	#1(gain deciphering)	281
+0.5 ##1(decipher genetic)	#1(deciphering genetic)	281
+0.5 ##1(genetic code)	#1(genetic code)	281
+0.5 ##1(code yeast)	#1(code yeast)	281
+0.5 ##uw8(relevant document)	#uw8(relevant document)	281
+0.5 ##uw8(document identify)	#uw8(document identify)	281
+0.5 ##uw8(identify benefit)	#uw8(identify benefit)	281
+0.5 ##uw8(benefit scientist)	#uw8(benefit scientists)	281
+0.5 ##uw8(scientist hope)	#uw8(scientists hope)	281
+0.5 ##uw8(hope gain)	#uw8(hope gain)	281
+0.5 ##uw8(gain decipher)	#uw8(gain deciphering)	281
+0.5 ##uw8(decipher genetic)	#uw8(deciphering genetic)	281
+0.5 ##uw8(genetic code)	#uw8(genetic code)	281
+0.5 ##uw8(code yeast)	#uw8(code yeast)	281

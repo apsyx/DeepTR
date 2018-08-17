@@ -1,0 +1,22 @@
+0.529412 #guidelines	guidelines	564
+1.36364 #good	good	564
+25 #nutrition	nutrition	564
+4.2 #mother	mothers	564
+5.5 #infant	infants	564
+0.625 #federal	federal	564
+1.36364 #program	programs	564
+0.733333 #promote	promote	564
+0.04 ##1(guidelines good)	#1(guidelines good)	564
+0.529412 ##1(good nutrition)	#1(good nutrition)	564
+0.04 ##1(nutrition mother)	#1(nutrition mothers)	564
+0.130435 ##1(mother infant)	#1(mothers infants)	564
+0.04 ##1(infant federal)	#1(infants federal)	564
+0.0833333 ##1(federal program)	#1(federal programs)	564
+0.04 ##1(program promote)	#1(programs promote)	564
+0.04 ##uw8(guidelines good)	#uw8(guidelines good)	564
+0.625 ##uw8(good nutrition)	#uw8(good nutrition)	564
+0.444444 ##uw8(nutrition mother)	#uw8(nutrition mothers)	564
+0.625 ##uw8(mother infant)	#uw8(mothers infants)	564
+0.04 ##uw8(infant federal)	#uw8(infants federal)	564
+0.130435 ##uw8(federal program)	#uw8(federal programs)	564
+0.130435 ##uw8(program promote)	#uw8(programs promote)	564

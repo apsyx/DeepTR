@@ -1,0 +1,22 @@
+0.868421 #symptom	symptoms	454
+3.30303 #treat	treatment	454
+141 #parkinson	Parkinson	454
+0.670588 #s	s	454
+46.3334 #disease	Disease	454
+0.0518519 #segment	segments	454
+0.352381 #populate	population	454
+46.3334 #disease	disease	454
+0.0142857 ##1(symptom treat)	#1(symptoms treatment)	454
+0.0839695 ##1(treat parkinson)	#1(treatment Parkinson)	454
+0.0839695 ##1(parkinson s)	#1(Parkinson s)	454
+0.0839695 ##1(s disease)	#1(s Disease)	454
+0.0070922 ##1(disease segment)	#1(Disease segments)	454
+0.0070922 ##1(segment populate)	#1(segments population)	454
+0.0070922 ##1(populate disease)	#1(population disease)	454
+0.183333 ##uw8(symptom treat)	#uw8(symptoms treatment)	454
+0.543478 ##uw8(treat parkinson)	#uw8(treatment Parkinson)	454
+0.11811 ##uw8(parkinson s)	#uw8(Parkinson s)	454
+0.136 ##uw8(s disease)	#uw8(s Disease)	454
+0.0070922 ##uw8(disease segment)	#uw8(Disease segments)	454
+0.0070922 ##uw8(segment populate)	#uw8(segments population)	454
+0.0364964 ##uw8(populate disease)	#uw8(population disease)	454

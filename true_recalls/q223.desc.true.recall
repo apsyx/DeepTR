@@ -1,0 +1,16 @@
+0.0993976 #responsible	responsible	223
+0.285211 #great	great	223
+0.188925 #emerge	emergence	223
+364 #microsoft	MICROSOFT	223
+3.29412 #compute	computer	223
+1.51724 #industry	industry	223
+0.00274725 ##1(responsible great)	#1(responsible great)	223
+0.00274725 ##1(great emerge)	#1(great emergence)	223
+0.00274725 ##1(emerge microsoft)	#1(emergence MICROSOFT)	223
+0.00274725 ##1(microsoft compute)	#1(MICROSOFT computer)	223
+0.341912 ##1(compute industry)	#1(computer industry)	223
+0.00274725 ##uw8(responsible great)	#uw8(responsible great)	223
+0.00274725 ##uw8(great emerge)	#uw8(great emergence)	223
+0.039886 ##uw8(emerge microsoft)	#uw8(emergence MICROSOFT)	223
+0.622222 ##uw8(microsoft compute)	#uw8(MICROSOFT computer)	223
+0.46 ##uw8(compute industry)	#uw8(computer industry)	223

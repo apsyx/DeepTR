@@ -1,0 +1,16 @@
+1 #membership	membership	672
+1 #profile	profile	672
+1 #national	National	672
+1 #rifle	Rifle	672
+1 #associate	Association	672
+1 #nra	NRA	672
+1 ##1(membership profile)	#1(membership profile)	672
+1 ##1(profile national)	#1(profile National)	672
+1 ##1(national rifle)	#1(National Rifle)	672
+1 ##1(rifle associate)	#1(Rifle Association)	672
+1 ##1(associate nra)	#1(Association NRA)	672
+1 ##uw8(membership profile)	#uw8(membership profile)	672
+1 ##uw8(profile national)	#uw8(profile National)	672
+1 ##uw8(national rifle)	#uw8(National Rifle)	672
+1 ##uw8(rifle associate)	#uw8(Rifle Association)	672
+1 ##uw8(associate nra)	#uw8(Association NRA)	672

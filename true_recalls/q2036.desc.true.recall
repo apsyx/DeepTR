@@ -1,0 +1,16 @@
+1.72727 #m	m	2036
+1 #look	looking	2036
+2.75 #information	information	2036
+2 #comparison	comparisons	2036
+29 #gps	GPS	2036
+4 #receive	receivers	2036
+0.0344828 ##1(m look)	#1(m looking)	2036
+0.0344828 ##1(look information)	#1(looking information)	2036
+0.0344828 ##1(information comparison)	#1(information comparisons)	2036
+0.0344828 ##1(comparison gps)	#1(comparisons GPS)	2036
+3.28571 ##1(gps receive)	#1(GPS receivers)	2036
+0.0344828 ##uw8(m look)	#uw8(m looking)	2036
+0.0344828 ##uw8(look information)	#uw8(looking information)	2036
+0.0344828 ##uw8(information comparison)	#uw8(information comparisons)	2036
+1.5 ##uw8(comparison gps)	#uw8(comparisons GPS)	2036
+3.28571 ##uw8(gps receive)	#uw8(GPS receivers)	2036

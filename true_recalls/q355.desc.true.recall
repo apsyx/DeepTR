@@ -1,0 +1,16 @@
+5.71429 #develop	development	355
+0.678571 #application	application	355
+0.0444444 #spaceborne	spaceborne	355
+3.7 #ocean	ocean	355
+0.740741 #remote	remote	355
+0.678571 #sense	sensing	355
+0.0444444 ##1(develop application)	#1(development application)	355
+0.0217391 ##1(application spaceborne)	#1(application spaceborne)	355
+0.0217391 ##1(spaceborne ocean)	#1(spaceborne ocean)	355
+0.0217391 ##1(ocean remote)	#1(ocean remote)	355
+0.516129 ##1(remote sense)	#1(remote sensing)	355
+0.146341 ##uw8(develop application)	#uw8(development application)	355
+0.0444444 ##uw8(application spaceborne)	#uw8(application spaceborne)	355
+0.0217391 ##uw8(spaceborne ocean)	#uw8(spaceborne ocean)	355
+0.0681818 ##uw8(ocean remote)	#uw8(ocean remote)	355
+0.516129 ##uw8(remote sense)	#uw8(remote sensing)	355

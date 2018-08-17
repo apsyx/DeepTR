@@ -1,0 +1,16 @@
+effects
+children
+mothers
+smoking
+drinking
+pregnancy
+#1(effects children)
+#1(children mothers)
+#1(mothers smoking)
+#1(smoking drinking)
+#1(drinking pregnancy)
+#uw8(effects children)
+#uw8(children mothers)
+#uw8(mothers smoking)
+#uw8(smoking drinking)
+#uw8(drinking pregnancy)

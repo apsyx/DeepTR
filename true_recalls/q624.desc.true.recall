@@ -1,0 +1,28 @@
+0.111111 #pro	pros	624
+0.0526316 #con	cons	624
+5.66667 #develop	developing	624
+9 #strategic	Strategic	624
+19 #defense	Defense	624
+9 #initiate	Initiative	624
+1.22222 #sdi	SDI	624
+3 #known	known	624
+3 #star	Star	624
+5.66667 #war	Wars	624
+0.0526316 ##1(pro con)	#1(pros cons)	624
+0.0526316 ##1(con develop)	#1(cons developing)	624
+0.0526316 ##1(develop strategic)	#1(developing Strategic)	624
+4 ##1(strategic defense)	#1(Strategic Defense)	624
+4 ##1(defense initiate)	#1(Defense Initiative)	624
+0.0526316 ##1(initiate sdi)	#1(Initiative SDI)	624
+0.0526316 ##1(sdi known)	#1(SDI known)	624
+0.0526316 ##1(known star)	#1(known Star)	624
+3 ##1(star war)	#1(Star Wars)	624
+0.0526316 ##uw8(pro con)	#uw8(pros cons)	624
+0.0526316 ##uw8(con develop)	#uw8(cons developing)	624
+0.176471 ##uw8(develop strategic)	#uw8(developing Strategic)	624
+9 ##uw8(strategic defense)	#uw8(Strategic Defense)	624
+4 ##uw8(defense initiate)	#uw8(Defense Initiative)	624
+0.111111 ##uw8(initiate sdi)	#uw8(Initiative SDI)	624
+0.176471 ##uw8(sdi known)	#uw8(SDI known)	624
+0.818182 ##uw8(known star)	#uw8(known Star)	624
+3 ##uw8(star war)	#uw8(Star Wars)	624

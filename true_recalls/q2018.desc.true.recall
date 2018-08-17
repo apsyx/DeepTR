@@ -1,0 +1,16 @@
+0.0689655 #m	m	2018
+0.409091 #look	looking	2018
+1.06667 #information	information	2018
+30 #plan	planning	2018
+30 #budget	budgeting	2018
+30 #wedding	wedding	2018
+0.0333333 ##1(m look)	#1(m looking)	2018
+0.0333333 ##1(look information)	#1(looking information)	2018
+0.0333333 ##1(information plan)	#1(information planning)	2018
+0.0333333 ##1(plan budget)	#1(planning budgeting)	2018
+0.24 ##1(budget wedding)	#1(budgeting wedding)	2018
+0.0333333 ##uw8(m look)	#uw8(m looking)	2018
+0.0333333 ##uw8(look information)	#uw8(looking information)	2018
+0.0689655 ##uw8(information plan)	#uw8(information planning)	2018
+1.38462 ##uw8(plan budget)	#uw8(planning budgeting)	2018
+4.16667 ##uw8(budget wedding)	#uw8(budgeting wedding)	2018

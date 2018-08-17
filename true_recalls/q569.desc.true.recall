@@ -1,0 +1,10 @@
+0.428571 #controlling	controlling	569
+4 #invasive	invasive	569
+1.5 #animal	animals	569
+3 #plant	plants	569
+0.111111 ##1(controlling invasive)	#1(controlling invasive)	569
+0.0526316 ##1(invasive animal)	#1(invasive animals)	569
+0.176471 ##1(animal plant)	#1(animals plants)	569
+0.111111 ##uw8(controlling invasive)	#uw8(controlling invasive)	569
+0.25 ##uw8(invasive animal)	#uw8(invasive animals)	569
+1.5 ##uw8(animal plant)	#uw8(animals plants)	569

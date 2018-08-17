@@ -1,0 +1,22 @@
+0.191489 #step	steps	440
+0.244444 #taken	taken	440
+1.8 #govern	governments	440
+0.0769231 #corporate	corporations	440
+0.142857 #eliminate	eliminate	440
+0.365854 #abuse	abuse	440
+27 #child	child	440
+1.33333 #labor	labor	440
+0.0181818 ##1(step taken)	#1(steps taken)	440
+0.0181818 ##1(taken govern)	#1(taken governments)	440
+0.0181818 ##1(govern corporate)	#1(governments corporations)	440
+0.0181818 ##1(corporate eliminate)	#1(corporations eliminate)	440
+0.0181818 ##1(eliminate abuse)	#1(eliminate abuse)	440
+0.0181818 ##1(abuse child)	#1(abuse child)	440
+0.931035 ##1(child labor)	#1(child labor)	440
+0.037037 ##uw8(step taken)	#uw8(steps taken)	440
+0.0181818 ##uw8(taken govern)	#uw8(taken governments)	440
+0.0181818 ##uw8(govern corporate)	#uw8(governments corporations)	440
+0.0181818 ##uw8(corporate eliminate)	#uw8(corporations eliminate)	440
+0.0181818 ##uw8(eliminate abuse)	#uw8(eliminate abuse)	440
+0.12 ##uw8(abuse child)	#uw8(abuse child)	440
+1.07407 ##uw8(child labor)	#uw8(child labor)	440

@@ -1,0 +1,19 @@
+0.153846 #form	forms	381
+0.5 #alternate	alternative	381
+1.5 #medicine	medicine	381
+2.33333 #treat	treatment	381
+0.111111 #illnesse	illnesses	381
+1 #disease	diseases	381
+0.25 #successful	successful	381
+0.0344828 ##1(form alternate)	#1(forms alternative)	381
+0.0344828 ##1(alternate medicine)	#1(alternative medicine)	381
+0.0344828 ##1(medicine treat)	#1(medicine treatment)	381
+0.0344828 ##1(treat illnesse)	#1(treatment illnesses)	381
+0.0344828 ##1(illnesse disease)	#1(illnesses diseases)	381
+0.0344828 ##1(disease successful)	#1(diseases successful)	381
+0.0714286 ##uw8(form alternate)	#uw8(forms alternative)	381
+0.0714286 ##uw8(alternate medicine)	#uw8(alternative medicine)	381
+0.111111 ##uw8(medicine treat)	#uw8(medicine treatment)	381
+0.0714286 ##uw8(treat illnesse)	#uw8(treatment illnesses)	381
+0.0714286 ##uw8(illnesse disease)	#uw8(illnesses diseases)	381
+0.0714286 ##uw8(disease successful)	#uw8(diseases successful)	381

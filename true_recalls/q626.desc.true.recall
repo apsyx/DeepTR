@@ -1,0 +1,16 @@
+2.5 #report	reports	626
+0.0769231 #human	human	626
+13 #stampede	stampedes	626
+0.272727 #result	resulted	626
+1 #20	20	626
+1 #death	deaths	626
+0.0769231 ##1(report human)	#1(reports human)	626
+0.0769231 ##1(human stampede)	#1(human stampedes)	626
+0.0769231 ##1(stampede result)	#1(stampedes resulted)	626
+0.0769231 ##1(result 20)	#1(resulted 20)	626
+0.0769231 ##1(20 death)	#1(20 deaths)	626
+0.0769231 ##uw8(report human)	#uw8(reports human)	626
+0.0769231 ##uw8(human stampede)	#uw8(human stampedes)	626
+0.166667 ##uw8(stampede result)	#uw8(stampedes resulted)	626
+0.0769231 ##uw8(result 20)	#uw8(resulted 20)	626
+0.166667 ##uw8(20 death)	#uw8(20 deaths)	626

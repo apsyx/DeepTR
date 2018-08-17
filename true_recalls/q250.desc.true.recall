@@ -1,0 +1,34 @@
+0.239437 #available	available	250
+0.113924 #data	data	250
+0.419355 #show	show	250
+0.0232558 #positive	positive	250
+0.0114943 #correlate	correlation	250
+0.872341 #sale	sales	250
+1.2 #firearm	firearms	250
+0.113924 #ammunition	ammunition	250
+0.0864198 #commission	commission	250
+1.31579 #crime	crimes	250
+0.313433 #involve	involving	250
+1.2 #firearm	firearms	250
+0.0114943 ##1(available data)	#1(available data)	250
+0.0114943 ##1(data show)	#1(data show)	250
+0.0114943 ##1(show positive)	#1(show positive)	250
+0.0114943 ##1(positive correlate)	#1(positive correlation)	250
+0.0114943 ##1(correlate sale)	#1(correlation sales)	250
+0.0114943 ##1(sale firearm)	#1(sales firearms)	250
+0.0114943 ##1(firearm ammunition)	#1(firearms ammunition)	250
+0.0114943 ##1(ammunition commission)	#1(ammunition commission)	250
+0.0114943 ##1(commission crime)	#1(commission crimes)	250
+0.047619 ##1(crime involve)	#1(crimes involving)	250
+0.047619 ##1(involve firearm)	#1(involving firearms)	250
+0.0114943 ##uw8(available data)	#uw8(available data)	250
+0.0232558 ##uw8(data show)	#uw8(data show)	250
+0.0114943 ##uw8(show positive)	#uw8(show positive)	250
+0.0114943 ##uw8(positive correlate)	#uw8(positive correlation)	250
+0.0114943 ##uw8(correlate sale)	#uw8(correlation sales)	250
+0.0731707 ##uw8(sale firearm)	#uw8(sales firearms)	250
+0.0352941 ##uw8(firearm ammunition)	#uw8(firearms ammunition)	250
+0.0114943 ##uw8(ammunition commission)	#uw8(ammunition commission)	250
+0.047619 ##uw8(commission crime)	#uw8(commission crimes)	250
+0.0731707 ##uw8(crime involve)	#uw8(crimes involving)	250
+0.047619 ##uw8(involve firearm)	#uw8(involving firearms)	250

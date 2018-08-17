@@ -1,0 +1,10 @@
+8.4 #city	city	2035
+46 #hoboken	Hoboken	2035
+14.6667 #new	New	2035
+6.83333 #jersey	Jersey	2035
+0.740741 ##1(city hoboken)	#1(city Hoboken)	2035
+4.875 ##1(hoboken new)	#1(Hoboken New)	2035
+6.83333 ##1(new jersey)	#1(New Jersey)	2035
+3.7 ##uw8(city hoboken)	#uw8(city Hoboken)	2035
+14.6667 ##uw8(hoboken new)	#uw8(Hoboken New)	2035
+6.83333 ##uw8(new jersey)	#uw8(New Jersey)	2035

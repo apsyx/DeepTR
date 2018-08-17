@@ -1,0 +1,19 @@
+10 #tip	tips	2003
+0.913043 #resource	resources	2003
+0.333333 #supply	supplies	2003
+21 #get	getting	2003
+43 #organize	organized	2003
+0.128205 #reduce	reducing	2003
+1.2 #clutter	clutter	2003
+0.0232558 ##1(tip resource)	#1(tips resources)	2003
+0.0232558 ##1(resource supply)	#1(resources supplies)	2003
+0.0232558 ##1(supply get)	#1(supplies getting)	2003
+3.88889 ##1(get organize)	#1(getting organized)	2003
+0.0232558 ##1(organize reduce)	#1(organized reducing)	2003
+0.047619 ##1(reduce clutter)	#1(reducing clutter)	2003
+0.047619 ##uw8(tip resource)	#uw8(tips resources)	2003
+0.0232558 ##uw8(resource supply)	#uw8(resources supplies)	2003
+0.047619 ##uw8(supply get)	#uw8(supplies getting)	2003
+7.8 ##uw8(get organize)	#uw8(getting organized)	2003
+0.047619 ##uw8(organize reduce)	#uw8(organized reducing)	2003
+0.047619 ##uw8(reduce clutter)	#uw8(reducing clutter)	2003

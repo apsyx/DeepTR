@@ -1,0 +1,10 @@
+1.46667 #effect	effects	365
+0.121212 #attribute	attributed	365
+36 #el	El	365
+36 #nino	Nino	365
+0.0277778 ##1(effect attribute)	#1(effects attributed)	365
+0.0277778 ##1(attribute el)	#1(attributed El)	365
+36 ##1(el nino)	#1(El Nino)	365
+0.0277778 ##uw8(effect attribute)	#uw8(effects attributed)	365
+0.0571429 ##uw8(attribute el)	#uw8(attributed El)	365
+36 ##uw8(el nino)	#uw8(El Nino)	365

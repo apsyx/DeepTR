@@ -1,0 +1,34 @@
+0.411765 #legal	legal	409
+0.714286 #action	actions	409
+0.142857 #result	resulted	409
+0.0909091 #destruct	destruction	409
+3.8 #pan	Pan	409
+1 #flight	Flight	409
+0.846154 #103	103	409
+23 #lockerbie	Lockerbie	409
+2 #scotland	Scotland	409
+0.411765 #december	December	409
+0.263158 #21	21	409
+5 #1988	1988	409
+0.142857 ##1(legal action)	#1(legal actions)	409
+0.0434783 ##1(action result)	#1(actions resulted)	409
+0.0434783 ##1(result destruct)	#1(resulted destruction)	409
+0.0434783 ##1(destruct pan)	#1(destruction Pan)	409
+0.0434783 ##1(pan flight)	#1(Pan Flight)	409
+0.846154 ##1(flight 103)	#1(Flight 103)	409
+0.0434783 ##1(103 lockerbie)	#1(103 Lockerbie)	409
+0.411765 ##1(lockerbie scotland)	#1(Lockerbie Scotland)	409
+0.0434783 ##1(scotland december)	#1(Scotland December)	409
+0.0909091 ##1(december 21)	#1(December 21)	409
+0.142857 ##1(21 1988)	#1(21 1988)	409
+0.142857 ##uw8(legal action)	#uw8(legal actions)	409
+0.0434783 ##uw8(action result)	#uw8(actions resulted)	409
+0.0434783 ##uw8(result destruct)	#uw8(resulted destruction)	409
+0.0434783 ##uw8(destruct pan)	#uw8(destruction Pan)	409
+0.6 ##uw8(pan flight)	#uw8(Pan Flight)	409
+0.846154 ##uw8(flight 103)	#uw8(Flight 103)	409
+0.411765 ##uw8(103 lockerbie)	#uw8(103 Lockerbie)	409
+1.18182 ##uw8(lockerbie scotland)	#uw8(Lockerbie Scotland)	409
+0.142857 ##uw8(scotland december)	#uw8(Scotland December)	409
+0.0909091 ##uw8(december 21)	#uw8(December 21)	409
+0.142857 ##uw8(21 1988)	#uw8(21 1988)	409

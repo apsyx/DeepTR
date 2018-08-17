@@ -1,0 +1,25 @@
+0.5 #chemical	chemical	349
+0.136364 #reaction	reactions	349
+0.190476 #necessary	necessary	349
+0.25 #keep	keep	349
+0.271186 #live	living	349
+0.442308 #cell	cells	349
+0.25 #healthy	healthy	349
+0.530612 #produce	producing	349
+0.190476 #energy	energy	349
+0.0273973 ##1(chemical reaction)	#1(chemical reactions)	349
+0.0135135 ##1(reaction necessary)	#1(reactions necessary)	349
+0.0135135 ##1(necessary keep)	#1(necessary keep)	349
+0.0135135 ##1(keep live)	#1(keep living)	349
+0.0135135 ##1(live cell)	#1(living cells)	349
+0.0135135 ##1(cell healthy)	#1(cells healthy)	349
+0.0135135 ##1(healthy produce)	#1(healthy producing)	349
+0.0135135 ##1(produce energy)	#1(producing energy)	349
+0.0273973 ##uw8(chemical reaction)	#uw8(chemical reactions)	349
+0.0135135 ##uw8(reaction necessary)	#uw8(reactions necessary)	349
+0.0135135 ##uw8(necessary keep)	#uw8(necessary keep)	349
+0.0135135 ##uw8(keep live)	#uw8(keep living)	349
+0.0135135 ##uw8(live cell)	#uw8(living cells)	349
+0.0273973 ##uw8(cell healthy)	#uw8(cells healthy)	349
+0.0416667 ##uw8(healthy produce)	#uw8(healthy producing)	349
+0.0273973 ##uw8(produce energy)	#uw8(producing energy)	349

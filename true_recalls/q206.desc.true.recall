@@ -1,0 +1,13 @@
+0.0208333 #prognosis	Prognosis	206
+0.0425532 #viable	viability	206
+2.26667 #politics	political	206
+1.45 #third	third	206
+48 #party	party	206
+0.0208333 ##1(prognosis viable)	#1(Prognosis viability)	206
+0.0208333 ##1(viable politics)	#1(viability political)	206
+0.0208333 ##1(politics third)	#1(political third)	206
+1.04167 ##1(third party)	#1(third party)	206
+0.0208333 ##uw8(prognosis viable)	#uw8(Prognosis viability)	206
+0.0208333 ##uw8(viable politics)	#uw8(viability political)	206
+0.166667 ##uw8(politics third)	#uw8(political third)	206
+1.22727 ##uw8(third party)	#uw8(third party)	206

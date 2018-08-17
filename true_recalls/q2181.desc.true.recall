@@ -1,0 +1,16 @@
+11 #good	good	2181
+0.2 #way	way	2181
+3 #begin	begin	2181
+11 #collect	collecting	2181
+11 #old	old	2181
+11 #coin	coins	2181
+0.0909091 ##1(good way)	#1(good way)	2181
+0.0909091 ##1(way begin)	#1(way begin)	2181
+0.0909091 ##1(begin collect)	#1(begin collecting)	2181
+0.0909091 ##1(collect old)	#1(collecting old)	2181
+3 ##1(old coin)	#1(old coins)	2181
+0.0909091 ##uw8(good way)	#uw8(good way)	2181
+0.0909091 ##uw8(way begin)	#uw8(way begin)	2181
+0.0909091 ##uw8(begin collect)	#uw8(begin collecting)	2181
+0.0909091 ##uw8(collect old)	#uw8(collecting old)	2181
+11 ##uw8(old coin)	#uw8(old coins)	2181

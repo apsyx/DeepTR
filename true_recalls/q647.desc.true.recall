@@ -1,0 +1,16 @@
+0.590909 #windmill	windmill	647
+1.33333 #technology	technology	647
+10.6667 #generate	generate	647
+4.83333 #electric	electricity	647
+0.521739 #economic	economically	647
+1.1875 #product	productive	647
+0.0294118 ##1(windmill technology)	#1(windmill technology)	647
+0.0294118 ##1(technology generate)	#1(technology generate)	647
+0.4 ##1(generate electric)	#1(generate electricity)	647
+0.0294118 ##1(electric economic)	#1(electricity economically)	647
+0.0294118 ##1(economic product)	#1(economically productive)	647
+0.0294118 ##uw8(windmill technology)	#uw8(windmill technology)	647
+0.09375 ##uw8(technology generate)	#uw8(technology generate)	647
+1.5 ##uw8(generate electric)	#uw8(generate electricity)	647
+0.0606061 ##uw8(electric economic)	#uw8(electricity economically)	647
+0.0606061 ##uw8(economic product)	#uw8(economically productive)	647

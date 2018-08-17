@@ -1,0 +1,34 @@
+0.0117647 #retrieve	Retrieve	602
+0.116883 #information	information	602
+0.178082 #regard	regarding	602
+0.228571 #process	process	602
+27.6667 #czech	Czech	602
+85 #slovak	Slovak	602
+8.55556 #republic	republics	602
+0.829787 #czechoslovakia	Czechoslovakia	602
+0.116883 #establish	established	602
+0.409836 #separate	separate	602
+0.146667 #sovereign	sovereign	602
+1.04762 #country	countries	602
+0.0117647 ##1(retrieve information)	#1(Retrieve information)	602
+0.0117647 ##1(information regard)	#1(information regarding)	602
+0.0117647 ##1(regard process)	#1(regarding process)	602
+0.0117647 ##1(process czech)	#1(process Czech)	602
+0.246377 ##1(czech slovak)	#1(Czech Slovak)	602
+0.653846 ##1(slovak republic)	#1(Slovak republics)	602
+0.0117647 ##1(republic czechoslovakia)	#1(republics Czechoslovakia)	602
+0.0117647 ##1(czechoslovakia establish)	#1(Czechoslovakia established)	602
+0.0117647 ##1(establish separate)	#1(established separate)	602
+0.0238095 ##1(separate sovereign)	#1(separate sovereign)	602
+0.0238095 ##1(sovereign country)	#1(sovereign countries)	602
+0.0117647 ##uw8(retrieve information)	#uw8(Retrieve information)	602
+0.0117647 ##uw8(information regard)	#uw8(information regarding)	602
+0.0117647 ##uw8(regard process)	#uw8(regarding process)	602
+0.0238095 ##uw8(process czech)	#uw8(process Czech)	602
+11.2857 ##uw8(czech slovak)	#uw8(Czech Slovak)	602
+2.90909 ##uw8(slovak republic)	#uw8(Slovak republics)	602
+0.0487805 ##uw8(republic czechoslovakia)	#uw8(republics Czechoslovakia)	602
+0.0117647 ##uw8(czechoslovakia establish)	#uw8(Czechoslovakia established)	602
+0.0117647 ##uw8(establish separate)	#uw8(established separate)	602
+0.0238095 ##uw8(separate sovereign)	#uw8(separate sovereign)	602
+0.0238095 ##uw8(sovereign country)	#uw8(sovereign countries)	602

@@ -1,0 +1,19 @@
+1 #method	methods	548
+3 #solar	solar	548
+3 #heat	heat	548
+0.333333 #warm	warm	548
+3 #water	water	548
+3 #swim	swimming	548
+3 #pool	pool	548
+0.333333 ##1(method solar)	#1(methods solar)	548
+3 ##1(solar heat)	#1(solar heat)	548
+0.333333 ##1(heat warm)	#1(heat warm)	548
+0.333333 ##1(warm water)	#1(warm water)	548
+0.333333 ##1(water swim)	#1(water swimming)	548
+3 ##1(swim pool)	#1(swimming pool)	548
+0.333333 ##uw8(method solar)	#uw8(methods solar)	548
+3 ##uw8(solar heat)	#uw8(solar heat)	548
+0.333333 ##uw8(heat warm)	#uw8(heat warm)	548
+0.333333 ##uw8(warm water)	#uw8(warm water)	548
+1 ##uw8(water swim)	#uw8(water swimming)	548
+3 ##uw8(swim pool)	#uw8(swimming pool)	548

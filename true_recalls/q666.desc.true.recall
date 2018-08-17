@@ -1,0 +1,22 @@
+0.25 #impact	impact	666
+4 #prime	Prime	666
+4 #minister	Minister	666
+4 #margaret	Margaret	666
+4 #thatch	Thatchers	666
+0.666667 #resignation	resignation	666
+0.666667 #uk	UK	666
+1.5 #relate	relations	666
+0.25 ##1(impact prime)	#1(impact Prime)	666
+4 ##1(prime minister)	#1(Prime Minister)	666
+0.25 ##1(minister margaret)	#1(Minister Margaret)	666
+4 ##1(margaret thatch)	#1(Margaret Thatchers)	666
+0.666667 ##1(thatch resignation)	#1(Thatchers resignation)	666
+0.25 ##1(resignation uk)	#1(resignation UK)	666
+0.25 ##1(uk relate)	#1(UK relations)	666
+0.25 ##uw8(impact prime)	#uw8(impact Prime)	666
+4 ##uw8(prime minister)	#uw8(Prime Minister)	666
+0.25 ##uw8(minister margaret)	#uw8(Minister Margaret)	666
+4 ##uw8(margaret thatch)	#uw8(Margaret Thatchers)	666
+0.666667 ##uw8(thatch resignation)	#uw8(Thatchers resignation)	666
+0.25 ##uw8(resignation uk)	#uw8(resignation UK)	666
+0.25 ##uw8(uk relate)	#uw8(UK relations)	666

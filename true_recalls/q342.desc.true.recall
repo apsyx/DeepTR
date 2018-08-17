@@ -1,0 +1,106 @@
+0.294118 #end	end	342
+0.157895 #cold	Cold	342
+0.375 #war	War	342
+0.047619 #intensify	intensified	342
+0.157895 #economic	economic	342
+0.1 #competition	competition	342
+0.157895 #start	started	342
+0.1 #generate	generate	342
+0.222222 #serious	serious	342
+0.047619 #friction	friction	342
+0.1 #nation	nations	342
+1 #attempt	attempts	342
+0.466667 #made	made	342
+0.833333 #diplomatic	diplomatic	342
+0.222222 #personnel	personnel	342
+0.222222 #acquire	acquire	342
+0.375 #sensitive	sensitive	342
+0.222222 #trade	trade	342
+1 #technology	technology	342
+2.14286 #information	information	342
+0.833333 #obtain	obtain	342
+2.14286 #information	information	342
+0.222222 #high	highly	342
+0.294118 #classify	classified	342
+0.375 #industrial	industrial	342
+0.047619 #project	projects	342
+0.466667 #identify	Identify	342
+0.294118 #instance	instances	342
+1 #attempt	attempts	342
+0.466667 #made	made	342
+0.222222 #personnel	personnel	342
+0.833333 #diplomatic	diplomatic	342
+0.466667 #status	status	342
+0.833333 #obtain	obtain	342
+2.14286 #information	information	342
+0.157895 #nature	nature	342
+0.047619 ##1(end cold)	#1(end Cold)	342
+0.1 ##1(cold war)	#1(Cold War)	342
+0.047619 ##1(war intensify)	#1(War intensified)	342
+0.047619 ##1(intensify economic)	#1(intensified economic)	342
+0.047619 ##1(economic competition)	#1(economic competition)	342
+0.047619 ##1(competition start)	#1(competition started)	342
+0.047619 ##1(start generate)	#1(started generate)	342
+0.047619 ##1(generate serious)	#1(generate serious)	342
+0.047619 ##1(serious friction)	#1(serious friction)	342
+0.047619 ##1(friction nation)	#1(friction nations)	342
+0.047619 ##1(nation attempt)	#1(nations attempts)	342
+0.047619 ##1(attempt made)	#1(attempts made)	342
+0.047619 ##1(made diplomatic)	#1(made diplomatic)	342
+0.047619 ##1(diplomatic personnel)	#1(diplomatic personnel)	342
+0.047619 ##1(personnel acquire)	#1(personnel acquire)	342
+0.047619 ##1(acquire sensitive)	#1(acquire sensitive)	342
+0.047619 ##1(sensitive trade)	#1(sensitive trade)	342
+0.047619 ##1(trade technology)	#1(trade technology)	342
+0.047619 ##1(technology information)	#1(technology information)	342
+0.157895 ##1(information obtain)	#1(information obtain)	342
+0.047619 ##1(obtain information)	#1(obtain information)	342
+0.047619 ##1(information high)	#1(information highly)	342
+0.047619 ##1(high classify)	#1(highly classified)	342
+0.047619 ##1(classify industrial)	#1(classified industrial)	342
+0.047619 ##1(industrial project)	#1(industrial projects)	342
+0.047619 ##1(project identify)	#1(projects Identify)	342
+0.047619 ##1(identify instance)	#1(Identify instances)	342
+0.047619 ##1(instance attempt)	#1(instances attempts)	342
+0.047619 ##1(attempt made)	#1(attempts made)	342
+0.047619 ##1(made personnel)	#1(made personnel)	342
+0.047619 ##1(personnel diplomatic)	#1(personnel diplomatic)	342
+0.222222 ##1(diplomatic status)	#1(diplomatic status)	342
+0.047619 ##1(status obtain)	#1(status obtain)	342
+0.047619 ##1(obtain information)	#1(obtain information)	342
+0.047619 ##1(information nature)	#1(information nature)	342
+0.1 ##uw8(end cold)	#uw8(end Cold)	342
+0.1 ##uw8(cold war)	#uw8(Cold War)	342
+0.047619 ##uw8(war intensify)	#uw8(War intensified)	342
+0.047619 ##uw8(intensify economic)	#uw8(intensified economic)	342
+0.047619 ##uw8(economic competition)	#uw8(economic competition)	342
+0.047619 ##uw8(competition start)	#uw8(competition started)	342
+0.047619 ##uw8(start generate)	#uw8(started generate)	342
+0.047619 ##uw8(generate serious)	#uw8(generate serious)	342
+0.047619 ##uw8(serious friction)	#uw8(serious friction)	342
+0.047619 ##uw8(friction nation)	#uw8(friction nations)	342
+0.047619 ##uw8(nation attempt)	#uw8(nations attempts)	342
+0.047619 ##uw8(attempt made)	#uw8(attempts made)	342
+0.047619 ##uw8(made diplomatic)	#uw8(made diplomatic)	342
+0.047619 ##uw8(diplomatic personnel)	#uw8(diplomatic personnel)	342
+0.047619 ##uw8(personnel acquire)	#uw8(personnel acquire)	342
+0.047619 ##uw8(acquire sensitive)	#uw8(acquire sensitive)	342
+0.047619 ##uw8(sensitive trade)	#uw8(sensitive trade)	342
+0.047619 ##uw8(trade technology)	#uw8(trade technology)	342
+0.222222 ##uw8(technology information)	#uw8(technology information)	342
+0.466667 ##uw8(information obtain)	#uw8(information obtain)	342
+0.466667 ##uw8(obtain information)	#uw8(obtain information)	342
+0.1 ##uw8(information high)	#uw8(information highly)	342
+0.047619 ##uw8(high classify)	#uw8(highly classified)	342
+0.047619 ##uw8(classify industrial)	#uw8(classified industrial)	342
+0.047619 ##uw8(industrial project)	#uw8(industrial projects)	342
+0.047619 ##uw8(project identify)	#uw8(projects Identify)	342
+0.047619 ##uw8(identify instance)	#uw8(Identify instances)	342
+0.047619 ##uw8(instance attempt)	#uw8(instances attempts)	342
+0.047619 ##uw8(attempt made)	#uw8(attempts made)	342
+0.047619 ##uw8(made personnel)	#uw8(made personnel)	342
+0.047619 ##uw8(personnel diplomatic)	#uw8(personnel diplomatic)	342
+0.375 ##uw8(diplomatic status)	#uw8(diplomatic status)	342
+0.047619 ##uw8(status obtain)	#uw8(status obtain)	342
+0.466667 ##uw8(obtain information)	#uw8(obtain information)	342
+0.1 ##uw8(information nature)	#uw8(information nature)	342

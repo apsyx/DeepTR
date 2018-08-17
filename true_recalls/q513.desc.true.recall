@@ -1,0 +1,7 @@
+1.4 #cause	causes	513
+29 #earthquake	earthquakes	513
+0.935484 #occur	occur	513
+0.0909091 ##1(cause earthquake)	#1(causes earthquakes)	513
+0.363636 ##1(earthquake occur)	#1(earthquakes occur)	513
+0.578947 ##uw8(cause earthquake)	#uw8(causes earthquakes)	513
+0.578947 ##uw8(earthquake occur)	#uw8(earthquakes occur)	513

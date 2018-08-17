@@ -1,0 +1,7 @@
+0.1875 #relationship	relationship	668
+37 #poverty	poverty	668
+8.5 #disease	disease	668
+0.027027 ##1(relationship poverty)	#1(relationship poverty)	668
+0.0857143 ##1(poverty disease)	#1(poverty disease)	668
+0.027027 ##uw8(relationship poverty)	#uw8(relationship poverty)	668
+0.52 ##uw8(poverty disease)	#uw8(poverty disease)	668

@@ -1,0 +1,22 @@
+0.0212766 #instance	instances	448
+0.230769 #weather	weather	448
+0.263158 #main	main	448
+0.0434783 #contribute	contributing	448
+0.0212766 #factor	factor	448
+0.333333 #loss	loss	448
+3 #ship	ship	448
+2 #sea	sea	448
+0.0212766 ##1(instance weather)	#1(instances weather)	448
+0.0212766 ##1(weather main)	#1(weather main)	448
+0.0212766 ##1(main contribute)	#1(main contributing)	448
+0.0212766 ##1(contribute factor)	#1(contributing factor)	448
+0.0212766 ##1(factor loss)	#1(factor loss)	448
+0.0212766 ##1(loss ship)	#1(loss ship)	448
+0.0212766 ##1(ship sea)	#1(ship sea)	448
+0.0212766 ##uw8(instance weather)	#uw8(instances weather)	448
+0.0212766 ##uw8(weather main)	#uw8(weather main)	448
+0.0212766 ##uw8(main contribute)	#uw8(main contributing)	448
+0.0212766 ##uw8(contribute factor)	#uw8(contributing factor)	448
+0.0212766 ##uw8(factor loss)	#uw8(factor loss)	448
+0.0434783 ##uw8(loss ship)	#uw8(loss ship)	448
+0.116279 ##uw8(ship sea)	#uw8(ship sea)	448

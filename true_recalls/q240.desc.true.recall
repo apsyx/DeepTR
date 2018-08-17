@@ -1,0 +1,25 @@
+0.22467 #control	controls	240
+0.299065 #agree	agreements	240
+0.188034 #technology	technological	240
+0.103175 #advance	advances	240
+0.158333 #equip	equipment	240
+0.544444 #plan	planned	240
+0.116466 #assist	assist	240
+0.230088 #combat	combating	240
+4.14815 #terror	terrorism	240
+0.00361011 ##1(control agree)	#1(controls agreements)	240
+0.00361011 ##1(agree technology)	#1(agreements technological)	240
+0.00724638 ##1(technology advance)	#1(technological advances)	240
+0.00361011 ##1(advance equip)	#1(advances equipment)	240
+0.00361011 ##1(equip plan)	#1(equipment planned)	240
+0.00361011 ##1(plan assist)	#1(planned assist)	240
+0.00361011 ##1(assist combat)	#1(assist combating)	240
+0.0944882 ##1(combat terror)	#1(combating terrorism)	240
+0.00724638 ##uw8(control agree)	#uw8(controls agreements)	240
+0.00361011 ##uw8(agree technology)	#uw8(agreements technological)	240
+0.0220588 ##uw8(technology advance)	#uw8(technological advances)	240
+0.00361011 ##uw8(advance equip)	#uw8(advances equipment)	240
+0.00361011 ##uw8(equip plan)	#uw8(equipment planned)	240
+0.00724638 ##uw8(plan assist)	#uw8(planned assist)	240
+0.00724638 ##uw8(assist combat)	#uw8(assist combating)	240
+0.134694 ##uw8(combat terror)	#uw8(combating terrorism)	240

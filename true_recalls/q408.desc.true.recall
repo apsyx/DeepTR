@@ -1,0 +1,28 @@
+0.578947 #tropic	tropical	408
+1.6087 #storm	storms	408
+0.818182 #hurricane	hurricanes	408
+0.188119 #typhoon	typhoons	408
+0.967213 #cause	caused	408
+0.0526316 #significant	significant	408
+0.188119 #property	property	408
+1.0339 #damage	damage	408
+0.290323 #loss	loss	408
+0.165049 #life	life	408
+0.463415 ##1(tropic storm)	#1(tropical storms)	408
+0.0169492 ##1(storm hurricane)	#1(storms hurricanes)	408
+0.00840336 ##1(hurricane typhoon)	#1(hurricanes typhoons)	408
+0.0169492 ##1(typhoon cause)	#1(typhoons caused)	408
+0.00840336 ##1(cause significant)	#1(caused significant)	408
+0.00840336 ##1(significant property)	#1(significant property)	408
+0.0434783 ##1(property damage)	#1(property damage)	408
+0.00840336 ##1(damage loss)	#1(damage loss)	408
+0.00840336 ##1(loss life)	#1(loss life)	408
+0.463415 ##uw8(tropic storm)	#uw8(tropical storms)	408
+0.0909091 ##uw8(storm hurricane)	#uw8(storms hurricanes)	408
+0.025641 ##uw8(hurricane typhoon)	#uw8(hurricanes typhoons)	408
+0.0434783 ##uw8(typhoon cause)	#uw8(typhoons caused)	408
+0.0169492 ##uw8(cause significant)	#uw8(caused significant)	408
+0.00840336 ##uw8(significant property)	#uw8(significant property)	408
+0.0526316 ##uw8(property damage)	#uw8(property damage)	408
+0.0526316 ##uw8(damage loss)	#uw8(damage loss)	408
+0.0169492 ##uw8(loss life)	#uw8(loss life)	408

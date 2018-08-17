@@ -1,0 +1,13 @@
+0.411765 #current	current	591
+0.411765 #status	status	591
+23 #educate	education	591
+23 #indian	Indian	591
+1.66667 #reservation	reservations	591
+0.0434783 ##1(current status)	#1(current status)	591
+0.0434783 ##1(status educate)	#1(status education)	591
+0.142857 ##1(educate indian)	#1(education Indian)	591
+0.2 ##1(indian reservation)	#1(Indian reservations)	591
+0.0434783 ##uw8(current status)	#uw8(current status)	591
+0.0909091 ##uw8(status educate)	#uw8(status education)	591
+11 ##uw8(educate indian)	#uw8(education Indian)	591
+0.411765 ##uw8(indian reservation)	#uw8(Indian reservations)	591

@@ -1,0 +1,10 @@
+0.307692 #value	value	263
+16 #algae	algae	263
+1.83333 #food	food	263
+0.416667 #supplement	supplement	263
+0.0625 ##1(value algae)	#1(value algae)	263
+0.0625 ##1(algae food)	#1(algae food)	263
+0.0625 ##1(food supplement)	#1(food supplement)	263
+0.0625 ##uw8(value algae)	#uw8(value algae)	263
+0.214286 ##uw8(algae food)	#uw8(algae food)	263
+0.0625 ##uw8(food supplement)	#uw8(food supplement)	263

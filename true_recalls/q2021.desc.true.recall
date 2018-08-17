@@ -1,0 +1,16 @@
+0.138889 #m	m	2021
+0.171429 #look	looking	2021
+0.64 #information	information	2021
+40 #volvo	Volvo	2021
+12.6667 #car	cars	2021
+0.28125 #truck	trucks	2021
+0.025 ##1(m look)	#1(m looking)	2021
+0.025 ##1(look information)	#1(looking information)	2021
+0.051282 ##1(information volvo)	#1(information Volvo)	2021
+5.83333 ##1(volvo car)	#1(Volvo cars)	2021
+0.051282 ##1(car truck)	#1(cars trucks)	2021
+0.025 ##uw8(m look)	#uw8(m looking)	2021
+0.025 ##uw8(look information)	#uw8(looking information)	2021
+0.518519 ##uw8(information volvo)	#uw8(information Volvo)	2021
+5.83333 ##uw8(volvo car)	#uw8(Volvo cars)	2021
+0.171429 ##uw8(car truck)	#uw8(cars trucks)	2021

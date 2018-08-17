@@ -1,0 +1,13 @@
+0.181818 #impending	impending	2139
+12 #sale	sale	2139
+12 #rocky	Rocky	2139
+12 #mountain	Mountain	2139
+12 #news	News	2139
+0.181818 ##1(impending sale)	#1(impending sale)	2139
+0.3 ##1(sale rocky)	#1(sale Rocky)	2139
+12 ##1(rocky mountain)	#1(Rocky Mountain)	2139
+12 ##1(mountain news)	#1(Mountain News)	2139
+0.181818 ##uw8(impending sale)	#uw8(impending sale)	2139
+12 ##uw8(sale rocky)	#uw8(sale Rocky)	2139
+12 ##uw8(rocky mountain)	#uw8(Rocky Mountain)	2139
+12 ##uw8(mountain news)	#uw8(Mountain News)	2139

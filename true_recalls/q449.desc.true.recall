@@ -1,0 +1,22 @@
+0.682927 #cause	caused	449
+0.326923 #current	current	449
+0.0454545 #ineffective	ineffectiveness	449
+0.864865 #antibiotic	antibiotics	449
+0.81579 #infect	infections	449
+0.0147059 #prognosis	prognosis	449
+5.27273 #new	new	449
+5.27273 #drug	drugs	449
+0.0147059 ##1(cause current)	#1(caused current)	449
+0.0147059 ##1(current ineffective)	#1(current ineffectiveness)	449
+0.0147059 ##1(ineffective antibiotic)	#1(ineffectiveness antibiotics)	449
+0.0147059 ##1(antibiotic infect)	#1(antibiotics infections)	449
+0.0147059 ##1(infect prognosis)	#1(infections prognosis)	449
+0.0147059 ##1(prognosis new)	#1(prognosis new)	449
+0.4375 ##1(new drug)	#1(new drugs)	449
+0.0147059 ##uw8(cause current)	#uw8(caused current)	449
+0.0147059 ##uw8(current ineffective)	#uw8(current ineffectiveness)	449
+0.0147059 ##uw8(ineffective antibiotic)	#uw8(ineffectiveness antibiotics)	449
+0.131148 ##uw8(antibiotic infect)	#uw8(antibiotics infections)	449
+0.0147059 ##uw8(infect prognosis)	#uw8(infections prognosis)	449
+0.0147059 ##uw8(prognosis new)	#uw8(prognosis new)	449
+1.15625 ##uw8(new drug)	#uw8(new drugs)	449

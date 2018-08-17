@@ -1,0 +1,13 @@
+0.654822 #role	roles	544
+107.666 #estrogen	estrogen	544
+0.468468 #play	plays	544
+0.771739 #human	human	544
+1.43284 #body	body	544
+0.00307692 ##1(role estrogen)	#1(roles estrogen)	544
+0.0219436 ##1(estrogen play)	#1(estrogen plays)	544
+0.00307692 ##1(play human)	#1(plays human)	544
+0.0316456 ##1(human body)	#1(human body)	544
+0.0976431 ##uw8(role estrogen)	#uw8(roles estrogen)	544
+0.0618892 ##uw8(estrogen play)	#uw8(estrogen plays)	544
+0.00928793 ##uw8(play human)	#uw8(plays human)	544
+0.0482315 ##uw8(human body)	#uw8(human body)	544

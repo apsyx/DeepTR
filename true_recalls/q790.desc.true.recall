@@ -1,0 +1,25 @@
+0.339623 #description	description	790
+4.46154 #law	laws	790
+2.55 #restrict	restrictions	790
+0.868421 #affect	affecting	790
+69.9999 #saudi	Saudi	790
+69.9999 #arabia	Arabian	790
+22.6667 #women	women	790
+0.918919 #s	s	790
+7.875 #right	rights	790
+0.0142857 ##1(description law)	#1(description laws)	790
+0.0441176 ##1(law restrict)	#1(laws restrictions)	790
+0.0142857 ##1(restrict affect)	#1(restrictions affecting)	790
+0.0142857 ##1(affect saudi)	#1(affecting Saudi)	790
+69.9999 ##1(saudi arabia)	#1(Saudi Arabian)	790
+0.245614 ##1(arabia women)	#1(Arabian women)	790
+0.0757576 ##1(women s)	#1(women s)	790
+0.0142857 ##1(s right)	#1(s rights)	790
+0.126984 ##uw8(description law)	#uw8(description laws)	790
+0.20339 ##uw8(law restrict)	#uw8(laws restrictions)	790
+0.0142857 ##uw8(restrict affect)	#uw8(restrictions affecting)	790
+0.0757576 ##uw8(affect saudi)	#uw8(affecting Saudi)	790
+69.9999 ##uw8(saudi arabia)	#uw8(Saudi Arabian)	790
+1.08824 ##uw8(arabia women)	#uw8(Arabian women)	790
+0.126984 ##uw8(women s)	#uw8(women s)	790
+0.0441176 ##uw8(s right)	#uw8(s rights)	790

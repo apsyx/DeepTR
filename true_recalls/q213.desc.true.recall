@@ -1,0 +1,19 @@
+1.55556 #result	result	213
+3.6 #dna	DNA	213
+6.66667 #test	testing	213
+0.352941 #defendant	defendants	213
+0.0454545 #absolve	absolved	213
+1.3 #convict	convicted	213
+1.09091 #crime	crimes	213
+0.0454545 ##1(result dna)	#1(result DNA)	213
+1.09091 ##1(dna test)	#1(DNA testing)	213
+0.0454545 ##1(test defendant)	#1(testing defendants)	213
+0.0454545 ##1(defendant absolve)	#1(defendants absolved)	213
+0.0454545 ##1(absolve convict)	#1(absolved convicted)	213
+0.0454545 ##1(convict crime)	#1(convicted crimes)	213
+0.352941 ##uw8(result dna)	#uw8(result DNA)	213
+1.55556 ##uw8(dna test)	#uw8(DNA testing)	213
+0.15 ##uw8(test defendant)	#uw8(testing defendants)	213
+0.0454545 ##uw8(defendant absolve)	#uw8(defendants absolved)	213
+0.0454545 ##uw8(absolve convict)	#uw8(absolved convicted)	213
+0.15 ##uw8(convict crime)	#uw8(convicted crimes)	213

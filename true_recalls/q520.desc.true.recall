@@ -1,0 +1,13 @@
+0.428571 #measure	measures	520
+0.333333 #taken	taken	520
+1 #end	end	520
+1 #black	black	520
+9 #plague	plague	520
+0.111111 ##1(measure taken)	#1(measures taken)	520
+0.0526316 ##1(taken end)	#1(taken end)	520
+0.0526316 ##1(end black)	#1(end black)	520
+0.333333 ##1(black plague)	#1(black plague)	520
+0.111111 ##uw8(measure taken)	#uw8(measures taken)	520
+0.0526316 ##uw8(taken end)	#uw8(taken end)	520
+0.0526316 ##uw8(end black)	#uw8(end black)	520
+0.428571 ##uw8(black plague)	#uw8(black plague)	520

@@ -1,0 +1,25 @@
+0.581818 #effect	effective	387
+0.279412 #safe	safe	387
+0.641509 #way	ways	387
+0.225352 #permanent	permanently	387
+0.242857 #handle	handle	387
+1.41667 #long	long	387
+0.380952 #live	lived	387
+6.25 #radioactive	radioactive	387
+20.75 #waste	wastes	387
+0.0116279 ##1(effect safe)	#1(effective safe)	387
+0.0116279 ##1(safe way)	#1(safe ways)	387
+0.0116279 ##1(way permanent)	#1(ways permanently)	387
+0.0116279 ##1(permanent handle)	#1(permanently handle)	387
+0.0116279 ##1(handle long)	#1(handle long)	387
+0.115385 ##1(long live)	#1(long lived)	387
+0.0481928 ##1(live radioactive)	#1(lived radioactive)	387
+3.14286 ##1(radioactive waste)	#1(radioactive wastes)	387
+0.0235294 ##uw8(effect safe)	#uw8(effective safe)	387
+0.0235294 ##uw8(safe way)	#uw8(safe ways)	387
+0.0235294 ##uw8(way permanent)	#uw8(ways permanently)	387
+0.0116279 ##uw8(permanent handle)	#uw8(permanently handle)	387
+0.0116279 ##uw8(handle long)	#uw8(handle long)	387
+0.144737 ##uw8(long live)	#uw8(long lived)	387
+0.101266 ##uw8(live radioactive)	#uw8(lived radioactive)	387
+4.4375 ##uw8(radioactive waste)	#uw8(radioactive wastes)	387

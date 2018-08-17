@@ -1,0 +1,19 @@
+0.6 #industry	industry	576
+2.2 #populate	population	576
+1 #growth	growth	576
+0.454545 #affect	affecting	576
+1 #ecology	ecology	576
+7 #chesapeake	Chesapeake	576
+7 #bay	Bay	576
+0.0666667 ##1(industry populate)	#1(industry population)	576
+0.333333 ##1(populate growth)	#1(population growth)	576
+0.0666667 ##1(growth affect)	#1(growth affecting)	576
+0.0666667 ##1(affect ecology)	#1(affecting ecology)	576
+0.0666667 ##1(ecology chesapeake)	#1(ecology Chesapeake)	576
+7 ##1(chesapeake bay)	#1(Chesapeake Bay)	576
+0.0666667 ##uw8(industry populate)	#uw8(industry population)	576
+0.454545 ##uw8(populate growth)	#uw8(population growth)	576
+0.0666667 ##uw8(growth affect)	#uw8(growth affecting)	576
+0.0666667 ##uw8(affect ecology)	#uw8(affecting ecology)	576
+0.230769 ##uw8(ecology chesapeake)	#uw8(ecology Chesapeake)	576
+7 ##uw8(chesapeake bay)	#uw8(Chesapeake Bay)	576

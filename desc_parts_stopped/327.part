@@ -1,0 +1,22 @@
+country
+city
+evidence
+human
+slavery
+practiced
+eighties
+nineties
+#1(country city)
+#1(city evidence)
+#1(evidence human)
+#1(human slavery)
+#1(slavery practiced)
+#1(practiced eighties)
+#1(eighties nineties)
+#uw8(country city)
+#uw8(city evidence)
+#uw8(evidence human)
+#uw8(human slavery)
+#uw8(slavery practiced)
+#uw8(practiced eighties)
+#uw8(eighties nineties)

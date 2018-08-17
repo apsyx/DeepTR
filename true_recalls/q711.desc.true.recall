@@ -1,0 +1,25 @@
+68 #secure	security	711
+10.5 #measure	measures	711
+0.112903 #employed	employed	711
+22 #train	train	711
+3.05882 #station	stations	711
+0.301887 #due	due	711
+1.09091 #heighten	heightened	711
+68 #secure	security	711
+1.09091 #concern	concerns	711
+3.3125 ##1(secure measure)	#1(security measures)	711
+0.0147059 ##1(measure employed)	#1(measures employed)	711
+0.0147059 ##1(employed train)	#1(employed train)	711
+0.5 ##1(train station)	#1(train stations)	711
+0.0298507 ##1(station due)	#1(stations due)	711
+0.0147059 ##1(due heighten)	#1(due heightened)	711
+0.189655 ##1(heighten secure)	#1(heightened security)	711
+0.277778 ##1(secure concern)	#1(security concerns)	711
+4.30769 ##uw8(secure measure)	#uw8(security measures)	711
+0.0615385 ##uw8(measure employed)	#uw8(measures employed)	711
+0.0147059 ##uw8(employed train)	#uw8(employed train)	711
+0.971429 ##uw8(train station)	#uw8(train stations)	711
+0.0454545 ##uw8(station due)	#uw8(stations due)	711
+0.0147059 ##uw8(due heighten)	#uw8(due heightened)	711
+0.38 ##uw8(heighten secure)	#uw8(heightened security)	711
+0.4375 ##uw8(secure concern)	#uw8(security concerns)	711

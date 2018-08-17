@@ -1,0 +1,19 @@
+85.5001 #wastewater	wastewater	809
+20.625 #treat	treatment	809
+4.96552 #project	projects	809
+0.901099 #involve	involve	809
+5.65385 #construct	constructed	809
+3.02326 #natural	natural	809
+172 #wetland	wetlands	809
+3.67568 ##1(wastewater treat)	#1(wastewater treatment)	809
+0.0613497 ##1(treat project)	#1(treatment projects)	809
+0.123377 ##1(project involve)	#1(projects involve)	809
+0.0297619 ##1(involve construct)	#1(involve constructed)	809
+0.00581395 ##1(construct natural)	#1(constructed natural)	809
+0.478632 ##1(natural wetland)	#1(natural wetlands)	809
+9.17647 ##uw8(wastewater treat)	#uw8(wastewater treatment)	809
+0.712871 ##uw8(treat project)	#uw8(treatment projects)	809
+0.193103 ##uw8(project involve)	#uw8(projects involve)	809
+0.161074 ##uw8(involve construct)	#uw8(involve constructed)	809
+0.384 ##uw8(construct natural)	#uw8(constructed natural)	809
+0.965909 ##uw8(natural wetland)	#uw8(natural wetlands)	809

@@ -1,0 +1,16 @@
+1.5 #popular	popularity	471
+0.428571 #appeal	appeal	471
+9 #mexico	Mexican	471
+9 #food	food	471
+2.33333 #unite	United	471
+2.33333 #state	States	471
+0.111111 ##1(popular appeal)	#1(popularity appeal)	471
+0.111111 ##1(appeal mexico)	#1(appeal Mexican)	471
+1 ##1(mexico food)	#1(Mexican food)	471
+0.111111 ##1(food unite)	#1(food United)	471
+2.33333 ##1(unite state)	#1(United States)	471
+0.111111 ##uw8(popular appeal)	#uw8(popularity appeal)	471
+0.111111 ##uw8(appeal mexico)	#uw8(appeal Mexican)	471
+1.5 ##uw8(mexico food)	#uw8(Mexican food)	471
+0.428571 ##uw8(food unite)	#uw8(food United)	471
+2.33333 ##uw8(unite state)	#uw8(United States)	471

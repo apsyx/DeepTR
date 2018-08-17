@@ -1,0 +1,22 @@
+2.55556 #capita	capita	609
+15 #consumption	consumption	609
+1 #alcohol	alcohol	609
+0.0666667 #politics	political	609
+0.0666667 #entity	entity	609
+1.46154 #country	country	609
+0.882353 #state	state	609
+0.0666667 #province	province	609
+0.52381 ##1(capita consumption)	#1(capita consumption)	609
+0.0322581 ##1(consumption alcohol)	#1(consumption alcohol)	609
+0.0322581 ##1(alcohol politics)	#1(alcohol political)	609
+0.0322581 ##1(politics entity)	#1(political entity)	609
+0.0322581 ##1(entity country)	#1(entity country)	609
+0.0322581 ##1(country state)	#1(country state)	609
+0.0322581 ##1(state province)	#1(state province)	609
+2.2 ##uw8(capita consumption)	#uw8(capita consumption)	609
+0.52381 ##uw8(consumption alcohol)	#uw8(consumption alcohol)	609
+0.0666667 ##uw8(alcohol politics)	#uw8(alcohol political)	609
+0.0322581 ##uw8(politics entity)	#uw8(political entity)	609
+0.0322581 ##uw8(entity country)	#uw8(entity country)	609
+0.0666667 ##uw8(country state)	#uw8(country state)	609
+0.0322581 ##uw8(state province)	#uw8(state province)	609

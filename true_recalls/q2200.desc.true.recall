@@ -1,0 +1,13 @@
+5.33333 #flight	flight	2200
+2.16667 #information	information	2200
+18 #ontario	Ontario	2200
+1.71429 #ca	CA	2200
+18 #airport	airport	2200
+0.0555556 ##1(flight information)	#1(flight information)	2200
+0.0555556 ##1(information ontario)	#1(information Ontario)	2200
+0.1875 ##1(ontario ca)	#1(Ontario CA)	2200
+0.117647 ##1(ca airport)	#1(CA airport)	2200
+1.71429 ##uw8(flight information)	#uw8(flight information)	2200
+0.117647 ##uw8(information ontario)	#uw8(information Ontario)	2200
+0.1875 ##uw8(ontario ca)	#uw8(Ontario CA)	2200
+0.1875 ##uw8(ca airport)	#uw8(CA airport)	2200

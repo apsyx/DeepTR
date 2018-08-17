@@ -1,0 +1,13 @@
+0.754386 #opposition	opposition	378
+0.0752688 #introduction	introduction	378
+0.639344 #euro	euro	378
+49 #europe	European	378
+9 #currency	currency	378
+0.010101 ##1(opposition introduction)	#1(opposition introduction)	378
+0.010101 ##1(introduction euro)	#1(introduction euro)	378
+0.010101 ##1(euro europe)	#1(euro European)	378
+1.27273 ##1(europe currency)	#1(European currency)	378
+0.010101 ##uw8(opposition introduction)	#uw8(opposition introduction)	378
+0.0204082 ##uw8(introduction euro)	#uw8(introduction euro)	378
+0.0526316 ##uw8(euro europe)	#uw8(euro European)	378
+2.33333 ##uw8(europe currency)	#uw8(European currency)	378

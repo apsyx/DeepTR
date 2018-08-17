@@ -1,0 +1,10 @@
+0.5 #find	find	2088
+0.666667 #information	information	2088
+29 #forearm	forearm	2088
+14 #pain	pain	2088
+0.0344828 ##1(find information)	#1(find information)	2088
+0.0344828 ##1(information forearm)	#1(information forearm)	2088
+0.25 ##1(forearm pain)	#1(forearm pain)	2088
+0.0344828 ##uw8(find information)	#uw8(find information)	2088
+0.0344828 ##uw8(information forearm)	#uw8(information forearm)	2088
+1.5 ##uw8(forearm pain)	#uw8(forearm pain)	2088

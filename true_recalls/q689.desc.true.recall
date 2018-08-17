@@ -1,0 +1,25 @@
+2.8 #country	countries	689
+3.75 #aid	aid	689
+1.375 #support	support	689
+2.16667 #family	family	689
+1.71429 #plan	planning	689
+2.8 #country	countries	689
+0.461538 #refuse	refused	689
+0.266667 #limit	limited	689
+1.375 #support	support	689
+0.0555556 ##1(country aid)	#1(countries aid)	689
+0.0555556 ##1(aid support)	#1(aid support)	689
+0.0555556 ##1(support family)	#1(support family)	689
+1.375 ##1(family plan)	#1(family planning)	689
+0.0555556 ##1(plan country)	#1(planning countries)	689
+0.0555556 ##1(country refuse)	#1(countries refused)	689
+0.0555556 ##1(refuse limit)	#1(refused limited)	689
+0.0555556 ##1(limit support)	#1(limited support)	689
+0.583333 ##uw8(country aid)	#uw8(countries aid)	689
+0.0555556 ##uw8(aid support)	#uw8(aid support)	689
+0.0555556 ##uw8(support family)	#uw8(support family)	689
+1.71429 ##uw8(family plan)	#uw8(family planning)	689
+0.1875 ##uw8(plan country)	#uw8(planning countries)	689
+0.0555556 ##uw8(country refuse)	#uw8(countries refused)	689
+0.0555556 ##uw8(refuse limit)	#uw8(refused limited)	689
+0.0555556 ##uw8(limit support)	#uw8(limited support)	689

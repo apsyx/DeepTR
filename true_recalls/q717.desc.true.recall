@@ -1,0 +1,19 @@
+5.57317 #state	states	717
+1.19106 #local	localities	717
+1.02632 #offer	offer	717
+43.9166 #program	programs	717
+133.75 #gift	gifted	717
+19.7308 #talent	talented	717
+20.56 #student	students	717
+0.0694444 ##1(state local)	#1(states localities)	717
+0.00559701 ##1(local offer)	#1(localities offer)	717
+0.0425532 ##1(offer program)	#1(offer programs)	717
+0.0866935 ##1(program gift)	#1(programs gifted)	717
+0.422164 ##1(gift talent)	#1(gifted talented)	717
+0.722045 ##1(talent student)	#1(talented students)	717
+0.522599 ##uw8(state local)	#uw8(states localities)	717
+0.0631164 ##uw8(local offer)	#uw8(localities offer)	717
+0.429708 ##uw8(offer program)	#uw8(offer programs)	717
+3.41803 ##uw8(program gift)	#uw8(programs gifted)	717
+12.475 ##uw8(gift talent)	#uw8(gifted talented)	717
+1.35371 ##uw8(talent student)	#uw8(talented students)	717

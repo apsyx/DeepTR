@@ -1,0 +1,13 @@
+16 #cell	cell	2034
+16 #phone	phones	2034
+16 #cellular	cellular	2034
+7.5 #service	service	2034
+3.25 #provide	providers	2034
+16 ##1(cell phone)	#1(cell phones)	2034
+0.214286 ##1(phone cellular)	#1(phones cellular)	2034
+0.214286 ##1(cellular service)	#1(cellular service)	2034
+3.25 ##1(service provide)	#1(service providers)	2034
+16 ##uw8(cell phone)	#uw8(cell phones)	2034
+7.5 ##uw8(phone cellular)	#uw8(phones cellular)	2034
+0.214286 ##uw8(cellular service)	#uw8(cellular service)	2034
+3.25 ##uw8(service provide)	#uw8(service providers)	2034

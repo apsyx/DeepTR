@@ -1,0 +1,19 @@
+0.275862 #learn	learn	2174
+36 #rock	rock	2174
+36 #paint	painting	2174
+0.0571429 #buy	buy	2174
+36 #rock	rock	2174
+36 #paint	painting	2174
+0.0277778 #kit	kit	2174
+0.0277778 ##1(learn rock)	#1(learn rock)	2174
+3.625 ##1(rock paint)	#1(rock painting)	2174
+0.0277778 ##1(paint buy)	#1(painting buy)	2174
+0.0277778 ##1(buy rock)	#1(buy rock)	2174
+3.625 ##1(rock paint)	#1(rock painting)	2174
+0.0277778 ##1(paint kit)	#1(painting kit)	2174
+0.0571429 ##uw8(learn rock)	#uw8(learn rock)	2174
+36 ##uw8(rock paint)	#uw8(rock painting)	2174
+0.0277778 ##uw8(paint buy)	#uw8(painting buy)	2174
+0.0277778 ##uw8(buy rock)	#uw8(buy rock)	2174
+36 ##uw8(rock paint)	#uw8(rock painting)	2174
+0.0277778 ##uw8(paint kit)	#uw8(painting kit)	2174

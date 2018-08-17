@@ -1,0 +1,25 @@
+0.0555556 #relevant	relevant	259
+0.266667 #document	document	259
+1.92308 #new	new	259
+1.11111 #theory	theories	259
+0.0857143 #1960	1960	259
+0.117647 #s	s	259
+18 #assassinate	assassination	259
+11.6667 #president	President	259
+18 #kennedy	Kennedy	259
+0.027027 ##1(relevant document)	#1(relevant document)	259
+0.027027 ##1(document new)	#1(document new)	259
+0.027027 ##1(new theory)	#1(new theories)	259
+0.027027 ##1(theory 1960)	#1(theories 1960)	259
+0.027027 ##1(1960 s)	#1(1960 s)	259
+0.027027 ##1(s assassinate)	#1(s assassination)	259
+0.117647 ##1(assassinate president)	#1(assassination President)	259
+1.23529 ##1(president kennedy)	#1(President Kennedy)	259
+0.0555556 ##uw8(relevant document)	#uw8(relevant document)	259
+0.027027 ##uw8(document new)	#uw8(document new)	259
+0.0555556 ##uw8(new theory)	#uw8(new theories)	259
+0.027027 ##uw8(theory 1960)	#uw8(theories 1960)	259
+0.027027 ##uw8(1960 s)	#uw8(1960 s)	259
+0.0555556 ##uw8(s assassinate)	#uw8(s assassination)	259
+1 ##uw8(assassinate president)	#uw8(assassination President)	259
+2.45455 ##uw8(president kennedy)	#uw8(President Kennedy)	259

@@ -1,0 +1,16 @@
+3.16667 #effect	effects	563
+1.27273 #children	children	563
+1.77778 #mother	mothers	563
+4 #smoke	smoking	563
+0.923077 #drink	drinking	563
+11.5 #pregnant	pregnancy	563
+0.0416667 ##1(effect children)	#1(effects children)	563
+0.0869565 ##1(children mother)	#1(children mothers)	563
+0.315789 ##1(mother smoke)	#1(mothers smoking)	563
+0.0869565 ##1(smoke drink)	#1(smoking drinking)	563
+0.0416667 ##1(drink pregnant)	#1(drinking pregnancy)	563
+0.25 ##uw8(effect children)	#uw8(effects children)	563
+0.5625 ##uw8(children mother)	#uw8(children mothers)	563
+0.785714 ##uw8(mother smoke)	#uw8(mothers smoking)	563
+0.25 ##uw8(smoke drink)	#uw8(smoking drinking)	563
+0.5625 ##uw8(drink pregnant)	#uw8(drinking pregnancy)	563

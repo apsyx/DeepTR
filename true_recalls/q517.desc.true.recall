@@ -1,0 +1,13 @@
+0.148148 #reason	reasons	517
+0.148148 #problem	problems	517
+0.347826 #lead	leading	517
+0.215686 #sink	sinking	517
+0.675676 #titanic	Titanic	517
+0.0163934 ##1(reason problem)	#1(reasons problems)	517
+0.0163934 ##1(problem lead)	#1(problems leading)	517
+0.0163934 ##1(lead sink)	#1(leading sinking)	517
+0.0333333 ##1(sink titanic)	#1(sinking Titanic)	517
+0.0333333 ##uw8(reason problem)	#uw8(reasons problems)	517
+0.0163934 ##uw8(problem lead)	#uw8(problems leading)	517
+0.0163934 ##uw8(lead sink)	#uw8(leading sinking)	517
+0.107143 ##uw8(sink titanic)	#uw8(sinking Titanic)	517

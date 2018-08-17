@@ -1,0 +1,13 @@
+0.636364 #look	looking	2009
+0.2 #source	sources	2009
+17 #part	parts	2009
+17 #car	cars	2009
+0.0588235 #prefer	preferably	2009
+0.0588235 ##1(look source)	#1(looking sources)	2009
+0.0588235 ##1(source part)	#1(sources parts)	2009
+1 ##1(part car)	#1(parts cars)	2009
+0.0588235 ##1(car prefer)	#1(cars preferably)	2009
+0.0588235 ##uw8(look source)	#uw8(looking sources)	2009
+0.2 ##uw8(source part)	#uw8(sources parts)	2009
+17 ##uw8(part car)	#uw8(parts cars)	2009
+0.0588235 ##uw8(car prefer)	#uw8(cars preferably)	2009

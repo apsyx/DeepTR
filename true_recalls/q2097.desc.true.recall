@@ -1,0 +1,13 @@
+3.33333 #history	history	2097
+1.6 #culture	culture	2097
+0.762712 #geography	geography	2097
+103 #south	South	2097
+103 #africa	Africa	2097
+0.00970874 ##1(history culture)	#1(history culture)	2097
+0.00970874 ##1(culture geography)	#1(culture geography)	2097
+0.029703 ##1(geography south)	#1(geography South)	2097
+103 ##1(south africa)	#1(South Africa)	2097
+0.072165 ##uw8(history culture)	#uw8(history culture)	2097
+0.0612245 ##uw8(culture geography)	#uw8(culture geography)	2097
+0.575758 ##uw8(geography south)	#uw8(geography South)	2097
+103 ##uw8(south africa)	#uw8(South Africa)	2097

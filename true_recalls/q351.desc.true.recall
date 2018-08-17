@@ -1,0 +1,25 @@
+0.162791 #information	information	351
+0.111111 #available	available	351
+0.0869565 #petroleum	petroleum	351
+1.5 #exploration	exploration	351
+1.08333 #south	South	351
+0.5625 #atlantic	Atlantic	351
+0.136364 #near	near	351
+1.94118 #falkland	Falkland	351
+11.5 #island	Islands	351
+0.0204082 ##1(information available)	#1(information available)	351
+0.0204082 ##1(available petroleum)	#1(available petroleum)	351
+0.0204082 ##1(petroleum exploration)	#1(petroleum exploration)	351
+0.0204082 ##1(exploration south)	#1(exploration South)	351
+0.5625 ##1(south atlantic)	#1(South Atlantic)	351
+0.0204082 ##1(atlantic near)	#1(Atlantic near)	351
+0.0416667 ##1(near falkland)	#1(near Falkland)	351
+1.77778 ##1(falkland island)	#1(Falkland Islands)	351
+0.0204082 ##uw8(information available)	#uw8(information available)	351
+0.0204082 ##uw8(available petroleum)	#uw8(available petroleum)	351
+0.0204082 ##uw8(petroleum exploration)	#uw8(petroleum exploration)	351
+0.0204082 ##uw8(exploration south)	#uw8(exploration South)	351
+0.5625 ##uw8(south atlantic)	#uw8(South Atlantic)	351
+0.0204082 ##uw8(atlantic near)	#uw8(Atlantic near)	351
+0.0416667 ##uw8(near falkland)	#uw8(near Falkland)	351
+1.77778 ##uw8(falkland island)	#uw8(Falkland Islands)	351

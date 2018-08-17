@@ -1,0 +1,13 @@
+8 #sun	sun	537
+0.588235 #bed	beds	537
+0.0384615 #detriment	detrimental	537
+1.45455 #health	health	537
+0.588235 #individual	individual	537
+0.0384615 ##1(sun bed)	#1(sun beds)	537
+0.0384615 ##1(bed detriment)	#1(beds detrimental)	537
+0.0384615 ##1(detriment health)	#1(detrimental health)	537
+0.0384615 ##1(health individual)	#1(health individual)	537
+0.227273 ##uw8(sun bed)	#uw8(sun beds)	537
+0.0384615 ##uw8(bed detriment)	#uw8(beds detrimental)	537
+0.0384615 ##uw8(detriment health)	#uw8(detrimental health)	537
+0.0384615 ##uw8(health individual)	#uw8(health individual)	537

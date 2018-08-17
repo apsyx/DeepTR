@@ -1,0 +1,19 @@
+2.75472 #locate	Locations	756
+43.2223 #volcanic	volcanic	756
+15.5833 #activity	activity	756
+1.80282 #occurred	occurred	756
+1.58442 #present	present	756
+0.598394 #boundary	boundaries	756
+0.0727763 #territory	territories	756
+0.00251889 ##1(locate volcanic)	#1(Locations volcanic)	756
+2.13386 ##1(volcanic activity)	#1(volcanic activity)	756
+0.0641711 ##1(activity occurred)	#1(activity occurred)	756
+0.00251889 ##1(occurred present)	#1(occurred present)	756
+0.00505051 ##1(present boundary)	#1(present boundaries)	756
+0.00251889 ##1(boundary territory)	#1(boundaries territories)	756
+0.181009 ##uw8(locate volcanic)	#uw8(Locations volcanic)	756
+3.0202 ##uw8(volcanic activity)	#uw8(volcanic activity)	756
+0.191617 ##uw8(activity occurred)	#uw8(activity occurred)	756
+0.0337662 ##uw8(occurred present)	#uw8(occurred present)	756
+0.0364583 ##uw8(present boundary)	#uw8(present boundaries)	756
+0.00759494 ##uw8(boundary territory)	#uw8(boundaries territories)	756

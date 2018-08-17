@@ -1,0 +1,13 @@
+0.439344 #effort	Efforts	156
+0.158311 #enact	enact	156
+35.5833 #gun	Gun	156
+3.93259 #control	Control	156
+1.17327 #legislate	Legislation	156
+0.00228311 ##1(effort enact)	#1(Efforts enact)	156
+0.00457666 ##1(enact gun)	#1(enact Gun)	156
+2.56911 ##1(gun control)	#1(Gun Control)	156
+0.0681265 ##1(control legislate)	#1(Control Legislation)	156
+0.00228311 ##uw8(effort enact)	#uw8(Efforts enact)	156
+0.02331 ##uw8(enact gun)	#uw8(enact Gun)	156
+2.65833 ##uw8(gun control)	#uw8(Gun Control)	156
+0.111392 ##uw8(control legislate)	#uw8(Control Legislation)	156

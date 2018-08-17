@@ -1,0 +1,10 @@
+0.224138 #type	types	457
+5.45455 #chevrolet	Chevrolet	457
+6.88889 #truck	trucks	457
+0.613636 #available	available	457
+0.0142857 ##1(type chevrolet)	#1(types Chevrolet)	457
+0.0597015 ##1(chevrolet truck)	#1(Chevrolet trucks)	457
+0.0142857 ##1(truck available)	#1(trucks available)	457
+0.0289855 ##uw8(type chevrolet)	#uw8(types Chevrolet)	457
+0.820513 ##uw8(chevrolet truck)	#uw8(Chevrolet trucks)	457
+0.0142857 ##uw8(truck available)	#uw8(trucks available)	457

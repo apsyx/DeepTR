@@ -1,0 +1,13 @@
+1.23383 #organize	organization	739
+63.1429 #habitat	Habitat	739
+223.501 #human	Humanity	739
+0.340299 #activity	activities	739
+0.462541 #involve	involved	739
+0.0251142 ##1(organize habitat)	#1(organization Habitat)	739
+0.0204545 ##1(habitat human)	#1(Habitat Humanity)	739
+0.00223214 ##1(human activity)	#1(Humanity activities)	739
+0.013544 ##1(activity involve)	#1(activities involved)	739
+0.29023 ##uw8(organize habitat)	#uw8(organization Habitat)	739
+63.1429 ##uw8(habitat human)	#uw8(Habitat Humanity)	739
+0.0345622 ##uw8(human activity)	#uw8(Humanity activities)	739
+0.0564706 ##uw8(activity involve)	#uw8(activities involved)	739

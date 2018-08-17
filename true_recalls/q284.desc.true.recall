@@ -1,0 +1,28 @@
+0.0746269 #instance	instances	284
+1.25 #international	international	284
+1.76923 #cooperate	cooperation	284
+0.44 #take	taking	284
+0.333333 #place	place	284
+1.05714 #effort	effort	284
+0.358491 #combat	combat	284
+0.0588235 #worldwide	worldwide	284
+71 #drug	drug	284
+0.714286 #problem	problem	284
+0.0140845 ##1(instance international)	#1(instances international)	284
+0.220339 ##1(international cooperate)	#1(international cooperation)	284
+0.0140845 ##1(cooperate take)	#1(cooperation taking)	284
+0.0434783 ##1(take place)	#1(taking place)	284
+0.0140845 ##1(place effort)	#1(place effort)	284
+0.0140845 ##1(effort combat)	#1(effort combat)	284
+0.0140845 ##1(combat worldwide)	#1(combat worldwide)	284
+0.0140845 ##1(worldwide drug)	#1(worldwide drug)	284
+0.16129 ##1(drug problem)	#1(drug problem)	284
+0.0140845 ##uw8(instance international)	#uw8(instances international)	284
+0.263158 ##uw8(international cooperate)	#uw8(international cooperation)	284
+0.0285714 ##uw8(cooperate take)	#uw8(cooperation taking)	284
+0.0434783 ##uw8(take place)	#uw8(taking place)	284
+0.0140845 ##uw8(place effort)	#uw8(place effort)	284
+0.0588235 ##uw8(effort combat)	#uw8(effort combat)	284
+0.0140845 ##uw8(combat worldwide)	#uw8(combat worldwide)	284
+0.0285714 ##uw8(worldwide drug)	#uw8(worldwide drug)	284
+0.220339 ##uw8(drug problem)	#uw8(drug problem)	284

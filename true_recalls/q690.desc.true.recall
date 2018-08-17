@@ -1,0 +1,19 @@
+0.333333 #advantage	advantage	690
+1.66667 #hire	hiring	690
+0.142857 #potential	potential	690
+2.2 #increase	increased	690
+0.333333 #income	income	690
+15 #graduate	graduates	690
+3 #college	colleges	690
+0.0666667 ##1(advantage hire)	#1(advantage hiring)	690
+0.0666667 ##1(hire potential)	#1(hiring potential)	690
+0.0666667 ##1(potential increase)	#1(potential increased)	690
+0.0666667 ##1(increase income)	#1(increased income)	690
+0.0666667 ##1(income graduate)	#1(income graduates)	690
+0.0666667 ##1(graduate college)	#1(graduates colleges)	690
+0.0666667 ##uw8(advantage hire)	#uw8(advantage hiring)	690
+0.0666667 ##uw8(hire potential)	#uw8(hiring potential)	690
+0.0666667 ##uw8(potential increase)	#uw8(potential increased)	690
+0.142857 ##uw8(increase income)	#uw8(increased income)	690
+0.142857 ##uw8(income graduate)	#uw8(income graduates)	690
+2.2 ##uw8(graduate college)	#uw8(graduates colleges)	690

@@ -1,0 +1,22 @@
+0.296137 #language	language	401
+0.0942029 #cultural	cultural	401
+0.10219 #differ	differences	401
+0.0100334 #impede	impede	401
+0.193676 #integrate	integration	401
+2.82278 #foreign	foreign	401
+0.166023 #minor	minorities	401
+22.2308 #germany	Germany	401
+0.00332226 ##1(language cultural)	#1(language cultural)	401
+0.00332226 ##1(cultural differ)	#1(cultural differences)	401
+0.00332226 ##1(differ impede)	#1(differences impede)	401
+0.00332226 ##1(impede integrate)	#1(impede integration)	401
+0.0342466 ##1(integrate foreign)	#1(integration foreign)	401
+0.00332226 ##1(foreign minor)	#1(foreign minorities)	401
+0.00666667 ##1(minor germany)	#1(minorities Germany)	401
+0.0100334 ##uw8(language cultural)	#uw8(language cultural)	401
+0.00332226 ##uw8(cultural differ)	#uw8(cultural differences)	401
+0.00332226 ##uw8(differ impede)	#uw8(differences impede)	401
+0.00332226 ##uw8(impede integrate)	#uw8(impede integration)	401
+0.0785714 ##uw8(integrate foreign)	#uw8(integration foreign)	401
+0.00666667 ##uw8(foreign minor)	#uw8(foreign minorities)	401
+0.0307167 ##uw8(minor germany)	#uw8(minorities Germany)	401

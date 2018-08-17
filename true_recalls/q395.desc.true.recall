@@ -1,0 +1,25 @@
+0.295181 #example	examples	395
+0.352201 #successful	successful	395
+0.155914 #attempt	attempts	395
+1.12871 #attract	attract	395
+14.3571 #tourism	tourism	395
+0.482759 #mean	means	395
+0.902655 #improve	improve	395
+0.902655 #local	local	395
+1.33696 #economy	economy	395
+0.0046729 ##1(example successful)	#1(examples successful)	395
+0.0046729 ##1(successful attempt)	#1(successful attempts)	395
+0.0046729 ##1(attempt attract)	#1(attempts attract)	395
+0.00938967 ##1(attract tourism)	#1(attract tourism)	395
+0.0046729 ##1(tourism mean)	#1(tourism means)	395
+0.0046729 ##1(mean improve)	#1(means improve)	395
+0.0141509 ##1(improve local)	#1(improve local)	395
+0.0591133 ##1(local economy)	#1(local economy)	395
+0.00938967 ##uw8(example successful)	#uw8(examples successful)	395
+0.0046729 ##uw8(successful attempt)	#uw8(successful attempts)	395
+0.00938967 ##uw8(attempt attract)	#uw8(attempts attract)	395
+0.080402 ##uw8(attract tourism)	#uw8(attract tourism)	395
+0.0336538 ##uw8(tourism mean)	#uw8(tourism means)	395
+0.0287081 ##uw8(mean improve)	#uw8(means improve)	395
+0.0336538 ##uw8(improve local)	#uw8(improve local)	395
+0.108247 ##uw8(local economy)	#uw8(local economy)	395

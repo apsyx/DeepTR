@@ -1,0 +1,7 @@
+2.27273 #cause	causes	661
+1.25 #treat	treatments	661
+3.5 #melanoma	melanoma	661
+0.0285714 ##1(cause treat)	#1(causes treatments)	661
+0.0588235 ##1(treat melanoma)	#1(treatments melanoma)	661
+0.0588235 ##uw8(cause treat)	#uw8(causes treatments)	661
+0.285714 ##uw8(treat melanoma)	#uw8(treatments melanoma)	661

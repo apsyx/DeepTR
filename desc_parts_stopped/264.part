@@ -1,0 +1,16 @@
+instances
+citizens
+held
+foreign
+jails
+1900
+#1(instances citizens)
+#1(citizens held)
+#1(held foreign)
+#1(foreign jails)
+#1(jails 1900)
+#uw8(instances citizens)
+#uw8(citizens held)
+#uw8(held foreign)
+#uw8(foreign jails)
+#uw8(jails 1900)

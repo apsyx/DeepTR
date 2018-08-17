@@ -1,0 +1,10 @@
+0.727273 #farm	farmers	561
+2.16667 #eradicate	eradicate	561
+18 #boll	boll	561
+18 #weevil	weevils	561
+0.0555556 ##1(farm eradicate)	#1(farmers eradicate)	561
+0.461538 ##1(eradicate boll)	#1(eradicate boll)	561
+18 ##1(boll weevil)	#1(boll weevils)	561
+0.357143 ##uw8(farm eradicate)	#uw8(farmers eradicate)	561
+2.16667 ##uw8(eradicate boll)	#uw8(eradicate boll)	561
+18 ##uw8(boll weevil)	#uw8(boll weevils)	561

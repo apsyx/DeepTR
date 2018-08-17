@@ -1,0 +1,7 @@
+0.766667 #employee	employees	769
+52 #kroll	Kroll	769
+12.25 #associate	Associates	769
+0.0192308 ##1(employee kroll)	#1(employees Kroll)	769
+4.3 ##1(kroll associate)	#1(Kroll Associates)	769
+0.0192308 ##uw8(employee kroll)	#uw8(employees Kroll)	769
+5.625 ##uw8(kroll associate)	#uw8(Kroll Associates)	769

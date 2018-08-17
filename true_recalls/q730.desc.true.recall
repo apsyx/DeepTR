@@ -1,0 +1,19 @@
+1 #possible	possible	730
+7.4 #complicate	complications	730
+1.625 #potential	potential	730
+0.105263 #danger	dangers	730
+20 #gastric	gastric	730
+13 #bypass	bypass	730
+20 #surgery	surgery	730
+0.105263 ##1(possible complicate)	#1(possible complications)	730
+0.0243902 ##1(complicate potential)	#1(complications potential)	730
+0.0243902 ##1(potential danger)	#1(potential dangers)	730
+0.0243902 ##1(danger gastric)	#1(dangers gastric)	730
+5 ##1(gastric bypass)	#1(gastric bypass)	730
+1 ##1(bypass surgery)	#1(bypass surgery)	730
+0.135135 ##uw8(possible complicate)	#uw8(possible complications)	730
+0.235294 ##uw8(complicate potential)	#uw8(complications potential)	730
+0.0243902 ##uw8(potential danger)	#uw8(potential dangers)	730
+0.0243902 ##uw8(danger gastric)	#uw8(dangers gastric)	730
+6 ##uw8(gastric bypass)	#uw8(gastric bypass)	730
+1.33333 ##uw8(bypass surgery)	#uw8(bypass surgery)	730

@@ -1,0 +1,16 @@
+1.81818 #locate	Locate	830
+0.631579 #past	past	830
+0.722222 #present	present	830
+5.2 #model	model	830
+9.33333 #railroad	railroad	830
+1.58333 #layout	layouts	830
+0.0333333 ##1(locate past)	#1(Locate past)	830
+0.0333333 ##1(past present)	#1(past present)	830
+0.0333333 ##1(present model)	#1(present model)	830
+1.81818 ##1(model railroad)	#1(model railroad)	830
+0.192308 ##1(railroad layout)	#1(railroad layouts)	830
+0.0689655 ##uw8(locate past)	#uw8(Locate past)	830
+0.107143 ##uw8(past present)	#uw8(past present)	830
+0.0689655 ##uw8(present model)	#uw8(present model)	830
+2.1 ##uw8(model railroad)	#uw8(model railroad)	830
+0.347826 ##uw8(railroad layout)	#uw8(railroad layouts)	830

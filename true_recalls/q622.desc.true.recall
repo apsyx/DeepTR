@@ -1,0 +1,28 @@
+7.71429 #company	companies	622
+0.0701754 #corporate	corporations	622
+0.487805 #accuse	accused	622
+0.0892857 #indict	indicted	622
+60.0001 #price	price	622
+11.2 #fix	fixing	622
+0.648649 #product	product	622
+0.0892857 #type	type	622
+0.648649 #product	product	622
+0.326087 #involve	involved	622
+0.0166667 ##1(company corporate)	#1(companies corporations)	622
+0.0166667 ##1(corporate accuse)	#1(corporations accused)	622
+0.0166667 ##1(accuse indict)	#1(accused indicted)	622
+0.0166667 ##1(indict price)	#1(indicted price)	622
+5.77778 ##1(price fix)	#1(price fixing)	622
+0.0166667 ##1(fix product)	#1(fixing product)	622
+0.0166667 ##1(product type)	#1(product type)	622
+0.0166667 ##1(type product)	#1(type product)	622
+0.0166667 ##1(product involve)	#1(product involved)	622
+0.0166667 ##uw8(company corporate)	#uw8(companies corporations)	622
+0.0166667 ##uw8(corporate accuse)	#uw8(corporations accused)	622
+0.0166667 ##uw8(accuse indict)	#uw8(accused indicted)	622
+0.0517241 ##uw8(indict price)	#uw8(indicted price)	622
+11.2 ##uw8(price fix)	#uw8(price fixing)	622
+0.0338983 ##uw8(fix product)	#uw8(fixing product)	622
+0.0166667 ##uw8(product type)	#uw8(product type)	622
+0.0166667 ##uw8(type product)	#uw8(type product)	622
+0.0166667 ##uw8(product involve)	#uw8(product involved)	622

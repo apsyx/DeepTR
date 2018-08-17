@@ -1,0 +1,13 @@
+0.13253 #document	Document	288
+1.04348 #report	report	288
+3.94737 #weight	weight	288
+0.649123 #control	control	288
+6.23077 #diet	diets	288
+0.0107527 ##1(document report)	#1(Document report)	288
+0.0107527 ##1(report weight)	#1(report weight)	288
+0.205128 ##1(weight control)	#1(weight control)	288
+0.0107527 ##1(control diet)	#1(control diets)	288
+0.0107527 ##uw8(document report)	#uw8(Document report)	288
+0.032967 ##uw8(report weight)	#uw8(report weight)	288
+0.236842 ##uw8(weight control)	#uw8(weight control)	288
+0.0444444 ##uw8(control diet)	#uw8(control diets)	288

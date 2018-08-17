@@ -1,0 +1,31 @@
+0.15 #information	information	2043
+6.66667 #review	reviews	2043
+22 #secret	Secret	2043
+22 #garden	Garden	2043
+22 #book	book	2043
+22 #frances	Frances	2043
+22 #hodgson	Hodgson	2043
+22 #burnett	Burnett	2043
+4.75 #movie	movies	2043
+10.5 #music	musical	2043
+10.5 #base	based	2043
+0.0454545 ##1(information review)	#1(information reviews)	2043
+0.0454545 ##1(review secret)	#1(reviews Secret)	2043
+22 ##1(secret garden)	#1(Secret Garden)	2043
+2.28571 ##1(garden book)	#1(Garden book)	2043
+0.0454545 ##1(book frances)	#1(book Frances)	2043
+22 ##1(frances hodgson)	#1(Frances Hodgson)	2043
+22 ##1(hodgson burnett)	#1(Hodgson Burnett)	2043
+0.0454545 ##1(burnett movie)	#1(Burnett movies)	2043
+0.0454545 ##1(movie music)	#1(movies musical)	2043
+0.0952381 ##1(music base)	#1(musical based)	2043
+0.0454545 ##uw8(information review)	#uw8(information reviews)	2043
+1.875 ##uw8(review secret)	#uw8(reviews Secret)	2043
+22 ##uw8(secret garden)	#uw8(Secret Garden)	2043
+22 ##uw8(garden book)	#uw8(Garden book)	2043
+0.352941 ##uw8(book frances)	#uw8(book Frances)	2043
+22 ##uw8(frances hodgson)	#uw8(Frances Hodgson)	2043
+22 ##uw8(hodgson burnett)	#uw8(Hodgson Burnett)	2043
+0.0454545 ##uw8(burnett movie)	#uw8(Burnett movies)	2043
+0.0454545 ##uw8(movie music)	#uw8(movies musical)	2043
+0.15 ##uw8(music base)	#uw8(musical based)	2043

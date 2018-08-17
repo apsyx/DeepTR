@@ -1,0 +1,37 @@
+0.947368 #freed	freed	638
+1.46667 #prison	prisoners	638
+0.121212 #wrongful	wrongfully	638
+11.3333 #convict	convicted	638
+0.321429 #base	based	638
+0.0571429 #faulty	faulty	638
+0.193548 #forensic	forensic	638
+1.05556 #evidence	evidence	638
+0.0571429 #poor	poor	638
+1.64286 #police	police	638
+0.48 #work	work	638
+0.0571429 #false	false	638
+0.121212 #testimony	testimony	638
+0.0277778 ##1(freed prison)	#1(freed prisoners)	638
+0.0277778 ##1(prison wrongful)	#1(prisoners wrongfully)	638
+0.121212 ##1(wrongful convict)	#1(wrongfully convicted)	638
+0.0277778 ##1(convict base)	#1(convicted based)	638
+0.0277778 ##1(base faulty)	#1(based faulty)	638
+0.0277778 ##1(faulty forensic)	#1(faulty forensic)	638
+0.0571429 ##1(forensic evidence)	#1(forensic evidence)	638
+0.0277778 ##1(evidence poor)	#1(evidence poor)	638
+0.0277778 ##1(poor police)	#1(poor police)	638
+0.0277778 ##1(police work)	#1(police work)	638
+0.0277778 ##1(work false)	#1(work false)	638
+0.0277778 ##1(false testimony)	#1(false testimony)	638
+0.233333 ##uw8(freed prison)	#uw8(freed prisoners)	638
+0.0277778 ##uw8(prison wrongful)	#uw8(prisoners wrongfully)	638
+0.121212 ##uw8(wrongful convict)	#uw8(wrongfully convicted)	638
+0.0571429 ##uw8(convict base)	#uw8(convicted based)	638
+0.0277778 ##uw8(base faulty)	#uw8(based faulty)	638
+0.0277778 ##uw8(faulty forensic)	#uw8(faulty forensic)	638
+0.0882353 ##uw8(forensic evidence)	#uw8(forensic evidence)	638
+0.0277778 ##uw8(evidence poor)	#uw8(evidence poor)	638
+0.0277778 ##uw8(poor police)	#uw8(poor police)	638
+0.0882353 ##uw8(police work)	#uw8(police work)	638
+0.0277778 ##uw8(work false)	#uw8(work false)	638
+0.0277778 ##uw8(false testimony)	#uw8(false testimony)	638

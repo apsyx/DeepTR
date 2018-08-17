@@ -1,0 +1,19 @@
+0.105263 #method	methods	386
+0.105263 #current	currently	386
+0.05 #utilize	utilized	386
+0.05 #anticipate	anticipated	386
+3.2 #teach	teaching	386
+1.33333 #disable	disabled	386
+3.2 #children	children	386
+0.05 ##1(method current)	#1(methods currently)	386
+0.05 ##1(current utilize)	#1(currently utilized)	386
+0.05 ##1(utilize anticipate)	#1(utilized anticipated)	386
+0.05 ##1(anticipate teach)	#1(anticipated teaching)	386
+0.05 ##1(teach disable)	#1(teaching disabled)	386
+0.105263 ##1(disable children)	#1(disabled children)	386
+0.105263 ##uw8(method current)	#uw8(methods currently)	386
+0.05 ##uw8(current utilize)	#uw8(currently utilized)	386
+0.05 ##uw8(utilize anticipate)	#uw8(utilized anticipated)	386
+0.05 ##uw8(anticipate teach)	#uw8(anticipated teaching)	386
+0.3125 ##uw8(teach disable)	#uw8(teaching disabled)	386
+0.4 ##uw8(disable children)	#uw8(disabled children)	386

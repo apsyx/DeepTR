@@ -1,0 +1,22 @@
+0.138462 #experience	experience	437
+0.193548 #residential	residential	437
+0.423077 #utility	utility	437
+4.69231 #customer	customers	437
+0.254237 #follow	following	437
+0.254237 #deregulate	deregulation	437
+3.625 #gas	gas	437
+2.52381 #electric	electric	437
+0.0136986 ##1(experience residential)	#1(experience residential)	437
+0.0136986 ##1(residential utility)	#1(residential utility)	437
+0.0277778 ##1(utility customer)	#1(utility customers)	437
+0.0277778 ##1(customer follow)	#1(customers following)	437
+0.0136986 ##1(follow deregulate)	#1(following deregulation)	437
+0.0277778 ##1(deregulate gas)	#1(deregulation gas)	437
+0.0277778 ##1(gas electric)	#1(gas electric)	437
+0.0136986 ##uw8(experience residential)	#uw8(experience residential)	437
+0.0136986 ##uw8(residential utility)	#uw8(residential utility)	437
+0.0724638 ##uw8(utility customer)	#uw8(utility customers)	437
+0.0724638 ##uw8(customer follow)	#uw8(customers following)	437
+0.0422535 ##uw8(follow deregulate)	#uw8(following deregulation)	437
+0.0571429 ##uw8(deregulate gas)	#uw8(deregulation gas)	437
+0.48 ##uw8(gas electric)	#uw8(gas electric)	437

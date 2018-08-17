@@ -1,0 +1,13 @@
+36 #horse	horse	2051
+17.5 #hooves	hooves	2051
+8.25 #care	care	2051
+0.608696 #disease	diseases	2051
+17.5 #hooves	hooves	2051
+5.16667 ##1(horse hooves)	#1(horse hooves)	2051
+0.0277778 ##1(hooves care)	#1(hooves care)	2051
+0.0277778 ##1(care disease)	#1(care diseases)	2051
+0.0277778 ##1(disease hooves)	#1(diseases hooves)	2051
+17.5 ##uw8(horse hooves)	#uw8(horse hooves)	2051
+0.423077 ##uw8(hooves care)	#uw8(hooves care)	2051
+0.0571429 ##uw8(care disease)	#uw8(care diseases)	2051
+0.0277778 ##uw8(disease hooves)	#uw8(diseases hooves)	2051

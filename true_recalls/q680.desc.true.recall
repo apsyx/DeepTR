@@ -1,0 +1,16 @@
+12 #spain	Spanish	680
+25 #school	schools	680
+0.181818 #improve	improved	680
+0.625 #live	lives	680
+0.368421 #mexico	Mexican	680
+0.3 #immigrant	immigrants	680
+0.04 ##1(spain school)	#1(Spanish schools)	680
+0.04 ##1(school improve)	#1(schools improved)	680
+0.04 ##1(improve live)	#1(improved lives)	680
+0.04 ##1(live mexico)	#1(lives Mexican)	680
+0.0833333 ##1(mexico immigrant)	#1(Mexican immigrants)	680
+1 ##uw8(spain school)	#uw8(Spanish schools)	680
+0.0833333 ##uw8(school improve)	#uw8(schools improved)	680
+0.04 ##uw8(improve live)	#uw8(improved lives)	680
+0.04 ##uw8(live mexico)	#uw8(lives Mexican)	680
+0.130435 ##uw8(mexico immigrant)	#uw8(Mexican immigrants)	680

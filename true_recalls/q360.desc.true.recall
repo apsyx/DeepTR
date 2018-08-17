@@ -1,0 +1,7 @@
+0.116788 #benefit	benefits	360
+152 #drug	drug	360
+5.375 #legal	legalization	360
+0.00657895 ##1(benefit drug)	#1(benefits drug)	360
+0.204724 ##1(drug legal)	#1(drug legalization)	360
+0.02 ##uw8(benefit drug)	#uw8(benefits drug)	360
+2.1875 ##uw8(drug legal)	#uw8(drug legalization)	360

@@ -1,0 +1,10 @@
+35 #library	library	565
+11 #service	services	565
+1.25 #person	persons	565
+5 #disable	disabilities	565
+1.76923 ##1(library service)	#1(library services)	565
+0.0285714 ##1(service person)	#1(services persons)	565
+0.0285714 ##1(person disable)	#1(persons disabilities)	565
+3.5 ##uw8(library service)	#uw8(library services)	565
+0.241379 ##uw8(service person)	#uw8(services persons)	565
+0.333333 ##uw8(person disable)	#uw8(persons disabilities)	565

@@ -1,0 +1,10 @@
+0.4 #effect	effect	2050
+1.33333 #excessive	excessive	2050
+6 #heat	heat	2050
+6 #dog	dogs	2050
+0.166667 ##1(effect excessive)	#1(effect excessive)	2050
+0.166667 ##1(excessive heat)	#1(excessive heat)	2050
+0.166667 ##1(heat dog)	#1(heat dogs)	2050
+0.166667 ##uw8(effect excessive)	#uw8(effect excessive)	2050
+1.33333 ##uw8(excessive heat)	#uw8(excessive heat)	2050
+2.5 ##uw8(heat dog)	#uw8(heat dogs)	2050

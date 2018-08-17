@@ -1,0 +1,10 @@
+24.5 #poppy	poppy	676
+1.04 #cultivate	cultivation	676
+0.457143 #export	export	676
+0.0408163 #worldwide	worldwide	676
+0.275 ##1(poppy cultivate)	#1(poppy cultivation)	676
+0.02 ##1(cultivate export)	#1(cultivation export)	676
+0.02 ##1(export worldwide)	#1(export worldwide)	676
+0.645161 ##uw8(poppy cultivate)	#uw8(poppy cultivation)	676
+0.02 ##uw8(cultivate export)	#uw8(cultivation export)	676
+0.02 ##uw8(export worldwide)	#uw8(export worldwide)	676

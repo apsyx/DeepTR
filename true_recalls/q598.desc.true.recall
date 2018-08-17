@@ -1,0 +1,16 @@
+0.727273 #name	naming	598
+18 #foreign	foreign	598
+18 #terrorist	terrorist	598
+18 #organize	organizations	598
+0.727273 #criteria	criteria	598
+8.5 #designate	designation	598
+0.0555556 ##1(name foreign)	#1(naming foreign)	598
+18 ##1(foreign terrorist)	#1(foreign terrorist)	598
+18 ##1(terrorist organize)	#1(terrorist organizations)	598
+0.0555556 ##1(organize criteria)	#1(organizations criteria)	598
+0.0555556 ##1(criteria designate)	#1(criteria designation)	598
+0.117647 ##uw8(name foreign)	#uw8(naming foreign)	598
+18 ##uw8(foreign terrorist)	#uw8(foreign terrorist)	598
+18 ##uw8(terrorist organize)	#uw8(terrorist organizations)	598
+0.583333 ##uw8(organize criteria)	#uw8(organizations criteria)	598
+0.583333 ##uw8(criteria designate)	#uw8(criteria designation)	598

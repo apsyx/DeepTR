@@ -1,0 +1,22 @@
+1.66667 #type	types	568
+4.33333 #federal	federal	568
+1.66667 #fund	funding	568
+3 #available	available	568
+2.2 #support	support	568
+3 #art	art	568
+4.33333 #museum	museums	568
+0.6 #country	country	568
+0.0666667 ##1(type federal)	#1(types federal)	568
+0.6 ##1(federal fund)	#1(federal funding)	568
+0.0666667 ##1(fund available)	#1(funding available)	568
+0.0666667 ##1(available support)	#1(available support)	568
+0.0666667 ##1(support art)	#1(support art)	568
+0.6 ##1(art museum)	#1(art museums)	568
+0.0666667 ##1(museum country)	#1(museums country)	568
+0.142857 ##uw8(type federal)	#uw8(types federal)	568
+0.6 ##uw8(federal fund)	#uw8(federal funding)	568
+0.333333 ##uw8(fund available)	#uw8(funding available)	568
+0.333333 ##uw8(available support)	#uw8(available support)	568
+0.142857 ##uw8(support art)	#uw8(support art)	568
+0.6 ##uw8(art museum)	#uw8(art museums)	568
+0.230769 ##uw8(museum country)	#uw8(museums country)	568

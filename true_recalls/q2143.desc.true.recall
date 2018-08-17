@@ -1,0 +1,16 @@
+1 #locate	locations	2143
+1 #review	reviews	2143
+1 #health	health	2143
+1 #club	clubs	2143
+1 #arkadelphia	Arkadelphia	2143
+1 #arkansas	Arkansas	2143
+1 ##1(locate review)	#1(locations reviews)	2143
+1 ##1(review health)	#1(reviews health)	2143
+1 ##1(health club)	#1(health clubs)	2143
+1 ##1(club arkadelphia)	#1(clubs Arkadelphia)	2143
+1 ##1(arkadelphia arkansas)	#1(Arkadelphia Arkansas)	2143
+1 ##uw8(locate review)	#uw8(locations reviews)	2143
+1 ##uw8(review health)	#uw8(reviews health)	2143
+1 ##uw8(health club)	#uw8(health clubs)	2143
+1 ##uw8(club arkadelphia)	#uw8(clubs Arkadelphia)	2143
+1 ##uw8(arkadelphia arkansas)	#uw8(Arkadelphia Arkansas)	2143

@@ -1,0 +1,7 @@
+100 #tornado	tornadoes	2075
+3.59091 #cause	causes	2075
+0.980392 #occur	occur	2075
+1.10417 ##1(tornado cause)	#1(tornadoes causes)	2075
+0.01 ##1(cause occur)	#1(causes occur)	2075
+3.20833 ##uw8(tornado cause)	#uw8(tornadoes causes)	2075
+0.01 ##uw8(cause occur)	#uw8(causes occur)	2075

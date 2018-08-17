@@ -1,0 +1,16 @@
+25 #occupation	occupations	570
+0.130435 #greatest	greatest	570
+2.71429 #work	workers	570
+0.625 #10	10	570
+0.368421 #20	20	570
+1.16667 #year	years	570
+0.04 ##1(occupation greatest)	#1(occupations greatest)	570
+0.04 ##1(greatest work)	#1(greatest workers)	570
+0.04 ##1(work 10)	#1(workers 10)	570
+0.04 ##1(10 20)	#1(10 20)	570
+0.04 ##1(20 year)	#1(20 years)	570
+0.130435 ##uw8(occupation greatest)	#uw8(occupations greatest)	570
+0.04 ##uw8(greatest work)	#uw8(greatest workers)	570
+0.181818 ##uw8(work 10)	#uw8(workers 10)	570
+0.130435 ##uw8(10 20)	#uw8(10 20)	570
+0.04 ##uw8(20 year)	#uw8(20 years)	570

@@ -1,0 +1,10 @@
+1.57143 #information	information	810
+0.384615 #regard	regarding	810
+17 #timeshare	timeshare	810
+5 #resale	resales	810
+0.0588235 ##1(information regard)	#1(information regarding)	810
+0.0588235 ##1(regard timeshare)	#1(regarding timeshare)	810
+1.25 ##1(timeshare resale)	#1(timeshare resales)	810
+0.0588235 ##uw8(information regard)	#uw8(information regarding)	810
+0.0588235 ##uw8(regard timeshare)	#uw8(regarding timeshare)	810
+1.25 ##uw8(timeshare resale)	#uw8(timeshare resales)	810

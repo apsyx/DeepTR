@@ -1,0 +1,13 @@
+0.789474 #state	state	811
+1.34483 #recognize	recognizing	811
+1.125 #handwritten	handwritten	811
+0.387755 #input	inputs	811
+2.2381 #compute	computers	811
+0.0149254 ##1(state recognize)	#1(state recognizing)	811
+0.192982 ##1(recognize handwritten)	#1(recognizing handwritten)	811
+0.0149254 ##1(handwritten input)	#1(handwritten inputs)	811
+0.0149254 ##1(input compute)	#1(inputs computers)	811
+0.030303 ##uw8(state recognize)	#uw8(state recognizing)	811
+0.259259 ##uw8(recognize handwritten)	#uw8(recognizing handwritten)	811
+0.0461538 ##uw8(handwritten input)	#uw8(handwritten inputs)	811
+0.0793651 ##uw8(input compute)	#uw8(inputs computers)	811

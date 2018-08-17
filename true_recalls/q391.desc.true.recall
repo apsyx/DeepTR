@@ -1,0 +1,22 @@
+0.153846 #impact	impact	391
+1.57143 #cost	cost	391
+21.5 #research	research	391
+29 #develop	development	391
+0.894737 #r	R	391
+0.978022 #d	D	391
+1.64706 #price	price	391
+19 #drug	drugs	391
+0.00558659 ##1(impact cost)	#1(impact cost)	391
+0.00558659 ##1(cost research)	#1(cost research)	391
+0.0465116 ##1(research develop)	#1(research development)	391
+0.0169492 ##1(develop r)	#1(development R)	391
+0.875 ##1(r d)	#1(R D)	391
+0.00558659 ##1(d price)	#1(D price)	391
+0.011236 ##1(price drug)	#1(price drugs)	391
+0.00558659 ##uw8(impact cost)	#uw8(impact cost)	391
+0.276596 ##uw8(cost research)	#uw8(cost research)	391
+4.80645 ##uw8(research develop)	#uw8(research development)	391
+0.0909091 ##uw8(develop r)	#uw8(development R)	391
+0.875 ##uw8(r d)	#uw8(R D)	391
+0.0404624 ##uw8(d price)	#uw8(D price)	391
+0.538462 ##uw8(price drug)	#uw8(price drugs)	391

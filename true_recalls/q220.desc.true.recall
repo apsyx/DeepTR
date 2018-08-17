@@ -1,0 +1,13 @@
+12 #crossword	crossword	220
+7.66667 #puzzle	puzzle	220
+2.25 #make	makers	220
+2.25 #make	making	220
+7.66667 #puzzle	puzzles	220
+5.5 ##1(crossword puzzle)	#1(crossword puzzle)	220
+0.238095 ##1(puzzle make)	#1(puzzle makers)	220
+0.04 ##1(make make)	#1(makers making)	220
+0.0833333 ##1(make puzzle)	#1(making puzzles)	220
+5.5 ##uw8(crossword puzzle)	#uw8(crossword puzzle)	220
+0.368421 ##uw8(puzzle make)	#uw8(puzzle makers)	220
+2.25 ##uw8(make make)	#uw8(makers making)	220
+0.368421 ##uw8(make puzzle)	#uw8(making puzzles)	220

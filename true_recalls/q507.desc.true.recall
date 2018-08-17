@@ -1,0 +1,10 @@
+18 #recall	recall	507
+18 #dodge	Dodge	507
+0.727273 #automobile	automobile	507
+1.71429 #product	products	507
+0.0555556 ##1(recall dodge)	#1(recall Dodge)	507
+0.0555556 ##1(dodge automobile)	#1(Dodge automobile)	507
+0.0555556 ##1(automobile product)	#1(automobile products)	507
+0.357143 ##uw8(recall dodge)	#uw8(recall Dodge)	507
+0.0555556 ##uw8(dodge automobile)	#uw8(Dodge automobile)	507
+0.0555556 ##uw8(automobile product)	#uw8(automobile products)	507

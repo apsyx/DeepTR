@@ -1,0 +1,13 @@
+1.57895 #piece	pieces	613
+8.8 #berlin	Berlin	613
+6 #wall	wall	613
+0.0208333 #dispose	disposed	613
+0.0425532 #removal	removal	613
+0.0208333 ##1(piece berlin)	#1(pieces Berlin)	613
+3.9 ##1(berlin wall)	#1(Berlin wall)	613
+0.0208333 ##1(wall dispose)	#1(wall disposed)	613
+0.0208333 ##1(dispose removal)	#1(disposed removal)	613
+0.580645 ##uw8(piece berlin)	#uw8(pieces Berlin)	613
+3.9 ##uw8(berlin wall)	#uw8(Berlin wall)	613
+0.0208333 ##uw8(wall dispose)	#uw8(wall disposed)	613
+0.0208333 ##uw8(dispose removal)	#uw8(disposed removal)	613

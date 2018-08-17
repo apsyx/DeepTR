@@ -1,0 +1,16 @@
+0.285714 #revelation	revelations	729
+3.5 #whistle	whistle	729
+3.5 #blow	blowers	729
+2 #concern	concerning	729
+3.5 #department	Department	729
+8 #defense	Defense	729
+0.125 ##1(revelation whistle)	#1(revelations whistle)	729
+1.25 ##1(whistle blow)	#1(whistle blowers)	729
+0.125 ##1(blow concern)	#1(blowers concerning)	729
+0.125 ##1(concern department)	#1(concerning Department)	729
+0.125 ##1(department defense)	#1(Department Defense)	729
+0.125 ##uw8(revelation whistle)	#uw8(revelations whistle)	729
+3.5 ##uw8(whistle blow)	#uw8(whistle blowers)	729
+0.125 ##uw8(blow concern)	#uw8(blowers concerning)	729
+0.125 ##uw8(concern department)	#uw8(concerning Department)	729
+2 ##uw8(department defense)	#uw8(Department Defense)	729

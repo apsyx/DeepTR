@@ -1,0 +1,10 @@
+0.025 #renew	renewed	377
+0.171429 #popular	popularity	377
+40 #cigar	cigar	377
+1.73333 #smoke	smoking	377
+0.025 ##1(renew popular)	#1(renewed popularity)	377
+0.025 ##1(popular cigar)	#1(popularity cigar)	377
+0.242424 ##1(cigar smoke)	#1(cigar smoking)	377
+0.025 ##uw8(renew popular)	#uw8(renewed popularity)	377
+0.025 ##uw8(popular cigar)	#uw8(popularity cigar)	377
+0.464286 ##uw8(cigar smoke)	#uw8(cigar smoking)	377

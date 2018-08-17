@@ -1,0 +1,16 @@
+0.227273 #information	information	675
+0.125 #regard	regarding	675
+8 #train	training	675
+5.75 #olympic	Olympic	675
+2.85714 #swim	swim	675
+1.07692 #meet	meets	675
+0.0384615 ##1(information regard)	#1(information regarding)	675
+0.0384615 ##1(regard train)	#1(regarding training)	675
+0.0384615 ##1(train olympic)	#1(training Olympic)	675
+0.125 ##1(olympic swim)	#1(Olympic swim)	675
+0.08 ##1(swim meet)	#1(swim meets)	675
+0.0384615 ##uw8(information regard)	#uw8(information regarding)	675
+0.0384615 ##uw8(regard train)	#uw8(regarding training)	675
+0.588235 ##uw8(train olympic)	#uw8(training Olympic)	675
+0.421053 ##uw8(olympic swim)	#uw8(Olympic swim)	675
+0.173913 ##uw8(swim meet)	#uw8(swim meets)	675

@@ -1,0 +1,13 @@
+6.2 #use	uses	532
+11 #hypnosis	hypnosis	532
+0.636364 #report	report	532
+3.5 #effect	effective	532
+11 #hypnosis	hypnosis	532
+0.241379 ##1(use hypnosis)	#1(uses hypnosis)	532
+0.0285714 ##1(hypnosis report)	#1(hypnosis report)	532
+0.0285714 ##1(report effect)	#1(report effective)	532
+0.0588235 ##1(effect hypnosis)	#1(effective hypnosis)	532
+0.714286 ##uw8(use hypnosis)	#uw8(uses hypnosis)	532
+0.2 ##uw8(hypnosis report)	#uw8(hypnosis report)	532
+0.0285714 ##uw8(report effect)	#uw8(report effective)	532
+0.384615 ##uw8(effect hypnosis)	#uw8(effective hypnosis)	532

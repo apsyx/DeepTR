@@ -1,0 +1,13 @@
+1 #ban	banning	606
+0.777778 #leg	leg	606
+15 #trap	traps	606
+0.230769 #capture	capture	606
+7 #animal	animals	606
+0.0666667 ##1(ban leg)	#1(banning leg)	606
+0.333333 ##1(leg trap)	#1(leg traps)	606
+0.0666667 ##1(trap capture)	#1(traps capture)	606
+0.0666667 ##1(capture animal)	#1(capture animals)	606
+0.333333 ##uw8(ban leg)	#uw8(banning leg)	606
+0.777778 ##uw8(leg trap)	#uw8(leg traps)	606
+0.142857 ##uw8(trap capture)	#uw8(traps capture)	606
+0.0666667 ##uw8(capture animal)	#uw8(capture animals)	606

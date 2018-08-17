@@ -1,0 +1,13 @@
+20.5 #water	water	525
+0.433333 #enter	enter	525
+3.3 #earth	earth	525
+0.791667 #s	s	525
+13.3333 #atmosphere	atmosphere	525
+0.0487805 ##1(water enter)	#1(water enter)	525
+0.0238095 ##1(enter earth)	#1(enter earth)	525
+0.194444 ##1(earth s)	#1(earth s)	525
+0.0238095 ##1(s atmosphere)	#1(s atmosphere)	525
+0.162162 ##uw8(water enter)	#uw8(water enter)	525
+0.075 ##uw8(enter earth)	#uw8(enter earth)	525
+0.228571 ##uw8(earth s)	#uw8(earth s)	525
+0.0238095 ##uw8(s atmosphere)	#uw8(s atmosphere)	525

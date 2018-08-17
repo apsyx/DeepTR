@@ -1,0 +1,31 @@
+219 #hybrid	hybrid	777
+8.16667 #alternate	alternative	777
+35.6667 #fuel	fuel	777
+1.34043 #passenger	passenger	777
+15.9231 #car	cars	777
+1.2 #auto	auto	777
+3.68085 #manufacture	manufacturers	777
+2.28358 #market	marketing	777
+3.31373 #develop	developing	777
+2.0137 #future	future	777
+1.44444 #sale	sales	777
+0.0185185 ##1(hybrid alternate)	#1(hybrid alternative)	777
+4.36585 ##1(alternate fuel)	#1(alternative fuel)	777
+0.0185185 ##1(fuel passenger)	#1(fuel passenger)	777
+0.517241 ##1(passenger car)	#1(passenger cars)	777
+0.00456621 ##1(car auto)	#1(cars auto)	777
+0.28655 ##1(auto manufacture)	#1(auto manufacturers)	777
+0.0328638 ##1(manufacture market)	#1(manufacturers marketing)	777
+0.116751 ##1(market develop)	#1(marketing developing)	777
+0.00917431 ##1(develop future)	#1(developing future)	777
+0.0138249 ##1(future sale)	#1(future sales)	777
+0.466667 ##uw8(hybrid alternate)	#uw8(hybrid alternative)	777
+5.28571 ##uw8(alternate fuel)	#uw8(alternative fuel)	777
+0.349693 ##uw8(fuel passenger)	#uw8(fuel passenger)	777
+0.605839 ##uw8(passenger car)	#uw8(passenger cars)	777
+0.145833 ##uw8(car auto)	#uw8(cars auto)	777
+0.317365 ##uw8(auto manufacture)	#uw8(auto manufacturers)	777
+0.195652 ##uw8(manufacture market)	#uw8(manufacturers marketing)	777
+0.496599 ##uw8(market develop)	#uw8(marketing developing)	777
+0.195652 ##uw8(develop future)	#uw8(developing future)	777
+0.0280374 ##uw8(future sale)	#uw8(future sales)	777

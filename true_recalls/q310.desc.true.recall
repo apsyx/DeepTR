@@ -1,0 +1,31 @@
+0.875 #evidence	Evidence	310
+0.363636 #radio	radio	310
+0.5 #wave	waves	310
+0.363636 #radio	radio	310
+0.25 #tower	towers	310
+0.0714286 #car	car	310
+0.666667 #phone	phones	310
+0.25 #affect	affect	310
+0.666667 #brain	brain	310
+2.75 #cancer	cancer	310
+0.0714286 #occurrence	occurrence	310
+0.0714286 ##1(evidence radio)	#1(Evidence radio)	310
+0.363636 ##1(radio wave)	#1(radio waves)	310
+0.0714286 ##1(wave radio)	#1(waves radio)	310
+0.0714286 ##1(radio tower)	#1(radio towers)	310
+0.0714286 ##1(tower car)	#1(towers car)	310
+0.0714286 ##1(car phone)	#1(car phones)	310
+0.0714286 ##1(phone affect)	#1(phones affect)	310
+0.0714286 ##1(affect brain)	#1(affect brain)	310
+0.5 ##1(brain cancer)	#1(brain cancer)	310
+0.0714286 ##1(cancer occurrence)	#1(cancer occurrence)	310
+0.0714286 ##uw8(evidence radio)	#uw8(Evidence radio)	310
+0.363636 ##uw8(radio wave)	#uw8(radio waves)	310
+0.363636 ##uw8(wave radio)	#uw8(waves radio)	310
+0.0714286 ##uw8(radio tower)	#uw8(radio towers)	310
+0.0714286 ##uw8(tower car)	#uw8(towers car)	310
+0.0714286 ##uw8(car phone)	#uw8(car phones)	310
+0.0714286 ##uw8(phone affect)	#uw8(phones affect)	310
+0.0714286 ##uw8(affect brain)	#uw8(affect brain)	310
+0.5 ##uw8(brain cancer)	#uw8(brain cancer)	310
+0.0714286 ##uw8(cancer occurrence)	#uw8(cancer occurrence)	310

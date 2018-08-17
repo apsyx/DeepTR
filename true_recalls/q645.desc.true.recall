@@ -1,0 +1,19 @@
+0.24 #financial	financial	645
+0.0689655 #impact	impact	645
+30 #software	software	645
+3.42857 #piracy	piracy	645
+30 #software	software	645
+0.631579 #produce	producing	645
+2.44444 #industry	industry	645
+0.0333333 ##1(financial impact)	#1(financial impact)	645
+0.0333333 ##1(impact software)	#1(impact software)	645
+1.81818 ##1(software piracy)	#1(software piracy)	645
+0.0689655 ##1(piracy software)	#1(piracy software)	645
+0.107143 ##1(software produce)	#1(software producing)	645
+0.0333333 ##1(produce industry)	#1(producing industry)	645
+0.0333333 ##uw8(financial impact)	#uw8(financial impact)	645
+0.0333333 ##uw8(impact software)	#uw8(impact software)	645
+2.44444 ##uw8(software piracy)	#uw8(software piracy)	645
+2.44444 ##uw8(piracy software)	#uw8(piracy software)	645
+0.347826 ##uw8(software produce)	#uw8(software producing)	645
+0.0689655 ##uw8(produce industry)	#uw8(producing industry)	645

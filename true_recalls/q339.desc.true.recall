@@ -1,0 +1,16 @@
+11 #drug	drugs	339
+3 #treat	treatment	339
+11 #alzheimer	Alzheimer	339
+0.2 #s	s	339
+5 #disease	Disease	339
+0.2 #successful	successful	339
+0.0909091 ##1(drug treat)	#1(drugs treatment)	339
+0.0909091 ##1(treat alzheimer)	#1(treatment Alzheimer)	339
+0.0909091 ##1(alzheimer s)	#1(Alzheimer s)	339
+0.0909091 ##1(s disease)	#1(s Disease)	339
+0.0909091 ##1(disease successful)	#1(Disease successful)	339
+2 ##uw8(drug treat)	#uw8(drugs treatment)	339
+2 ##uw8(treat alzheimer)	#uw8(treatment Alzheimer)	339
+0.0909091 ##uw8(alzheimer s)	#uw8(Alzheimer s)	339
+0.0909091 ##uw8(s disease)	#uw8(s Disease)	339
+0.0909091 ##uw8(disease successful)	#uw8(Disease successful)	339

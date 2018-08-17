@@ -1,0 +1,37 @@
+2.22917 #country	countries	212
+0.131387 #accuse	accused	212
+0.270492 #fail	failing	212
+0.20155 #adequate	adequately	212
+4.34483 #protect	protect	212
+2.60465 #copyright	copyrights	212
+1.15278 #patent	patents	212
+0.371681 #trademark	trademarks	212
+0.25 #consider	considered	212
+0.302521 #violate	violation	212
+1.98077 #intellectual	intellectual	212
+1.98077 #property	property	212
+1.5 #law	laws	212
+0.0130719 ##1(country accuse)	#1(countries accused)	212
+0.00649351 ##1(accuse fail)	#1(accused failing)	212
+0.00649351 ##1(fail adequate)	#1(failing adequately)	212
+0.0992908 ##1(adequate protect)	#1(adequately protect)	212
+0.0197368 ##1(protect copyright)	#1(protect copyrights)	212
+0.0616438 ##1(copyright patent)	#1(copyrights patents)	212
+0.0402685 ##1(patent trademark)	#1(patents trademarks)	212
+0.00649351 ##1(trademark consider)	#1(trademarks considered)	212
+0.00649351 ##1(consider violate)	#1(considered violation)	212
+0.0130719 ##1(violate intellectual)	#1(violation intellectual)	212
+1.98077 ##1(intellectual property)	#1(intellectual property)	212
+0.0333333 ##1(property law)	#1(property laws)	212
+0.0130719 ##uw8(country accuse)	#uw8(countries accused)	212
+0.0130719 ##uw8(accuse fail)	#uw8(accused failing)	212
+0.0264901 ##uw8(fail adequate)	#uw8(failing adequately)	212
+0.156716 ##uw8(adequate protect)	#uw8(adequately protect)	212
+0.802326 ##uw8(protect copyright)	#uw8(protect copyrights)	212
+0.490385 ##uw8(copyright patent)	#uw8(copyrights patents)	212
+0.192308 ##uw8(patent trademark)	#uw8(patents trademarks)	212
+0.00649351 ##uw8(trademark consider)	#uw8(trademarks considered)	212
+0.0130719 ##uw8(consider violate)	#uw8(considered violation)	212
+0.0333333 ##uw8(violate intellectual)	#uw8(violation intellectual)	212
+1.98077 ##uw8(intellectual property)	#uw8(intellectual property)	212
+0.123188 ##uw8(property law)	#uw8(property laws)	212

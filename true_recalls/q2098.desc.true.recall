@@ -1,0 +1,13 @@
+11 #take	taking	2098
+71 #sat	SAT	2098
+6.2 #college	college	2098
+0.674419 #entrance	entrance	2098
+1.32258 #exam	exam	2098
+0.0434783 ##1(take sat)	#1(taking SAT)	2098
+0.263158 ##1(sat college)	#1(SAT college)	2098
+0.636364 ##1(college entrance)	#1(college entrance)	2098
+0.180328 ##1(entrance exam)	#1(entrance exam)	2098
+6.2 ##uw8(take sat)	#uw8(taking SAT)	2098
+5 ##uw8(sat college)	#uw8(SAT college)	2098
+0.636364 ##uw8(college entrance)	#uw8(college entrance)	2098
+0.2 ##uw8(entrance exam)	#uw8(entrance exam)	2098

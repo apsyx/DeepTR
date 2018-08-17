@@ -1,0 +1,16 @@
+0.137615 #impact	Impact	200
+1.95238 #foreign	foreign	200
+12.7778 #textile	textile	200
+8.53846 #import	imports	200
+12.7778 #textile	textile	200
+2.44444 #industry	industry	200
+0.00813008 ##1(impact foreign)	#1(Impact foreign)	200
+0.0247934 ##1(foreign textile)	#1(foreign textile)	200
+0.333333 ##1(textile import)	#1(textile imports)	200
+0.0420168 ##1(import textile)	#1(imports textile)	200
+0.589744 ##1(textile industry)	#1(textile industry)	200
+0.00813008 ##uw8(impact foreign)	#uw8(Impact foreign)	200
+0.158879 ##uw8(foreign textile)	#uw8(foreign textile)	200
+0.9375 ##uw8(textile import)	#uw8(textile imports)	200
+0.9375 ##uw8(import textile)	#uw8(imports textile)	200
+1 ##uw8(textile industry)	#uw8(textile industry)	200

@@ -1,0 +1,19 @@
+0.936508 #limit	limits	709
+2.2973 #regulate	regulations	709
+0.626667 #concern	concerning	709
+121 #jockey	jockey	709
+12.5556 #weight	weight	709
+39.6667 #horse	horse	709
+121 #race	racing	709
+0.00826446 ##1(limit regulate)	#1(limits regulations)	709
+0.0252101 ##1(regulate concern)	#1(regulations concerning)	709
+0.00826446 ##1(concern jockey)	#1(concerning jockey)	709
+0.46988 ##1(jockey weight)	#1(jockey weight)	709
+0.00826446 ##1(weight horse)	#1(weight horse)	709
+1.97561 ##1(horse race)	#1(horse racing)	709
+0.042735 ##uw8(limit regulate)	#uw8(limits regulations)	709
+0.0701754 ##uw8(regulate concern)	#uw8(regulations concerning)	709
+0.0338983 ##uw8(concern jockey)	#uw8(concerning jockey)	709
+1.30189 ##uw8(jockey weight)	#uw8(jockey weight)	709
+1.4898 ##uw8(weight horse)	#uw8(weight horse)	709
+14.25 ##uw8(horse race)	#uw8(horse racing)	709

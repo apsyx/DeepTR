@@ -1,0 +1,19 @@
+1 #general	general	2129
+2 #information	information	2129
+5 #iowa	Iowa	2129
+0.2 #s	s	2129
+5 #food	food	2129
+5 #stamp	stamps	2129
+5 #program	program	2129
+0.2 ##1(general information)	#1(general information)	2129
+0.2 ##1(information iowa)	#1(information Iowa)	2129
+0.2 ##1(iowa s)	#1(Iowa s)	2129
+0.2 ##1(s food)	#1(s food)	2129
+5 ##1(food stamp)	#1(food stamps)	2129
+5 ##1(stamp program)	#1(stamps program)	2129
+0.2 ##uw8(general information)	#uw8(general information)	2129
+1 ##uw8(information iowa)	#uw8(information Iowa)	2129
+0.2 ##uw8(iowa s)	#uw8(Iowa s)	2129
+0.2 ##uw8(s food)	#uw8(s food)	2129
+5 ##uw8(food stamp)	#uw8(food stamps)	2129
+5 ##uw8(stamp program)	#uw8(stamps program)	2129

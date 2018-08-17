@@ -1,0 +1,10 @@
+3 #locate	locations	590
+3 #school	schools	590
+3 #pilot	pilot	590
+3 #train	training	590
+0.333333 ##1(locate school)	#1(locations schools)	590
+0.333333 ##1(school pilot)	#1(schools pilot)	590
+3 ##1(pilot train)	#1(pilot training)	590
+3 ##uw8(locate school)	#uw8(locations schools)	590
+3 ##uw8(school pilot)	#uw8(schools pilot)	590
+3 ##uw8(pilot train)	#uw8(pilot training)	590

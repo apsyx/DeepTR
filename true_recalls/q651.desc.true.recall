@@ -1,0 +1,10 @@
+3.44444 #ethnic	ethnic	651
+3.44444 #make	make	651
+19 #populate	population	651
+3 #change	changing	651
+0.025641 ##1(ethnic make)	#1(ethnic make)	651
+0.025641 ##1(make populate)	#1(make population)	651
+0.0810811 ##1(populate change)	#1(population changing)	651
+0.142857 ##uw8(ethnic make)	#uw8(ethnic make)	651
+0.333333 ##uw8(make populate)	#uw8(make population)	651
+0.142857 ##uw8(populate change)	#uw8(population changing)	651

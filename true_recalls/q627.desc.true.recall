@@ -1,0 +1,22 @@
+0.304348 #step	steps	627
+0.153846 #taken	taken	627
+1.14286 #help	help	627
+9 #russia	Russia	627
+0.0344828 #solve	solve	627
+3.28571 #food	food	627
+0.304348 #crisis	crisis	627
+9 #russia	Russia	627
+0.0344828 ##1(step taken)	#1(steps taken)	627
+0.0344828 ##1(taken help)	#1(taken help)	627
+0.2 ##1(help russia)	#1(help Russia)	627
+0.0344828 ##1(russia solve)	#1(Russia solve)	627
+0.0344828 ##1(solve food)	#1(solve food)	627
+0.0714286 ##1(food crisis)	#1(food crisis)	627
+0.0344828 ##1(crisis russia)	#1(crisis Russia)	627
+0.0714286 ##uw8(step taken)	#uw8(steps taken)	627
+0.0344828 ##uw8(taken help)	#uw8(taken help)	627
+0.363636 ##uw8(help russia)	#uw8(help Russia)	627
+0.0344828 ##uw8(russia solve)	#uw8(Russia solve)	627
+0.0344828 ##uw8(solve food)	#uw8(solve food)	627
+0.0714286 ##uw8(food crisis)	#uw8(food crisis)	627
+0.111111 ##uw8(crisis russia)	#uw8(crisis Russia)	627

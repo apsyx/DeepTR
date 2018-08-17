@@ -1,0 +1,25 @@
+0.555556 #extent	extent	615
+1.8 #raw	raw	615
+6 #timber	timber	615
+3.66667 #export	exports	615
+0.75 #asia	Asia	615
+1 #effect	effect	615
+3.66667 #export	exports	615
+1.8 #lumber	lumber	615
+3.66667 #industry	industry	615
+0.0769231 ##1(extent raw)	#1(extent raw)	615
+0.0769231 ##1(raw timber)	#1(raw timber)	615
+0.0769231 ##1(timber export)	#1(timber exports)	615
+0.0769231 ##1(export asia)	#1(exports Asia)	615
+0.0769231 ##1(asia effect)	#1(Asia effect)	615
+0.0769231 ##1(effect export)	#1(effect exports)	615
+0.166667 ##1(export lumber)	#1(exports lumber)	615
+0.166667 ##1(lumber industry)	#1(lumber industry)	615
+0.0769231 ##uw8(extent raw)	#uw8(extent raw)	615
+0.0769231 ##uw8(raw timber)	#uw8(raw timber)	615
+0.75 ##uw8(timber export)	#uw8(timber exports)	615
+0.272727 ##uw8(export asia)	#uw8(exports Asia)	615
+0.0769231 ##uw8(asia effect)	#uw8(Asia effect)	615
+0.0769231 ##uw8(effect export)	#uw8(effect exports)	615
+0.4 ##uw8(export lumber)	#uw8(exports lumber)	615
+0.272727 ##uw8(lumber industry)	#uw8(lumber industry)	615

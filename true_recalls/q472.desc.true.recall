@@ -1,0 +1,25 @@
+1.58333 #museum	museums	472
+0.823529 #collector	collectors	472
+2.875 #deal	dealers	472
+0.148148 #hold	hold	472
+1.81818 #sell	sell	472
+0.9375 #restore	restored	472
+6.75 #antique	antique	472
+0.722222 #electric	electrical	472
+1.21429 #appliance	appliances	472
+0.0333333 ##1(museum collector)	#1(museums collectors)	472
+0.0333333 ##1(collector deal)	#1(collectors dealers)	472
+0.0333333 ##1(deal hold)	#1(dealers hold)	472
+0.0333333 ##1(hold sell)	#1(hold sell)	472
+0.0333333 ##1(sell restore)	#1(sell restored)	472
+0.24 ##1(restore antique)	#1(restored antique)	472
+0.0689655 ##1(antique electric)	#1(antique electrical)	472
+0.148148 ##1(electric appliance)	#1(electrical appliances)	472
+0.0689655 ##uw8(museum collector)	#uw8(museums collectors)	472
+0.291667 ##uw8(collector deal)	#uw8(collectors dealers)	472
+0.0333333 ##uw8(deal hold)	#uw8(dealers hold)	472
+0.0333333 ##uw8(hold sell)	#uw8(hold sell)	472
+0.0333333 ##uw8(sell restore)	#uw8(sell restored)	472
+0.347826 ##uw8(restore antique)	#uw8(restored antique)	472
+0.107143 ##uw8(antique electric)	#uw8(antique electrical)	472
+0.192308 ##uw8(electric appliance)	#uw8(electrical appliances)	472

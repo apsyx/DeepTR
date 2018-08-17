@@ -1,0 +1,13 @@
+8 #mainstream	mainstreaming	379
+2.6 #children	children	379
+0.5 #physical	physical	379
+0.285714 #mental	mental	379
+0.5 #impair	impairments	379
+0.0588235 ##1(mainstream children)	#1(mainstreaming children)	379
+0.0588235 ##1(children physical)	#1(children physical)	379
+0.125 ##1(physical mental)	#1(physical mental)	379
+0.0588235 ##1(mental impair)	#1(mental impairments)	379
+1 ##uw8(mainstream children)	#uw8(mainstreaming children)	379
+0.125 ##uw8(children physical)	#uw8(children physical)	379
+0.2 ##uw8(physical mental)	#uw8(physical mental)	379
+0.0588235 ##uw8(mental impair)	#uw8(mental impairments)	379

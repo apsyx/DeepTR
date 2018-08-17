@@ -1,0 +1,19 @@
+0.428571 #evidence	evidence	604
+0.428571 #link	link	604
+2.33333 #tick	tick	604
+0.428571 #borne	borne	604
+9 #lyme	Lyme	604
+9 #disease	disease	604
+2.33333 #arthritis	arthritis	604
+0.111111 ##1(evidence link)	#1(evidence link)	604
+0.111111 ##1(link tick)	#1(link tick)	604
+0.428571 ##1(tick borne)	#1(tick borne)	604
+0.25 ##1(borne lyme)	#1(borne Lyme)	604
+9 ##1(lyme disease)	#1(Lyme disease)	604
+0.25 ##1(disease arthritis)	#1(disease arthritis)	604
+0.111111 ##uw8(evidence link)	#uw8(evidence link)	604
+0.111111 ##uw8(link tick)	#uw8(link tick)	604
+0.428571 ##uw8(tick borne)	#uw8(tick borne)	604
+0.428571 ##uw8(borne lyme)	#uw8(borne Lyme)	604
+9 ##uw8(lyme disease)	#uw8(Lyme disease)	604
+0.666667 ##uw8(disease arthritis)	#uw8(disease arthritis)	604

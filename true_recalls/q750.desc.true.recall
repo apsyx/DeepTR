@@ -1,0 +1,40 @@
+3.5 #senate	Senator	750
+5 #john	John	750
+5 #edwards	Edwards	750
+0.125 #position	positions	750
+8 #women	women	750
+0.636364 #s	s	750
+1.25 #issue	issues	750
+0.5 #pay	pay	750
+0.125 #equity	equity	750
+0.2 #abort	abortion	750
+0.125 #title	Title	750
+0.0588235 #ix	IX	750
+2 #violence	violence	750
+8 #women	women	750
+0.8 ##1(senate john)	#1(Senator John)	750
+2 ##1(john edwards)	#1(John Edwards)	750
+0.0588235 ##1(edwards position)	#1(Edwards positions)	750
+0.0588235 ##1(position women)	#1(positions women)	750
+0.125 ##1(women s)	#1(women s)	750
+0.0588235 ##1(s issue)	#1(s issues)	750
+0.0588235 ##1(issue pay)	#1(issues pay)	750
+0.125 ##1(pay equity)	#1(pay equity)	750
+0.0588235 ##1(equity abort)	#1(equity abortion)	750
+0.0588235 ##1(abort title)	#1(abortion Title)	750
+0.0588235 ##1(title ix)	#1(Title IX)	750
+0.0588235 ##1(ix violence)	#1(IX violence)	750
+0.0588235 ##1(violence women)	#1(violence women)	750
+0.8 ##uw8(senate john)	#uw8(Senator John)	750
+2.6 ##uw8(john edwards)	#uw8(John Edwards)	750
+0.0588235 ##uw8(edwards position)	#uw8(Edwards positions)	750
+0.125 ##uw8(position women)	#uw8(positions women)	750
+0.384615 ##uw8(women s)	#uw8(women s)	750
+0.0588235 ##uw8(s issue)	#uw8(s issues)	750
+0.125 ##uw8(issue pay)	#uw8(issues pay)	750
+0.125 ##uw8(pay equity)	#uw8(pay equity)	750
+0.0588235 ##uw8(equity abort)	#uw8(equity abortion)	750
+0.0588235 ##uw8(abort title)	#uw8(abortion Title)	750
+0.0588235 ##uw8(title ix)	#uw8(Title IX)	750
+0.0588235 ##uw8(ix violence)	#uw8(IX violence)	750
+1.25 ##uw8(violence women)	#uw8(violence women)	750

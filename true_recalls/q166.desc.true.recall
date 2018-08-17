@@ -1,0 +1,10 @@
+2.11111 #standard	Standardized	166
+8.33333 #test	testing	166
+0.272727 #cultural	cultural	166
+1.8 #bias	bias	166
+1.15385 ##1(standard test)	#1(Standardized testing)	166
+0.037037 ##1(test cultural)	#1(testing cultural)	166
+0.217391 ##1(cultural bias)	#1(cultural bias)	166
+1.33333 ##uw8(standard test)	#uw8(Standardized testing)	166
+0.217391 ##uw8(test cultural)	#uw8(testing cultural)	166
+0.272727 ##uw8(cultural bias)	#uw8(cultural bias)	166

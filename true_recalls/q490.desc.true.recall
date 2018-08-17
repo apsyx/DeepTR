@@ -1,0 +1,13 @@
+6 #law	laws	490
+1.03226 #govern	governing	490
+4.72727 #motorcycle	motorcycle	490
+1.42308 #safety	safety	490
+20 #helmet	helmets	490
+0.016129 ##1(law govern)	#1(laws governing)	490
+0.016129 ##1(govern motorcycle)	#1(governing motorcycle)	490
+0.105263 ##1(motorcycle safety)	#1(motorcycle safety)	490
+0.0862069 ##1(safety helmet)	#1(safety helmets)	490
+0.0862069 ##uw8(law govern)	#uw8(laws governing)	490
+0.05 ##uw8(govern motorcycle)	#uw8(governing motorcycle)	490
+0.340426 ##uw8(motorcycle safety)	#uw8(motorcycle safety)	490
+0.285714 ##uw8(safety helmet)	#uw8(safety helmets)	490

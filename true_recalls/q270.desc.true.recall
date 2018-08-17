@@ -1,0 +1,31 @@
+3.06897 #food	Food	270
+2.57576 #drug	Drug	270
+0.815385 #administrate	Administration	270
+1.26923 #fda	FDA	270
+0.0925926 #exercise	exercise	270
+0.0172414 #stringent	stringent	270
+0.404762 #control	control	270
+1.31373 #label	labelling	270
+0.372093 #sale	sale	270
+3.06897 #food	food	270
+15.8571 #supplement	supplements	270
+0.282609 ##1(food drug)	#1(Food Drug)	270
+0.594595 ##1(drug administrate)	#1(Drug Administration)	270
+0.216495 ##1(administrate fda)	#1(Administration FDA)	270
+0.00854701 ##1(fda exercise)	#1(FDA exercise)	270
+0.00854701 ##1(exercise stringent)	#1(exercise stringent)	270
+0.00854701 ##1(stringent control)	#1(stringent control)	270
+0.00854701 ##1(control label)	#1(control labelling)	270
+0.00854701 ##1(label sale)	#1(labelling sale)	270
+0.00854701 ##1(sale food)	#1(sale food)	270
+0.12381 ##1(food supplement)	#1(food supplements)	270
+1.07018 ##uw8(food drug)	#uw8(Food Drug)	270
+0.661972 ##uw8(drug administrate)	#uw8(Drug Administration)	270
+0.229167 ##uw8(administrate fda)	#uw8(Administration FDA)	270
+0.00854701 ##uw8(fda exercise)	#uw8(FDA exercise)	270
+0.00854701 ##uw8(exercise stringent)	#uw8(exercise stringent)	270
+0.00854701 ##uw8(stringent control)	#uw8(stringent control)	270
+0.00854701 ##uw8(control label)	#uw8(control labelling)	270
+0.0727273 ##uw8(label sale)	#uw8(labelling sale)	270
+0.134615 ##uw8(sale food)	#uw8(sale food)	270
+0.573333 ##uw8(food supplement)	#uw8(food supplements)	270

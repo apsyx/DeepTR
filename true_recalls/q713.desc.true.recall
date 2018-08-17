@@ -1,0 +1,13 @@
+46.3334 #state	state	713
+93.6667 #maryland	Maryland	713
+3.50794 #clean	clean	713
+141 #chesapeake	Chesapeake	713
+282.999 #bay	Bay	713
+0.0839695 ##1(state maryland)	#1(state Maryland)	713
+0.378641 ##1(maryland clean)	#1(Maryland clean)	713
+0.0327273 ##1(clean chesapeake)	#1(clean Chesapeake)	713
+46.3334 ##1(chesapeake bay)	#1(Chesapeake Bay)	713
+1.86869 ##uw8(state maryland)	#uw8(state Maryland)	713
+0.690476 ##uw8(maryland clean)	#uw8(Maryland clean)	713
+0.296804 ##uw8(clean chesapeake)	#uw8(clean Chesapeake)	713
+93.6667 ##uw8(chesapeake bay)	#uw8(Chesapeake Bay)	713

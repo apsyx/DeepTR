@@ -1,0 +1,10 @@
+0.526316 #relationship	relationship	826
+85.9998 #seminole	Seminole	826
+18.3333 #indian	Indians	826
+33.8 #florida	Florida	826
+0.00578035 ##1(relationship seminole)	#1(relationship Seminole)	826
+0.831579 ##1(seminole indian)	#1(Seminole Indians)	826
+0.0235294 ##1(indian florida)	#1(Indians Florida)	826
+0.0175439 ##uw8(relationship seminole)	#uw8(relationship Seminole)	826
+2.95455 ##uw8(seminole indian)	#uw8(Seminole Indians)	826
+2.10714 ##uw8(indian florida)	#uw8(Indians Florida)	826

@@ -1,0 +1,13 @@
+0.166667 #description	descriptions	540
+1.33333 #study	studies	540
+0.166667 #correlate	correlate	540
+13 #stress	stress	540
+1.8 #obese	obesity	540
+0.0769231 ##1(description study)	#1(descriptions studies)	540
+0.0769231 ##1(study correlate)	#1(studies correlate)	540
+0.0769231 ##1(correlate stress)	#1(correlate stress)	540
+0.0769231 ##1(stress obese)	#1(stress obesity)	540
+0.0769231 ##uw8(description study)	#uw8(descriptions studies)	540
+0.0769231 ##uw8(study correlate)	#uw8(studies correlate)	540
+0.0769231 ##uw8(correlate stress)	#uw8(correlate stress)	540
+0.4 ##uw8(stress obese)	#uw8(stress obesity)	540

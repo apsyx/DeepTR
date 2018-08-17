@@ -1,0 +1,28 @@
+0.0357143 #information	information	625
+1.07143 #arrest	arrest	625
+0.705882 #convict	conviction	625
+13.5 #bomb	bombers	625
+28 #world	World	625
+28 #trade	Trade	625
+0.611111 #center	Center	625
+0.0740741 #wtc	WTC	625
+0.318182 #february	February	625
+0.0740741 #1993	1993	625
+0.0357143 ##1(information arrest)	#1(information arrest)	625
+0.0357143 ##1(arrest convict)	#1(arrest conviction)	625
+0.0357143 ##1(convict bomb)	#1(conviction bombers)	625
+0.0740741 ##1(bomb world)	#1(bombers World)	625
+28 ##1(world trade)	#1(World Trade)	625
+0.611111 ##1(trade center)	#1(Trade Center)	625
+0.0357143 ##1(center wtc)	#1(Center WTC)	625
+0.0357143 ##1(wtc february)	#1(WTC February)	625
+0.0357143 ##1(february 1993)	#1(February 1993)	625
+0.0357143 ##uw8(information arrest)	#uw8(information arrest)	625
+0.0357143 ##uw8(arrest convict)	#uw8(arrest conviction)	625
+0.16 ##uw8(convict bomb)	#uw8(conviction bombers)	625
+4.8 ##uw8(bomb world)	#uw8(bombers World)	625
+28 ##uw8(world trade)	#uw8(World Trade)	625
+0.611111 ##uw8(trade center)	#uw8(Trade Center)	625
+0.0357143 ##uw8(center wtc)	#uw8(Center WTC)	625
+0.0357143 ##uw8(wtc february)	#uw8(WTC February)	625
+0.0740741 ##uw8(february 1993)	#uw8(February 1993)	625

@@ -1,0 +1,7 @@
+14.5 #map	maps	2044
+14.5 #unite	United	2044
+30 #state	States	2044
+0.409091 ##1(map unite)	#1(maps United)	2044
+14.5 ##1(unite state)	#1(United States)	2044
+5.2 ##uw8(map unite)	#uw8(maps United)	2044
+14.5 ##uw8(unite state)	#uw8(United States)	2044

@@ -1,0 +1,28 @@
+0.310345 #kind	kinds	465
+37 #disease	diseases	465
+1.92308 #infect	infect	465
+2.45455 #human	humans	465
+0.357143 #due	due	465
+0.727273 #contact	contact	465
+11.6667 #deer	deer	465
+0.027027 #consumption	consumption	465
+11.6667 #deer	deer	465
+0.117647 #meat	meat	465
+0.027027 ##1(kind disease)	#1(kinds diseases)	465
+0.027027 ##1(disease infect)	#1(diseases infect)	465
+0.117647 ##1(infect human)	#1(infect humans)	465
+0.027027 ##1(human due)	#1(humans due)	465
+0.027027 ##1(due contact)	#1(due contact)	465
+0.027027 ##1(contact deer)	#1(contact deer)	465
+0.027027 ##1(deer consumption)	#1(deer consumption)	465
+0.027027 ##1(consumption deer)	#1(consumption deer)	465
+0.0555556 ##1(deer meat)	#1(deer meat)	465
+0.0555556 ##uw8(kind disease)	#uw8(kinds diseases)	465
+0.727273 ##uw8(disease infect)	#uw8(diseases infect)	465
+0.266667 ##uw8(infect human)	#uw8(infect humans)	465
+0.0555556 ##uw8(human due)	#uw8(humans due)	465
+0.027027 ##uw8(due contact)	#uw8(due contact)	465
+0.027027 ##uw8(contact deer)	#uw8(contact deer)	465
+0.027027 ##uw8(deer consumption)	#uw8(deer consumption)	465
+0.027027 ##uw8(consumption deer)	#uw8(consumption deer)	465
+0.0857143 ##uw8(deer meat)	#uw8(deer meat)	465

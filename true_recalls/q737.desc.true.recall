@@ -1,0 +1,22 @@
+0.468354 #allegation	allegations	737
+1.69767 #made	made	737
+230.999 #enron	Enron	737
+1.34343 #s	s	737
+0.0265487 #culpable	culpability	737
+13.5 #california	California	737
+230.999 #energy	Energy	737
+7 #crisis	crisis	737
+0.0220264 ##1(allegation made)	#1(allegations made)	737
+0.0131004 ##1(made enron)	#1(made Enron)	737
+0.177665 ##1(enron s)	#1(Enron s)	737
+0.004329 ##1(s culpable)	#1(s culpability)	737
+0.004329 ##1(culpable california)	#1(culpability California)	737
+1.12844 ##1(california energy)	#1(California Energy)	737
+2.22222 ##1(energy crisis)	#1(Energy crisis)	737
+0.0545455 ##uw8(allegation made)	#uw8(allegations made)	737
+0.281768 ##uw8(made enron)	#uw8(made Enron)	737
+0.274725 ##uw8(enron s)	#uw8(Enron s)	737
+0.0131004 ##uw8(s culpable)	#uw8(s culpability)	737
+0.004329 ##uw8(culpable california)	#uw8(culpability California)	737
+3.37736 ##uw8(california energy)	#uw8(California Energy)	737
+2.46269 ##uw8(energy crisis)	#uw8(Energy crisis)	737

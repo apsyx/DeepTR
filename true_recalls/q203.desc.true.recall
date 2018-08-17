@@ -1,0 +1,10 @@
+0.346154 #economic	economic	203
+0.129032 #impact	impact	203
+4 #recycle	recycling	203
+3.375 #tire	tires	203
+0.0294118 ##1(economic impact)	#1(economic impact)	203
+0.0294118 ##1(impact recycle)	#1(impact recycling)	203
+0.09375 ##1(recycle tire)	#1(recycling tires)	203
+0.0294118 ##uw8(economic impact)	#uw8(economic impact)	203
+0.0294118 ##uw8(impact recycle)	#uw8(impact recycling)	203
+0.521739 ##uw8(recycle tire)	#uw8(recycling tires)	203

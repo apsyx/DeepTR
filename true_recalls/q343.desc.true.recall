@@ -1,0 +1,37 @@
+0.0196078 #instance	instances	343
+0.319797 #civilian	civilian	343
+0.870504 #policeman	policeman	343
+9.83333 #kill	killed	343
+0.0116732 #performance	performance	343
+0.244019 #duty	duty	343
+0.0569106 #associate	association	343
+0.023622 #occupation	occupation	343
+0.003861 #eg	eg	343
+9.83333 #kill	killed	343
+0.333333 #gun	gun	343
+0.0878661 #keep	keep	343
+0.0655738 #testify	testifying	343
+0.003861 ##1(instance civilian)	#1(instances civilian)	343
+0.015625 ##1(civilian policeman)	#1(civilian policeman)	343
+0.0358566 ##1(policeman kill)	#1(policeman killed)	343
+0.003861 ##1(kill performance)	#1(killed performance)	343
+0.003861 ##1(performance duty)	#1(performance duty)	343
+0.003861 ##1(duty associate)	#1(duty association)	343
+0.003861 ##1(associate occupation)	#1(association occupation)	343
+0.003861 ##1(occupation eg)	#1(occupation eg)	343
+0.003861 ##1(eg kill)	#1(eg killed)	343
+0.003861 ##1(kill gun)	#1(killed gun)	343
+0.003861 ##1(gun keep)	#1(gun keep)	343
+0.003861 ##1(keep testify)	#1(keep testifying)	343
+0.003861 ##uw8(instance civilian)	#uw8(instances civilian)	343
+0.0526316 ##uw8(civilian policeman)	#uw8(civilian policeman)	343
+0.368421 ##uw8(policeman kill)	#uw8(policeman killed)	343
+0.00775194 ##uw8(kill performance)	#uw8(killed performance)	343
+0.00775194 ##uw8(performance duty)	#uw8(performance duty)	343
+0.00775194 ##uw8(duty associate)	#uw8(duty association)	343
+0.003861 ##uw8(associate occupation)	#uw8(association occupation)	343
+0.003861 ##uw8(occupation eg)	#uw8(occupation eg)	343
+0.003861 ##uw8(eg kill)	#uw8(eg killed)	343
+0.0483871 ##uw8(kill gun)	#uw8(killed gun)	343
+0.0116732 ##uw8(gun keep)	#uw8(gun keep)	343
+0.003861 ##uw8(keep testify)	#uw8(keep testifying)	343

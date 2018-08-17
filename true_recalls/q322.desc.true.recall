@@ -1,0 +1,19 @@
+0.0285714 #isolate	Isolate	322
+0.0909091 #instance	instances	322
+1.4 #fraud	fraud	322
+0.125 #embezzle	embezzlement	322
+0.16129 #international	international	322
+11 #art	art	322
+0.16129 #trade	trade	322
+0.0285714 ##1(isolate instance)	#1(Isolate instances)	322
+0.0285714 ##1(instance fraud)	#1(instances fraud)	322
+0.0285714 ##1(fraud embezzle)	#1(fraud embezzlement)	322
+0.0285714 ##1(embezzle international)	#1(embezzlement international)	322
+0.0588235 ##1(international art)	#1(international art)	322
+0.0588235 ##1(art trade)	#1(art trade)	322
+0.0285714 ##uw8(isolate instance)	#uw8(Isolate instances)	322
+0.0285714 ##uw8(instance fraud)	#uw8(instances fraud)	322
+0.0588235 ##uw8(fraud embezzle)	#uw8(fraud embezzlement)	322
+0.0285714 ##uw8(embezzle international)	#uw8(embezzlement international)	322
+0.0588235 ##uw8(international art)	#uw8(international art)	322
+0.0588235 ##uw8(art trade)	#uw8(art trade)	322

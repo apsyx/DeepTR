@@ -1,0 +1,16 @@
+0.428571 #item	items	534
+0.111111 #referenc	referencing	534
+4 #artist	artists	534
+1 #die	died	534
+0.25 #1700	1700	534
+0.428571 #s	s	534
+0.111111 ##1(item referenc)	#1(items referencing)	534
+0.111111 ##1(referenc artist)	#1(referencing artists)	534
+0.111111 ##1(artist die)	#1(artists died)	534
+0.111111 ##1(die 1700)	#1(died 1700)	534
+0.111111 ##1(1700 s)	#1(1700 s)	534
+0.111111 ##uw8(item referenc)	#uw8(items referencing)	534
+0.111111 ##uw8(referenc artist)	#uw8(referencing artists)	534
+0.111111 ##uw8(artist die)	#uw8(artists died)	534
+0.111111 ##uw8(die 1700)	#uw8(died 1700)	534
+0.111111 ##uw8(1700 s)	#uw8(1700 s)	534

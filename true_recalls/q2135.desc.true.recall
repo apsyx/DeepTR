@@ -1,0 +1,13 @@
+3 #play	play	2135
+3 #board	board	2135
+3 #game	game	2135
+3 #source	Source	2135
+3 #nile	Nile	2135
+0.333333 ##1(play board)	#1(play board)	2135
+3 ##1(board game)	#1(board game)	2135
+0.333333 ##1(game source)	#1(game Source)	2135
+0.333333 ##1(source nile)	#1(Source Nile)	2135
+0.333333 ##uw8(play board)	#uw8(play board)	2135
+3 ##uw8(board game)	#uw8(board game)	2135
+3 ##uw8(game source)	#uw8(game Source)	2135
+3 ##uw8(source nile)	#uw8(Source Nile)	2135

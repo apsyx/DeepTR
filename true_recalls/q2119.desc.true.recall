@@ -1,0 +1,16 @@
+2.25 #help	help	2119
+7.66667 #write	writing	2119
+12 #thank	thank	2119
+25 #letter	letter	2119
+12 #job	job	2119
+12 #interview	interview	2119
+0.04 ##1(help write)	#1(help writing)	2119
+0.368421 ##1(write thank)	#1(writing thank)	2119
+0.04 ##1(thank letter)	#1(thank letter)	2119
+0.444444 ##1(letter job)	#1(letter job)	2119
+1.16667 ##1(job interview)	#1(job interview)	2119
+0.181818 ##uw8(help write)	#uw8(help writing)	2119
+2.25 ##uw8(write thank)	#uw8(writing thank)	2119
+5.5 ##uw8(thank letter)	#uw8(thank letter)	2119
+3.33333 ##uw8(letter job)	#uw8(letter job)	2119
+5.5 ##uw8(job interview)	#uw8(job interview)	2119

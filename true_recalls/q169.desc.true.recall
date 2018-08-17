@@ -1,0 +1,10 @@
+4.61905 #cost	Cost	169
+1.51064 #garbage	Garbage	169
+1.03448 #trash	Trash	169
+0.229167 #removal	Removal	169
+0.00854701 ##1(cost garbage)	#1(Cost Garbage)	169
+0.00854701 ##1(garbage trash)	#1(Garbage Trash)	169
+0.0172414 ##1(trash removal)	#1(Trash Removal)	169
+0.145631 ##uw8(cost garbage)	#uw8(Cost Garbage)	169
+0.168317 ##uw8(garbage trash)	#uw8(Garbage Trash)	169
+0.0172414 ##uw8(trash removal)	#uw8(Trash Removal)	169

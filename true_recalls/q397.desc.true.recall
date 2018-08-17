@@ -1,0 +1,7 @@
+0.0357143 #reason	reasons	397
+0.115385 #automobile	automobile	397
+28 #recall	recalls	397
+0.0357143 ##1(reason automobile)	#1(reasons automobile)	397
+0.0357143 ##1(automobile recall)	#1(automobile recalls)	397
+0.0357143 ##uw8(reason automobile)	#uw8(reasons automobile)	397
+0.0357143 ##uw8(automobile recall)	#uw8(automobile recalls)	397

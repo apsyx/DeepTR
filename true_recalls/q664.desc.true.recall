@@ -1,0 +1,13 @@
+0.571429 #plan	plans	664
+4.5 #national	National	664
+10 #museum	Museum	664
+10 #america	American	664
+10 #indian	Indian	664
+0.1 ##1(plan national)	#1(plans National)	664
+1.75 ##1(national museum)	#1(National Museum)	664
+0.1 ##1(museum america)	#1(Museum American)	664
+10 ##1(america indian)	#1(American Indian)	664
+0.1 ##uw8(plan national)	#uw8(plans National)	664
+4.5 ##uw8(national museum)	#uw8(National Museum)	664
+10 ##uw8(museum america)	#uw8(Museum American)	664
+10 ##uw8(america indian)	#uw8(American Indian)	664

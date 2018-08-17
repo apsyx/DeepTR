@@ -1,0 +1,19 @@
+16 #spammer	spammers	716
+0.478261 #arrest	arrested	716
+1.06061 #sue	sued	716
+3.85714 #send	sending	716
+1.42857 #unsolicited	unsolicited	716
+5.18182 #e	e	716
+7.5 #mail	mail	716
+0.030303 ##1(spammer arrest)	#1(spammers arrested)	716
+0.0149254 ##1(arrest sue)	#1(arrested sued)	716
+0.0149254 ##1(sue send)	#1(sued sending)	716
+0.259259 ##1(send unsolicited)	#1(sending unsolicited)	716
+0.36 ##1(unsolicited e)	#1(unsolicited e)	716
+3.85714 ##1(e mail)	#1(e mail)	716
+0.0793651 ##uw8(spammer arrest)	#uw8(spammers arrested)	716
+0.0149254 ##uw8(arrest sue)	#uw8(arrested sued)	716
+0.0461538 ##uw8(sue send)	#uw8(sued sending)	716
+0.511111 ##uw8(send unsolicited)	#uw8(sending unsolicited)	716
+0.942857 ##uw8(unsolicited e)	#uw8(unsolicited e)	716
+3.85714 ##uw8(e mail)	#uw8(e mail)	716

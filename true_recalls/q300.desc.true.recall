@@ -1,0 +1,52 @@
+0.0222222 #relevant	relevant	300
+0.0454545 #item	item	300
+0.243243 #concern	concern	300
+0.243243 #commercial	commercial	300
+2.83333 #airline	airline	300
+1.42105 #accident	accident	300
+0.179487 #world	world	300
+0.243243 #consider	consider	300
+0.0222222 #outright	outright	300
+0.0952381 #attribute	attribute	300
+0.0222222 #casualty	casualty	300
+0.0697674 #difficulty	difficulty	300
+0.121951 #mechanic	mechanical	300
+0.15 #human	human	300
+45 #air	air	300
+10.5 #traffic	traffic	300
+1.70588 #control	control	300
+0.4375 #system	system	300
+0.0222222 ##1(relevant item)	#1(relevant item)	300
+0.0222222 ##1(item concern)	#1(item concern)	300
+0.0222222 ##1(concern commercial)	#1(concern commercial)	300
+0.15 ##1(commercial airline)	#1(commercial airline)	300
+0.0222222 ##1(airline accident)	#1(airline accident)	300
+0.0222222 ##1(accident world)	#1(accident world)	300
+0.0222222 ##1(world consider)	#1(world consider)	300
+0.0222222 ##1(consider outright)	#1(consider outright)	300
+0.0222222 ##1(outright attribute)	#1(outright attribute)	300
+0.0222222 ##1(attribute casualty)	#1(attribute casualty)	300
+0.0222222 ##1(casualty difficulty)	#1(casualty difficulty)	300
+0.0222222 ##1(difficulty mechanic)	#1(difficulty mechanical)	300
+0.0222222 ##1(mechanic human)	#1(mechanical human)	300
+0.0222222 ##1(human air)	#1(human air)	300
+10.5 ##1(air traffic)	#1(air traffic)	300
+0.642857 ##1(traffic control)	#1(traffic control)	300
+0.0697674 ##1(control system)	#1(control system)	300
+0.0222222 ##uw8(relevant item)	#uw8(relevant item)	300
+0.0222222 ##uw8(item concern)	#uw8(item concern)	300
+0.0222222 ##uw8(concern commercial)	#uw8(concern commercial)	300
+0.15 ##uw8(commercial airline)	#uw8(commercial airline)	300
+0.15 ##uw8(airline accident)	#uw8(airline accident)	300
+0.0222222 ##uw8(accident world)	#uw8(accident world)	300
+0.0222222 ##uw8(world consider)	#uw8(world consider)	300
+0.0222222 ##uw8(consider outright)	#uw8(consider outright)	300
+0.0222222 ##uw8(outright attribute)	#uw8(outright attribute)	300
+0.0222222 ##uw8(attribute casualty)	#uw8(attribute casualty)	300
+0.0222222 ##uw8(casualty difficulty)	#uw8(casualty difficulty)	300
+0.0222222 ##uw8(difficulty mechanic)	#uw8(difficulty mechanical)	300
+0.0222222 ##uw8(mechanic human)	#uw8(mechanical human)	300
+0.0222222 ##uw8(human air)	#uw8(human air)	300
+10.5 ##uw8(air traffic)	#uw8(air traffic)	300
+0.703704 ##uw8(traffic control)	#uw8(traffic control)	300
+0.179487 ##uw8(control system)	#uw8(control system)	300

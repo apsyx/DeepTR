@@ -1,0 +1,19 @@
+0.548387 #report	report	326
+47 #ferry	ferry	326
+2.42857 #sink	sinking	326
+0.116279 #100	100	326
+1 #people	people	326
+0.263158 #lost	lost	326
+3 #live	lives	326
+0.0212766 ##1(report ferry)	#1(report ferry)	326
+0.142857 ##1(ferry sink)	#1(ferry sinking)	326
+0.0212766 ##1(sink 100)	#1(sinking 100)	326
+0.0666667 ##1(100 people)	#1(100 people)	326
+0.0212766 ##1(people lost)	#1(people lost)	326
+0.0212766 ##1(lost live)	#1(lost lives)	326
+0.142857 ##uw8(report ferry)	#uw8(report ferry)	326
+0.777778 ##uw8(ferry sink)	#uw8(ferry sinking)	326
+0.0434783 ##uw8(sink 100)	#uw8(sinking 100)	326
+0.0666667 ##uw8(100 people)	#uw8(100 people)	326
+0.0212766 ##uw8(people lost)	#uw8(people lost)	326
+0.142857 ##uw8(lost live)	#uw8(lost lives)	326

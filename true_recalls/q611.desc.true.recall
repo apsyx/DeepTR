@@ -1,0 +1,28 @@
+0.758621 #violent	violent	611
+0.275 #activity	activities	611
+5.375 #kurd	Kurds	611
+0.645161 #member	members	611
+2.92308 #work	Workers	611
+6.28571 #party	Party	611
+2.4 #kurdistan	Kurdistan	611
+2.4 #pkk	PKK	611
+0.457143 #carry	carried	611
+7.5 #germany	Germany	611
+0.0408163 ##1(violent activity)	#1(violent activities)	611
+0.02 ##1(activity kurd)	#1(activities Kurds)	611
+0.02 ##1(kurd member)	#1(Kurds members)	611
+0.02 ##1(member work)	#1(members Workers)	611
+2.64286 ##1(work party)	#1(Workers Party)	611
+0.02 ##1(party kurdistan)	#1(Party Kurdistan)	611
+0.961538 ##1(kurdistan pkk)	#1(Kurdistan PKK)	611
+0.02 ##1(pkk carry)	#1(PKK carried)	611
+0.02 ##1(carry germany)	#1(carried Germany)	611
+0.0408163 ##uw8(violent activity)	#uw8(violent activities)	611
+0.02 ##uw8(activity kurd)	#uw8(activities Kurds)	611
+0.0408163 ##uw8(kurd member)	#uw8(Kurds members)	611
+0.0625 ##uw8(member work)	#uw8(members Workers)	611
+2.64286 ##uw8(work party)	#uw8(Workers Party)	611
+2 ##uw8(party kurdistan)	#uw8(Party Kurdistan)	611
+1.83333 ##uw8(kurdistan pkk)	#uw8(Kurdistan PKK)	611
+0.0851064 ##uw8(pkk carry)	#uw8(PKK carried)	611
+0.02 ##uw8(carry germany)	#uw8(carried Germany)	611

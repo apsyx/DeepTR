@@ -1,0 +1,55 @@
+0.6 #fiber	Fiber	320
+7 #optic	optic	320
+7 #link	link	320
+7 #globe	globe	320
+7 #flag	Flag	320
+3 #world	world	320
+0.142857 #s	s	320
+1 #longest	longest	320
+0.6 #undersea	undersea	320
+0.6 #fiber	fiber	320
+7 #optic	optic	320
+7 #cable	cable	320
+0.142857 #s	s	320
+0.333333 #involve	involved	320
+0.142857 #extensive	extensive	320
+0.142857 #technology	technology	320
+1.66667 #system	system	320
+0.142857 #problem	problems	320
+0.142857 #exist	exist	320
+0.333333 ##1(fiber optic)	#1(Fiber optic)	320
+0.6 ##1(optic link)	#1(optic link)	320
+0.142857 ##1(link globe)	#1(link globe)	320
+0.6 ##1(globe flag)	#1(globe Flag)	320
+0.142857 ##1(flag world)	#1(Flag world)	320
+0.142857 ##1(world s)	#1(world s)	320
+0.142857 ##1(s longest)	#1(s longest)	320
+0.333333 ##1(longest undersea)	#1(longest undersea)	320
+0.142857 ##1(undersea fiber)	#1(undersea fiber)	320
+0.333333 ##1(fiber optic)	#1(fiber optic)	320
+0.6 ##1(optic cable)	#1(optic cable)	320
+0.142857 ##1(cable s)	#1(cable s)	320
+0.142857 ##1(s involve)	#1(s involved)	320
+0.142857 ##1(involve extensive)	#1(involved extensive)	320
+0.142857 ##1(extensive technology)	#1(extensive technology)	320
+0.142857 ##1(technology system)	#1(technology system)	320
+0.142857 ##1(system problem)	#1(system problems)	320
+0.142857 ##1(problem exist)	#1(problems exist)	320
+0.6 ##uw8(fiber optic)	#uw8(Fiber optic)	320
+3 ##uw8(optic link)	#uw8(optic link)	320
+7 ##uw8(link globe)	#uw8(link globe)	320
+3 ##uw8(globe flag)	#uw8(globe Flag)	320
+0.6 ##uw8(flag world)	#uw8(Flag world)	320
+0.142857 ##uw8(world s)	#uw8(world s)	320
+0.142857 ##uw8(s longest)	#uw8(s longest)	320
+0.333333 ##uw8(longest undersea)	#uw8(longest undersea)	320
+0.142857 ##uw8(undersea fiber)	#uw8(undersea fiber)	320
+0.6 ##uw8(fiber optic)	#uw8(fiber optic)	320
+3 ##uw8(optic cable)	#uw8(optic cable)	320
+0.142857 ##uw8(cable s)	#uw8(cable s)	320
+0.142857 ##uw8(s involve)	#uw8(s involved)	320
+0.142857 ##uw8(involve extensive)	#uw8(involved extensive)	320
+0.142857 ##uw8(extensive technology)	#uw8(extensive technology)	320
+0.142857 ##uw8(technology system)	#uw8(technology system)	320
+0.142857 ##uw8(system problem)	#uw8(system problems)	320
+0.142857 ##uw8(problem exist)	#uw8(problems exist)	320

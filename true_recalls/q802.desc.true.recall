@@ -1,0 +1,13 @@
+1.24658 #impact	impact	802
+6.13044 #volcano	volcano	802
+53.6667 #eruption	eruptions	802
+26.3333 #global	global	802
+15.4 #temperature	temperature	802
+0.00613497 ##1(impact volcano)	#1(impact volcano)	802
+0.051282 ##1(volcano eruption)	#1(volcano eruptions)	802
+0.0649351 ##1(eruption global)	#1(eruptions global)	802
+0.885058 ##1(global temperature)	#1(global temperature)	802
+0.100671 ##uw8(impact volcano)	#uw8(impact volcano)	802
+1.21622 ##uw8(volcano eruption)	#uw8(volcano eruptions)	802
+0.842697 ##uw8(eruption global)	#uw8(eruptions global)	802
+2.03704 ##uw8(global temperature)	#uw8(global temperature)	802

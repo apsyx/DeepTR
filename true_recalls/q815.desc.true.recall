@@ -1,0 +1,13 @@
+0.236364 #account	accounts	815
+0.346535 #actual	actual	815
+135 #coast	Coast	815
+135 #guard	Guard	815
+66.9999 #rescue	rescues	815
+0.00740741 ##1(account actual)	#1(accounts actual)	815
+0.00740741 ##1(actual coast)	#1(actual Coast)	815
+135 ##1(coast guard)	#1(Coast Guard)	815
+0.387755 ##1(guard rescue)	#1(Guard rescues)	815
+0.030303 ##uw8(account actual)	#uw8(accounts actual)	815
+0.0381679 ##uw8(actual coast)	#uw8(actual Coast)	815
+135 ##uw8(coast guard)	#uw8(Coast Guard)	815
+3.53333 ##uw8(guard rescue)	#uw8(Guard rescues)	815

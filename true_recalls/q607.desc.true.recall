@@ -1,0 +1,22 @@
+0.444444 #progress	progress	607
+2.25 #made	made	607
+0.857143 #effort	effort	607
+1.6 #map	map	607
+0.857143 #sequence	sequence	607
+12 #human	human	607
+5.5 #genetic	genetic	607
+0.857143 #code	code	607
+0.181818 ##1(progress made)	#1(progress made)	607
+0.0833333 ##1(made effort)	#1(made effort)	607
+0.0833333 ##1(effort map)	#1(effort map)	607
+0.0833333 ##1(map sequence)	#1(map sequence)	607
+0.0833333 ##1(sequence human)	#1(sequence human)	607
+0.444444 ##1(human genetic)	#1(human genetic)	607
+0.625 ##1(genetic code)	#1(genetic code)	607
+0.181818 ##uw8(progress made)	#uw8(progress made)	607
+0.181818 ##uw8(made effort)	#uw8(made effort)	607
+0.0833333 ##uw8(effort map)	#uw8(effort map)	607
+0.0833333 ##uw8(map sequence)	#uw8(map sequence)	607
+0.3 ##uw8(sequence human)	#uw8(sequence human)	607
+1.16667 ##uw8(human genetic)	#uw8(human genetic)	607
+0.625 ##uw8(genetic code)	#uw8(genetic code)	607

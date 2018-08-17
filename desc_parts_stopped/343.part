@@ -1,0 +1,37 @@
+instances
+civilian
+policeman
+killed
+performance
+duty
+association
+occupation
+eg
+killed
+gun
+keep
+testifying
+#1(instances civilian)
+#1(civilian policeman)
+#1(policeman killed)
+#1(killed performance)
+#1(performance duty)
+#1(duty association)
+#1(association occupation)
+#1(occupation eg)
+#1(eg killed)
+#1(killed gun)
+#1(gun keep)
+#1(keep testifying)
+#uw8(instances civilian)
+#uw8(civilian policeman)
+#uw8(policeman killed)
+#uw8(killed performance)
+#uw8(performance duty)
+#uw8(duty association)
+#uw8(association occupation)
+#uw8(occupation eg)
+#uw8(eg killed)
+#uw8(killed gun)
+#uw8(gun keep)
+#uw8(keep testifying)

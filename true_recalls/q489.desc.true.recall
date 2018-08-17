@@ -1,0 +1,19 @@
+2.33333 #member	members	489
+4 #medical	medical	489
+0.111111 #profession	profession	489
+0.25 #view	view	489
+4 #effect	effectiveness	489
+19 #calcium	calcium	489
+19 #supplement	supplements	489
+0.0526316 ##1(member medical)	#1(members medical)	489
+0.111111 ##1(medical profession)	#1(medical profession)	489
+0.0526316 ##1(profession view)	#1(profession view)	489
+0.0526316 ##1(view effect)	#1(view effectiveness)	489
+0.0526316 ##1(effect calcium)	#1(effectiveness calcium)	489
+1.5 ##1(calcium supplement)	#1(calcium supplements)	489
+0.176471 ##uw8(member medical)	#uw8(members medical)	489
+0.111111 ##uw8(medical profession)	#uw8(medical profession)	489
+0.0526316 ##uw8(profession view)	#uw8(profession view)	489
+0.0526316 ##uw8(view effect)	#uw8(view effectiveness)	489
+0.538462 ##uw8(effect calcium)	#uw8(effectiveness calcium)	489
+5.66667 ##uw8(calcium supplement)	#uw8(calcium supplements)	489

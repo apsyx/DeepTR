@@ -1,0 +1,10 @@
+29 #solar	solar	2045
+29 #panel	panels	2045
+1.14286 #company	companies	2045
+1.5 #manufacture	manufacture	2045
+14 ##1(solar panel)	#1(solar panels)	2045
+0.0714286 ##1(panel company)	#1(panels companies)	2045
+0.0344828 ##1(company manufacture)	#1(companies manufacture)	2045
+29 ##uw8(solar panel)	#uw8(solar panels)	2045
+0.2 ##uw8(panel company)	#uw8(panels companies)	2045
+0.2 ##uw8(company manufacture)	#uw8(companies manufacture)	2045

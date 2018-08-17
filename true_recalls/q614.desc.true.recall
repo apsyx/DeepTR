@@ -1,0 +1,34 @@
+3.57143 #genetic	genetically	614
+0.52381 #modify	modified	614
+7 #food	food	614
+1.66667 #product	product	614
+0.684211 #market	market	614
+0.142857 #flavr	Flavr	614
+0.142857 #savr	Savr	614
+0.0666667 #flavor	Flavor	614
+0.142857 #save	Saver	614
+2.55556 #tomato	Tomato	614
+1.90909 #develop	developed	614
+2.2 #calgene	Calgene	614
+0.185185 ##1(genetic modify)	#1(genetically modified)	614
+0.0666667 ##1(modify food)	#1(modified food)	614
+0.391304 ##1(food product)	#1(food product)	614
+0.0322581 ##1(product market)	#1(product market)	614
+0.0322581 ##1(market flavr)	#1(market Flavr)	614
+0.142857 ##1(flavr savr)	#1(Flavr Savr)	614
+0.0322581 ##1(savr flavor)	#1(Savr Flavor)	614
+0.0322581 ##1(flavor save)	#1(Flavor Saver)	614
+0.103448 ##1(save tomato)	#1(Saver Tomato)	614
+0.0666667 ##1(tomato develop)	#1(Tomato developed)	614
+0.0322581 ##1(develop calgene)	#1(developed Calgene)	614
+0.230769 ##uw8(genetic modify)	#uw8(genetically modified)	614
+0.103448 ##uw8(modify food)	#uw8(modified food)	614
+0.6 ##uw8(food product)	#uw8(food product)	614
+0.28 ##uw8(product market)	#uw8(product market)	614
+0.0322581 ##uw8(market flavr)	#uw8(market Flavr)	614
+0.142857 ##uw8(flavr savr)	#uw8(Flavr Savr)	614
+0.0322581 ##uw8(savr flavor)	#uw8(Savr Flavor)	614
+0.0322581 ##uw8(flavor save)	#uw8(Flavor Saver)	614
+0.103448 ##uw8(save tomato)	#uw8(Saver Tomato)	614
+0.454545 ##uw8(tomato develop)	#uw8(Tomato developed)	614
+0.333333 ##uw8(develop calgene)	#uw8(developed Calgene)	614

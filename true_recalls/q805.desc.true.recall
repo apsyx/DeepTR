@@ -1,0 +1,46 @@
+3 #identify	Identify	805
+7 #theft	Theft	805
+7 #passport	Passport	805
+7 #issue	issued	805
+7 #identity	identity	805
+7 #theft	theft	805
+3 #victim	victims	805
+1.66667 #show	show	805
+0.6 #creditor	creditors	805
+7 #law	law	805
+7 #enforcement	enforcement	805
+7 #officer	officers	805
+1 #question	questioning	805
+7 #credit	credit	805
+0.333333 #worthy	worthiness	805
+1.66667 #innocence	innocence	805
+0.142857 ##1(identify theft)	#1(Identify Theft)	805
+1.66667 ##1(theft passport)	#1(Theft Passport)	805
+0.142857 ##1(passport issue)	#1(Passport issued)	805
+0.142857 ##1(issue identity)	#1(issued identity)	805
+7 ##1(identity theft)	#1(identity theft)	805
+1 ##1(theft victim)	#1(theft victims)	805
+0.142857 ##1(victim show)	#1(victims show)	805
+0.142857 ##1(show creditor)	#1(show creditors)	805
+0.333333 ##1(creditor law)	#1(creditors law)	805
+7 ##1(law enforcement)	#1(law enforcement)	805
+1.66667 ##1(enforcement officer)	#1(enforcement officers)	805
+0.142857 ##1(officer question)	#1(officers questioning)	805
+0.142857 ##1(question credit)	#1(questioning credit)	805
+0.333333 ##1(credit worthy)	#1(credit worthiness)	805
+0.142857 ##1(worthy innocence)	#1(worthiness innocence)	805
+0.6 ##uw8(identify theft)	#uw8(Identify Theft)	805
+7 ##uw8(theft passport)	#uw8(Theft Passport)	805
+0.6 ##uw8(passport issue)	#uw8(Passport issued)	805
+1 ##uw8(issue identity)	#uw8(issued identity)	805
+7 ##uw8(identity theft)	#uw8(identity theft)	805
+1.66667 ##uw8(theft victim)	#uw8(theft victims)	805
+0.6 ##uw8(victim show)	#uw8(victims show)	805
+0.333333 ##uw8(show creditor)	#uw8(show creditors)	805
+0.333333 ##uw8(creditor law)	#uw8(creditors law)	805
+7 ##uw8(law enforcement)	#uw8(law enforcement)	805
+1.66667 ##uw8(enforcement officer)	#uw8(enforcement officers)	805
+0.333333 ##uw8(officer question)	#uw8(officers questioning)	805
+0.333333 ##uw8(question credit)	#uw8(questioning credit)	805
+0.333333 ##uw8(credit worthy)	#uw8(credit worthiness)	805
+0.333333 ##uw8(worthy innocence)	#uw8(worthiness innocence)	805

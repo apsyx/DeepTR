@@ -1,0 +1,10 @@
+0.111111 #outlook	outlook	562
+9 #world	world	562
+19 #populate	population	562
+3 #growth	growth	562
+0.0526316 ##1(outlook world)	#1(outlook world)	562
+5.66667 ##1(world populate)	#1(world population)	562
+0.666667 ##1(populate growth)	#1(population growth)	562
+0.0526316 ##uw8(outlook world)	#uw8(outlook world)	562
+9 ##uw8(world populate)	#uw8(world population)	562
+2.33333 ##uw8(populate growth)	#uw8(population growth)	562

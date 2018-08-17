@@ -1,0 +1,13 @@
+6 #weather	weather	2176
+6 #strip	strip	2176
+6 #automobile	automobile	2176
+6 #window	windows	2176
+6 #door	doors	2176
+6 ##1(weather strip)	#1(weather strip)	2176
+0.166667 ##1(strip automobile)	#1(strip automobile)	2176
+0.166667 ##1(automobile window)	#1(automobile windows)	2176
+0.166667 ##1(window door)	#1(windows doors)	2176
+6 ##uw8(weather strip)	#uw8(weather strip)	2176
+0.166667 ##uw8(strip automobile)	#uw8(strip automobile)	2176
+0.166667 ##uw8(automobile window)	#uw8(automobile windows)	2176
+6 ##uw8(window door)	#uw8(windows doors)	2176

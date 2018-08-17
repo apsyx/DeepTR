@@ -1,0 +1,10 @@
+2.58333 #evacuate	Evacuation	293
+0.34375 #citizen	Citizens	293
+2.07143 #military	Military	293
+0.0487805 #1900	1900	293
+0.0238095 ##1(evacuate citizen)	#1(Evacuation Citizens)	293
+0.0238095 ##1(citizen military)	#1(Citizens Military)	293
+0.0238095 ##1(military 1900)	#1(Military 1900)	293
+0.102564 ##uw8(evacuate citizen)	#uw8(Evacuation Citizens)	293
+0.0238095 ##uw8(citizen military)	#uw8(Citizens Military)	293
+0.0238095 ##uw8(military 1900)	#uw8(Military 1900)	293

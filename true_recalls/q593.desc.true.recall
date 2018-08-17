@@ -1,0 +1,19 @@
+2.42857 #bush	Bush	593
+1.66667 #administrate	administration	593
+1.18182 #s	s	593
+2 #policy	policy	593
+23 #human	human	593
+23 #right	rights	593
+23 #china	China	593
+0.6 ##1(bush administrate)	#1(Bush administration)	593
+0.142857 ##1(administrate s)	#1(administration s)	593
+0.0434783 ##1(s policy)	#1(s policy)	593
+0.0434783 ##1(policy human)	#1(policy human)	593
+23 ##1(human right)	#1(human rights)	593
+0.0909091 ##1(right china)	#1(rights China)	593
+0.714286 ##uw8(bush administrate)	#uw8(Bush administration)	593
+0.2 ##uw8(administrate s)	#uw8(administration s)	593
+0.142857 ##uw8(s policy)	#uw8(s policy)	593
+0.0434783 ##uw8(policy human)	#uw8(policy human)	593
+23 ##uw8(human right)	#uw8(human rights)	593
+2 ##uw8(right china)	#uw8(rights China)	593

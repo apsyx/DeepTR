@@ -1,0 +1,13 @@
+1.53846 #safety	safety	696
+0.137931 #hazard	hazards	696
+0.941177 #cosmetic	cosmetic	696
+0.941177 #plastic	plastic	696
+1.75 #surgery	surgery	696
+0.03125 ##1(safety hazard)	#1(safety hazards)	696
+0.03125 ##1(hazard cosmetic)	#1(hazards cosmetic)	696
+0.03125 ##1(cosmetic plastic)	#1(cosmetic plastic)	696
+0.571429 ##1(plastic surgery)	#1(plastic surgery)	696
+0.03125 ##uw8(safety hazard)	#uw8(safety hazards)	696
+0.03125 ##uw8(hazard cosmetic)	#uw8(hazards cosmetic)	696
+0.1 ##uw8(cosmetic plastic)	#uw8(cosmetic plastic)	696
+0.65 ##uw8(plastic surgery)	#uw8(plastic surgery)	696

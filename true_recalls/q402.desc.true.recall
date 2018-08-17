@@ -1,0 +1,40 @@
+0.138889 #happen	happening	402
+0.344262 #field	field	402
+0.322581 #behavioral	behavioral	402
+2.56522 #genetic	genetics	402
+2.28 #study	study	402
+0.863636 #relate	relative	402
+0.344262 #influence	influence	402
+2.56522 #genetic	genetic	402
+0.54717 #environmental	environmental	402
+0.64 #factor	factors	402
+0.822222 #individual	individual	402
+0.15493 #s	s	402
+0.438597 #behavior	behavior	402
+0.261538 #personal	personality	402
+0.0123457 ##1(happen field)	#1(happening field)	402
+0.0123457 ##1(field behavioral)	#1(field behavioral)	402
+0.025 ##1(behavioral genetic)	#1(behavioral genetics)	402
+0.0379747 ##1(genetic study)	#1(genetics study)	402
+0.0123457 ##1(study relate)	#1(study relative)	402
+0.0123457 ##1(relate influence)	#1(relative influence)	402
+0.0123457 ##1(influence genetic)	#1(influence genetic)	402
+0.0123457 ##1(genetic environmental)	#1(genetic environmental)	402
+0.171429 ##1(environmental factor)	#1(environmental factors)	402
+0.0123457 ##1(factor individual)	#1(factors individual)	402
+0.0123457 ##1(individual s)	#1(individual s)	402
+0.0123457 ##1(s behavior)	#1(s behavior)	402
+0.0123457 ##1(behavior personal)	#1(behavior personality)	402
+0.0123457 ##uw8(happen field)	#uw8(happening field)	402
+0.0123457 ##uw8(field behavioral)	#uw8(field behavioral)	402
+0.025 ##uw8(behavioral genetic)	#uw8(behavioral genetics)	402
+0.205882 ##uw8(genetic study)	#uw8(genetics study)	402
+0.025 ##uw8(study relate)	#uw8(study relative)	402
+0.025 ##uw8(relate influence)	#uw8(relative influence)	402
+0.0649351 ##uw8(influence genetic)	#uw8(influence genetic)	402
+0.0933333 ##uw8(genetic environmental)	#uw8(genetic environmental)	402
+0.188406 ##uw8(environmental factor)	#uw8(environmental factors)	402
+0.0379747 ##uw8(factor individual)	#uw8(factors individual)	402
+0.0123457 ##uw8(individual s)	#uw8(individual s)	402
+0.0123457 ##uw8(s behavior)	#uw8(s behavior)	402
+0.0379747 ##uw8(behavior personal)	#uw8(behavior personality)	402

@@ -1,0 +1,13 @@
+1.06977 #tomato	tomato	845
+1.28205 #farm	farming	845
+4.23529 #product	production	845
+88 #new	New	845
+88 #jersey	Jersey	845
+0.0229885 ##1(tomato farm)	#1(tomato farming)	845
+0.219178 ##1(farm product)	#1(farming production)	845
+0.0348837 ##1(product new)	#1(production New)	845
+88 ##1(new jersey)	#1(New Jersey)	845
+0.0348837 ##uw8(tomato farm)	#uw8(tomato farming)	845
+0.435484 ##uw8(farm product)	#uw8(farming production)	845
+0.745098 ##uw8(product new)	#uw8(production New)	845
+88 ##uw8(new jersey)	#uw8(New Jersey)	845

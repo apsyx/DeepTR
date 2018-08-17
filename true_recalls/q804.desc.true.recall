@@ -1,0 +1,25 @@
+0.136095 #resolution	resolutions	804
+0.381295 #propose	proposed	804
+7 #legislate	legislation	804
+1.46154 #pass	passed	804
+13.7692 #ban	ban	804
+191.001 #clone	cloning	804
+191.001 #human	humans	804
+0.0726257 #rationale	rationale	804
+13.7692 #ban	bans	804
+0.0052356 ##1(resolution propose)	#1(resolutions proposed)	804
+0.0549451 ##1(propose legislate)	#1(proposed legislation)	804
+0.0607735 ##1(legislate pass)	#1(legislation passed)	804
+0.0322581 ##1(pass ban)	#1(passed ban)	804
+0.333333 ##1(ban clone)	#1(ban cloning)	804
+2.09677 ##1(clone human)	#1(cloning humans)	804
+0.0052356 ##1(human rationale)	#1(humans rationale)	804
+0.0052356 ##1(rationale ban)	#1(rationale bans)	804
+0.0052356 ##uw8(resolution propose)	#uw8(resolutions proposed)	804
+0.142857 ##uw8(propose legislate)	#uw8(proposed legislation)	804
+0.333333 ##uw8(legislate pass)	#uw8(legislation passed)	804
+0.333333 ##uw8(pass ban)	#uw8(passed ban)	804
+8.6 ##uw8(ban clone)	#uw8(ban cloning)	804
+94.9998 ##uw8(clone human)	#uw8(cloning humans)	804
+0.0052356 ##uw8(human rationale)	#uw8(humans rationale)	804
+0.0052356 ##uw8(rationale ban)	#uw8(rationale bans)	804

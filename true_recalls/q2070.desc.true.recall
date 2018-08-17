@@ -1,0 +1,16 @@
+1 #information	information	2070
+1 #relate	related	2070
+3 #hamlet	Hamlet	2070
+3 #s	s	2070
+1 #famous	famous	2070
+1 #soliloquy	soliloquy	2070
+0.333333 ##1(information relate)	#1(information related)	2070
+0.333333 ##1(relate hamlet)	#1(related Hamlet)	2070
+0.333333 ##1(hamlet s)	#1(Hamlet s)	2070
+0.333333 ##1(s famous)	#1(s famous)	2070
+0.333333 ##1(famous soliloquy)	#1(famous soliloquy)	2070
+0.333333 ##uw8(information relate)	#uw8(information related)	2070
+0.333333 ##uw8(relate hamlet)	#uw8(related Hamlet)	2070
+1 ##uw8(hamlet s)	#uw8(Hamlet s)	2070
+1 ##uw8(s famous)	#uw8(s famous)	2070
+1 ##uw8(famous soliloquy)	#uw8(famous soliloquy)	2070

@@ -1,0 +1,22 @@
+0.1 #effort	efforts	677
+0.375 #made	made	677
+0.1 #stabilize	stabilize	677
+10 #lean	Leaning	677
+10 #tower	Tower	677
+10 #pisa	Pisa	677
+0.1 #successful	successful	677
+0.1 #effort	efforts	677
+0.1 ##1(effort made)	#1(efforts made)	677
+0.1 ##1(made stabilize)	#1(made stabilize)	677
+0.1 ##1(stabilize lean)	#1(stabilize Leaning)	677
+2.66667 ##1(lean tower)	#1(Leaning Tower)	677
+0.1 ##1(tower pisa)	#1(Tower Pisa)	677
+0.1 ##1(pisa successful)	#1(Pisa successful)	677
+0.1 ##1(successful effort)	#1(successful efforts)	677
+0.1 ##uw8(effort made)	#uw8(efforts made)	677
+0.1 ##uw8(made stabilize)	#uw8(made stabilize)	677
+0.1 ##uw8(stabilize lean)	#uw8(stabilize Leaning)	677
+4.5 ##uw8(lean tower)	#uw8(Leaning Tower)	677
+10 ##uw8(tower pisa)	#uw8(Tower Pisa)	677
+0.1 ##uw8(pisa successful)	#uw8(Pisa successful)	677
+0.1 ##uw8(successful effort)	#uw8(successful efforts)	677

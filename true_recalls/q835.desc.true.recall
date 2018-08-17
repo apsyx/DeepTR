@@ -1,0 +1,28 @@
+4.375 #boston	Boston	835
+0.592593 #s	s	835
+6.81818 #central	Central	835
+5.61538 #artery	Artery	835
+42 #project	project	835
+0.686274 #known	known	835
+7.6 #big	Big	835
+5.14286 #dig	Dig	835
+0.0886076 #character	characterized	835
+0.323077 #pork	pork	835
+0.131579 ##1(boston s)	#1(Boston s)	835
+0.0117647 ##1(s central)	#1(s Central)	835
+5.61538 ##1(central artery)	#1(Central Artery)	835
+0.211268 ##1(artery project)	#1(Artery project)	835
+0.0487805 ##1(project known)	#1(project known)	835
+0.0117647 ##1(known big)	#1(known Big)	835
+5.14286 ##1(big dig)	#1(Big Dig)	835
+0.0117647 ##1(dig character)	#1(Dig characterized)	835
+0.0117647 ##1(character pork)	#1(characterized pork)	835
+0.146667 ##uw8(boston s)	#uw8(Boston s)	835
+0.0617284 ##uw8(s central)	#uw8(s Central)	835
+5.61538 ##uw8(central artery)	#uw8(Central Artery)	835
+4.05882 ##uw8(artery project)	#uw8(Artery project)	835
+0.482759 ##uw8(project known)	#uw8(project known)	835
+0.264706 ##uw8(known big)	#uw8(known Big)	835
+5.14286 ##uw8(big dig)	#uw8(Big Dig)	835
+0.0117647 ##uw8(dig character)	#uw8(Dig characterized)	835
+0.0117647 ##uw8(character pork)	#uw8(characterized pork)	835

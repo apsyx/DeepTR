@@ -1,0 +1,13 @@
+0.805556 #evidence	evidence	846
+0.382979 #heredity	heredity	846
+1.6 #play	play	846
+1.95455 #role	role	846
+64 #obese	obesity	846
+0.015625 ##1(evidence heredity)	#1(evidence heredity)	846
+0.015625 ##1(heredity play)	#1(heredity play)	846
+0.031746 ##1(play role)	#1(play role)	846
+0.015625 ##1(role obese)	#1(role obesity)	846
+0.015625 ##uw8(evidence heredity)	#uw8(evidence heredity)	846
+0.0483871 ##uw8(heredity play)	#uw8(heredity play)	846
+1.03125 ##uw8(play role)	#uw8(play role)	846
+0.382979 ##uw8(role obese)	#uw8(role obesity)	846

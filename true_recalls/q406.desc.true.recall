@@ -1,0 +1,31 @@
+0.363636 #done	done	406
+2.75 #treat	treat	406
+0.666667 #symptom	symptoms	406
+14 #parkinson	Parkinson	406
+0.0714286 #s	s	406
+14 #disease	disease	406
+0.0714286 #keep	keep	406
+1.14286 #patient	patient	406
+0.25 #function	functional	406
+0.666667 #long	long	406
+0.875 #possible	possible	406
+0.0714286 ##1(done treat)	#1(done treat)	406
+0.0714286 ##1(treat symptom)	#1(treat symptoms)	406
+0.0714286 ##1(symptom parkinson)	#1(symptoms Parkinson)	406
+0.0714286 ##1(parkinson s)	#1(Parkinson s)	406
+0.0714286 ##1(s disease)	#1(s disease)	406
+0.0714286 ##1(disease keep)	#1(disease keep)	406
+0.0714286 ##1(keep patient)	#1(keep patient)	406
+0.0714286 ##1(patient function)	#1(patient functional)	406
+0.0714286 ##1(function long)	#1(functional long)	406
+0.0714286 ##1(long possible)	#1(long possible)	406
+0.0714286 ##uw8(done treat)	#uw8(done treat)	406
+0.153846 ##uw8(treat symptom)	#uw8(treat symptoms)	406
+0.363636 ##uw8(symptom parkinson)	#uw8(symptoms Parkinson)	406
+0.0714286 ##uw8(parkinson s)	#uw8(Parkinson s)	406
+0.0714286 ##uw8(s disease)	#uw8(s disease)	406
+0.0714286 ##uw8(disease keep)	#uw8(disease keep)	406
+0.0714286 ##uw8(keep patient)	#uw8(keep patient)	406
+0.0714286 ##uw8(patient function)	#uw8(patient functional)	406
+0.0714286 ##uw8(function long)	#uw8(functional long)	406
+0.0714286 ##uw8(long possible)	#uw8(long possible)	406

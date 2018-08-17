@@ -1,0 +1,10 @@
+0.0555556 #prevent	prevent	441
+1.11111 #treat	treat	441
+18 #lyme	Lyme	441
+18 #disease	disease	441
+0.0555556 ##1(prevent treat)	#1(prevent treat)	441
+0.0555556 ##1(treat lyme)	#1(treat Lyme)	441
+8.5 ##1(lyme disease)	#1(Lyme disease)	441
+0.0555556 ##uw8(prevent treat)	#uw8(prevent treat)	441
+0.1875 ##uw8(treat lyme)	#uw8(treat Lyme)	441
+8.5 ##uw8(lyme disease)	#uw8(Lyme disease)	441

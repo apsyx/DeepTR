@@ -1,0 +1,31 @@
+0.125 #document	document	276
+0.125 #discuss	discuss	276
+0.285714 #pro	pros	276
+0.125 #con	cons	276
+3.5 #student	students	276
+3.5 #wear	wearing	276
+8 #school	school	276
+1.25 #uniform	uniform	276
+0.5 #adhere	adhering	276
+8 #dress	dress	276
+8 #code	code	276
+0.125 ##1(document discuss)	#1(document discuss)	276
+0.125 ##1(discuss pro)	#1(discuss pros)	276
+0.125 ##1(pro con)	#1(pros cons)	276
+0.125 ##1(con student)	#1(cons students)	276
+0.285714 ##1(student wear)	#1(students wearing)	276
+0.125 ##1(wear school)	#1(wearing school)	276
+0.125 ##1(school uniform)	#1(school uniform)	276
+0.125 ##1(uniform adhere)	#1(uniform adhering)	276
+0.125 ##1(adhere dress)	#1(adhering dress)	276
+8 ##1(dress code)	#1(dress code)	276
+0.125 ##uw8(document discuss)	#uw8(document discuss)	276
+0.125 ##uw8(discuss pro)	#uw8(discuss pros)	276
+0.125 ##uw8(pro con)	#uw8(pros cons)	276
+0.125 ##uw8(con student)	#uw8(cons students)	276
+2 ##uw8(student wear)	#uw8(students wearing)	276
+1.25 ##uw8(wear school)	#uw8(wearing school)	276
+0.8 ##uw8(school uniform)	#uw8(school uniform)	276
+0.125 ##uw8(uniform adhere)	#uw8(uniform adhering)	276
+0.5 ##uw8(adhere dress)	#uw8(adhering dress)	276
+8 ##uw8(dress code)	#uw8(dress code)	276

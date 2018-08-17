@@ -1,0 +1,19 @@
+1.22222 #different	different	2177
+3 #type	types	2177
+19 #long	long	2177
+19 #term	term	2177
+19 #care	care	2177
+19 #insurance	insurance	2177
+9 #policy	policies	2177
+0.176471 ##1(different type)	#1(different types)	2177
+0.0526316 ##1(type long)	#1(types long)	2177
+19 ##1(long term)	#1(long term)	2177
+19 ##1(term care)	#1(term care)	2177
+19 ##1(care insurance)	#1(care insurance)	2177
+4 ##1(insurance policy)	#1(insurance policies)	2177
+0.176471 ##uw8(different type)	#uw8(different types)	2177
+0.428571 ##uw8(type long)	#uw8(types long)	2177
+19 ##uw8(long term)	#uw8(long term)	2177
+19 ##uw8(term care)	#uw8(term care)	2177
+19 ##uw8(care insurance)	#uw8(care insurance)	2177
+5.66667 ##uw8(insurance policy)	#uw8(insurance policies)	2177

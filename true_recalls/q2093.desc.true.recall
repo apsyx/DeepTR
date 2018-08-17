@@ -1,0 +1,10 @@
+0.230769 #homepage	homepage	2093
+15 #raffle	Raffles	2093
+15 #hotel	Hotel	2093
+7 #singapore	Singapore	2093
+0.0666667 ##1(homepage raffle)	#1(homepage Raffles)	2093
+7 ##1(raffle hotel)	#1(Raffles Hotel)	2093
+1.66667 ##1(hotel singapore)	#1(Hotel Singapore)	2093
+0.230769 ##uw8(homepage raffle)	#uw8(homepage Raffles)	2093
+15 ##uw8(raffle hotel)	#uw8(Raffles Hotel)	2093
+7 ##uw8(hotel singapore)	#uw8(Hotel Singapore)	2093

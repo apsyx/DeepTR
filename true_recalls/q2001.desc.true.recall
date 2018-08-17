@@ -1,0 +1,34 @@
+6.66667 #president	President	2001
+22 #barack	Barack	2001
+22 #obama	Obama	2001
+10.5 #s	s	2001
+22 #family	family	2001
+4.75 #history	history	2001
+2.83333 #genealogy	genealogy	2001
+2.83333 #national	national	2001
+3.6 #origin	origins	2001
+2.83333 #place	places	2001
+0.15 #date	dates	2001
+2.28571 #birth	birth	2001
+2.28571 ##1(president barack)	#1(President Barack)	2001
+22 ##1(barack obama)	#1(Barack Obama)	2001
+3.6 ##1(obama s)	#1(Obama s)	2001
+0.0952381 ##1(s family)	#1(s family)	2001
+0.277778 ##1(family history)	#1(family history)	2001
+0.0454545 ##1(history genealogy)	#1(history genealogy)	2001
+0.0454545 ##1(genealogy national)	#1(genealogy national)	2001
+0.0454545 ##1(national origin)	#1(national origins)	2001
+0.0454545 ##1(origin place)	#1(origins places)	2001
+0.0454545 ##1(place date)	#1(places dates)	2001
+0.0454545 ##1(date birth)	#1(dates birth)	2001
+3.6 ##uw8(president barack)	#uw8(President Barack)	2001
+22 ##uw8(barack obama)	#uw8(Barack Obama)	2001
+4.75 ##uw8(obama s)	#uw8(Obama s)	2001
+0.15 ##uw8(s family)	#uw8(s family)	2001
+0.277778 ##uw8(family history)	#uw8(family history)	2001
+0.0952381 ##uw8(history genealogy)	#uw8(history genealogy)	2001
+0.0454545 ##uw8(genealogy national)	#uw8(genealogy national)	2001
+0.0454545 ##uw8(national origin)	#uw8(national origins)	2001
+0.277778 ##uw8(origin place)	#uw8(origins places)	2001
+0.15 ##uw8(place date)	#uw8(places dates)	2001
+0.15 ##uw8(date birth)	#uw8(dates birth)	2001

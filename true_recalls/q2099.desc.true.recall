@@ -1,0 +1,13 @@
+0.0930233 #background	background	2099
+3.27273 #information	information	2099
+0.205128 #man	man	2099
+1.9375 #made	made	2099
+46 #satellite	satellites	2099
+0.0217391 ##1(background information)	#1(background information)	2099
+0.0217391 ##1(information man)	#1(information man)	2099
+0.146341 ##1(man made)	#1(man made)	2099
+0.0444444 ##1(made satellite)	#1(made satellites)	2099
+0.0217391 ##uw8(background information)	#uw8(background information)	2099
+0.0217391 ##uw8(information man)	#uw8(information man)	2099
+0.146341 ##uw8(man made)	#uw8(man made)	2099
+0.175 ##uw8(made satellite)	#uw8(made satellites)	2099

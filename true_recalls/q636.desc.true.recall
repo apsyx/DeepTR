@@ -1,0 +1,13 @@
+0.777778 #reason	reasons	636
+1 #people	people	636
+0.230769 #exempt	exempted	636
+2.2 #serve	serving	636
+15 #jury	jury	636
+0.0666667 ##1(reason people)	#1(reasons people)	636
+0.0666667 ##1(people exempt)	#1(people exempted)	636
+0.0666667 ##1(exempt serve)	#1(exempted serving)	636
+0.0666667 ##1(serve jury)	#1(serving jury)	636
+0.0666667 ##uw8(reason people)	#uw8(reasons people)	636
+0.0666667 ##uw8(people exempt)	#uw8(people exempted)	636
+0.230769 ##uw8(exempt serve)	#uw8(exempted serving)	636
+0.777778 ##uw8(serve jury)	#uw8(serving jury)	636

@@ -1,0 +1,10 @@
+0.384259 #various	various	710
+298 #treat	treatments	710
+298 #prostate	prostate	710
+298 #cancer	cancer	710
+0.0565371 ##1(various treat)	#1(various treatments)	710
+0.215447 ##1(treat prostate)	#1(treatments prostate)	710
+36.375 ##1(prostate cancer)	#1(prostate cancer)	710
+0.11985 ##uw8(various treat)	#uw8(various treatments)	710
+9.31034 ##uw8(treat prostate)	#uw8(treatments prostate)	710
+298 ##uw8(prostate cancer)	#uw8(prostate cancer)	710

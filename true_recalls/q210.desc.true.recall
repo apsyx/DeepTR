@@ -1,0 +1,22 @@
+0.0172414 #widespread	widespread	210
+1.10714 #illegal	illegal	210
+0.903226 #disposal	disposal	210
+13.75 #medical	medical	210
+18.6667 #waste	waste	210
+0.0535714 #done	done	210
+0.113208 #combat	combat	210
+1.95 #dump	dumping	210
+0.0172414 ##1(widespread illegal)	#1(widespread illegal)	210
+0.0727273 ##1(illegal disposal)	#1(illegal disposal)	210
+0.0172414 ##1(disposal medical)	#1(disposal medical)	210
+7.42857 ##1(medical waste)	#1(medical waste)	210
+0.0172414 ##1(waste done)	#1(waste done)	210
+0.0172414 ##1(done combat)	#1(done combat)	210
+0.0172414 ##1(combat dump)	#1(combat dumping)	210
+0.0172414 ##uw8(widespread illegal)	#uw8(widespread illegal)	210
+0.113208 ##uw8(illegal disposal)	#uw8(illegal disposal)	210
+0.372093 ##uw8(disposal medical)	#uw8(disposal medical)	210
+8.83333 ##uw8(medical waste)	#uw8(medical waste)	210
+0.0172414 ##uw8(waste done)	#uw8(waste done)	210
+0.0172414 ##uw8(done combat)	#uw8(done combat)	210
+0.0535714 ##uw8(combat dump)	#uw8(combat dumping)	210

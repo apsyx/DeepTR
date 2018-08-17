@@ -1,0 +1,19 @@
+0.25 #evidence	Evidence	309
+0.666667 #rap	rap	309
+4 #music	music	309
+0.25 #negate	negative	309
+1.5 #effect	effect	309
+1.5 #young	young	309
+4 #people	people	309
+0.25 ##1(evidence rap)	#1(Evidence rap)	309
+0.25 ##1(rap music)	#1(rap music)	309
+0.25 ##1(music negate)	#1(music negative)	309
+0.25 ##1(negate effect)	#1(negative effect)	309
+0.25 ##1(effect young)	#1(effect young)	309
+0.25 ##1(young people)	#1(young people)	309
+0.25 ##uw8(evidence rap)	#uw8(Evidence rap)	309
+0.25 ##uw8(rap music)	#uw8(rap music)	309
+0.25 ##uw8(music negate)	#uw8(music negative)	309
+0.25 ##uw8(negate effect)	#uw8(negative effect)	309
+0.25 ##uw8(effect young)	#uw8(effect young)	309
+0.25 ##uw8(young people)	#uw8(young people)	309

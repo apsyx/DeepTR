@@ -1,0 +1,13 @@
+9.29032 #state	state	770
+318.001 #kyrgyzstan	Kyrgyzstan	770
+5.5102 #unite	United	770
+9.29032 #state	States	770
+3.31081 #relate	relations	770
+0.00314465 ##1(state kyrgyzstan)	#1(state Kyrgyzstan)	770
+0.00314465 ##1(kyrgyzstan unite)	#1(Kyrgyzstan United)	770
+4.5 ##1(unite state)	#1(United States)	770
+0.00630915 ##1(state relate)	#1(States relations)	770
+0.898809 ##uw8(state kyrgyzstan)	#uw8(state Kyrgyzstan)	770
+0.28629 ##uw8(kyrgyzstan unite)	#uw8(Kyrgyzstan United)	770
+4.5 ##uw8(unite state)	#uw8(United States)	770
+0.405286 ##uw8(state relate)	#uw8(States relations)	770

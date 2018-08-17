@@ -1,0 +1,13 @@
+8 #time	time	2178
+1.07692 #temperature	temperature	2178
+5.75 #roast	roast	2178
+26 #pork	pork	2178
+26 #tenderloin	tenderloin	2178
+0.0384615 ##1(time temperature)	#1(time temperature)	2178
+0.0384615 ##1(temperature roast)	#1(temperature roast)	2178
+0.588235 ##1(roast pork)	#1(roast pork)	2178
+26 ##1(pork tenderloin)	#1(pork tenderloin)	2178
+0.08 ##uw8(time temperature)	#uw8(time temperature)	2178
+0.08 ##uw8(temperature roast)	#uw8(temperature roast)	2178
+2 ##uw8(roast pork)	#uw8(roast pork)	2178
+26 ##uw8(pork tenderloin)	#uw8(pork tenderloin)	2178

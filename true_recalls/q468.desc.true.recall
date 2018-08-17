@@ -1,0 +1,10 @@
+0.347826 #history	history	468
+0.722222 #incandescent	incandescent	468
+5.2 #light	light	468
+2.875 #bulb	bulb	468
+0.0333333 ##1(history incandescent)	#1(history incandescent)	468
+0.291667 ##1(incandescent light)	#1(incandescent light)	468
+2.875 ##1(light bulb)	#1(light bulb)	468
+0.0333333 ##uw8(history incandescent)	#uw8(history incandescent)	468
+0.347826 ##uw8(incandescent light)	#uw8(incandescent light)	468
+2.875 ##uw8(light bulb)	#uw8(light bulb)	468

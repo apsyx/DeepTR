@@ -1,0 +1,10 @@
+0.316456 #activity	activities	399
+0.485714 #equip	equipment	399
+0.925926 #oceanography	oceanographic	399
+0.704918 #vessel	vessels	399
+0.00970874 ##1(activity equip)	#1(activities equipment)	399
+0.00970874 ##1(equip oceanography)	#1(equipment oceanographic)	399
+0.029703 ##1(oceanography vessel)	#1(oceanographic vessels)	399
+0.00970874 ##uw8(activity equip)	#uw8(activities equipment)	399
+0.04 ##uw8(equip oceanography)	#uw8(equipment oceanographic)	399
+0.0505051 ##uw8(oceanography vessel)	#uw8(oceanographic vessels)	399

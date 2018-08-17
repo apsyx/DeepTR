@@ -1,0 +1,13 @@
+32 #work	work	821
+65.0001 #home	home	821
+5 #scam	scams	821
+2.66667 #promote	promoted	821
+10 #internet	Internet	821
+0.03125 ##1(work home)	#1(work home)	821
+0.534884 ##1(home scam)	#1(home scams)	821
+0.0153846 ##1(scam promote)	#1(scams promoted)	821
+0.0153846 ##1(promote internet)	#1(promoted Internet)	821
+21 ##uw8(work home)	#uw8(work home)	821
+1.44444 ##uw8(home scam)	#uw8(home scams)	821
+0.222222 ##uw8(scam promote)	#uw8(scams promoted)	821
+0.1 ##uw8(promote internet)	#uw8(promoted Internet)	821

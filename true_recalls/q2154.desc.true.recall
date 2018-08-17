@@ -1,0 +1,10 @@
+2 #nutrition	nutritional	2154
+1.07692 #health	health	2154
+0.173913 #benefit	benefits	2154
+26 #fig	figs	2154
+0.0384615 ##1(nutrition health)	#1(nutritional health)	2154
+0.0384615 ##1(health benefit)	#1(health benefits)	2154
+0.0384615 ##1(benefit fig)	#1(benefits figs)	2154
+0.08 ##uw8(nutrition health)	#uw8(nutritional health)	2154
+0.08 ##uw8(health benefit)	#uw8(health benefits)	2154
+0.08 ##uw8(benefit fig)	#uw8(benefits figs)	2154

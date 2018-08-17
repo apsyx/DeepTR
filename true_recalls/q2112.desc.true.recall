@@ -1,0 +1,13 @@
+1 #review	reviews	2112
+1 #kenmore	Kenmore	2112
+1 #gas	gas	2112
+1 #water	water	2112
+1 #heater	heaters	2112
+1 ##1(review kenmore)	#1(reviews Kenmore)	2112
+1 ##1(kenmore gas)	#1(Kenmore gas)	2112
+1 ##1(gas water)	#1(gas water)	2112
+1 ##1(water heater)	#1(water heaters)	2112
+1 ##uw8(review kenmore)	#uw8(reviews Kenmore)	2112
+1 ##uw8(kenmore gas)	#uw8(Kenmore gas)	2112
+1 ##uw8(gas water)	#uw8(gas water)	2112
+1 ##uw8(water heater)	#uw8(water heaters)	2112

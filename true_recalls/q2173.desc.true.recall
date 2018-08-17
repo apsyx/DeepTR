@@ -1,0 +1,7 @@
+33 #hip	hip	2173
+33 #fracture	fractures	2173
+2.77778 #elder	elderly	2173
+33 ##1(hip fracture)	#1(hip fractures)	2173
+0.030303 ##1(fracture elder)	#1(fractures elderly)	2173
+33 ##uw8(hip fracture)	#uw8(hip fractures)	2173
+1.42857 ##uw8(fracture elder)	#uw8(fractures elderly)	2173

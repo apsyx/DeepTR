@@ -1,0 +1,13 @@
+2.42857 #country	countries	428
+0.100917 #china	China	428
+1.18182 #decline	declining	428
+23 #birth	birth	428
+16.1429 #rate	rate	428
+0.00840336 ##1(country china)	#1(countries China)	428
+0.00840336 ##1(china decline)	#1(China declining)	428
+0.0909091 ##1(decline birth)	#1(declining birth)	428
+6.05882 ##1(birth rate)	#1(birth rate)	428
+0.0344828 ##uw8(country china)	#uw8(countries China)	428
+0.00840336 ##uw8(china decline)	#uw8(China declining)	428
+0.304348 ##uw8(decline birth)	#uw8(declining birth)	428
+7 ##uw8(birth rate)	#uw8(birth rate)	428

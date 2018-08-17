@@ -1,0 +1,13 @@
+time
+temperature
+roast
+pork
+tenderloin
+#1(time temperature)
+#1(temperature roast)
+#1(roast pork)
+#1(pork tenderloin)
+#uw8(time temperature)
+#uw8(temperature roast)
+#uw8(roast pork)
+#uw8(pork tenderloin)

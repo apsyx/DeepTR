@@ -1,0 +1,19 @@
+0.235294 #scientific	scientific	530
+0.2 #evidence	evidence	530
+0.2 #suggest	suggests	530
+24.2 #pheromone	pheromones	530
+0.0956522 #stimulate	stimulate	530
+0.0588235 #opposite	opposite	530
+0.384615 #sex	sex	530
+0.016129 ##1(scientific evidence)	#1(scientific evidence)	530
+0.008 ##1(evidence suggest)	#1(evidence suggests)	530
+0.008 ##1(suggest pheromone)	#1(suggests pheromones)	530
+0.0243902 ##1(pheromone stimulate)	#1(pheromones stimulate)	530
+0.008 ##1(stimulate opposite)	#1(stimulate opposite)	530
+0.0243902 ##1(opposite sex)	#1(opposite sex)	530
+0.016129 ##uw8(scientific evidence)	#uw8(scientific evidence)	530
+0.008 ##uw8(evidence suggest)	#uw8(evidence suggests)	530
+0.0327869 ##uw8(suggest pheromone)	#uw8(suggests pheromones)	530
+0.0243902 ##uw8(pheromone stimulate)	#uw8(pheromones stimulate)	530
+0.008 ##uw8(stimulate opposite)	#uw8(stimulate opposite)	530
+0.0243902 ##uw8(opposite sex)	#uw8(opposite sex)	530

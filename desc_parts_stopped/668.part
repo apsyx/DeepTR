@@ -1,0 +1,7 @@
+relationship
+poverty
+disease
+#1(relationship poverty)
+#1(poverty disease)
+#uw8(relationship poverty)
+#uw8(poverty disease)

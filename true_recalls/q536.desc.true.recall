@@ -1,0 +1,13 @@
+1.625 #eat	eating	536
+20 #honey	honey	536
+0.235294 #affect	affect	536
+2 #health	health	536
+4.25 #baby	baby	536
+0.05 ##1(eat honey)	#1(eating honey)	536
+0.05 ##1(honey affect)	#1(honey affect)	536
+0.05 ##1(affect health)	#1(affect health)	536
+0.05 ##1(health baby)	#1(health baby)	536
+0.05 ##uw8(eat honey)	#uw8(eating honey)	536
+0.05 ##uw8(honey affect)	#uw8(honey affect)	536
+0.05 ##uw8(affect health)	#uw8(affect health)	536
+0.3125 ##uw8(health baby)	#uw8(health baby)	536

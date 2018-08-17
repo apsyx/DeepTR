@@ -1,0 +1,25 @@
+0.333333 #topic	topic	279
+0.333333 #explore	explore	279
+1 #report	reporting	279
+0.333333 #possible	possible	279
+0.333333 #shift	shifting	279
+1 #earth	earth	279
+1 #s	s	279
+3 #magnetic	magnetic	279
+3 #pole	poles	279
+0.333333 ##1(topic explore)	#1(topic explore)	279
+0.333333 ##1(explore report)	#1(explore reporting)	279
+0.333333 ##1(report possible)	#1(reporting possible)	279
+0.333333 ##1(possible shift)	#1(possible shifting)	279
+0.333333 ##1(shift earth)	#1(shifting earth)	279
+0.333333 ##1(earth s)	#1(earth s)	279
+0.333333 ##1(s magnetic)	#1(s magnetic)	279
+1 ##1(magnetic pole)	#1(magnetic poles)	279
+0.333333 ##uw8(topic explore)	#uw8(topic explore)	279
+0.333333 ##uw8(explore report)	#uw8(explore reporting)	279
+0.333333 ##uw8(report possible)	#uw8(reporting possible)	279
+0.333333 ##uw8(possible shift)	#uw8(possible shifting)	279
+0.333333 ##uw8(shift earth)	#uw8(shifting earth)	279
+0.333333 ##uw8(earth s)	#uw8(earth s)	279
+0.333333 ##uw8(s magnetic)	#uw8(s magnetic)	279
+3 ##uw8(magnetic pole)	#uw8(magnetic poles)	279

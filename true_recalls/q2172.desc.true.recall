@@ -1,0 +1,7 @@
+6.6 #train	training	2172
+2.30435 #require	required	2172
+37 #paralegal	paralegal	2172
+0.0133333 ##1(train require)	#1(training required)	2172
+0.151515 ##1(require paralegal)	#1(required paralegal)	2172
+0.1875 ##uw8(train require)	#uw8(training required)	2172
+0.948718 ##uw8(require paralegal)	#uw8(required paralegal)	2172

@@ -1,0 +1,13 @@
+4.22727 #deploy	deployment	825
+114 #national	National	825
+114 #guard	Guard	825
+6.66667 #unit	units	825
+114 #iraq	Iraq	825
+0.0176991 ##1(deploy national)	#1(deployment National)	825
+114 ##1(national guard)	#1(National Guard)	825
+1.01754 ##1(guard unit)	#1(Guard units)	825
+0.00877193 ##1(unit iraq)	#1(units Iraq)	825
+1.55556 ##uw8(deploy national)	#uw8(deployment National)	825
+114 ##uw8(national guard)	#uw8(National Guard)	825
+2.38235 ##uw8(guard unit)	#uw8(Guard units)	825
+1.2549 ##uw8(unit iraq)	#uw8(units Iraq)	825

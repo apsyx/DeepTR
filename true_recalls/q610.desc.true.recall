@@ -1,0 +1,31 @@
+0.142857 #claim	claims	610
+0.6 #made	made	610
+0.333333 #small	small	610
+7 #business	businesses	610
+0.333333 #regard	regarding	610
+0.142857 #adverse	adverse	610
+0.333333 #impact	impact	610
+7 #business	businesses	610
+7 #raise	raising	610
+7 #minimum	minimum	610
+7 #wage	wage	610
+0.142857 ##1(claim made)	#1(claims made)	610
+0.142857 ##1(made small)	#1(made small)	610
+0.333333 ##1(small business)	#1(small businesses)	610
+0.142857 ##1(business regard)	#1(businesses regarding)	610
+0.142857 ##1(regard adverse)	#1(regarding adverse)	610
+0.142857 ##1(adverse impact)	#1(adverse impact)	610
+0.142857 ##1(impact business)	#1(impact businesses)	610
+0.142857 ##1(business raise)	#1(businesses raising)	610
+0.142857 ##1(raise minimum)	#1(raising minimum)	610
+7 ##1(minimum wage)	#1(minimum wage)	610
+0.142857 ##uw8(claim made)	#uw8(claims made)	610
+0.142857 ##uw8(made small)	#uw8(made small)	610
+0.333333 ##uw8(small business)	#uw8(small businesses)	610
+0.142857 ##uw8(business regard)	#uw8(businesses regarding)	610
+0.142857 ##uw8(regard adverse)	#uw8(regarding adverse)	610
+0.142857 ##uw8(adverse impact)	#uw8(adverse impact)	610
+0.333333 ##uw8(impact business)	#uw8(impact businesses)	610
+0.333333 ##uw8(business raise)	#uw8(businesses raising)	610
+7 ##uw8(raise minimum)	#uw8(raising minimum)	610
+7 ##uw8(minimum wage)	#uw8(minimum wage)	610

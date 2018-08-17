@@ -1,0 +1,31 @@
+0.0521739 #instance	instances	354
+6.5625 #journalist	journalist	354
+0.152381 #put	put	354
+0.0803571 #risk	risk	354
+0.00554017 #eg	eg	354
+0.84264 #kill	killed	354
+0.578261 #arrest	arrested	354
+0.273684 #taken	taken	354
+0.194079 #hostage	hostage	354
+0.00833333 #performance	performance	354
+0.627803 #work	work	354
+0.00276243 ##1(instance journalist)	#1(instances journalist)	354
+0.00276243 ##1(journalist put)	#1(journalist put)	354
+0.00276243 ##1(put risk)	#1(put risk)	354
+0.00276243 ##1(risk eg)	#1(risk eg)	354
+0.00276243 ##1(eg kill)	#1(eg killed)	354
+0.00276243 ##1(kill arrest)	#1(killed arrested)	354
+0.00276243 ##1(arrest taken)	#1(arrested taken)	354
+0.0168067 ##1(taken hostage)	#1(taken hostage)	354
+0.00276243 ##1(hostage performance)	#1(hostage performance)	354
+0.00276243 ##1(performance work)	#1(performance work)	354
+0.00276243 ##uw8(instance journalist)	#uw8(instances journalist)	354
+0.00276243 ##uw8(journalist put)	#uw8(journalist put)	354
+0.00276243 ##uw8(put risk)	#uw8(put risk)	354
+0.00276243 ##uw8(risk eg)	#uw8(risk eg)	354
+0.00276243 ##uw8(eg kill)	#uw8(eg killed)	354
+0.0139665 ##uw8(kill arrest)	#uw8(killed arrested)	354
+0.00554017 ##uw8(arrest taken)	#uw8(arrested taken)	354
+0.0225352 ##uw8(taken hostage)	#uw8(taken hostage)	354
+0.00276243 ##uw8(hostage performance)	#uw8(hostage performance)	354
+0.00276243 ##uw8(performance work)	#uw8(performance work)	354

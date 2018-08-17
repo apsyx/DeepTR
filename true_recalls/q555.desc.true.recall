@@ -1,0 +1,25 @@
+0.6 #criteria	criteria	555
+1.66667 #immigrate	Immigration	555
+0.6 #naturalize	Naturalization	555
+1.66667 #service	Service	555
+0.6 #approve	approve	555
+7 #visa	visa	555
+1 #application	applications	555
+1.66667 #foreign	foreign	555
+1.66667 #national	nationals	555
+0.142857 ##1(criteria immigrate)	#1(criteria Immigration)	555
+0.142857 ##1(immigrate naturalize)	#1(Immigration Naturalization)	555
+0.333333 ##1(naturalize service)	#1(Naturalization Service)	555
+0.142857 ##1(service approve)	#1(Service approve)	555
+0.142857 ##1(approve visa)	#1(approve visa)	555
+0.333333 ##1(visa application)	#1(visa applications)	555
+0.142857 ##1(application foreign)	#1(applications foreign)	555
+0.6 ##1(foreign national)	#1(foreign nationals)	555
+0.142857 ##uw8(criteria immigrate)	#uw8(criteria Immigration)	555
+0.6 ##uw8(immigrate naturalize)	#uw8(Immigration Naturalization)	555
+0.333333 ##uw8(naturalize service)	#uw8(Naturalization Service)	555
+0.142857 ##uw8(service approve)	#uw8(Service approve)	555
+0.333333 ##uw8(approve visa)	#uw8(approve visa)	555
+0.6 ##uw8(visa application)	#uw8(visa applications)	555
+0.333333 ##uw8(application foreign)	#uw8(applications foreign)	555
+0.6 ##uw8(foreign national)	#uw8(foreign nationals)	555

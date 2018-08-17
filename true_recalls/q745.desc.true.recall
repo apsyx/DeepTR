@@ -1,0 +1,13 @@
+5 #doomsday	doomsday	745
+47 #cult	cult	745
+1.08696 #name	name	745
+2.2 #locate	location	745
+5 #world	world	745
+3.36364 ##1(doomsday cult)	#1(doomsday cult)	745
+0.0212766 ##1(cult name)	#1(cult name)	745
+0.0212766 ##1(name locate)	#1(name location)	745
+0.0212766 ##1(locate world)	#1(location world)	745
+4.33333 ##uw8(doomsday cult)	#uw8(doomsday cult)	745
+0.0212766 ##uw8(cult name)	#uw8(cult name)	745
+0.0212766 ##uw8(name locate)	#uw8(name location)	745
+0.0909091 ##uw8(locate world)	#uw8(location world)	745

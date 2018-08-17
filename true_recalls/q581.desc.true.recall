@@ -1,0 +1,16 @@
+0.4 #basic	basic	581
+6 #information	information	581
+1.33333 #non	non	581
+1.33333 #hodgkin	Hodgkin	581
+2.5 #s	s	581
+2.5 #lymphoma	lymphoma	581
+0.166667 ##1(basic information)	#1(basic information)	581
+0.166667 ##1(information non)	#1(information non)	581
+1.33333 ##1(non hodgkin)	#1(non Hodgkin)	581
+0.166667 ##1(hodgkin s)	#1(Hodgkin s)	581
+0.166667 ##1(s lymphoma)	#1(s lymphoma)	581
+0.166667 ##uw8(basic information)	#uw8(basic information)	581
+0.75 ##uw8(information non)	#uw8(information non)	581
+1.33333 ##uw8(non hodgkin)	#uw8(non Hodgkin)	581
+0.166667 ##uw8(hodgkin s)	#uw8(Hodgkin s)	581
+0.4 ##uw8(s lymphoma)	#uw8(s lymphoma)	581

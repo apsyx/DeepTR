@@ -1,0 +1,67 @@
+0.271429 #available	availability	261
+0.0987654 #fission	fissionable	261
+2.2963 #material	material	261
+2.42308 #former	former	261
+1.69697 #state	states	261
+3.2381 #soviet	Soviet	261
+2.70833 #union	Union	261
+0.0470588 #susceptible	susceptibility	261
+0.308824 #theft	theft	261
+0.348485 #pose	pose	261
+0.412698 #real	real	261
+0.348485 #grow	growing	261
+0.854167 #threat	threat	261
+0.648148 #terrorist	terrorist	261
+0.618182 #group	groups	261
+0.648148 #terrorist	terrorist	261
+1.69697 #state	states	261
+0.348485 #acquire	acquire	261
+2.2963 #material	material	261
+0.369231 #able	able	261
+0.236111 #construct	construct	261
+13.8333 #nuclear	nuclear	261
+4.23529 #weapon	weapons	261
+0.0113636 ##1(available fission)	#1(availability fissionable)	261
+0.0470588 ##1(fission material)	#1(fissionable material)	261
+0.0113636 ##1(material former)	#1(material former)	261
+0.0348837 ##1(former state)	#1(former states)	261
+0.0113636 ##1(state soviet)	#1(states Soviet)	261
+1.96667 ##1(soviet union)	#1(Soviet Union)	261
+0.0113636 ##1(union susceptible)	#1(Union susceptibility)	261
+0.0113636 ##1(susceptible theft)	#1(susceptibility theft)	261
+0.0113636 ##1(theft pose)	#1(theft pose)	261
+0.0113636 ##1(pose real)	#1(pose real)	261
+0.0113636 ##1(real grow)	#1(real growing)	261
+0.0348837 ##1(grow threat)	#1(growing threat)	261
+0.0113636 ##1(threat terrorist)	#1(threat terrorist)	261
+0.253521 ##1(terrorist group)	#1(terrorist groups)	261
+0.0113636 ##1(group terrorist)	#1(groups terrorist)	261
+0.0113636 ##1(terrorist state)	#1(terrorist states)	261
+0.0229885 ##1(state acquire)	#1(states acquire)	261
+0.0113636 ##1(acquire material)	#1(acquire material)	261
+0.0113636 ##1(material able)	#1(material able)	261
+0.0113636 ##1(able construct)	#1(able construct)	261
+0.0113636 ##1(construct nuclear)	#1(construct nuclear)	261
+1.69697 ##1(nuclear weapon)	#1(nuclear weapons)	261
+0.0113636 ##uw8(available fission)	#uw8(availability fissionable)	261
+0.0470588 ##uw8(fission material)	#uw8(fissionable material)	261
+0.308824 ##uw8(material former)	#uw8(material former)	261
+0.308824 ##uw8(former state)	#uw8(former states)	261
+0.483333 ##uw8(state soviet)	#uw8(states Soviet)	261
+1.96667 ##uw8(soviet union)	#uw8(Soviet Union)	261
+0.0113636 ##uw8(union susceptible)	#uw8(Union susceptibility)	261
+0.0229885 ##uw8(susceptible theft)	#uw8(susceptibility theft)	261
+0.0113636 ##uw8(theft pose)	#uw8(theft pose)	261
+0.0229885 ##uw8(pose real)	#uw8(pose real)	261
+0.0113636 ##uw8(real grow)	#uw8(real growing)	261
+0.0348837 ##uw8(grow threat)	#uw8(growing threat)	261
+0.1125 ##uw8(threat terrorist)	#uw8(threat terrorist)	261
+0.253521 ##uw8(terrorist group)	#uw8(terrorist groups)	261
+0.253521 ##uw8(group terrorist)	#uw8(groups terrorist)	261
+0.0853659 ##uw8(terrorist state)	#uw8(terrorist states)	261
+0.0722892 ##uw8(state acquire)	#uw8(states acquire)	261
+0.0470588 ##uw8(acquire material)	#uw8(acquire material)	261
+0.0348837 ##uw8(material able)	#uw8(material able)	261
+0.0113636 ##uw8(able construct)	#uw8(able construct)	261
+0.0229885 ##uw8(construct nuclear)	#uw8(construct nuclear)	261
+2.17857 ##uw8(nuclear weapon)	#uw8(nuclear weapons)	261

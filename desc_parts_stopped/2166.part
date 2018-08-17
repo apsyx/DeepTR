@@ -1,0 +1,10 @@
+type
+careers
+computer
+programmers
+#1(type careers)
+#1(careers computer)
+#1(computer programmers)
+#uw8(type careers)
+#uw8(careers computer)
+#uw8(computer programmers)

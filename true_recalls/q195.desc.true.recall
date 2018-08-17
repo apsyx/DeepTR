@@ -1,0 +1,19 @@
+348.002 #stock	Stock	195
+348.002 #market	Market	195
+0.00287356 #perturbation	Perturbations	195
+0.199313 #attribute	Attributable	195
+2.67368 #compute	Computer	195
+0.0325444 #initiate	Initiated	195
+86.25 #trade	Trading	195
+3.3625 ##1(stock market)	#1(Stock Market)	195
+0.00287356 ##1(market perturbation)	#1(Market Perturbations)	195
+0.00287356 ##1(perturbation attribute)	#1(Perturbations Attributable)	195
+0.00287356 ##1(attribute compute)	#1(Attributable Computer)	195
+0.00287356 ##1(compute initiate)	#1(Computer Initiated)	195
+0.00287356 ##1(initiate trade)	#1(Initiated Trading)	195
+19.5294 ##uw8(stock market)	#uw8(Stock Market)	195
+0.00287356 ##uw8(market perturbation)	#uw8(Market Perturbations)	195
+0.00287356 ##uw8(perturbation attribute)	#uw8(Perturbations Attributable)	195
+0.0234604 ##uw8(attribute compute)	#uw8(Attributable Computer)	195
+0.00287356 ##uw8(compute initiate)	#uw8(Computer Initiated)	195
+0.0115942 ##uw8(initiate trade)	#uw8(Initiated Trading)	195

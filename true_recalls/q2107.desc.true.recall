@@ -1,0 +1,13 @@
+3 #demography	demographic	2107
+0.212121 #information	information	2107
+39 #cass	Cass	2107
+39 #county	County	2107
+2.63636 #mo	MO	2107
+0.025641 ##1(demography information)	#1(demographic information)	2107
+0.025641 ##1(information cass)	#1(information Cass)	2107
+12.3333 ##1(cass county)	#1(Cass County)	2107
+0.0810811 ##1(county mo)	#1(County MO)	2107
+0.025641 ##uw8(demography information)	#uw8(demographic information)	2107
+0.0810811 ##uw8(information cass)	#uw8(information Cass)	2107
+12.3333 ##uw8(cass county)	#uw8(Cass County)	2107
+0.142857 ##uw8(county mo)	#uw8(County MO)	2107

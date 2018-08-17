@@ -1,0 +1,19 @@
+0.015873 #query	query	332
+0.190698 #look	looking	332
+0.868613 #investigate	investigations	332
+0.0622407 #target	targeted	332
+0.207547 #evade	evaders	332
+1.63918 #income	income	332
+255 #tax	tax	332
+0.00392157 ##1(query look)	#1(query looking)	332
+0.00392157 ##1(look investigate)	#1(looking investigations)	332
+0.00392157 ##1(investigate target)	#1(investigations targeted)	332
+0.00392157 ##1(target evade)	#1(targeted evaders)	332
+0.015873 ##1(evade income)	#1(evaders income)	332
+0.984496 ##1(income tax)	#1(income tax)	332
+0.00392157 ##uw8(query look)	#uw8(query looking)	332
+0.00787402 ##uw8(look investigate)	#uw8(looking investigations)	332
+0.015873 ##uw8(investigate target)	#uw8(investigations targeted)	332
+0.00392157 ##uw8(target evade)	#uw8(targeted evaders)	332
+0.0578512 ##uw8(evade income)	#uw8(evaders income)	332
+1.26549 ##uw8(income tax)	#uw8(income tax)	332

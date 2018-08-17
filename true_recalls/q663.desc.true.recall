@@ -1,0 +1,19 @@
+1.18182 #health	health	663
+2.42857 #effect	effects	663
+7 #vietnam	Vietnam	663
+11 #veteran	veterans	663
+2.42857 #exposure	exposure	663
+5 #agent	Agent	663
+3.8 #orange	Orange	663
+0.6 ##1(health effect)	#1(health effects)	663
+0.0434783 ##1(effect vietnam)	#1(effects Vietnam)	663
+1.18182 ##1(vietnam veteran)	#1(Vietnam veterans)	663
+0.0434783 ##1(veteran exposure)	#1(veterans exposure)	663
+0.0434783 ##1(exposure agent)	#1(exposure Agent)	663
+3.8 ##1(agent orange)	#1(Agent Orange)	663
+0.6 ##uw8(health effect)	#uw8(health effects)	663
+0.411765 ##uw8(effect vietnam)	#uw8(effects Vietnam)	663
+2 ##uw8(vietnam veteran)	#uw8(Vietnam veterans)	663
+0.411765 ##uw8(veteran exposure)	#uw8(veterans exposure)	663
+1 ##uw8(exposure agent)	#uw8(exposure Agent)	663
+3.8 ##uw8(agent orange)	#uw8(Agent Orange)	663

@@ -1,0 +1,22 @@
+0.0875 #document	document	254
+0.0875 #discuss	discuss	254
+0.208333 #case	cases	254
+0.12987 #medicate	medications	254
+0.673077 #procedure	procedures	254
+0.0357143 #prior	prior	254
+9.875 #heart	heart	254
+0.74 #surgery	surgery	254
+0.0116279 ##1(document discuss)	#1(document discuss)	254
+0.0116279 ##1(discuss case)	#1(discuss cases)	254
+0.0116279 ##1(case medicate)	#1(cases medications)	254
+0.0116279 ##1(medicate procedure)	#1(medications procedures)	254
+0.0116279 ##1(procedure prior)	#1(procedures prior)	254
+0.0116279 ##1(prior heart)	#1(prior heart)	254
+0.12987 ##1(heart surgery)	#1(heart surgery)	254
+0.0116279 ##uw8(document discuss)	#uw8(document discuss)	254
+0.0116279 ##uw8(discuss case)	#uw8(discuss cases)	254
+0.0116279 ##uw8(case medicate)	#uw8(cases medications)	254
+0.0116279 ##uw8(medicate procedure)	#uw8(medications procedures)	254
+0.0116279 ##uw8(procedure prior)	#uw8(procedures prior)	254
+0.0116279 ##uw8(prior heart)	#uw8(prior heart)	254
+0.208333 ##uw8(heart surgery)	#uw8(heart surgery)	254

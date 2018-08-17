@@ -1,0 +1,19 @@
+0.323077 #punish	punishments	744
+1.52941 #sentence	sentences	744
+0.323077 #given	given	744
+1.77419 #make	making	744
+0.791667 #sell	selling	744
+20.5 #counterfeit	counterfeit	744
+0.162162 #ids	IDs	744
+0.0117647 ##1(punish sentence)	#1(punishments sentences)	744
+0.0117647 ##1(sentence given)	#1(sentences given)	744
+0.0117647 ##1(given make)	#1(given making)	744
+0.0117647 ##1(make sell)	#1(making selling)	744
+0.075 ##1(sell counterfeit)	#1(selling counterfeit)	744
+0.0117647 ##1(counterfeit ids)	#1(counterfeit IDs)	744
+0.0238095 ##uw8(punish sentence)	#uw8(punishments sentences)	744
+0.0361446 ##uw8(sentence given)	#uw8(sentences given)	744
+0.0117647 ##uw8(given make)	#uw8(given making)	744
+0.0617284 ##uw8(make sell)	#uw8(making selling)	744
+0.283582 ##uw8(sell counterfeit)	#uw8(selling counterfeit)	744
+0.0238095 ##uw8(counterfeit ids)	#uw8(counterfeit IDs)	744

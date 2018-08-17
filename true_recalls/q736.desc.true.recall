@@ -1,0 +1,31 @@
+15.9643 #animal	animals	736
+6.42188 #infect	infected	736
+12.9706 #bovine	bovine	736
+10.3095 #spongiform	spongiform	736
+9.79545 #encephalopathy	encephalopathy	736
+2.62595 #known	known	736
+157.334 #bse	BSE	736
+1.60989 #mad	Mad	736
+6.53968 #cow	Cow	736
+24 #disease	disease	736
+2.51852 #found	found	736
+0.120283 ##1(animal infect)	#1(animals infected)	736
+0.0485651 ##1(infect bovine)	#1(infected bovine)	736
+7.79629 ##1(bovine spongiform)	#1(bovine spongiform)	736
+9.10639 ##1(spongiform encephalopathy)	#1(spongiform encephalopathy)	736
+0.0215054 ##1(encephalopathy known)	#1(encephalopathy known)	736
+0.0127932 ##1(known bse)	#1(known BSE)	736
+0.0869565 ##1(bse mad)	#1(BSE Mad)	736
+1.55376 ##1(mad cow)	#1(Mad Cow)	736
+1.41117 ##1(cow disease)	#1(Cow disease)	736
+0.0281385 ##1(disease found)	#1(disease found)	736
+1.1789 ##uw8(animal infect)	#uw8(animals infected)	736
+0.164216 ##uw8(infect bovine)	#uw8(infected bovine)	736
+7.79629 ##uw8(bovine spongiform)	#uw8(bovine spongiform)	736
+9.10639 ##uw8(spongiform encephalopathy)	#uw8(spongiform encephalopathy)	736
+0.443769 ##uw8(encephalopathy known)	#uw8(encephalopathy known)	736
+0.714801 ##uw8(known bse)	#uw8(known BSE)	736
+0.884921 ##uw8(bse mad)	#uw8(BSE Mad)	736
+1.55376 ##uw8(mad cow)	#uw8(Mad Cow)	736
+1.65363 ##uw8(cow disease)	#uw8(Cow disease)	736
+0.217949 ##uw8(disease found)	#uw8(disease found)	736

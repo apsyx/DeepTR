@@ -1,0 +1,13 @@
+2 #brook	Brooks	2190
+2 #brother	Brothers	2190
+2 #online	online	2190
+0.5 #promotion	promotional	2190
+2 #coupon	coupons	2190
+2 ##1(brook brother)	#1(Brooks Brothers)	2190
+2 ##1(brother online)	#1(Brothers online)	2190
+0.5 ##1(online promotion)	#1(online promotional)	2190
+0.5 ##1(promotion coupon)	#1(promotional coupons)	2190
+2 ##uw8(brook brother)	#uw8(Brooks Brothers)	2190
+2 ##uw8(brother online)	#uw8(Brothers online)	2190
+0.5 ##uw8(online promotion)	#uw8(online promotional)	2190
+0.5 ##uw8(promotion coupon)	#uw8(promotional coupons)	2190

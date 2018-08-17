@@ -1,0 +1,10 @@
+1.66667 #hygrometer	hygrometer	528
+7 #measure	measure	528
+3 #humid	humidity	528
+0.6 #atmosphere	atmosphere	528
+0.142857 ##1(hygrometer measure)	#1(hygrometer measure)	528
+0.6 ##1(measure humid)	#1(measure humidity)	528
+0.142857 ##1(humid atmosphere)	#1(humidity atmosphere)	528
+1 ##uw8(hygrometer measure)	#uw8(hygrometer measure)	528
+1 ##uw8(measure humid)	#uw8(measure humidity)	528
+0.142857 ##uw8(humid atmosphere)	#uw8(humidity atmosphere)	528

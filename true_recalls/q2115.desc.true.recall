@@ -1,0 +1,34 @@
+2 #career	career	2115
+2 #opportune	opportunities	2115
+2 #pnl	PNL	2115
+2 #open	openings	2115
+2 #current	currently	2115
+0.5 #available	available	2115
+2 #educational	educational	2115
+0.5 #background	background	2115
+0.5 #require	required	2115
+0.5 #prior	prior	2115
+0.5 #experience	experience	2115
+0.5 #need	needed	2115
+0.5 ##1(career opportune)	#1(career opportunities)	2115
+0.5 ##1(opportune pnl)	#1(opportunities PNL)	2115
+0.5 ##1(pnl open)	#1(PNL openings)	2115
+0.5 ##1(open current)	#1(openings currently)	2115
+0.5 ##1(current available)	#1(currently available)	2115
+0.5 ##1(available educational)	#1(available educational)	2115
+0.5 ##1(educational background)	#1(educational background)	2115
+0.5 ##1(background require)	#1(background required)	2115
+0.5 ##1(require prior)	#1(required prior)	2115
+0.5 ##1(prior experience)	#1(prior experience)	2115
+0.5 ##1(experience need)	#1(experience needed)	2115
+0.5 ##uw8(career opportune)	#uw8(career opportunities)	2115
+0.5 ##uw8(opportune pnl)	#uw8(opportunities PNL)	2115
+0.5 ##uw8(pnl open)	#uw8(PNL openings)	2115
+2 ##uw8(open current)	#uw8(openings currently)	2115
+0.5 ##uw8(current available)	#uw8(currently available)	2115
+0.5 ##uw8(available educational)	#uw8(available educational)	2115
+0.5 ##uw8(educational background)	#uw8(educational background)	2115
+0.5 ##uw8(background require)	#uw8(background required)	2115
+0.5 ##uw8(require prior)	#uw8(required prior)	2115
+0.5 ##uw8(prior experience)	#uw8(prior experience)	2115
+0.5 ##uw8(experience need)	#uw8(experience needed)	2115

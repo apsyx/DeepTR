@@ -1,0 +1,19 @@
+0.0434783 #pro	pros	637
+0.0434783 #con	cons	637
+0.0909091 #adult	adults	637
+3 #human	human	637
+23 #growth	growth	637
+23 #hormone	hormone	637
+0.142857 #hgh	HGH	637
+0.0434783 ##1(pro con)	#1(pros cons)	637
+0.0434783 ##1(con adult)	#1(cons adults)	637
+0.0434783 ##1(adult human)	#1(adults human)	637
+2.42857 ##1(human growth)	#1(human growth)	637
+11 ##1(growth hormone)	#1(growth hormone)	637
+0.0434783 ##1(hormone hgh)	#1(hormone HGH)	637
+0.0434783 ##uw8(pro con)	#uw8(pros cons)	637
+0.0434783 ##uw8(con adult)	#uw8(cons adults)	637
+0.0434783 ##uw8(adult human)	#uw8(adults human)	637
+3 ##uw8(human growth)	#uw8(human growth)	637
+11 ##uw8(growth hormone)	#uw8(growth hormone)	637
+0.0434783 ##uw8(hormone hgh)	#uw8(hormone HGH)	637

@@ -1,0 +1,16 @@
+1.46154 #residential	residential	462
+31 #real	real	462
+31 #estate	estate	462
+3 #list	listings	462
+9.66667 #new	New	462
+2.55556 #jersey	Jersey	462
+0.230769 ##1(residential real)	#1(residential real)	462
+9.66667 ##1(real estate)	#1(real estate)	462
+0.684211 ##1(estate list)	#1(estate listings)	462
+0.103448 ##1(list new)	#1(listings New)	462
+2.55556 ##1(new jersey)	#1(New Jersey)	462
+0.454545 ##uw8(residential real)	#uw8(residential real)	462
+9.66667 ##uw8(real estate)	#uw8(real estate)	462
+1.13333 ##uw8(estate list)	#uw8(estate listings)	462
+0.684211 ##uw8(list new)	#uw8(listings New)	462
+2.55556 ##uw8(new jersey)	#uw8(New Jersey)	462

@@ -1,0 +1,10 @@
+2 #history	history	2122
+2 #culpeper	Culpeper	2122
+2 #national	National	2122
+2 #cemetery	Cemetery	2122
+0.5 ##1(history culpeper)	#1(history Culpeper)	2122
+2 ##1(culpeper national)	#1(Culpeper National)	2122
+2 ##1(national cemetery)	#1(National Cemetery)	2122
+0.5 ##uw8(history culpeper)	#uw8(history Culpeper)	2122
+2 ##uw8(culpeper national)	#uw8(Culpeper National)	2122
+2 ##uw8(national cemetery)	#uw8(National Cemetery)	2122

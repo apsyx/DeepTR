@@ -1,0 +1,16 @@
+1.8 #regulate	regulations	743
+0.69697 #considerate	considerations	743
+1.24 #concern	concerning	743
+1.33333 #register	registering	743
+4.6 #freight	freighter	743
+2.5 #country	country	743
+0.0181818 ##1(regulate considerate)	#1(regulations considerations)	743
+0.0181818 ##1(considerate concern)	#1(considerations concerning)	743
+0.0181818 ##1(concern register)	#1(concerning registering)	743
+0.0181818 ##1(register freight)	#1(registering freighter)	743
+0.0181818 ##1(freight country)	#1(freighter country)	743
+0.037037 ##uw8(regulate considerate)	#uw8(regulations considerations)	743
+0.037037 ##uw8(considerate concern)	#uw8(considerations concerning)	743
+0.037037 ##uw8(concern register)	#uw8(concerning registering)	743
+0.0181818 ##uw8(register freight)	#uw8(registering freighter)	743
+0.12 ##uw8(freight country)	#uw8(freighter country)	743

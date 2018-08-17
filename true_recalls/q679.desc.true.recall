@@ -1,0 +1,16 @@
+0.142857 #debate	debate	679
+7 #open	opening	679
+1.66667 #seal	sealed	679
+7 #adoption	adoption	679
+7 #record	records	679
+7 #adoptee	adoptees	679
+0.142857 ##1(debate open)	#1(debate opening)	679
+0.142857 ##1(open seal)	#1(opening sealed)	679
+0.333333 ##1(seal adoption)	#1(sealed adoption)	679
+3 ##1(adoption record)	#1(adoption records)	679
+0.142857 ##1(record adoptee)	#1(records adoptees)	679
+0.142857 ##uw8(debate open)	#uw8(debate opening)	679
+1 ##uw8(open seal)	#uw8(opening sealed)	679
+0.6 ##uw8(seal adoption)	#uw8(sealed adoption)	679
+7 ##uw8(adoption record)	#uw8(adoption records)	679
+1.66667 ##uw8(record adoptee)	#uw8(records adoptees)	679

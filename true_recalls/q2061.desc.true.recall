@@ -1,0 +1,10 @@
+1.47368 #compute	computer	2061
+46 #worm	worms	2061
+5.71429 #virus	viruses	2061
+0.236842 #spyware	spyware	2061
+0.424242 ##1(compute worm)	#1(computer worms)	2061
+0.0444444 ##1(worm virus)	#1(worms viruses)	2061
+0.0217391 ##1(virus spyware)	#1(viruses spyware)	2061
+0.807692 ##uw8(compute worm)	#uw8(computer worms)	2061
+4.22222 ##uw8(worm virus)	#uw8(worms viruses)	2061
+0.205128 ##uw8(virus spyware)	#uw8(viruses spyware)	2061

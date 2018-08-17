@@ -1,0 +1,22 @@
+3 #federal	Federal	538
+3 #house	Housing	538
+1 #administrate	Administration	538
+3 #fha	FHA	538
+1 #original	originally	538
+1 #establish	established	538
+1 #current	current	538
+0.333333 #mission	mission	538
+3 ##1(federal house)	#1(Federal Housing)	538
+1 ##1(house administrate)	#1(Housing Administration)	538
+1 ##1(administrate fha)	#1(Administration FHA)	538
+0.333333 ##1(fha original)	#1(FHA originally)	538
+0.333333 ##1(original establish)	#1(originally established)	538
+0.333333 ##1(establish current)	#1(established current)	538
+0.333333 ##1(current mission)	#1(current mission)	538
+3 ##uw8(federal house)	#uw8(Federal Housing)	538
+1 ##uw8(house administrate)	#uw8(Housing Administration)	538
+1 ##uw8(administrate fha)	#uw8(Administration FHA)	538
+1 ##uw8(fha original)	#uw8(FHA originally)	538
+0.333333 ##uw8(original establish)	#uw8(originally established)	538
+0.333333 ##uw8(establish current)	#uw8(established current)	538
+0.333333 ##uw8(current mission)	#uw8(current mission)	538

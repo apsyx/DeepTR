@@ -1,0 +1,22 @@
+8.625 #human	humans	838
+0.305085 #respond	responded	838
+0.305085 #respond	respond	838
+0.241935 #appearance	appearance	838
+76 #coyote	coyotes	838
+4.5 #urban	urban	838
+0.638298 #suburban	suburban	838
+11.8333 #area	areas	838
+0.0131579 ##1(human respond)	#1(humans responded)	838
+0.0131579 ##1(respond respond)	#1(responded respond)	838
+0.0131579 ##1(respond appearance)	#1(respond appearance)	838
+0.115942 ##1(appearance coyote)	#1(appearance coyotes)	838
+0.0266667 ##1(coyote urban)	#1(coyotes urban)	838
+0.0547945 ##1(urban suburban)	#1(urban suburban)	838
+0.184615 ##1(suburban area)	#1(suburban areas)	838
+0.0405405 ##uw8(human respond)	#uw8(humans responded)	838
+0.305085 ##uw8(respond respond)	#uw8(responded respond)	838
+0.0131579 ##uw8(respond appearance)	#uw8(respond appearance)	838
+0.149254 ##uw8(appearance coyote)	#uw8(appearance coyotes)	838
+1.65517 ##uw8(coyote urban)	#uw8(coyotes urban)	838
+0.305085 ##uw8(urban suburban)	#uw8(urban suburban)	838
+0.283333 ##uw8(suburban area)	#uw8(suburban areas)	838

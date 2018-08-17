@@ -1,0 +1,10 @@
+0.2 #advantage	advantages	308
+0.2 #disadvantage	disadvantages	308
+1 #tooth	tooth	308
+5 #implant	implants	308
+0.2 ##1(advantage disadvantage)	#1(advantages disadvantages)	308
+0.2 ##1(disadvantage tooth)	#1(disadvantages tooth)	308
+0.2 ##1(tooth implant)	#1(tooth implants)	308
+0.2 ##uw8(advantage disadvantage)	#uw8(advantages disadvantages)	308
+0.2 ##uw8(disadvantage tooth)	#uw8(disadvantages tooth)	308
+0.5 ##uw8(tooth implant)	#uw8(tooth implants)	308

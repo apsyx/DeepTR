@@ -1,0 +1,19 @@
+0.36 #effect	effective	280
+1.61538 #ban	ban	280
+5.8 #ivory	ivory	280
+2.77778 #trade	trade	280
+1 #protect	protecting	280
+16 #elephant	elephant	280
+0.172414 #extinct	extinction	280
+0.030303 ##1(effect ban)	#1(effective ban)	280
+0.0625 ##1(ban ivory)	#1(ban ivory)	280
+0.545455 ##1(ivory trade)	#1(ivory trade)	280
+0.030303 ##1(trade protect)	#1(trade protecting)	280
+0.0967742 ##1(protect elephant)	#1(protecting elephant)	280
+0.030303 ##1(elephant extinct)	#1(elephant extinction)	280
+0.0967742 ##uw8(effect ban)	#uw8(effective ban)	280
+1 ##uw8(ban ivory)	#uw8(ban ivory)	280
+1.26667 ##uw8(ivory trade)	#uw8(ivory trade)	280
+0.0625 ##uw8(trade protect)	#uw8(trade protecting)	280
+0.36 ##uw8(protect elephant)	#uw8(protecting elephant)	280
+0.0625 ##uw8(elephant extinct)	#uw8(elephant extinction)	280

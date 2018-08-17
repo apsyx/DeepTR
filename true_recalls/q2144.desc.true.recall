@@ -1,0 +1,10 @@
+1 #information	information	2144
+0.333333 #buy	buy	2144
+1.66667 #new	new	2144
+15 #trombone	trombone	2144
+0.0666667 ##1(information buy)	#1(information buy)	2144
+0.142857 ##1(buy new)	#1(buy new)	2144
+0.142857 ##1(new trombone)	#1(new trombone)	2144
+0.0666667 ##uw8(information buy)	#uw8(information buy)	2144
+0.142857 ##uw8(buy new)	#uw8(buy new)	2144
+0.6 ##uw8(new trombone)	#uw8(new trombone)	2144

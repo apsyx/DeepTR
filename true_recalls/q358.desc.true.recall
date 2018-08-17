@@ -1,0 +1,22 @@
+0.06 #role	role	358
+52 #blood	blood	358
+25.5 #alcohol	alcohol	358
+3.81818 #level	level	358
+0.204545 #play	play	358
+0.06 #automobile	automobile	358
+2.78571 #accident	accident	358
+0.472222 #fatal	fatalities	358
+0.0192308 ##1(role blood)	#1(role blood)	358
+12.25 ##1(blood alcohol)	#1(blood alcohol)	358
+3.41667 ##1(alcohol level)	#1(alcohol level)	358
+0.0192308 ##1(level play)	#1(level play)	358
+0.0192308 ##1(play automobile)	#1(play automobile)	358
+0.0192308 ##1(automobile accident)	#1(automobile accident)	358
+0.0392157 ##1(accident fatal)	#1(accident fatalities)	358
+0.0192308 ##uw8(role blood)	#uw8(role blood)	358
+25.5 ##uw8(blood alcohol)	#uw8(blood alcohol)	358
+3.41667 ##uw8(alcohol level)	#uw8(alcohol level)	358
+0.0192308 ##uw8(level play)	#uw8(level play)	358
+0.0192308 ##uw8(play automobile)	#uw8(play automobile)	358
+0.0192308 ##uw8(automobile accident)	#uw8(automobile accident)	358
+0.177778 ##uw8(accident fatal)	#uw8(accident fatalities)	358

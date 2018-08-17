@@ -1,0 +1,7 @@
+2 #locate	locations	588
+2 #golf	golf	588
+2 #resort	resorts	588
+0.5 ##1(locate golf)	#1(locations golf)	588
+0.5 ##1(golf resort)	#1(golf resorts)	588
+0.5 ##uw8(locate golf)	#uw8(locations golf)	588
+0.5 ##uw8(golf resort)	#uw8(golf resorts)	588

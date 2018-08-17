@@ -1,0 +1,13 @@
+0.205882 #biography	biographical	510
+0.205882 #data	data	510
+40 #j	J	510
+40 #robert	Robert	510
+40 #oppenheimer	Oppenheimer	510
+0.025 ##1(biography data)	#1(biographical data)	510
+0.025 ##1(data j)	#1(data J)	510
+7.2 ##1(j robert)	#1(J Robert)	510
+9.25 ##1(robert oppenheimer)	#1(Robert Oppenheimer)	510
+0.025 ##uw8(biography data)	#uw8(biographical data)	510
+0.025 ##uw8(data j)	#uw8(data J)	510
+12.6667 ##uw8(j robert)	#uw8(J Robert)	510
+19.5 ##uw8(robert oppenheimer)	#uw8(Robert Oppenheimer)	510

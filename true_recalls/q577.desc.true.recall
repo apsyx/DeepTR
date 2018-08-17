@@ -1,0 +1,13 @@
+0.375 #locate	locations	577
+10 #dental	dental	577
+10 #school	schools	577
+0.375 #unite	United	577
+2.66667 #state	States	577
+0.1 ##1(locate dental)	#1(locations dental)	577
+4.5 ##1(dental school)	#1(dental schools)	577
+0.1 ##1(school unite)	#1(schools United)	577
+0.375 ##1(unite state)	#1(United States)	577
+0.222222 ##uw8(locate dental)	#uw8(locations dental)	577
+4.5 ##uw8(dental school)	#uw8(dental schools)	577
+0.1 ##uw8(school unite)	#uw8(schools United)	577
+0.375 ##uw8(unite state)	#uw8(United States)	577
