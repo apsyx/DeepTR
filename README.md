@@ -3,8 +3,8 @@
 #### 0. Overview
 
    This file contains instructions, data sets, and tools to run the
-   model proposed in the paper "Learning to Reweight Terms with
-   Distributional Representations" (published at SIGIR 2015).
+   model proposed in the paper [Learning to Reweight Terms with
+   Distributional Representations](https://dl.acm.org/citation.cfm?id=2767700) (published at SIGIR 2015).
 
 #### 1. Software dependencies:
    
