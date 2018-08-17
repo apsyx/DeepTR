@@ -1,15 +1,3 @@
-/*==========================================================================
- * Copyright (c) 2014 Carnegie Mellon University.  All Rights Reserved.
- *
- * Use of the Lemur Toolkit for Language Modeling and Information Retrieval
- * is subject to the terms of the software license set forth in the LICENSE
- * file included with this software (and below), and also available at
- * http://www.lemurproject.org/license.html
- *
- *==========================================================================
-/
-
-
 Documentation for Tool used in "Learning to Reweight Terms with Distributional Representations"
 
   Guoqing Zheng, 2015
@@ -87,3 +75,17 @@ Documentation for Tool used in "Learning to Reweight Terms with Distributional R
    with the predicted weights. Also evaluation results from trec_eval
    will be stored in those directories (need trec_eval to be in current
    directory first)
+
+
+If you use this code or our results in your research, please cite as appropriate:
+
+```
+@inproceedings{zheng2015learning,
+  title={Learning to reweight terms with distributed representations},
+  author={Zheng, Guoqing and Callan, Jamie},
+  booktitle={Proceedings of the 38th international ACM SIGIR conference on research and development in information retrieval},
+  pages={575--584},
+  year={2015},
+  organization={ACM}
+}
+```
