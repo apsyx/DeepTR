@@ -9,7 +9,7 @@
    model proposed in the paper "Learning to Reweight Terms with
    Distributional Representations" (submitted to SIGIR 2015).
 
-1. Software dependencies:
+#### 1. Software dependencies:
    
    In order to run the tool, the following prerequisites must be
       installed: 
@@ -24,7 +24,7 @@
          scipy
 
 
-2. How to run the tool:
+#### 2. How to run the tool:
 
    *** Before running the tools, make sure to modify the variables for
    dependency tools and paths in Constants.py. ***
@@ -68,7 +68,7 @@
    
    Also make sure the qrels files for all these dataset are under directory "qrels"        
 
-3. Collect the results:
+#### 3. Collect the results:
    
    The retrieved documents will be stored in tmp-METHOD directories,
    with METHOD referring to different ways of constructing the query
