@@ -3,7 +3,7 @@
   Guoqing Zheng, 2015
   ** Please report questions and bugs to gzheng@cs.cmu.edu **
 
-### 0. Overview
+#### 0. Overview
 
    This file contains instructions, data sets, and tools to run the
    model proposed in the paper "Learning to Reweight Terms with
