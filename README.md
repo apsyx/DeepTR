@@ -4,7 +4,7 @@
 
    This file contains instructions, data sets, and tools to run the
    model proposed in the paper "Learning to Reweight Terms with
-   Distributional Representations" (submitted to SIGIR 2015).
+   Distributional Representations" (published at SIGIR 2015).
 
 #### 1. Software dependencies:
    
