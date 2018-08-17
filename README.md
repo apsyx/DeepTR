@@ -1,8 +1,5 @@
 ## Code for "Learning to Reweight Terms with Distributional Representations"
 
-  Guoqing Zheng, 2015
-  ** Please report questions and bugs to gzheng@cs.cmu.edu **
-
 #### 0. Overview
 
    This file contains instructions, data sets, and tools to run the
@@ -89,3 +86,7 @@ If you use this code or our results in your research, please cite as appropriate
   organization={ACM}
 }
 ```
+
+Guoqing Zheng, 2015
+** Please report questions and bugs to gzheng@cs.cmu.edu **
+
