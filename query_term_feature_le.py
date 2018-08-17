@@ -55,12 +55,12 @@ if __name__ == '__main__':
                             jobname = ".jobs/"+jobstr+".job"
                             f = open(jobname, "w")
                             f.write("Universe = vanilla\n")
-                            f.write("initialdir = /bos/usr2/gzheng/TermRecall/src\n")
+                            f.write("initialdir = /bos/usr2/USERID/TermRecall/src\n")
                             f.write("executable = query_term_feature_gen\n")
                             if trecno <=4:
-                                f.write("arguments = " + str(qid) + " /bos/usr2/gzheng/Boolean/res/t" + str(trecno)+".okw.mu"+str(mu)+".res " + str(fbdoc) + " " + str(svddim) + " "+filename+"\n")
+                                f.write("arguments = " + str(qid) + " /bos/usr2/USERID/Boolean/res/t" + str(trecno)+".okw.mu"+str(mu)+".res " + str(fbdoc) + " " + str(svddim) + " "+filename+"\n")
                             else:
-                                f.write("arguments = " + str(qid) + " /bos/usr2/gzheng/Boolean/res/t" + str(trecno)+".okw.desc.mu"+str(mu)+".res " + str(fbdoc) + " " + str(svddim) + " "+filename+"\n")
+                                f.write("arguments = " + str(qid) + " /bos/usr2/USERID/Boolean/res/t" + str(trecno)+".okw.desc.mu"+str(mu)+".res " + str(fbdoc) + " " + str(svddim) + " "+filename+"\n")
                             f.write("output = .jobs/"+jobstr+".out\n")
                             f.write("log = .jobs/"+jobstr+".log\n")
                             f.write("error = .jobs/"+jobstr+".err\n")

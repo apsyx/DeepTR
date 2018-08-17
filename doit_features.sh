@@ -22,8 +22,8 @@ vectors=("trec7")
 # "wt10g" "gov2" "clueweb100" "clueweb300" "clueweb500" "google300")
 
 # model locations
-models=("/bos/tmp17/gzheng/trec7-300.bin")
-# "/bos/tmp17/gzheng/wt10g-300.bin" "/bos/tmp17/gzheng/gov2-new-300.bin" "/bos/tmp17/gzheng/clueweb09b-new-100.bin" "/bos/tmp17/gzheng/clueweb09b-new-300.bin" "/bos/tmp17/gzheng/clueweb09b-new-500.bin" "/bos/usr0/gzheng/TermRecall/src/word2vec/GoogleNews-vectors-negative300.bin")
+models=("/bos/tmp17/USERID/trec7-300.bin")
+# "/bos/tmp17/USERID/wt10g-300.bin" "/bos/tmp17/USERID/gov2-new-300.bin" "/bos/tmp17/USERID/clueweb09b-new-100.bin" "/bos/tmp17/USERID/clueweb09b-new-300.bin" "/bos/tmp17/USERID/clueweb09b-new-500.bin" "/bos/usr0/USERID/TermRecall/src/word2vec/GoogleNews-vectors-negative300.bin")
 
 # dimensions of word vectors
 dims=(300 300 300 100 300 500 300)

@@ -12,8 +12,8 @@
 PYTHON27='/opt/python27/bin/python2.7'
 MATLAB='/opt/matlab/7.13/bin/matlab'
 
-INDRIRUNQUERY='/bos/usr0/gzheng/.local/bin/IndriRunQuery'
-DUMPINDEX = '/bos/usr0/gzheng/.local/bin/dumpindex'
-INDICES_PREFIX='/bos/tmp17/gzheng/trec'
+INDRIRUNQUERY='/bos/usr0/USERID/.local/bin/IndriRunQuery'
+DUMPINDEX = '/bos/usr0/USERID/.local/bin/dumpindex'
+INDICES_PREFIX='/bos/tmp17/USERID/trec'
 
 HAS_CONDOR = True
